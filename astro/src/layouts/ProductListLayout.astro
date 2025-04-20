@@ -2,6 +2,7 @@
 import { GlobalStats } from "../components/GlobalStats";
 import { Header } from "../components/Header";
 import { PlatformFilter } from "../components/PlatformFilter";
+import { OpenSourceFilter } from "../components/OpenSourceFilter";
 import Layout from "./Layout.astro";
 ---
 
@@ -11,6 +12,7 @@ import Layout from "./Layout.astro";
     <div class="flex h-full space-x-2">
         <div class="w-[300px]">
             <PlatformFilter client:only />
+            <OpenSourceFilter client:only />
         </div>
         <div class="grow">
             <slot />
