@@ -5,6 +5,21 @@
     "description": "",
     "website": "https://www.brightsign.biz/",
     "headquarters": "USA",
+    "open_source": false,
+    "supported_platforms": [
+      "BrightSign"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "subscriptions": [
+        {
+          "name": "bsn.Control",
+          "monthly": null,
+          "yearly": 139
+        }
+      ]
+    },
     "stats": {
       "screens": {
         "total": 500000,
@@ -19,10 +34,65 @@
     "description": "",
     "website": "https://www.poppulo.com/",
     "headquarters": "USA",
+    "open_source": false,
+    "supported_platforms": [
+      "Windows",
+      "Android",
+      "WebOS",
+      "Tizen",
+      "BrightSign",
+      "Amazon Signage"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
     "stats": {
       "screens": {
         "total": 500000,
         "source": "https://www.poppulo.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "xibo",
+    "name": "Xibo",
+    "description": "",
+    "website": "https://xibosignage.com/",
+    "headquarters": "United Kingdom",
+    "notes": [
+      "Android, Tizen and webOS players are closed-source, commercial products."
+    ],
+    "open_source": true,
+    "supported_platforms": [
+      "Windows",
+      "Android",
+      "WebOS",
+      "Tizen",
+      "Linux",
+      "ChromeOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "subscriptions": [
+        {
+          "name": "Self-Hosted",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Cloud Professional",
+          "monthly": 4.9,
+          "yearly": 58.8
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 306000,
+        "source": "https://xibosignage.com/",
         "date": "2025-04"
       }
     }
