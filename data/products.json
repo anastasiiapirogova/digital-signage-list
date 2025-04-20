@@ -228,7 +228,7 @@
       "Not fully digital signage software, but a content provider. Can be used in conjunction with other software."
     ],
     "supported_platforms": [
-      "Web"
+      "Web Browser"
     ],
     "pricing": {
       "free_trial": false,
