@@ -1,0 +1,14 @@
+{
+    "id": "poppulo",
+    "name": "Poppulo",
+    "description": "",
+    "website": "https://www.poppulo.com/",
+    "headquarters": "USA",
+    "stats": {
+        "screens": {
+            "total": 500000,
+            "source": "https://www.poppulo.com/",
+            "date": "2025-04"
+        }
+    }
+}

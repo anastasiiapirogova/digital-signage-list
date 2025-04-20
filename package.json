@@ -1,0 +1,16 @@
+{
+  "name": "digital-signage-list",
+  "version": "1.0.0",
+  "description": "A curated list of digital signage software, platforms, and tools.",
+  "homepage": "https://github.com/514sid/digital-signage-list#readme",
+  "bugs": {
+    "url": "https://github.com/514sid/digital-signage-list/issues"
+  },
+  "author": "514sid",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "merge-products": "node automation/mergeProducts.js"
+  }
+}
