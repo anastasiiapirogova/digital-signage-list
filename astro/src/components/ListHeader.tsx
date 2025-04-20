@@ -10,6 +10,9 @@ export const ListHeader = () => {
             <div className="w-[200px] flex items-center">
                 HQ
             </div>
+            <div className="w-[100px] flex items-center">
+                Trial
+            </div>
         </div>
     );
 };

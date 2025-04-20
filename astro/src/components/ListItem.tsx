@@ -1,9 +1,10 @@
+import { TbCheck, TbX } from "react-icons/tb";
 import type { Product } from "./types";
 
 const Screens = ({ product }: { product: Product }) => {
     if (product.stats.screens) {
         return (
-            <div className="w-[200px] flex items-center">
+            <div className="w-[200px] flex items-center font-mono">
                 {product.stats.screens.total}
             </div>
         );
@@ -23,6 +24,17 @@ export const ListItem = ({ product }: { product: Product }) => {
             <Screens product={product}/>
             <div className="w-[200px] flex items-center">
                 {product.headquarters}
+            </div>
+            <div className="w-[100px] flex items-center">
+                { product.pricing.free_trial ? (
+                    <div className="text-green-500 w-[200px] flex items-center">
+                        <TbCheck size={20} />
+                    </div>
+                ): (
+                    <div className="text-gray-500 w-[200px] flex items-center">
+                        <TbX size={20} />
+                    </div>
+                )}
             </div>
         </div>
     );
