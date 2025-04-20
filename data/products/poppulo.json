@@ -4,6 +4,19 @@
     "description": "",
     "website": "https://www.poppulo.com/",
     "headquarters": "USA",
+    "open_source": false,
+    "supported_platforms": [
+        "Windows",
+        "Android",
+        "WebOS",
+        "Tizen",
+        "BrightSign",
+        "Amazon Signage"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
     "stats": {
         "screens": {
             "total": 500000,

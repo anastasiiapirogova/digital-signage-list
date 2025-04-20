@@ -1,0 +1,42 @@
+{
+    "id": "xibo",
+    "name": "Xibo",
+    "description": "",
+    "website": "https://xibosignage.com/",
+    "headquarters": "United Kingdom",
+    "notes": [
+        "Android, Tizen and webOS players are closed-source, commercial products."
+    ],
+    "open_source": true,
+    "supported_platforms": [
+        "Windows",
+        "Android",
+        "WebOS",
+        "Tizen",
+        "Linux",
+        "ChromeOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "subscriptions": [
+            {
+                "name": "Self-Hosted",
+                "monthly": 0,
+                "yearly": 0
+            },
+            {
+                "name": "Cloud Professional",
+                "monthly": 4.90,
+                "yearly": 58.80
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 306000,
+            "source": "https://xibosignage.com/",
+            "date": "2025-04"
+        }
+    }
+}
