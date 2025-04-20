@@ -1,0 +1,19 @@
+---
+import { GlobalStats } from "../components/GlobalStats";
+import { Header } from "../components/Header";
+import { PlatformFilter } from "../components/PlatformFilter";
+import Layout from "./Layout.astro";
+---
+
+<Layout>
+    <Header />
+	<GlobalStats />
+    <div class="flex h-full space-x-2">
+        <div class="w-[300px]">
+            <PlatformFilter client:only />
+        </div>
+        <div class="grow">
+            <slot />
+        </div>
+    </div>
+</Layout>

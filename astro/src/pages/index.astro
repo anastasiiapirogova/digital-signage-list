@@ -1,14 +1,10 @@
 ---
 import { List } from '../components/List';
 import { ListHeader } from '../components/ListHeader';
-import { Header } from '../components/Header';
-import Layout from '../layouts/Layout.astro';
-import { GlobalStats } from '../components/GlobalStats';
+import ProductListLayout from '../layouts/ProductListLayout.astro';
 ---
 
-<Layout>
-	<Header />
-	<GlobalStats />
-	<ListHeader />
-	<List />
-</Layout>
+<ProductListLayout>
+	<ListHeader client:only/>
+	<List client:only/>
+</ProductListLayout>
