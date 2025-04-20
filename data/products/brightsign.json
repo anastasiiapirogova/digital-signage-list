@@ -5,6 +5,7 @@
     "website": "https://www.brightsign.biz/",
     "headquarters": "USA",
     "open_source": false,
+    "self_signup": true,
     "supported_platforms": [
         "BrightSign"
     ],

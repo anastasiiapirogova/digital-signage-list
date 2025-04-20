@@ -8,6 +8,7 @@
         "Android, Tizen and webOS players are closed-source, commercial products."
     ],
     "open_source": true,
+    "self_signup": true,
     "supported_platforms": [
         "Windows",
         "Android",

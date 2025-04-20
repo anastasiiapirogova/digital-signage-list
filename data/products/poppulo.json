@@ -5,6 +5,7 @@
     "website": "https://www.poppulo.com/",
     "headquarters": "USA",
     "open_source": false,
+    "self_signup": false,
     "supported_platforms": [
         "Windows",
         "Android",

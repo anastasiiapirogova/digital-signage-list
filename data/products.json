@@ -6,6 +6,7 @@
     "website": "https://www.brightsign.biz/",
     "headquarters": "USA",
     "open_source": false,
+    "self_signup": true,
     "supported_platforms": [
       "BrightSign"
     ],
@@ -35,6 +36,7 @@
     "website": "https://www.poppulo.com/",
     "headquarters": "USA",
     "open_source": false,
+    "self_signup": false,
     "supported_platforms": [
       "Windows",
       "Android",
@@ -65,6 +67,7 @@
       "Android, Tizen and webOS players are closed-source, commercial products."
     ],
     "open_source": true,
+    "self_signup": true,
     "supported_platforms": [
       "Windows",
       "Android",
