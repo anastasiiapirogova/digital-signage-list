@@ -4,7 +4,7 @@ export const filterProducts = (products: Product[], filters: Record<string, stri
     const filteredProducts = products.filter((product) => {
         const platforms = filters.platform;
 
-        if (platforms && !product.supported_platforms.some((platform) => platforms.split(",").includes(platform))) {
+        if (platforms && !platforms.split(",").every((platform) => product.supported_platforms.includes(platform))) {
             return false;
         }
 
