@@ -10,17 +10,17 @@
     "open_source": true,
     "self_signup": true,
     "supported_platforms": [
-        "Windows",
         "Android",
-        "WebOS",
-        "Tizen",
+        "ChromeOS",
         "Linux",
-        "ChromeOS"
+        "Tizen",
+        "WebOS",
+        "Windows"
     ],
     "pricing": {
         "free_trial": true,
         "pricing_available": true,
-        "subscriptions": [
+        "plans": [
             {
                 "name": "Self-Hosted",
                 "monthly": 0,

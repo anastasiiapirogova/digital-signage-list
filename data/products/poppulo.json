@@ -7,12 +7,12 @@
     "open_source": false,
     "self_signup": false,
     "supported_platforms": [
-        "Windows",
+        "Amazon Signage",
         "Android",
-        "WebOS",
-        "Tizen",
         "BrightSign",
-        "Amazon Signage"
+        "Tizen",
+        "WebOS",
+        "Windows"
     ],
     "pricing": {
         "free_trial": false,

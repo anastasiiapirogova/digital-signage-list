@@ -13,7 +13,7 @@
     "pricing": {
       "free_trial": true,
       "pricing_available": true,
-      "subscriptions": [
+      "plans": [
         {
           "name": "bsn.Control",
           "monthly": null,
@@ -79,7 +79,7 @@
     "pricing": {
       "free_trial": true,
       "pricing_available": true,
-      "subscriptions": [
+      "plans": [
         {
           "name": "Self-Hosted",
           "monthly": 0,
@@ -122,7 +122,7 @@
     "pricing": {
       "free_trial": true,
       "pricing_available": true,
-      "subscriptions": [
+      "plans": [
         {
           "name": "Single Screen Account",
           "monthly": 0,

@@ -1,20 +1,20 @@
 {
-    "id": "yodeck",
-    "name": "Yodeck",
+    "id": "posterbooking",
+    "name": "Posterbooking",
     "description": "",
-    "website": "https://www.yodeck.com/",
+    "website": "https://posterbooking.com/",
     "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
+    "notes": [
+        "We mention a minimum of 35000 connected screens based on customer count, but the actual number could be significantly higher."
+    ],
     "supported_platforms": [
         "Amazon Signage",
         "Android",
-        "BrightSign",
         "FireOS",
         "Linux",
-        "Tizen",
-        "Web Browser",
-        "WebOS",
+        "MacOS",
         "Windows"
     ],
     "pricing": {
@@ -23,21 +23,16 @@
         "has_freemium": true,
         "plans": [
             {
-                "name": "Single Screen Account",
-                "monthly": 0,
-                "yearly": 0
-            },
-            {
-                "name": "Basic",
-                "monthly": 8,
+                "name": "Home Basic",
+                "monthly": 6.49,
                 "yearly": null
             }
         ]
     },
     "stats": {
         "screens": {
-            "total": 180000,
-            "source": "https://www.yodeck.com/",
+            "total": 35000,
+            "source": "https://posterbooking.com/",
             "date": "2025-04"
         }
     }

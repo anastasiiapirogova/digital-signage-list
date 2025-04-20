@@ -1,43 +1,38 @@
 {
-    "id": "yodeck",
-    "name": "Yodeck",
+    "id": "rise-vision",
+    "name": "Rise Vision",
     "description": "",
-    "website": "https://www.yodeck.com/",
-    "headquarters": "USA",
+    "website": "https://www.risevision.com/",
+    "headquarters": "Canada",
     "open_source": false,
     "self_signup": true,
     "supported_platforms": [
         "Amazon Signage",
         "Android",
-        "BrightSign",
+        "ChromeOS",
         "FireOS",
         "Linux",
         "Tizen",
         "Web Browser",
         "WebOS",
-        "Windows"
+        "Windows",
+        "tvOS"
     ],
     "pricing": {
         "free_trial": true,
         "pricing_available": true,
-        "has_freemium": true,
         "plans": [
             {
-                "name": "Single Screen Account",
-                "monthly": 0,
-                "yearly": 0
-            },
-            {
                 "name": "Basic",
-                "monthly": 8,
-                "yearly": null
+                "monthly": 12,
+                "yearly": 132
             }
         ]
     },
     "stats": {
         "screens": {
-            "total": 180000,
-            "source": "https://www.yodeck.com/",
+            "total": 60892,
+            "source": "https://www.risevision.com/",
             "date": "2025-04"
         }
     }
