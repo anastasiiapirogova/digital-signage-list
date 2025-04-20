@@ -1,5 +1,42 @@
 [
   {
+    "id": "admira",
+    "name": "Admira",
+    "description": "",
+    "website": "https://admira.com/en/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2006,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "iOS",
+      "Linux",
+      "Tizen",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Admira Basic",
+          "monthly": 17,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 40000,
+        "source": "https://admira.com/en/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "brightsign",
     "name": "BrightSign",
     "description": "",
@@ -7,6 +44,7 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
+    "year_founded": 2002,
     "supported_platforms": [
       "BrightSign"
     ],
@@ -37,13 +75,14 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": false,
+    "year_founded": 1996,
     "supported_platforms": [
-      "Windows",
+      "Amazon Signage",
       "Android",
-      "WebOS",
-      "Tizen",
       "BrightSign",
-      "Amazon Signage"
+      "Tizen",
+      "WebOS",
+      "Windows"
     ],
     "pricing": {
       "free_trial": false,
@@ -58,23 +97,177 @@
     }
   },
   {
+    "id": "posterbooking",
+    "name": "Posterbooking",
+    "description": "",
+    "website": "https://posterbooking.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [
+      "We mention a minimum of 35000 connected screens based on customer count, but the actual number could be significantly higher."
+    ],
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "FireOS",
+      "Linux",
+      "MacOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Home Basic",
+          "monthly": 6.49,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 35000,
+        "source": "https://posterbooking.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "rise-vision",
+    "name": "Rise Vision",
+    "description": "",
+    "website": "https://www.risevision.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 1992,
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "ChromeOS",
+      "FireOS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "WebOS",
+      "Windows",
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 12,
+          "yearly": 132
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 60892,
+        "source": "https://www.risevision.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "screencloud",
+    "name": "ScreenCloud",
+    "description": "",
+    "website": "https://screencloud.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2015,
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "ChromeOS",
+      "FireOS",
+      "MacOS",
+      "Tizen",
+      "Web Browser",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Core",
+          "monthly": 24,
+          "yearly": 240
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 100000,
+        "source": "https://dreamdata.io/blog/success-story-screencloud",
+        "date": "2023-12"
+      }
+    }
+  },
+  {
+    "id": "screenfeed",
+    "name": "Screenfeed",
+    "description": "",
+    "website": "https://www.screenfeed.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 1999,
+    "notes": [
+      "Not fully digital signage software, but a content provider. Can be used in conjunction with other software."
+    ],
+    "supported_platforms": [
+      "Web"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Connect",
+          "monthly": 8,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 150000,
+        "source": "https://www.screenfeed.com/why-screenfeed-content",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "xibo",
     "name": "Xibo",
     "description": "",
     "website": "https://xibosignage.com/",
     "headquarters": "United Kingdom",
+    "year_founded": 2004,
     "notes": [
       "Android, Tizen and webOS players are closed-source, commercial products."
     ],
     "open_source": true,
     "self_signup": true,
     "supported_platforms": [
-      "Windows",
       "Android",
-      "WebOS",
-      "Tizen",
+      "ChromeOS",
       "Linux",
-      "ChromeOS"
+      "Tizen",
+      "WebOS",
+      "Windows"
     ],
     "pricing": {
       "free_trial": true,
@@ -108,20 +301,22 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
+    "year_founded": 2014,
     "supported_platforms": [
-      "Windows",
-      "Android",
-      "Linux",
-      "WebOS",
-      "Tizen",
-      "FireOS",
-      "Web Browser",
       "Amazon Signage",
-      "BrightSign"
+      "Android",
+      "BrightSign",
+      "FireOS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "WebOS",
+      "Windows"
     ],
     "pricing": {
       "free_trial": true,
       "pricing_available": true,
+      "has_freemium": true,
       "plans": [
         {
           "name": "Single Screen Account",

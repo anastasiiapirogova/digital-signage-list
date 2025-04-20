@@ -6,6 +6,7 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
+    "year_founded": 2002,
     "supported_platforms": [
         "BrightSign"
     ],

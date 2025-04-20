@@ -6,6 +6,7 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
+    "year_founded": 2015,
     "supported_platforms": [
         "Amazon Signage",
         "Android",
