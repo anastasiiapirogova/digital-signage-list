@@ -10,6 +10,7 @@ export type Product = {
     headquarters: string;
     open_source: boolean;
     pricing: Pricing,
+    year_founded: number;
     supported_platforms: string[];
     stats: {
         screens?: {
