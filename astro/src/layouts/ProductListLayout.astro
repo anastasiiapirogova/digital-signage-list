@@ -10,7 +10,7 @@ import Layout from "./Layout.astro";
     <Header />
 	<GlobalStats />
     <div class="flex h-full space-x-2">
-        <div class="w-[300px]">
+        <div class="w-[300px] mb-20 flex flex-col gap-5">
             <PlatformFilter client:only />
             <OpenSourceFilter client:only />
         </div>
