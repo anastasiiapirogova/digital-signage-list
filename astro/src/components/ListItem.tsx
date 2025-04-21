@@ -5,12 +5,12 @@ const Screens = ({ product }: { product: Product }) => {
     if (product.stats.screens) {
         return (
             <div className="w-[200px] flex items-center font-mono">
-                {product.stats.screens.total}
+                {product.stats.screens.total.toLocaleString()}
             </div>
         );
     } else {
         return (
-            <div className="text-gray-500 w-[200px] flex items-center">N/A</div>
+            <div className="text-gray-500 w-[200px] flex items-center font-mono">N/A</div>
         );
     }
 }
