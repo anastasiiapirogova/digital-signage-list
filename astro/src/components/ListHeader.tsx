@@ -1,6 +1,6 @@
 export const ListHeader = () => {
     return (
-        <div className="flex w-full font-mono h-12">
+        <div className="flex w-full font-mono h-12 sticky top-0 bg-white z-10 border-b border-gray-200">
             <div className="flex-grow flex items-center">
                 Name
             </div>
