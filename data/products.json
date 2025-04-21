@@ -9,7 +9,7 @@
     "self_signup": false,
     "year_founded": 2004,
     "supported_platforms": [
-      "MacOS",
+      "macOS",
       "Linux",
       "Windows"
     ],
@@ -539,7 +539,7 @@
       "ChromeOS",
       "FireOS",
       "Linux",
-      "MacOS",
+      "macOS",
       "Tizen",
       "Windows",
       "iOS",
@@ -652,7 +652,7 @@
       "Android",
       "FireOS",
       "Linux",
-      "MacOS",
+      "macOS",
       "Windows"
     ],
     "pricing": {
@@ -754,7 +754,7 @@
       "Android",
       "ChromeOS",
       "FireOS",
-      "MacOS",
+      "macOS",
       "Tizen",
       "Web Browser",
       "webOS",
@@ -932,7 +932,7 @@
     "supported_platforms": [
       "Android",
       "ChromeOS",
-      "MacOS",
+      "macOS",
       "iOS",
       "Linux",
       "Web Browser",

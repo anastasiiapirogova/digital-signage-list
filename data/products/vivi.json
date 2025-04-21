@@ -13,7 +13,7 @@
     "supported_platforms": [
         "Android",
         "ChromeOS",
-        "MacOS",
+        "macOS",
         "iOS",
         "Linux",
         "Web Browser",

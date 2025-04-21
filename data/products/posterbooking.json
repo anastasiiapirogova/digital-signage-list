@@ -15,7 +15,7 @@
         "Android",
         "FireOS",
         "Linux",
-        "MacOS",
+        "macOS",
         "Windows"
     ],
     "pricing": {
