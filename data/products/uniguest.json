@@ -1,0 +1,25 @@
+{
+    "id": "uniguest",
+    "name": "Uniguest",
+    "description": "",
+    "website": "https://uniguest.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2006,
+    "supported_platforms": [
+        "Linux",
+        "Windows"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 500000,
+            "source": "https://uniguest.com/digital-signage/",
+            "date": "2025-04"
+        }
+    }
+}

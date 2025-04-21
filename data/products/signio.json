@@ -1,0 +1,24 @@
+{
+    "id": "signio",
+    "name": "Signio",
+    "description": "",
+    "website": "https://nanovo.pl",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "supported_platforms": [
+        ""
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 120000,
+            "source": "https://nanovo.group/",
+            "date": "2025-04"
+        }
+    }
+}

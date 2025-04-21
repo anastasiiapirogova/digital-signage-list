@@ -1,5 +1,31 @@
 [
   {
+    "id": "acrelec",
+    "name": "Acrelec",
+    "description": "",
+    "website": "https://acrelec.com/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "supported_platforms": [
+      "MacOS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 80000,
+        "source": "https://acrelec.com/about/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "admira",
     "name": "Admira",
     "description": "",
@@ -37,6 +63,35 @@
     }
   },
   {
+    "id": "atmospheretv",
+    "name": "AtmosphereTV",
+    "description": "",
+    "website": "https://www.atmosphere.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1993,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Linux",
+      "Tizen",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 60000,
+        "source": "https://www.atmosphere.tv/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "brightsign",
     "name": "BrightSign",
     "description": "",
@@ -64,6 +119,132 @@
         "total": 500000,
         "source": "https://invidis.com/news/2024/01/broadsign-ceo-smith-the-most-fun-ive-had-in-my-life/",
         "date": "2024-01"
+      }
+    }
+  },
+  {
+    "id": "broadsign",
+    "name": "Broadsign",
+    "description": "",
+    "website": "https://broadsign.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2003,
+    "supported_platforms": [
+      "BrightSign",
+      "Tizen",
+      "WebOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 1500000,
+        "source": "https://broadsign.com/our-story/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "denevads",
+    "name": "DenevaDS",
+    "description": "",
+    "website": "https://www.denevads.es/en/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1993,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Linux",
+      "Tizen",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 40000,
+        "source": "https://www.denevads.es/en/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "mvix",
+    "name": "Mvix",
+    "description": "",
+    "website": "https://mvix.com/",
+    "headquarters": "USA",
+    "year_founded": 2005,
+    "notes": [
+      "Perpetual license of hardware and/or software starting at $350 - no ongoing fees or monthly subsciption"
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Windows",
+      "iOS",
+      "Android",
+      "ChromeOS",
+      "Linux"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Flex Standard",
+          "monthly": 20,
+          "yearly": null
+        },
+        {
+          "name": "Flex Pro",
+          "monthly": 30,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 75000,
+        "source": "https://mvix.com/about-us/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "nsigntv",
+    "name": "Nsigntv",
+    "description": "",
+    "website": "https://info.nsign.tv/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2007,
+    "supported_platforms": [
+      "Android",
+      "Linux",
+      "Tizen",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://blog.nsign.tv/en/nsign.tv-named-a-2023-digital-signage-experience-awards-dizzie-finalist",
+        "date": "2023-10"
       }
     }
   },
@@ -177,6 +358,31 @@
     }
   },
   {
+    "id": "scala",
+    "name": "Scala",
+    "description": "",
+    "website": "https://scala.com",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1987,
+    "supported_platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 3100000,
+        "source": "https://scala.com",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "screencloud",
     "name": "ScreenCloud",
     "description": "",
@@ -245,6 +451,145 @@
       "screens": {
         "total": 150000,
         "source": "https://www.screenfeed.com/why-screenfeed-content",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "signio",
+    "name": "Signio",
+    "description": "",
+    "website": "https://nanovo.pl",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "supported_platforms": [
+      ""
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 120000,
+        "source": "https://nanovo.group/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "spectrio",
+    "name": "Spectrio",
+    "description": "",
+    "website": "https://www.spectrio.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2002,
+    "notes": [
+      "Total screens number based on global locations powered provided"
+    ],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "iOS",
+      "Tizen",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 150000,
+        "source": "https://www.spectrio.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "stratacache",
+    "name": "Stratacache",
+    "description": "",
+    "website": "https://www.stratacache.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1997,
+    "supported_platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 4000000,
+        "source": "https://www.stratacache.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "uniguest",
+    "name": "Uniguest",
+    "description": "",
+    "website": "https://uniguest.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2006,
+    "supported_platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 500000,
+        "source": "https://uniguest.com/digital-signage/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "vivi",
+    "name": "Vivi",
+    "description": "",
+    "website": "https://www.vivi.io/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [
+      "Total sceens number based on the number of classrooms provided"
+    ],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "MacOS",
+      "iOS",
+      "Linux",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 120000,
+        "source": "https://www.vivi.io/",
         "date": "2025-04"
       }
     }

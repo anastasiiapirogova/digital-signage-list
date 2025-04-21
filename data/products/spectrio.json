@@ -1,0 +1,32 @@
+{
+    "id": "spectrio",
+    "name": "Spectrio",
+    "description": "",
+    "website": "https://www.spectrio.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2002,
+    "notes": [
+        "Total screens number based on global locations powered provided"
+    ],
+    "supported_platforms": [
+        "Android",
+        "BrightSign",
+        "iOS", 
+        "Tizen",
+        "WebOS",
+        "Windows"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 150000,
+            "source": "https://www.spectrio.com/",
+            "date": "2025-04"
+        }
+    }
+}

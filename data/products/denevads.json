@@ -1,0 +1,29 @@
+{
+    "id": "denevads",
+    "name": "DenevaDS",
+    "description": "",
+    "website": "https://www.denevads.es/en/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1993,
+    "supported_platforms": [
+        "Android",
+        "BrightSign",
+        "Linux",
+        "Tizen",
+        "WebOS",
+        "Windows"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 40000,
+            "source": "https://www.denevads.es/en/",
+            "date": "2025-04"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "nsigntv",
+    "name": "Nsigntv",
+    "description": "",
+    "website": "https://info.nsign.tv/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2007,
+    "supported_platforms": [
+        "Android",
+        "Linux",
+        "Tizen",
+        "WebOS",
+        "Windows"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 50000,
+            "source": "https://blog.nsign.tv/en/nsign.tv-named-a-2023-digital-signage-experience-awards-dizzie-finalist",
+            "date": "2023-10"
+        }
+    }
+}
