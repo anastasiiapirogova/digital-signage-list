@@ -464,9 +464,7 @@
     "open_source": false,
     "self_signup": false,
     "year_founded": 2013,
-    "supported_platforms": [
-      ""
-    ],
+    "supported_platforms": [],
     "pricing": {
       "free_trial": false,
       "pricing_available": false
