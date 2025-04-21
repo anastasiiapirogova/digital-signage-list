@@ -13,7 +13,7 @@
     "supported_platforms": [
         "Amazon Signage",
         "Android",
-        "FireOS",
+        "Fire OS",
         "Linux",
         "macOS",
         "Windows"
