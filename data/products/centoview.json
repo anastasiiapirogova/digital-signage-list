@@ -1,0 +1,26 @@
+{
+    "id": "centoview",
+    "name": "Centoview",
+    "description": "",
+    "website": "https://www.centoview.com/",
+    "headquarters": "Belgium",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2006,
+    "supported_platforms": [
+        "Tizen",
+        "Linux",
+        "webOS"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 35000,
+            "source": "https://www.centoview.com/",
+            "date": "2025-04"
+        }
+    }
+}

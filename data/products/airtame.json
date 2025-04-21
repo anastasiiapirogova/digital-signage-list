@@ -1,0 +1,27 @@
+{
+    "id": "airtame",
+    "name": "Airtame",
+    "description": "",
+    "website": "https://airtame.com/digital-signage/",
+    "headquarters": "Denmark",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [
+        "The number of screens is based on 10,000 organizations using Airtame"
+    ],
+    "supported_platforms": [
+        "Web Browser"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 10000,
+            "source": "https://airtame.com/digital-signage/",
+            "date": "2025-04"
+        }
+    }
+}

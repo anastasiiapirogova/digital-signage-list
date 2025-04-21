@@ -1,0 +1,31 @@
+{
+    "id": "playipp",
+    "name": "PLAYipp",
+    "description": "",
+    "website": "https://playipp.com/digital-signage/",
+    "headquarters": "Sweden",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2006,
+    "supported_platforms": [
+        "webOS"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": true,
+        "plans": [
+            {
+                "name": "PLAYipp digital signage platform",
+                "monthly": 27,
+                "yearly": null
+            }
+    ]
+    },
+    "stats": {
+        "screens": {
+            "total": 22000,
+            "source": "",
+            "date": "2025-04"
+        }
+    }
+}

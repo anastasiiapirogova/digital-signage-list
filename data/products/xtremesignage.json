@@ -1,0 +1,25 @@
+{
+    "id": "xtremesignage",
+    "name": "XtremeSignage",
+    "description": "",
+    "website": "https://www.xtreme-media.com/products/digital-signage",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "supported_platforms": [
+        "Android",
+        "Windows"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false
+    },
+    "stats": {
+        "screens": {
+            "total": 25000,
+            "source": "https://www.xtreme-media.com/products/digital-signage",
+            "date": "2025-04"
+        }
+    }
+}
