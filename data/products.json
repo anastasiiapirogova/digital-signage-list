@@ -957,6 +957,45 @@
     }
   },
   {
+    "id": "q-play",
+    "name": "Q-play",
+    "description": "",
+    "website": "https://nordicscreen.com/digital-signage/",
+    "headquarters": "Denmark",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [
+      "The screen count is based on the number of customers. The actual screen count may vary."
+    ],
+    "supported_platforms": [
+      "Android",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Lite",
+          "monthly": 13.8,
+          "yearly": 138
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 5000,
+        "source": "https://nordicscreen.com/digital-signage/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "reach",
     "name": "Reach",
     "description": "",
@@ -1120,6 +1159,79 @@
       "screens": {
         "total": 150000,
         "source": "https://www.screenfeed.com/why-screenfeed-content",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "screenly",
+    "name": "Screenly",
+    "description": "",
+    "website": "https://www.screenly.io/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser",
+      "Screenly Player"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": 13,
+          "yearly": 132
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://www.screenly.io/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "screenmanager",
+    "name": "ScreenManager",
+    "description": "",
+    "website": "https://screenmanager.tech/",
+    "headquarters": "Czech Republic",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 8,
+          "yearly": 72
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 9345,
+        "source": "https://screenmanager.tech/",
         "date": "2025-04"
       }
     }

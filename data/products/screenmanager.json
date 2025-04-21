@@ -1,0 +1,39 @@
+{
+    "id": "screenmanager",
+    "name": "ScreenManager",
+    "description": "",
+    "website": "https://screenmanager.tech/",
+    "headquarters": "Czech Republic",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+        "Android",
+        "ChromeOS",
+        "Linux",
+        "Tizen",
+        "Web Browser",
+        "Windows",
+        "webOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "Business",
+                "monthly": 8,
+                "yearly": 72
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 9345,
+            "source": "https://screenmanager.tech/",
+            "date": "2025-04"
+        }
+    }
+}
