@@ -15,7 +15,7 @@
         "BrightSign",
         "iOS", 
         "Tizen",
-        "WebOS",
+        "webOS",
         "Windows"
     ],
     "pricing": {

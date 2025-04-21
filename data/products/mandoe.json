@@ -1,36 +1,34 @@
 {
-    "id": "admira",
-    "name": "Admira",
+    "id": "mandoe",
+    "name": "Mandoe",
     "description": "",
-    "website": "https://admira.com/en/",
-    "headquarters": "Spain",
+    "website": "https://mandoemedia.com/",
+    "headquarters": "Australia",
     "open_source": false,
     "self_signup": true,
-    "year_founded": 2006,
+    "year_founded": 2012,
+    "notes": [],
     "supported_platforms": [
-        "Android",
-        "ChromeOS",
-        "iOS",
         "Linux",
-        "Tizen",
-        "webOS",
+        "Web Browser",
         "Windows"
     ],
     "pricing": {
         "free_trial": true,
         "pricing_available": true,
+        "has_freemium": true,
         "plans": [
             {
-                "name": "Admira Basic",
-                "monthly": 17,
+                "name": "Basic",
+                "monthly": 14,
                 "yearly": null
             }
         ]
     },
     "stats": {
         "screens": {
-            "total": 40000,
-            "source": "https://admira.com/en/",
+            "total": 25000,
+            "source": "https://mandoemedia.com/",
             "date": "2025-04"
         }
     }

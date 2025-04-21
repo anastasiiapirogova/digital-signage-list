@@ -10,7 +10,7 @@
     "supported_platforms": [
         "BrightSign",
         "Tizen",
-        "WebOS"
+        "webOS"
     ],
     "pricing": {
         "free_trial": false,

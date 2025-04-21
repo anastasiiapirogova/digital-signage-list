@@ -40,7 +40,7 @@
       "iOS",
       "Linux",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -70,13 +70,13 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": false,
-    "year_founded": 1993,
+    "year_founded": 2019,
     "supported_platforms": [
       "Android",
       "BrightSign",
       "Linux",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -134,7 +134,7 @@
     "supported_platforms": [
       "BrightSign",
       "Tizen",
-      "WebOS"
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -144,6 +144,35 @@
       "screens": {
         "total": 1500000,
         "source": "https://broadsign.com/our-story/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "cenareo",
+    "name": "Cenareo",
+    "description": "",
+    "website": "https://www.cenareo.com/en",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Cenareo Player",
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://www.cenareo.com/fr/a-propos",
         "date": "2025-04"
       }
     }
@@ -162,7 +191,7 @@
       "BrightSign",
       "Linux",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -173,6 +202,213 @@
       "screens": {
         "total": 40000,
         "source": "https://www.denevads.es/en/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "displ",
+    "name": "Displ",
+    "description": "",
+    "website": "https://displ.com/",
+    "headquarters": "Cyprus",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [
+      "The screen count is based on the number of provided connected locations. The actual screen count may vary."
+    ],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Screen Management",
+          "monthly": null,
+          "yearly": 206
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 5000,
+        "source": "https://displ.com/about",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "friendlyway",
+    "name": "friendlyway",
+    "description": "",
+    "website": "https://www.friendlyway.com/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1998,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://www.friendlyway.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "fusion-signage",
+    "name": "Fusion Signage",
+    "description": "",
+    "website": "https://fusionsignage.com.au/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Linux",
+      "Tizen",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": null,
+          "yearly": 124
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 13000,
+        "source": "https://fusionsignage.com.au/our-story",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "look-ds",
+    "name": "Look Digital Signage",
+    "description": "",
+    "website": "https://www.lookdigitalsignage.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Windows",
+      "Linux",
+      "Mac OS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "1-5 Screens",
+          "monthly": 15,
+          "yearly": 162
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://www.lookdigitalsignage.com/about-us",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "loop-tv",
+    "name": "Loop TV",
+    "description": "",
+    "website": "https://ww3.loop.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Loop Player"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 22000,
+        "source": "https://ww3.loop.tv/advertisers",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "mandoe",
+    "name": "Mandoe",
+    "description": "",
+    "website": "https://mandoemedia.com/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 14,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://mandoemedia.com/",
         "date": "2025-04"
       }
     }
@@ -221,6 +457,43 @@
     }
   },
   {
+    "id": "novisign",
+    "name": "NoviSign",
+    "description": "",
+    "website": "https://www.novisign.com/",
+    "headquarters": "Israel",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 20,
+          "yearly": 216
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://www.novisign.com/about/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "nsigntv",
     "name": "Nsigntv",
     "description": "",
@@ -233,7 +506,7 @@
       "Android",
       "Linux",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -245,6 +518,91 @@
         "total": 50000,
         "source": "https://blog.nsign.tv/en/nsign.tv-named-a-2023-digital-signage-experience-awards-dizzie-finalist",
         "date": "2023-10"
+      }
+    }
+  },
+  {
+    "id": "pickcel",
+    "name": "Pickcel",
+    "description": "",
+    "website": "https://www.pickcel.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [
+      "The screen count is based on the number of provided connected locations. The actual screen count may vary."
+    ],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "FireOS",
+      "Linux",
+      "MacOS",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Professional",
+          "monthly": 15,
+          "yearly": 162
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 100000,
+        "source": "https://www.pickcel.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "playsignage",
+    "name": "PlaySignage",
+    "description": "",
+    "website": "https://playsignage.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "ChromeOS",
+      "FireOS",
+      "Linux",
+      "Mac OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Subscription",
+          "monthly": 18,
+          "yearly": 144
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 17000,
+        "source": "https://playsignage.com/",
+        "date": "2025-04"
       }
     }
   },
@@ -262,7 +620,7 @@
       "Android",
       "BrightSign",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -334,7 +692,7 @@
       "Linux",
       "Tizen",
       "Web Browser",
-      "WebOS",
+      "webOS",
       "Windows",
       "tvOS"
     ],
@@ -399,7 +757,7 @@
       "MacOS",
       "Tizen",
       "Web Browser",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -494,7 +852,7 @@
       "BrightSign",
       "iOS",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -609,7 +967,7 @@
       "ChromeOS",
       "Linux",
       "Tizen",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -653,7 +1011,7 @@
       "Linux",
       "Tizen",
       "Web Browser",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {

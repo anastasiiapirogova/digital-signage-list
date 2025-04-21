@@ -1,0 +1,27 @@
+{
+    "id": "loop-tv",
+    "name": "Loop TV",
+    "description": "",
+    "website": "https://ww3.loop.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+        "Loop Player"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false,
+        "plans": []
+    },
+    "stats": {
+        "screens": {
+            "total": 22000,
+            "source": "https://ww3.loop.tv/advertisers",
+            "date": "2025-04"
+        }
+    }
+}

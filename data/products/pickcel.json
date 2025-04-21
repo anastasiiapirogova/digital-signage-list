@@ -1,0 +1,44 @@
+{
+    "id": "pickcel",
+    "name": "Pickcel",
+    "description": "",
+    "website": "https://www.pickcel.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [
+        "The screen count is based on the number of provided connected locations. The actual screen count may vary."
+    ],
+    "supported_platforms": [
+        "Android",
+        "BrightSign",
+        "ChromeOS",
+        "FireOS",
+        "Linux",
+        "MacOS",
+        "Tizen",
+        "Windows",
+        "iOS",
+        "webOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "Professional",
+                "monthly": 15,
+                "yearly": 162
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 100000,
+            "source": "https://www.pickcel.com/",
+            "date": "2025-04"
+        }
+    }
+}

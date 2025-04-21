@@ -1,0 +1,29 @@
+{
+    "id": "cenareo",
+    "name": "Cenareo",
+    "description": "",
+    "website": "https://www.cenareo.com/en",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+        "Android",
+        "Cenareo Player",
+        "Tizen"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false,
+        "plans": []
+    },
+    "stats": {
+        "screens": {
+            "total": 25000,
+            "source": "https://www.cenareo.com/fr/a-propos",
+            "date": "2025-04"
+        }
+    }
+}

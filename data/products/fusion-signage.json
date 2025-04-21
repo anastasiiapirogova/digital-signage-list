@@ -1,39 +1,38 @@
 {
-    "id": "rise-vision",
-    "name": "Rise Vision",
+    "id": "fusion-signage",
+    "name": "Fusion Signage",
     "description": "",
-    "website": "https://www.risevision.com/",
-    "headquarters": "Canada",
+    "website": "https://fusionsignage.com.au/",
+    "headquarters": "Australia",
     "open_source": false,
     "self_signup": true,
-    "year_founded": 1992,
+    "year_founded": 2017,
+    "notes": [],
     "supported_platforms": [
-        "Amazon Signage",
         "Android",
+        "BrightSign",
         "ChromeOS",
-        "FireOS",
         "Linux",
         "Tizen",
-        "Web Browser",
-        "webOS",
-        "Windows",
-        "tvOS"
+        "WebOS",
+        "Windows"
     ],
     "pricing": {
         "free_trial": true,
         "pricing_available": true,
+        "has_freemium": false,
         "plans": [
             {
                 "name": "Basic",
-                "monthly": 12,
-                "yearly": 132
+                "monthly": null,
+                "yearly": 124
             }
         ]
     },
     "stats": {
         "screens": {
-            "total": 60892,
-            "source": "https://www.risevision.com/",
+            "total": 13000,
+            "source": "https://fusionsignage.com.au/our-story",
             "date": "2025-04"
         }
     }

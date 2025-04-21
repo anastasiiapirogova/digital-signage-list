@@ -1,0 +1,37 @@
+{
+    "id": "look-ds",
+    "name": "Look Digital Signage",
+    "description": "",
+    "website": "https://www.lookdigitalsignage.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+        "Android",
+        "Windows",
+        "Linux",
+        "Mac OS",
+        "webOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "1-5 Screens",
+                "monthly": 15,
+                "yearly": 162
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 25000,
+            "source": "https://www.lookdigitalsignage.com/about-us",
+            "date": "2025-04"
+        }
+    }
+}

@@ -1,39 +1,40 @@
 {
-    "id": "rise-vision",
-    "name": "Rise Vision",
+    "id": "playsignage",
+    "name": "PlaySignage",
     "description": "",
-    "website": "https://www.risevision.com/",
-    "headquarters": "Canada",
+    "website": "https://playsignage.com/",
+    "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
-    "year_founded": 1992,
+    "year_founded": 2013,
+    "notes": [],
     "supported_platforms": [
         "Amazon Signage",
         "Android",
         "ChromeOS",
         "FireOS",
         "Linux",
+        "Mac OS",
         "Tizen",
-        "Web Browser",
-        "webOS",
         "Windows",
-        "tvOS"
+        "webOS"
     ],
     "pricing": {
         "free_trial": true,
         "pricing_available": true,
+        "has_freemium": false,
         "plans": [
             {
-                "name": "Basic",
-                "monthly": 12,
-                "yearly": 132
+                "name": "Subscription",
+                "monthly": 18,
+                "yearly": 144
             }
         ]
     },
     "stats": {
         "screens": {
-            "total": 60892,
-            "source": "https://www.risevision.com/",
+            "total": 17000,
+            "source": "https://playsignage.com/",
             "date": "2025-04"
         }
     }
