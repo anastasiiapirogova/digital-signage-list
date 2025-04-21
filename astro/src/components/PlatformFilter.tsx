@@ -1,17 +1,15 @@
 import { useState, useEffect } from "react";
 import { products } from "../utils/products";
-import { setProductFilters } from "../utils/productFiltersStore";
+import { productFiltersStore, setProductFilters } from "../utils/productFiltersStore";
+import { useStore } from "@nanostores/react";
 
 export const PlatformFilter = () => {
+    const filters = useStore(productFiltersStore)
     const [selectedPlatforms, setSelectedPlatforms] = useState<string[]>([]);
 
     useEffect(() => {
-        const searchParams = new URLSearchParams(window.location.search);
-        const platforms = searchParams.get("platform");
-        if (platforms) {
-            setSelectedPlatforms(platforms.split(","));
-        }
-    }, []);
+        setSelectedPlatforms(filters.platform ? filters.platform.split(",") : []);
+    }, [filters]);
 
     const platformCounts = products.reduce((acc, product) => {
         product.supported_platforms.forEach(platform => {
@@ -35,6 +33,7 @@ export const PlatformFilter = () => {
         setSelectedPlatforms(updatedPlatforms);
 
         const searchParams = new URLSearchParams(window.location.search);
+
         if (updatedPlatforms.length > 0) {
             searchParams.set("platform", updatedPlatforms.join(","));
         } else {
@@ -47,9 +46,11 @@ export const PlatformFilter = () => {
             filters[key] = value;
         })
 
-        setProductFilters(filters)
+        setProductFilters(filters);
+
+        const newSearch = searchParams.toString();
         
-        window.history.replaceState(null, "", `?${searchParams.toString()}`);
+        window.history.replaceState(null, "", newSearch ? `?${newSearch}` : window.location.pathname);
     };
 
     return (

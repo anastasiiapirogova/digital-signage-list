@@ -1,9 +1,15 @@
 import { useState, useEffect } from "react";
-import { setProductFilters } from "../utils/productFiltersStore";
+import { productFiltersStore, setProductFilters } from "../utils/productFiltersStore";
 import { products } from "../utils/products";
+import { useStore } from "@nanostores/react";
 
 export const OpenSourceFilter = () => {
+    const filters = useStore(productFiltersStore)
     const [sourceType, setSourceType] = useState<string | null>(null);
+
+    useEffect(() => {
+        setSourceType(filters.open_source ? filters.open_source : "all");
+    }, [filters]);
 
     const allCount = products.length;
     const openSourceCount = products.filter(product => product.open_source === true).length;
@@ -30,12 +36,16 @@ export const OpenSourceFilter = () => {
         }
 
         const filters: Record<string, string> = {};
+
         searchParams.forEach((value, key) => {
             filters[key] = value;
         });
 
         setProductFilters(filters);
-        window.history.replaceState(null, "", `?${searchParams.toString()}`);
+
+        const newSearch = searchParams.toString();
+
+        window.history.replaceState(null, "", newSearch ? `?${newSearch}` : window.location.pathname);
     };
 
     return (
@@ -51,7 +61,7 @@ export const OpenSourceFilter = () => {
                         onChange={() => handleSourceTypeChange("all")}
                         className="form-radio h-4 w-4 text-blue-600"
                     />
-                    <span className="text-gray-700">All ({allCount})</span>
+                    <span className="text-gray-700">All {allCount}</span>
                 </label>
                 <label className="flex items-center space-x-2 cursor-pointer hover:bg-neutral-50 p-2">
                     <input
@@ -62,7 +72,7 @@ export const OpenSourceFilter = () => {
                         onChange={() => handleSourceTypeChange("true")}
                         className="form-radio h-4 w-4 text-blue-600"
                     />
-                    <span className="text-gray-700">Open Source ({openSourceCount})</span>
+                    <span className="text-gray-700">Open Source {openSourceCount}</span>
                 </label>
                 <label className="flex items-center space-x-2 cursor-pointer hover:bg-neutral-50 p-2">
                     <input
@@ -73,7 +83,7 @@ export const OpenSourceFilter = () => {
                         onChange={() => handleSourceTypeChange("false")}
                         className="form-radio h-4 w-4 text-blue-600"
                     />
-                    <span className="text-gray-700">Proprietary ({proprietaryCount})</span>
+                    <span className="text-gray-700">Proprietary {proprietaryCount}</span>
                 </label>
             </div>
         </div>
