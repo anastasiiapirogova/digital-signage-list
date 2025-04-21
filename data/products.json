@@ -188,8 +188,8 @@
     "year_founded": 2012,
     "notes": [],
     "supported_platforms": [
-      "Fire OS",
       "Android",
+      "Fire OS",
       "Cenareo Player",
       "Tizen"
     ],
@@ -243,8 +243,8 @@
     "self_signup": false,
     "year_founded": 2013,
     "supported_platforms": [
-      "Fire OS",
       "Android",
+      "Fire OS",
       "Tizen",
       "webOS"
     ],
@@ -270,8 +270,8 @@
     "self_signup": false,
     "year_founded": 1993,
     "supported_platforms": [
-      "Fire OS",
       "Android",
+      "Fire OS",
       "BrightSign",
       "Linux",
       "Tizen",
