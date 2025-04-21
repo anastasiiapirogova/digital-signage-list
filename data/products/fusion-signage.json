@@ -14,7 +14,7 @@
         "ChromeOS",
         "Linux",
         "Tizen",
-        "WebOS",
+        "webOS",
         "Windows"
     ],
     "pricing": {
