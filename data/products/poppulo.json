@@ -10,6 +10,7 @@
     "supported_platforms": [
         "Amazon Signage",
         "Android",
+        "Fire OS",
         "BrightSign",
         "Tizen",
         "webOS",

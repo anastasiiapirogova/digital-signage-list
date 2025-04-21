@@ -9,6 +9,7 @@
     "year_founded": 1999,
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "Web Browser",
         "Windows"
     ],

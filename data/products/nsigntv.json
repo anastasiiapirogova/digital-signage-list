@@ -9,6 +9,7 @@
     "year_founded": 2007,
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "Linux",
         "Tizen",
         "webOS",

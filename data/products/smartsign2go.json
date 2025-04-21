@@ -10,6 +10,7 @@
     "notes": [],
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "iOS",
         "Linux",
         "macOS",

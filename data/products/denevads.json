@@ -9,6 +9,7 @@
     "year_founded": 1993,
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "BrightSign",
         "Linux",
         "Tizen",

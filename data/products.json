@@ -36,6 +36,7 @@
     "year_founded": 2006,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "ChromeOS",
       "iOS",
       "Linux",
@@ -100,6 +101,7 @@
     "year_founded": 2019,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "BrightSign",
       "Linux",
       "Tizen",
@@ -186,6 +188,7 @@
     "year_founded": 2012,
     "notes": [],
     "supported_platforms": [
+      "Fire OS",
       "Android",
       "Cenareo Player",
       "Tizen"
@@ -240,6 +243,7 @@
     "self_signup": false,
     "year_founded": 2013,
     "supported_platforms": [
+      "Fire OS",
       "Android",
       "Tizen",
       "webOS"
@@ -266,6 +270,7 @@
     "self_signup": false,
     "year_founded": 1993,
     "supported_platforms": [
+      "Fire OS",
       "Android",
       "BrightSign",
       "Linux",
@@ -299,6 +304,7 @@
     ],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "BrightSign",
       "Linux",
       "Tizen",
@@ -337,6 +343,7 @@
     "year_founded": 1999,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Web Browser",
       "Windows"
     ],
@@ -423,6 +430,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows"
     ],
     "pricing": {
@@ -451,6 +459,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "BrightSign",
       "ChromeOS",
       "Linux",
@@ -490,6 +499,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows",
       "Linux",
       "macOS",
@@ -588,6 +598,7 @@
     "year_founded": 2013,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows"
     ],
     "pricing": {
@@ -652,6 +663,7 @@
       "Windows",
       "iOS",
       "Android",
+      "Fire OS",
       "ChromeOS",
       "Linux"
     ],
@@ -691,6 +703,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "ChromeOS",
       "Tizen",
       "Windows",
@@ -727,6 +740,7 @@
     "year_founded": 2007,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Linux",
       "Tizen",
       "webOS",
@@ -899,6 +913,7 @@
     "supported_platforms": [
       "Amazon Signage",
       "Android",
+      "Fire OS",
       "BrightSign",
       "Tizen",
       "webOS",
@@ -970,6 +985,7 @@
     ],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Linux",
       "Web Browser",
       "Windows",
@@ -1209,6 +1225,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "ChromeOS",
       "Linux",
       "Tizen",
@@ -1248,6 +1265,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "tvOS",
       "Windows"
     ],
@@ -1304,6 +1322,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "iOS",
       "Linux",
       "macOS",
@@ -1353,6 +1372,7 @@
     ],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "BrightSign",
       "iOS",
       "Tizen",
@@ -1476,6 +1496,7 @@
     ],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "ChromeOS",
       "macOS",
       "iOS",
@@ -1538,6 +1559,7 @@
     "self_signup": true,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "ChromeOS",
       "Linux",
       "Tizen",
@@ -1579,6 +1601,7 @@
     "year_founded": 2009,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows"
     ],
     "pricing": {

@@ -9,6 +9,7 @@
     "year_founded": 2019,
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "BrightSign",
         "Linux",
         "Tizen",

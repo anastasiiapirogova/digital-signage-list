@@ -9,6 +9,7 @@
     "year_founded": 2006,
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "ChromeOS",
         "iOS",
         "Linux",

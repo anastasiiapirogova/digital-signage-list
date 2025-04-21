@@ -12,6 +12,7 @@
     ],
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "Linux",
         "Web Browser",
         "Windows",

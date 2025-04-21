@@ -9,6 +9,7 @@
     "year_founded": 2013,
     "supported_platforms": [
         "Android",
+        "Fire OS",
         "Windows"
     ],
     "pricing": {
