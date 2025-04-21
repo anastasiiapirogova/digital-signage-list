@@ -143,9 +143,9 @@
     },
     "stats": {
       "screens": {
-        "total": 500000,
-        "source": "https://invidis.com/news/2024/01/broadsign-ceo-smith-the-most-fun-ive-had-in-my-life/",
-        "date": "2024-01"
+        "total": 2500000,
+        "source": "https://www.brightsign.biz/",
+        "date": "2025-04"
       }
     }
   },
@@ -396,7 +396,7 @@
     "year_founded": 2003,
     "supported_platforms": [
       "Web Browser",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
