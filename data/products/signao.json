@@ -1,0 +1,45 @@
+{
+    "id": "signao",
+    "name": "Signao",
+    "description": "",
+    "website": "https://signao.webflow.io/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+        "Windows",
+        "Android",
+        "webOS",
+        "Tizen",
+        "Fire OS"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": true,
+        "plans": [
+            {
+                "name": "Virtuo",
+                "monthly": 5,
+                "yearly": null
+            },
+            {
+                "name": "Initio",
+                "monthly": 10,
+                "yearly": null
+            },
+            {
+                "name": "Pro",
+                "monthly": 21,
+                "yearly": null
+            },
+            {
+                "name": "Pro+",
+                "monthly": 33,
+                "yearly": null
+            }
+        ]
+    },
+    "stats": {}
+}

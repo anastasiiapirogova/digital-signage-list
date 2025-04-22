@@ -149,6 +149,38 @@
     }
   },
   {
+    "id": "breeze",
+    "name": "Breeze",
+    "description": "",
+    "website": "https://keywesttechnology.com/breeze-digital-signage",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1998,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "plans": [
+        {
+          "name": "Breeze TOTALCare",
+          "monthly": null,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 3000,
+        "source": "https://keywesttechnology.com/breeze-digital-signage",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "brightsign",
     "name": "BrightSign",
     "description": "",
@@ -543,6 +575,39 @@
     }
   },
   {
+    "id": "flexitive",
+    "name": "Flexitive",
+    "description": "",
+    "website": "https://www.flexitive.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "macOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Teams",
+          "monthly": 74,
+          "yearly": 708
+        },
+        {
+          "name": "Enterprise",
+          "monthly": null,
+          "yearly": 1068
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "friendlyway",
     "name": "friendlyway",
     "description": "",
@@ -612,6 +677,23 @@
     }
   },
   {
+    "id": "intelisa",
+    "name": "Intelisa",
+    "description": "",
+    "website": "https://www.intelisa.in/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false
+    },
+    "stats": {}
+  },
+  {
     "id": "intuiface",
     "name": "Intuiface",
     "description": "",
@@ -678,6 +760,43 @@
       "screens": {
         "total": 3523,
         "source": "https://koke.gmbh/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "livesignage",
+    "name": "Livesignage",
+    "description": "",
+    "website": "https://www.livesignage.com/",
+    "headquarters": "Italy",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "BrightsSign",
+      "Android",
+      "Linux",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 22,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 1100,
+        "source": "https://www.livesignage.com/",
         "date": "2025-04"
       }
     }
@@ -779,6 +898,70 @@
         "total": 25000,
         "source": "https://mandoemedia.com/",
         "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "media4display",
+    "name": "Media4Display",
+    "description": "",
+    "website": "https://www.telelogos.com/en/solutions/media4display/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {
+      "screens": {
+        "total": 500000,
+        "source": "https://www.linkedin.com/company/telelogos/about/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "mediatile",
+    "name": "MediaTile",
+    "description": "",
+    "website": "https://mediatile.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "notes": [],
+    "supported_platforms": [
+      "Windows",
+      "Android",
+      "webOS",
+      "Linux",
+      "Tizen",
+      "BrightSign",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Standard",
+          "monthly": null,
+          "yearly": 239
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": null,
+        "source": "",
+        "date": ""
       }
     }
   },
@@ -1023,6 +1206,23 @@
         "date": "2025-04"
       }
     }
+  },
+  {
+    "id": "omnivex",
+    "name": "Omnivex",
+    "description": "",
+    "website": "http://www.omnivex.com",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1991,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false
+    },
+    "stats": {}
   },
   {
     "id": "pickcel",
@@ -1542,6 +1742,44 @@
     }
   },
   {
+    "id": "signagelive",
+    "name": "Signagelive",
+    "description": "",
+    "website": "https://signagelive.com/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2007,
+    "notes": [],
+    "supported_platforms": [
+      "Amazon Signage",
+      "BrightSign",
+      "Tizen",
+      "ChromeOS",
+      "ClickShare",
+      "WebOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Standard license",
+          "monthly": null,
+          "yearly": 270
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://www.linkedin.com/company/signagelive/about/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "signagetube",
     "name": "SignageTube",
     "description": "",
@@ -1577,6 +1815,51 @@
     }
   },
   {
+    "id": "signao",
+    "name": "Signao",
+    "description": "",
+    "website": "https://signao.webflow.io/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Windows",
+      "Android",
+      "webOS",
+      "Tizen",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Virtuo",
+          "monthly": 5,
+          "yearly": null
+        },
+        {
+          "name": "Initio",
+          "monthly": 10,
+          "yearly": null
+        },
+        {
+          "name": "Pro",
+          "monthly": 21,
+          "yearly": null
+        },
+        {
+          "name": "Pro+",
+          "monthly": 33,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "signio",
     "name": "Signio",
     "description": "",
@@ -1595,6 +1878,55 @@
         "total": 120000,
         "source": "https://nanovo.group/",
         "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "sklera",
+    "name": "Sklera",
+    "description": "",
+    "website": "https://sklera.tv/en",
+    "headquarters": "Austria",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "Android",
+      "Amazon Signage",
+      "WebOS",
+      "Linux",
+      "Windows",
+      "Tizen",
+      "FireOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Sklera Basic",
+          "monthly": null,
+          "yearly": 120
+        },
+        {
+          "name": "Sklera Standard",
+          "monthly": null,
+          "yearly": 230
+        },
+        {
+          "name": "Sklera Professional",
+          "monthly": null,
+          "yearly": 360
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 1000,
+        "source": "https://sklera.tv/en/about-us",
+        "date": "2017-01"
       }
     }
   },

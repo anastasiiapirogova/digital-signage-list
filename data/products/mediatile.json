@@ -1,0 +1,38 @@
+{
+    "id": "mediatile",
+    "name": "MediaTile",
+    "description": "",
+    "website": "https://mediatile.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "notes": [],
+    "supported_platforms": [
+        "Windows",
+        "Android",
+        "webOS",
+        "Linux",
+        "Tizen",
+        "BrightSign",
+        "Fire OS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "plans": [
+            {
+                "name": "Standard",
+                "monthly": null,
+                "yearly": 239
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": null,
+            "source": "",
+            "date": ""
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "sklera",
+    "name": "Sklera",
+    "description": "",
+    "website": "https://sklera.tv/en",
+    "headquarters": "Austria",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+        "ChromeOS",
+        "Android",
+        "Amazon Signage",
+        "WebOS",
+        "Linux",
+        "Windows",
+        "Tizen",
+        "FireOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "plans": [
+            {
+                "name": "Sklera Basic",
+                "monthly": null,
+                "yearly": 120
+            },
+            {
+                "name": "Sklera Standard",
+                "monthly": null,
+                "yearly": 230
+            },
+            {
+                "name": "Sklera Professional",
+                "monthly": null,
+                "yearly": 360
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 1000,
+            "source": "https://sklera.tv/en/about-us",
+            "date": "2017-01"
+        }
+    }
+}
