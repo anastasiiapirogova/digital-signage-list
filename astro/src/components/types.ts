@@ -14,7 +14,7 @@ export type Product = {
     supported_platforms: string[];
     stats: {
         screens?: {
-            total: number;
+            total: number | null;
             source: string;
             date: string;
         };

@@ -11,6 +11,7 @@ export const GlobalStats = () => {
         const screens = products
             .map(product => product.stats.screens?.total)
             .filter(total => total !== undefined)
+            .filter(total => total !== null)
             .sort((a, b) => a - b);
 
         const mid = Math.floor(screens.length / 2);

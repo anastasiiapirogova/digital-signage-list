@@ -2,7 +2,7 @@ import { TbCheck, TbX } from "react-icons/tb";
 import type { Product } from "./types";
 
 const Screens = ({ product }: { product: Product }) => {
-    if (product.stats.screens) {
+    if (product.stats.screens && product.stats.screens.total) {
         return (
             <div className="w-[200px] flex items-center font-mono">
                 {product.stats.screens.total.toLocaleString()}
