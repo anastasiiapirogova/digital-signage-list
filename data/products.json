@@ -973,7 +973,7 @@
     "notes": [],
     "supported_platforms": [
       "ChromeOS",
-      "BrightsSign",
+      "BrightSign",
       "Android",
       "Linux",
       "WebOS",
