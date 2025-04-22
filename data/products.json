@@ -1983,8 +1983,8 @@
     "website": "https://signagetube.com/",
     "headquarters": "Belgium",
     "open_source": false,
-    "self_signup": false,
-    "year_founded": 1998,
+    "self_signup": true,
+    "year_founded": 2018,
     "notes": [],
     "supported_platforms": [
       "Android",
@@ -2096,7 +2096,7 @@
       "Linux",
       "Windows",
       "Tizen",
-      "FireOS"
+      "Fire OS"
     ],
     "pricing": {
       "free_trial": true,
