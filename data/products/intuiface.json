@@ -1,0 +1,36 @@
+{
+    "id": "intuiface",
+    "name": "Intuiface",
+    "description": "",
+    "website": "https://intuiface.com",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2002,
+    "notes": [],
+    "supported_platforms": [
+        "Android",
+        "BrightSign",
+        "ChromeOS",
+        "iOS",
+        "Linux",
+        "Tizen",
+        "Web Browser",
+        "Windows",
+        "macOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "Non-Interactive Player",
+                "monthly": 36.18,
+                "yearly": 173.66
+            }
+        ]
+    },
+    "stats": {
+    }
+}

@@ -91,6 +91,34 @@
     }
   },
   {
+    "id": "appspace",
+    "name": "Appspace",
+    "description": "",
+    "website": "https://www.appspace.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2002,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {}
+  },
+  {
     "id": "atmospheretv",
     "name": "AtmosphereTV",
     "description": "",
@@ -234,6 +262,74 @@
     }
   },
   {
+    "id": "cms-signage",
+    "name": "CMS Signage",
+    "description": "",
+    "website": "https://cmssignage.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Main",
+          "monthly": 10,
+          "yearly": 110
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 700,
+        "source": "https://cmssignage.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "сomeen",
+    "name": "Comeen",
+    "description": "",
+    "website": "https://comeen.com/products/digital-signage",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": null,
+          "yearly": 324
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "deepiscreen",
     "name": "Deepiscreen",
     "description": "",
@@ -289,6 +385,34 @@
         "date": "2025-04"
       }
     }
+  },
+  {
+    "id": "digitalsignage-net",
+    "name": "digitalsignage.NET",
+    "description": "",
+    "website": "https://www.digitalsignage.net/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": null,
+          "yearly": 184
+        }
+      ]
+    },
+    "stats": {}
   },
   {
     "id": "displ",
@@ -483,6 +607,77 @@
       "screens": {
         "total": 13000,
         "source": "https://fusionsignage.com.au/our-story",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "intuiface",
+    "name": "Intuiface",
+    "description": "",
+    "website": "https://intuiface.com",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2002,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "iOS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Non-Interactive Player",
+          "monthly": 36.18,
+          "yearly": 173.66
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "id": "koke",
+    "name": "Koke",
+    "description": "",
+    "website": "https://koke.gmbh/kms/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Device License",
+          "monthly": 16.63,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 3523,
+        "source": "https://koke.gmbh/",
         "date": "2025-04"
       }
     }
@@ -725,6 +920,50 @@
       "screens": {
         "total": 50000,
         "source": "https://www.novisign.com/about/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "nowsignage",
+    "name": "NowSignage",
+    "description": "",
+    "website": "https://www.nowsignage.com/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [
+      "The screen count is based on the number of customers. The actual screen count may vary."
+    ],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "End User Pricing",
+          "monthly": 20,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 5000,
+        "source": "https://secure.nowsignage.com/customers/register",
         "date": "2025-04"
       }
     }
@@ -1012,6 +1251,28 @@
     }
   },
   {
+    "id": "raydiant",
+    "name": "Raydiant",
+    "description": "",
+    "website": "https://www.raydiant.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {}
+  },
+  {
     "id": "reach",
     "name": "Reach",
     "description": "",
@@ -1142,6 +1403,33 @@
         "total": 100000,
         "source": "https://dreamdata.io/blog/success-story-screencloud",
         "date": "2023-12"
+      }
+    }
+  },
+  {
+    "id": "screendrive",
+    "name": "Screendrive",
+    "description": "",
+    "website": "https://screendrive.net/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "supported_platforms": [
+      "Android",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 1500,
+        "source": "https://screendrive.net/",
+        "date": "2025-04"
       }
     }
   },
@@ -1478,6 +1766,43 @@
       "screens": {
         "total": 500000,
         "source": "https://uniguest.com/digital-signage/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "valotalive",
+    "name": "Valotalive",
+    "description": "",
+    "website": "https://valota.live/",
+    "headquarters": "Finland",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [
+      "Screen count is based on revenue."
+    ],
+    "supported_platforms": [
+      "Windows",
+      "ChromeOS",
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": 10.31,
+          "yearly": 92
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 100000,
+        "source": "https://getlatka.com/companies/valota",
         "date": "2025-04"
       }
     }

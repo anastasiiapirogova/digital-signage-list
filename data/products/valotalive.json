@@ -1,0 +1,37 @@
+{
+    "id": "valotalive",
+    "name": "Valotalive",
+    "description": "",
+    "website": "https://valota.live/",
+    "headquarters": "Finland",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [
+        "Screen count is based on revenue."
+    ],
+    "supported_platforms": [
+        "Windows",
+        "ChromeOS",
+        "Tizen"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "Starter",
+                "monthly": 10.31,
+                "yearly": 92
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 100000,
+            "source": "https://getlatka.com/companies/valota",
+            "date": "2025-04"
+        }
+    }
+}
