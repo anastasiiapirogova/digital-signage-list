@@ -128,6 +128,25 @@
     }
   },
   {
+    "id": "anthias",
+    "name": "Anthias",
+    "description": "",
+    "website": "https://anthias.screenly.io/",
+    "headquarters": "USA",
+    "open_source": true,
+    "self_signup": false,
+    "year_founded": 2022,
+    "notes": [],
+    "supported_platforms": [
+      "Linux"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
+    },
+    "stats": {}
+  },
+  {
     "id": "appspace",
     "name": "Appspace",
     "description": "",
@@ -395,6 +414,26 @@
           "yearly": 324
         }
       ]
+    },
+    "stats": {}
+  },
+  {
+    "id": "concerto",
+    "name": "Concerto",
+    "description": "",
+    "website": "https://www.concerto-signage.org/",
+    "headquarters": "USA",
+    "open_source": true,
+    "self_signup": false,
+    "year_founded": 2007,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false
     },
     "stats": {}
   },
@@ -1765,6 +1804,53 @@
     }
   },
   {
+    "id": "scalefusion",
+    "name": "Scalefusion",
+    "description": "",
+    "website": "https://scalefusion.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "iOS",
+      "macOS",
+      "Linux",
+      "ChromeOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Essential",
+          "monthly": null,
+          "yearly": 24
+        },
+        {
+          "name": "Growth",
+          "monthly": null,
+          "yearly": 42
+        },
+        {
+          "name": "Business",
+          "monthly": null,
+          "yearly": 60
+        },
+        {
+          "name": "Enterprise",
+          "monthly": null,
+          "yearly": 72
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "screencloud",
     "name": "ScreenCloud",
     "description": "",
@@ -2511,6 +2597,41 @@
       "screens": {
         "total": 180000,
         "source": "https://www.yodeck.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "zeetaminds",
+    "name": "Zeetaminds",
+    "description": "",
+    "website": "https://zeetaminds.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "webOS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 10,
+          "yearly": 100
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 15000,
+        "source": "https://www.capterra.com/p/155060/Zeetaminds/",
         "date": "2025-04"
       }
     }

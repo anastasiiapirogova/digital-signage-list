@@ -1,0 +1,35 @@
+{
+    "id": "zeetaminds",
+    "name": "Zeetaminds",
+    "description": "",
+    "website": "https://zeetaminds.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "webOS",
+        "Windows"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "plans": [
+            {
+                "name": "Business",
+                "monthly": 10,
+                "yearly": 100
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 15000,
+            "source": "https://www.capterra.com/p/155060/Zeetaminds/",
+            "date": "2025-04"
+        }
+    }
+}
