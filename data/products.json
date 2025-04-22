@@ -64,6 +64,43 @@
     }
   },
   {
+    "id": "admooh",
+    "name": "Admooh",
+    "description": "",
+    "website": "https://site.admooh.com/",
+    "headquarters": "Brazil",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Light",
+          "monthly": 5.1,
+          "yearly": 51.95
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 20000,
+        "source": "https://site.admooh.com/admooh-anunciantes",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "airtame",
     "name": "Airtame",
     "description": "",
@@ -671,6 +708,35 @@
     "stats": {}
   },
   {
+    "id": "framr",
+    "name": "FRAMR.",
+    "description": "",
+    "website": "https://framr.tv/",
+    "headquarters": "Austria",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "FRAMR.Propeller",
+          "monthly": null,
+          "yearly": 94.56
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "friendlyway",
     "name": "friendlyway",
     "description": "",
@@ -955,6 +1021,45 @@
         "total": 22000,
         "source": "https://ww3.loop.tv/advertisers",
         "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "luna-screens",
+    "name": "Luna Screens",
+    "description": "",
+    "website": "https://lunascreens.com/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2024,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Paid",
+          "monthly": 3.75,
+          "yearly": 35
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 1000,
+        "source": "https://www.sixteen-nine.net/2025/03/17/alastair-taft-of-tasmanias-luna-screens-explains-his-approach-to-really-simple-digital-signage-software/",
+        "date": "2025-03"
       }
     }
   },
@@ -1875,7 +1980,7 @@
     "id": "signagetube",
     "name": "SignageTube",
     "description": "",
-    "website": "https://presentationpoint.com/software/signagetube/",
+    "website": "https://signagetube.com/",
     "headquarters": "Belgium",
     "open_source": false,
     "self_signup": false,

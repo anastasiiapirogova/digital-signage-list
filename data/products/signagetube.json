@@ -2,13 +2,12 @@
     "id": "signagetube",
     "name": "SignageTube",
     "description": "",
-    "website": "https://presentationpoint.com/software/signagetube/",
+    "website": "https://signagetube.com/",
     "headquarters": "Belgium",
     "open_source": false,
     "self_signup": false,
     "year_founded": 1998,
     "notes": [
-
     ],
     "supported_platforms": [
         "Android",
