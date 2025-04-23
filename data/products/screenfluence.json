@@ -1,0 +1,25 @@
+{
+    "id": "screenfluence",
+    "name": "Screenfluence",
+    "description": "",
+    "website": "https://www.screenfluence.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "1 - 9 Players",
+                "monthly": 30,
+                "yearly": 324
+            }
+        ]
+    },
+    "stats": {}
+}

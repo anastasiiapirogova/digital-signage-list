@@ -1,0 +1,35 @@
+{
+    "id": "telemetrytv",
+    "name": "TelemetryTV",
+    "description": "",
+    "website": "https://www.telemetrytv.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+        "Android",
+        "ChromeOS",
+        "Fire OS",
+        "Linux",
+        "Web Browser",
+        "Windows",
+        "iOS",
+        "macOS",
+        "webOS"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "Entry",
+                "monthly": 9,
+                "yearly": 96
+            }
+        ]
+    },
+    "stats": {}
+}
