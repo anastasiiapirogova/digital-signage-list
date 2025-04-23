@@ -8,3 +8,4 @@ export { FilteredProductsCount } from "./FilteredProductsCount";
 export { List } from "./List";
 export { ListItem } from "./ListItem";
 export { FiltersSidebar } from "./FiltersSidebar";
+export { ResetFiltersButton } from "./ResetFiltersButton";
