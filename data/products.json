@@ -926,6 +926,38 @@
     "stats": {}
   },
   {
+    "id": "kiwi-signage",
+    "name": "Ki-Wi Signage",
+    "description": "",
+    "website": "https://www.kiwisignage.com/",
+    "headquarters": "Czechia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "PREMIUM",
+          "monthly": 16.99,
+          "yearly": 136.73
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "koke",
     "name": "Koke",
     "description": "",
@@ -976,7 +1008,7 @@
       "BrightSign",
       "Android",
       "Linux",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -1134,6 +1166,52 @@
         "total": 25000,
         "source": "https://mandoemedia.com/",
         "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "mango-display",
+    "name": "Mango Display",
+    "description": "",
+    "website": "https://mangodisplay.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 1998,
+    "notes": [
+      "The screen count is based on the number of subscribers. The actual screen count may vary."
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "FREE",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "PLUS",
+          "monthly": 2.99,
+          "yearly": 29.99
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://davesdharma.live/2024/12/09/the-reward-of-product-obsession/",
+        "date": "2024-12"
       }
     }
   },
@@ -1457,6 +1535,44 @@
     "pricing": {
       "free_trial": true,
       "pricing_available": false
+    },
+    "stats": {}
+  },
+  {
+    "id": "onsign-tv",
+    "name": "OnSign TV",
+    "description": "",
+    "website": "https://onsign.tv/",
+    "headquarters": "China",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Professional",
+          "monthly": 19.99,
+          "yearly": 215.88
+        }
+      ]
     },
     "stats": {}
   },
@@ -1951,6 +2067,31 @@
     }
   },
   {
+    "id": "screenfluence",
+    "name": "Screenfluence",
+    "description": "",
+    "website": "https://www.screenfluence.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "1 - 9 Players",
+          "monthly": 30,
+          "yearly": 324
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "screenly",
     "name": "Screenly",
     "description": "",
@@ -2040,7 +2181,7 @@
       "Tizen",
       "ChromeOS",
       "ClickShare",
-      "WebOS",
+      "webOS",
       "Windows"
     ],
     "pricing": {
@@ -2058,6 +2199,45 @@
       "screens": {
         "total": 10000,
         "source": "https://www.linkedin.com/company/signagelive/about/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
+    "id": "signageos",
+    "name": "signageOS",
+    "description": "",
+    "website": "https://www.signageos.io/",
+    "headquarters": "Czechia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 3,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 100000,
+        "source": "https://www.signageos.io/company",
         "date": "2025-04"
       }
     }
@@ -2178,7 +2358,7 @@
       "ChromeOS",
       "Android",
       "Amazon Signage",
-      "WebOS",
+      "webOS",
       "Linux",
       "Windows",
       "Tizen",
@@ -2318,6 +2498,41 @@
         "date": "2025-04"
       }
     }
+  },
+  {
+    "id": "telemetrytv",
+    "name": "TelemetryTV",
+    "description": "",
+    "website": "https://www.telemetrytv.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Entry",
+          "monthly": 9,
+          "yearly": 96
+        }
+      ]
+    },
+    "stats": {}
   },
   {
     "id": "trudigital",
