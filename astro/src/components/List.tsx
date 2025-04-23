@@ -28,12 +28,10 @@ export const List = () => {
     }, []);
 
     return (
-        <div>
-            <ul>
-                {filteredProducts.map((product) => (
-                    <ListItem product={product} key={product.id} />
-                ))}
-            </ul>
+        <div className='flex flex-col w-full gap-2'>
+            {filteredProducts.map((product) => (
+                <ListItem product={product} key={product.id} />
+            ))}
         </div>
     );
 };

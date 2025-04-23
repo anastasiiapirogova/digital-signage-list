@@ -1,22 +1,31 @@
+export type Plan = {
+    name: string
+    monthly: number | null
+    yearly: number | null
+}
+
 export type Pricing = {
-    free_trial: boolean;
+    free_trial: boolean
+    pricing_available: boolean
+    has_freemium?: boolean
+    plans?: Plan[]
 }
 
 export type Product = {
-    id: string;
-    name: string;
-    description: string;
-    website: string;
-    headquarters: string;
-    open_source: boolean;
-    pricing: Pricing,
-    year_founded: number;
-    supported_platforms: string[];
+    id: string
+    name: string
+    description: string
+    website: string
+    headquarters: string
+    open_source: boolean
+    pricing: Pricing
+    year_founded: number
+    supported_platforms: string[]
     stats: {
         screens?: {
-            total: number | null;
-            source: string;
-            date: string;
-        };
-    };
-};
+            total: number | null
+            source: string
+            date: string
+        }
+    }
+}
