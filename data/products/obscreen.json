@@ -1,0 +1,29 @@
+{
+    "id": "obscreen",
+    "name": "Obscreen",
+    "description": "",
+    "website": "https://www.obscreen.io/",
+    "headquarters": "Unknown",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2024,
+    "notes": [],
+    "supported_platforms": [
+        "Web Browser",
+        "Linux"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false,
+        "plans": [
+            {
+                "name": "Basic Cloud",
+                "monthly": 3.43,
+                "yearly": null
+            }
+        ]
+    },
+    "stats": {
+    }
+}
