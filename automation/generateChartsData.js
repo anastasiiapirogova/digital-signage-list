@@ -45,7 +45,14 @@ function getProductsByHeadquarters(products) {
         return acc;
     }, {});
 
-    return counts;
+    const sortedHeadquarters = Object.entries(counts)
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+        .reduce((acc, [headquarters, count]) => {
+            acc[headquarters] = count;
+            return acc;
+        }, {});
+
+    return sortedHeadquarters;
 }
 
 const productsByHeadquarters = getProductsByHeadquarters(productsData);
@@ -55,3 +62,30 @@ const productsByHeadquartersOutputFilePath = join(__dirname, '../data/charts/pro
 fs.writeFileSync(productsByHeadquartersOutputFilePath, JSON.stringify(productsByHeadquarters, null, 2), 'utf-8');
 
 console.log('Products by headquarters has been generated');
+
+function getProductsBySupportedPlatforms(products) {
+    const platformCounts = products.reduce((acc, product) => {
+        const platforms = product.supported_platforms || [];
+        platforms.forEach(platform => {
+            acc[platform] = (acc[platform] || 0) + 1;
+        });
+        return acc;
+    }, {});
+
+    const sortedPlatforms = Object.entries(platformCounts)
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+        .reduce((acc, [platform, count]) => {
+            acc[platform] = count;
+            return acc;
+        }, {});
+
+    return sortedPlatforms;
+}
+
+const productsBySupportedPlatforms = getProductsBySupportedPlatforms(productsData);
+
+const productsBySupportedPlatformsOutputFilePath = join(__dirname, '../data/charts/productsBySupportedPlatforms.json');
+
+fs.writeFileSync(productsBySupportedPlatformsOutputFilePath, JSON.stringify(productsBySupportedPlatforms, null, 2), 'utf-8');
+
+console.log('Products by supported platforms has been generated');

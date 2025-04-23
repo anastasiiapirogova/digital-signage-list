@@ -1,0 +1,20 @@
+{
+  "Windows": 62,
+  "Android": 59,
+  "Fire OS": 51,
+  "Linux": 45,
+  "webOS": 41,
+  "Tizen": 37,
+  "Web Browser": 31,
+  "ChromeOS": 26,
+  "BrightSign": 20,
+  "macOS": 17,
+  "iOS": 13,
+  "Amazon Signage": 9,
+  "tvOS": 2,
+  "Cenareo Player": 1,
+  "ClickShare": 1,
+  "Loop Player": 1,
+  "MustHaveMenus Player": 1,
+  "Screenly Player": 1
+}
