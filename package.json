@@ -11,7 +11,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "merge-products": "node automation/mergeProducts.js",
+    "merge-products": "node automation/updatePlatforms.js && node automation/mergeProducts.js",
     "charts-data": "node automation/generateChartsData.js"
   }
 }
