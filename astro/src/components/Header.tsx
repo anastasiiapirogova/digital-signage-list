@@ -1,4 +1,4 @@
-import { TbPlus } from "react-icons/tb";
+import { TbBrandX, TbPlus } from "react-icons/tb";
 import githubLogo from "../assets/github-mark.svg";
 
 export const Header = () => {
@@ -14,6 +14,11 @@ export const Header = () => {
                                 <div className="hidden md:inline-flex">
                                     Submit a product
                                 </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://x.com/whois514" target="_blank" rel="noopener noreferrer">
+                                <TbBrandX className="h-6 w-6 opacity-50 hover:opacity-100 transition-opacity"/>
                             </a>
                         </li>
                         <li>
