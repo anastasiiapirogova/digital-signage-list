@@ -1,0 +1,27 @@
+{
+  "id": "simplesignage",
+  "name": "Simple Signage",
+  "description": "",
+  "website": "https://www.simplesignage.app/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2022,
+  "notes": [],
+  "supported_platforms": [
+    "tvOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Site License",
+        "monthly": null,
+        "yearly": 250
+      }
+    ]
+  },
+  "stats": {}
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dsshow",
+  "name": "DS Show",
+  "description": "",
+  "website": "https://www.dsshow.de/",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2016,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false
+  },
+  "stats": {}
+}

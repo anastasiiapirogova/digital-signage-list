@@ -1,0 +1,28 @@
+{
+  "id": "slideshow",
+  "name": "Slideshow",
+  "description": "",
+  "website": "https://slideshow.digital/",
+  "headquarters": "Slovakia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2020,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "App",
+        "monthly": 0,
+        "yearly": 0
+      }
+    ]
+  },
+  "stats": {}
+}

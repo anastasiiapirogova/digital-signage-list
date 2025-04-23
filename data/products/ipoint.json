@@ -1,0 +1,27 @@
+{
+  "id": "ipoint",
+  "name": "iPoint",
+  "description": "",
+  "website": "https://presentationpoint.com/software/ipoint/",
+  "headquarters": "Belgium",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 1998,
+  "notes": [],
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Player per screen",
+        "monthly": null,
+        "yearly": 199
+      }
+    ]
+  },
+  "stats": {}
+}

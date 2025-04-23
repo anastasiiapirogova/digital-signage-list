@@ -1,0 +1,18 @@
+{
+  "id": "netvisual",
+  "name": "Netvisual",
+  "description": "",
+  "website": "https://netvisual.ca/digital-signage-solutions/",
+  "headquarters": "Canada",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2004,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {}
+}

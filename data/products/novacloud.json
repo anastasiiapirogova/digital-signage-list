@@ -1,0 +1,25 @@
+{
+  "id": "novacloud",
+  "name": "Nova Cloud",
+  "description": "",
+  "website": "https://www.novastar.tech/",
+  "headquarters": "China",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2008,
+  "supported_platforms": [
+    "NovaStar"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 1000000,
+      "source": "https://www.novastar.tech/products/nova-cloud/",
+      "date": "2025-04"
+    }
+  }
+}

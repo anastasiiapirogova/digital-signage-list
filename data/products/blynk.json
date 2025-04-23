@@ -1,0 +1,24 @@
+{
+  "id": "blynk",
+  "name": "Blynk`",
+  "description": "",
+  "website": "https://blynk.co.uk/content-programming/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 487,
+      "source": "https://blynk.co.uk/content-programming/",
+      "date": "2025-04"
+    }
+  }
+}

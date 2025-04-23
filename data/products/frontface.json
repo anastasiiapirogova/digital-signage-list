@@ -1,0 +1,29 @@
+{
+  "id": "frontface",
+  "name": "FrontFace",
+  "description": "",
+  "website": "https://www.mirabyte.com/en/frontface/",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2005,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Flexible Subscription License for one Player",
+        "monthly": 39.95,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {}
+}

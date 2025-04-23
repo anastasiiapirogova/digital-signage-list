@@ -1,0 +1,24 @@
+{
+  "id": "econocom",
+  "name": "Econocom",
+  "description": "",
+  "website": "https://gather.econocom.com/en",
+  "headquarters": "Spain",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2023,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 5000,
+      "source": "https://invidis.com/news/2023/12/gather-rebranding-for-econocom-proav-business/",
+      "date": "2023-12"
+    }
+  }
+}
