@@ -1,26 +1,26 @@
 {
-    "id": "acrelec",
-    "name": "Acrelec",
-    "description": "",
-    "website": "https://acrelec.com/",
-    "headquarters": "France",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2004,
-    "supported_platforms": [
-        "macOS",
-        "Linux",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 80000,
-            "source": "https://acrelec.com/about/",
-            "date": "2025-04"
-        }
+  "id": "acrelec",
+  "name": "Acrelec",
+  "description": "",
+  "website": "https://acrelec.com/",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2004,
+  "supported_platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 80000,
+      "source": "https://acrelec.com/about/",
+      "date": "2025-04"
     }
+  }
 }

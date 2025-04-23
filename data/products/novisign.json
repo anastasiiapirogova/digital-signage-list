@@ -1,38 +1,38 @@
 {
-    "id": "novisign",
-    "name": "NoviSign",
-    "description": "",
-    "website": "https://www.novisign.com/",
-    "headquarters": "Israel",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2011,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "ChromeOS",
-        "Tizen",
-        "Windows",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Business",
-                "monthly": 20,
-                "yearly": 216
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 50000,
-            "source": "https://www.novisign.com/about/",
-            "date": "2025-04"
-        }
+  "id": "novisign",
+  "name": "NoviSign",
+  "description": "",
+  "website": "https://www.novisign.com/",
+  "headquarters": "Israel",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Business",
+        "monthly": 20,
+        "yearly": 216
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 50000,
+      "source": "https://www.novisign.com/about/",
+      "date": "2025-04"
     }
+  }
 }

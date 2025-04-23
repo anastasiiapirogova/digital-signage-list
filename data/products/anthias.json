@@ -1,19 +1,19 @@
 {
-    "id": "anthias",
-    "name": "Anthias",
-    "description": "",
-    "website": "https://anthias.screenly.io/",
-    "headquarters": "USA",
-    "open_source": true,
-    "self_signup": false,
-    "year_founded": 2022,
-    "notes": [],
-    "supported_platforms": [
-        "Linux"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {}
+  "id": "anthias",
+  "name": "Anthias",
+  "description": "",
+  "website": "https://anthias.screenly.io/",
+  "headquarters": "USA",
+  "open_source": true,
+  "self_signup": false,
+  "year_founded": 2022,
+  "notes": [],
+  "supported_platforms": [
+    "Linux"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {}
 }

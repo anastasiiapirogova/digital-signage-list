@@ -1,39 +1,39 @@
 {
-    "id": "signageos",
-    "name": "signageOS",
-    "description": "",
-    "website": "https://www.signageos.io/",
-    "headquarters": "Czechia",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2016,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "BrightSign",
-        "ChromeOS",
-        "Fire OS",
-        "Linux",
-        "Windows",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Basic",
-                "monthly": 3,
-                "yearly": null
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 100000,
-            "source": "https://www.signageos.io/company",
-            "date": "2025-04"
-        }
+  "id": "signageos",
+  "name": "signageOS",
+  "description": "",
+  "website": "https://www.signageos.io/",
+  "headquarters": "Czechia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2016,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": 3,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 100000,
+      "source": "https://www.signageos.io/company",
+      "date": "2025-04"
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "id": "stratacache",
-    "name": "Stratacache",
-    "description": "",
-    "website": "https://www.stratacache.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 1997,
-    "supported_platforms": [
-        "Linux",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 4000000,
-            "source": "https://www.stratacache.com/",
-            "date": "2025-04"
-        }
+  "id": "stratacache",
+  "name": "Stratacache",
+  "description": "",
+  "website": "https://www.stratacache.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 1997,
+  "supported_platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 4000000,
+      "source": "https://www.stratacache.com/",
+      "date": "2025-04"
     }
+  }
 }

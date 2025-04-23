@@ -1,35 +1,35 @@
 {
-    "id": "mandoe",
-    "name": "Mandoe",
-    "description": "",
-    "website": "https://mandoemedia.com/",
-    "headquarters": "Australia",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2012,
-    "notes": [],
-    "supported_platforms": [
-        "Linux",
-        "Web Browser",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": true,
-        "plans": [
-            {
-                "name": "Basic",
-                "monthly": 14,
-                "yearly": null
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 25000,
-            "source": "https://mandoemedia.com/",
-            "date": "2025-04"
-        }
+  "id": "mandoe",
+  "name": "Mandoe",
+  "description": "",
+  "website": "https://mandoemedia.com/",
+  "headquarters": "Australia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2012,
+  "notes": [],
+  "supported_platforms": [
+    "Linux",
+    "Web Browser",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": 14,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 25000,
+      "source": "https://mandoemedia.com/",
+      "date": "2025-04"
     }
+  }
 }

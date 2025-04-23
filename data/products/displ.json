@@ -1,42 +1,42 @@
 {
-    "id": "displ",
-    "name": "Displ",
-    "description": "",
-    "website": "https://displ.com/",
-    "headquarters": "Cyprus",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2017,
-    "notes": [
-        "The screen count is based on the number of provided connected locations. The actual screen count may vary."
-    ],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "BrightSign",
-        "Linux",
-        "Tizen",
-        "Windows",
-        "iOS",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Screen Management",
-                "monthly": null,
-                "yearly": 206
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 5000,
-            "source": "https://displ.com/about",
-            "date": "2025-04"
-        }
+  "id": "displ",
+  "name": "Displ",
+  "description": "",
+  "website": "https://displ.com/",
+  "headquarters": "Cyprus",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2017,
+  "notes": [
+    "The screen count is based on the number of provided connected locations. The actual screen count may vary."
+  ],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Screen Management",
+        "monthly": null,
+        "yearly": 206
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 5000,
+      "source": "https://displ.com/about",
+      "date": "2025-04"
     }
+  }
 }

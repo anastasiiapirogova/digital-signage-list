@@ -1,27 +1,27 @@
 {
-    "id": "nutrislice",
-    "name": "Nutrislice",
-    "description": "",
-    "website": "https://nutrislice.com/products/signage/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2011,
-    "notes": [
-        "Empowering over 30,000 locations around the world"
-    ],
-    "supported_platforms": [
-        "Web Browser"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 30000,
-            "source": "https://nutrislice.com/about-us/",
-            "date": "2025-04"
-        }
+  "id": "nutrislice",
+  "name": "Nutrislice",
+  "description": "",
+  "website": "https://nutrislice.com/products/signage/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "notes": [
+    "Empowering over 30,000 locations around the world"
+  ],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 30000,
+      "source": "https://nutrislice.com/about-us/",
+      "date": "2025-04"
     }
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "id": "friendlyway",
-    "name": "friendlyway",
-    "description": "",
-    "website": "https://www.friendlyway.com/",
-    "headquarters": "Germany",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 1998,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": false,
-        "has_freemium": false,
-        "plans": []
-    },
-    "stats": {
-        "screens": {
-            "total": 25000,
-            "source": "https://www.friendlyway.com/",
-            "date": "2025-04"
-        }
+  "id": "friendlyway",
+  "name": "friendlyway",
+  "description": "",
+  "website": "https://www.friendlyway.com/",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 1998,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 25000,
+      "source": "https://www.friendlyway.com/",
+      "date": "2025-04"
     }
+  }
 }

@@ -1,47 +1,47 @@
 {
-    "id": "scalefusion",
-    "name": "Scalefusion",
-    "description": "",
-    "website": "https://scalefusion.com/",
-    "headquarters": "India",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2015,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "iOS",
-        "macOS",
-        "Linux",
-        "ChromeOS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "plans": [
-            {
-                "name": "Essential",
-                "monthly": null,
-                "yearly": 24
-            },
-            {
-                "name": "Growth",
-                "monthly": null,
-                "yearly": 42
-            },
-            {
-                "name": "Business",
-                "monthly": null,
-                "yearly": 60
-            },
-            {
-                "name": "Enterprise",
-                "monthly": null,
-                "yearly": 72
-            }
-        ]
-    },
-    "stats": {}
+  "id": "scalefusion",
+  "name": "Scalefusion",
+  "description": "",
+  "website": "https://scalefusion.com/",
+  "headquarters": "India",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "Essential",
+        "monthly": null,
+        "yearly": 24
+      },
+      {
+        "name": "Growth",
+        "monthly": null,
+        "yearly": 42
+      },
+      {
+        "name": "Business",
+        "monthly": null,
+        "yearly": 60
+      },
+      {
+        "name": "Enterprise",
+        "monthly": null,
+        "yearly": 72
+      }
+    ]
+  },
+  "stats": {}
 }

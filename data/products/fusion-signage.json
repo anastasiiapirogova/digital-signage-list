@@ -1,40 +1,40 @@
 {
-    "id": "fusion-signage",
-    "name": "Fusion Signage",
-    "description": "",
-    "website": "https://fusionsignage.com.au/",
-    "headquarters": "Australia",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2017,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "BrightSign",
-        "ChromeOS",
-        "Linux",
-        "Tizen",
-        "webOS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Basic",
-                "monthly": null,
-                "yearly": 124
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 13000,
-            "source": "https://fusionsignage.com.au/our-story",
-            "date": "2025-04"
-        }
+  "id": "fusion-signage",
+  "name": "Fusion Signage",
+  "description": "",
+  "website": "https://fusionsignage.com.au/",
+  "headquarters": "Australia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2017,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": null,
+        "yearly": 124
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 13000,
+      "source": "https://fusionsignage.com.au/our-story",
+      "date": "2025-04"
     }
+  }
 }

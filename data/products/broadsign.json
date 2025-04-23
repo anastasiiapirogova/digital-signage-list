@@ -1,26 +1,26 @@
 {
-    "id": "broadsign",
-    "name": "Broadsign",
-    "description": "",
-    "website": "https://broadsign.com/",
-    "headquarters": "Canada",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2003,
-    "supported_platforms": [
-        "BrightSign",
-        "Tizen",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 1500000,
-            "source": "https://broadsign.com/our-story/",
-            "date": "2025-04"
-        }
+  "id": "broadsign",
+  "name": "Broadsign",
+  "description": "",
+  "website": "https://broadsign.com/",
+  "headquarters": "Canada",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2003,
+  "supported_platforms": [
+    "BrightSign",
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 1500000,
+      "source": "https://broadsign.com/our-story/",
+      "date": "2025-04"
     }
+  }
 }

@@ -1,26 +1,26 @@
 {
-    "id": "monitorsanywhere",
-    "name": "Monitors AnyWhere",
-    "description": "",
-    "website": "https://monitorsanywhere.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2013,
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true
-    },
-    "stats": {
-        "screens": {
-            "total": 300000,
-            "source": "https://www.linkedin.com/in/roy--tal/?originalSubdomain=il",
-            "date": "2025-04"
-        }
+  "id": "monitorsanywhere",
+  "name": "Monitors AnyWhere",
+  "description": "",
+  "website": "https://monitorsanywhere.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2013,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true
+  },
+  "stats": {
+    "screens": {
+      "total": 300000,
+      "source": "https://www.linkedin.com/in/roy--tal/?originalSubdomain=il",
+      "date": "2025-04"
     }
+  }
 }

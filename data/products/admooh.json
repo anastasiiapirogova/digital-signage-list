@@ -1,37 +1,37 @@
 {
-    "id": "admooh",
-    "name": "Admooh",
-    "description": "",
-    "website": "https://site.admooh.com/",
-    "headquarters": "Brazil",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2015,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "Linux",
-        "Windows",
-        "Tizen"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Light",
-                "monthly": 5.1,
-                "yearly": 51.95
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 20000,
-            "source": "https://site.admooh.com/admooh-anunciantes",
-            "date": "2025-04"
-        }
+  "id": "admooh",
+  "name": "Admooh",
+  "description": "",
+  "website": "https://site.admooh.com/",
+  "headquarters": "Brazil",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Light",
+        "monthly": 5.1,
+        "yearly": 51.95
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 20000,
+      "source": "https://site.admooh.com/admooh-anunciantes",
+      "date": "2025-04"
     }
+  }
 }

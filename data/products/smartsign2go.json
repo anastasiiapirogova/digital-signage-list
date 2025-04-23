@@ -1,48 +1,48 @@
 {
-    "id": "smartsign2go",
-    "name": "SmartSign2Go",
-    "description": "",
-    "website": "https://smartsign2go.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2012,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "iOS",
-        "Linux",
-        "macOS",
-        "Web Browser",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "plans": [
-            {
-                "name": "Essentials",
-                "monthly": 23.50,
-                "yearly": null
-            },
-            {
-                "name": "Advantage",
-                "monthly": 32,
-                "yearly": null
-            },
-            {
-                "name": "Enterprise",
-                "monthly": 43,
-                "yearly": null
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 10000,
-            "source": "https://smartsign2go.com/life-with-us/about-us/",
-            "date": "2025-04"
-        }
+  "id": "smartsign2go",
+  "name": "SmartSign2Go",
+  "description": "",
+  "website": "https://smartsign2go.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Web Browser",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "Essentials",
+        "monthly": 23.5,
+        "yearly": null
+      },
+      {
+        "name": "Advantage",
+        "monthly": 32,
+        "yearly": null
+      },
+      {
+        "name": "Enterprise",
+        "monthly": 43,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 10000,
+      "source": "https://smartsign2go.com/life-with-us/about-us/",
+      "date": "2025-04"
     }
+  }
 }

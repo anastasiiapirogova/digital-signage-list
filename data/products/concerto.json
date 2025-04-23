@@ -1,20 +1,21 @@
 {
-    "id": "concerto",
-    "name": "Concerto",
-    "description": "",
-    "website": "https://www.concerto-signage.org/",
-    "headquarters": "USA",
-    "open_source": true,
-    "self_signup": false,
-    "year_founded": 2007,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Web Browser"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {}
+  "id": "concerto",
+  "name": "Concerto",
+  "description": "",
+  "website": "https://www.concerto-signage.org/",
+  "headquarters": "USA",
+  "open_source": true,
+  "self_signup": false,
+  "year_founded": 2007,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {}
 }

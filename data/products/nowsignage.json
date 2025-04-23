@@ -1,44 +1,44 @@
 {
-    "id": "nowsignage",
-    "name": "NowSignage",
-    "description": "",
-    "website": "https://www.nowsignage.com/",
-    "headquarters": "United Kingdom",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2013,
-    "notes": [
-        "The screen count is based on the number of customers. The actual screen count may vary."
-    ],
-    "supported_platforms": [
-        "Android",
-        "BrightSign",
-        "ChromeOS",
-        "Fire OS",
-        "Linux",
-        "Tizen",
-        "Web Browser",
-        "Windows",
-        "macOS",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "End User Pricing",
-                "monthly": 20,
-                "yearly": null
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 5000,
-            "source": "https://secure.nowsignage.com/customers/register",
-            "date": "2025-04"
-        }
+  "id": "nowsignage",
+  "name": "NowSignage",
+  "description": "",
+  "website": "https://www.nowsignage.com/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2013,
+  "notes": [
+    "The screen count is based on the number of customers. The actual screen count may vary."
+  ],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Web Browser",
+    "Windows",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "End User Pricing",
+        "monthly": 20,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 5000,
+      "source": "https://secure.nowsignage.com/customers/register",
+      "date": "2025-04"
     }
+  }
 }

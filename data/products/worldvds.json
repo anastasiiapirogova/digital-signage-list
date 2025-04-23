@@ -1,29 +1,29 @@
 {
-    "id": "worldvds",
-    "name": "World VDS",
-    "description": "",
-    "website": "https://www.amplitudenet.pt/en/digital-signage-software/",
-    "headquarters": "Portugal",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2012,
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "Linux",
-        "Tizen",
-        "Windows",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 11000,
-            "source": "https://www.amplitudenet.pt/en/",
-            "date": "2025-04"
-        }
+  "id": "worldvds",
+  "name": "World VDS",
+  "description": "",
+  "website": "https://www.amplitudenet.pt/en/digital-signage-software/",
+  "headquarters": "Portugal",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 11000,
+      "source": "https://www.amplitudenet.pt/en/",
+      "date": "2025-04"
     }
+  }
 }

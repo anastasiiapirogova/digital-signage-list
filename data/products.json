@@ -9,9 +9,9 @@
     "self_signup": false,
     "year_founded": 2004,
     "supported_platforms": [
-      "macOS",
       "Linux",
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -36,13 +36,13 @@
     "year_founded": 2006,
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "ChromeOS",
-      "iOS",
+      "Fire OS",
       "Linux",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "iOS",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -77,8 +77,8 @@
       "Android",
       "Fire OS",
       "Linux",
-      "Windows",
-      "Tizen"
+      "Tizen",
+      "Windows"
     ],
     "pricing": {
       "free_trial": false,
@@ -160,6 +160,7 @@
       "Android",
       "BrightSign",
       "ChromeOS",
+      "Fire OS",
       "Linux",
       "Tizen",
       "Windows",
@@ -185,12 +186,12 @@
     "year_founded": 2019,
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "BrightSign",
+      "Fire OS",
       "Linux",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -305,8 +306,8 @@
     "notes": [],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "Cenareo Player",
+      "Fire OS",
       "Tizen"
     ],
     "pricing": {
@@ -333,8 +334,8 @@
     "self_signup": false,
     "year_founded": 2006,
     "supported_platforms": [
-      "Tizen",
       "Linux",
+      "Tizen",
       "webOS"
     ],
     "pricing": {
@@ -429,6 +430,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Web Browser"
     ],
     "pricing": {
@@ -475,12 +477,12 @@
     "year_founded": 1993,
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "BrightSign",
+      "Fire OS",
       "Linux",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -506,6 +508,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows"
     ],
     "pricing": {
@@ -536,8 +539,8 @@
     ],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "BrightSign",
+      "Fire OS",
       "Linux",
       "Tizen",
       "Windows",
@@ -720,8 +723,8 @@
     "year_founded": 2003,
     "supported_platforms": [
       "Web Browser",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -747,8 +750,8 @@
     "notes": [],
     "supported_platforms": [
       "ChromeOS",
-      "macOS",
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -838,13 +841,13 @@
     "notes": [],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "BrightSign",
       "ChromeOS",
+      "Fire OS",
       "Linux",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -1002,11 +1005,12 @@
       "Android",
       "BrightSign",
       "ChromeOS",
-      "iOS",
+      "Fire OS",
       "Linux",
       "Tizen",
       "Web Browser",
       "Windows",
+      "iOS",
       "macOS"
     ],
     "pricing": {
@@ -1096,6 +1100,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Tizen",
       "Windows",
       "webOS"
@@ -1153,12 +1158,13 @@
     "year_founded": 2017,
     "notes": [],
     "supported_platforms": [
-      "ChromeOS",
-      "BrightSign",
       "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
       "Linux",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -1192,8 +1198,8 @@
     "supported_platforms": [
       "Android",
       "Fire OS",
-      "Windows",
       "Linux",
+      "Windows",
       "macOS",
       "webOS"
     ],
@@ -1376,6 +1382,7 @@
     "notes": [],
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows"
     ],
     "pricing": {
@@ -1401,13 +1408,13 @@
     "year_founded": 2004,
     "notes": [],
     "supported_platforms": [
-      "Windows",
       "Android",
-      "webOS",
+      "BrightSign",
+      "Fire OS",
       "Linux",
       "Tizen",
-      "BrightSign",
-      "Fire OS"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -1501,12 +1508,12 @@
     "open_source": false,
     "self_signup": false,
     "supported_platforms": [
-      "Windows",
-      "iOS",
       "Android",
-      "Fire OS",
       "ChromeOS",
-      "Linux"
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "iOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -1544,8 +1551,8 @@
     "notes": [],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "ChromeOS",
+      "Fire OS",
       "Tizen",
       "Windows",
       "webOS"
@@ -1628,8 +1635,8 @@
       "Fire OS",
       "Linux",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -1681,8 +1688,8 @@
     "year_founded": 2024,
     "notes": [],
     "supported_platforms": [
-      "Web Browser",
-      "Linux"
+      "Linux",
+      "Web Browser"
     ],
     "pricing": {
       "free_trial": true,
@@ -1771,10 +1778,10 @@
       "ChromeOS",
       "Fire OS",
       "Linux",
-      "macOS",
       "Tizen",
       "Windows",
       "iOS",
+      "macOS",
       "webOS"
     ],
     "pricing": {
@@ -1810,9 +1817,9 @@
       "A player license is required for open-source server usage, though subscription charges are waived if opting for an open-source server."
     ],
     "supported_platforms": [
-      "Linux",
       "Android",
       "Fire OS",
+      "Linux",
       "Web Browser"
     ],
     "pricing": {
@@ -1882,9 +1889,9 @@
       "ChromeOS",
       "Fire OS",
       "Linux",
-      "macOS",
       "Tizen",
       "Windows",
+      "macOS",
       "webOS"
     ],
     "pricing": {
@@ -1919,11 +1926,11 @@
     "supported_platforms": [
       "Amazon Signage",
       "Android",
-      "Fire OS",
       "BrightSign",
+      "Fire OS",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -1954,8 +1961,8 @@
       "Android",
       "Fire OS",
       "Linux",
-      "macOS",
-      "Windows"
+      "Windows",
+      "macOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2086,9 +2093,9 @@
       "Linux",
       "Tizen",
       "Web Browser",
-      "webOS",
       "Windows",
-      "tvOS"
+      "tvOS",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2146,12 +2153,12 @@
     "notes": [],
     "supported_platforms": [
       "Android",
-      "Fire OS",
-      "iOS",
-      "macOS",
-      "Linux",
       "ChromeOS",
-      "Windows"
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "iOS",
+      "macOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2195,11 +2202,11 @@
       "Android",
       "ChromeOS",
       "Fire OS",
-      "macOS",
       "Tizen",
       "Web Browser",
-      "webOS",
-      "Windows"
+      "Windows",
+      "macOS",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2231,6 +2238,7 @@
     "year_founded": 2014,
     "supported_platforms": [
       "Android",
+      "Fire OS",
       "Windows"
     ],
     "pricing": {
@@ -2317,8 +2325,8 @@
     "year_founded": 2013,
     "notes": [],
     "supported_platforms": [
-      "Web Browser",
-      "Screenly Player"
+      "Screenly Player",
+      "Web Browser"
     ],
     "pricing": {
       "free_trial": true,
@@ -2352,8 +2360,8 @@
     "notes": [],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "ChromeOS",
+      "Fire OS",
       "Linux",
       "Tizen",
       "Web Browser",
@@ -2393,11 +2401,11 @@
     "supported_platforms": [
       "Amazon Signage",
       "BrightSign",
-      "Tizen",
       "ChromeOS",
       "ClickShare",
-      "webOS",
-      "Windows"
+      "Tizen",
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2470,8 +2478,8 @@
     "supported_platforms": [
       "Android",
       "Fire OS",
-      "tvOS",
-      "Windows"
+      "Windows",
+      "tvOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2503,11 +2511,11 @@
     "year_founded": 2014,
     "notes": [],
     "supported_platforms": [
-      "Windows",
       "Android",
-      "webOS",
+      "Fire OS",
       "Tizen",
-      "Fire OS"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -2570,14 +2578,14 @@
     "year_founded": 2011,
     "notes": [],
     "supported_platforms": [
-      "ChromeOS",
-      "Android",
       "Amazon Signage",
-      "webOS",
+      "Android",
+      "ChromeOS",
+      "Fire OS",
       "Linux",
-      "Windows",
       "Tizen",
-      "Fire OS"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2621,11 +2629,11 @@
     "supported_platforms": [
       "Android",
       "Fire OS",
-      "iOS",
       "Linux",
-      "macOS",
       "Web Browser",
-      "Windows"
+      "Windows",
+      "iOS",
+      "macOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -2670,12 +2678,12 @@
     ],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "BrightSign",
-      "iOS",
+      "Fire OS",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "iOS",
+      "webOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -2828,9 +2836,9 @@
       "Screen count is based on revenue."
     ],
     "supported_platforms": [
-      "Windows",
       "ChromeOS",
-      "Tizen"
+      "Tizen",
+      "Windows"
     ],
     "pricing": {
       "free_trial": true,
@@ -2866,13 +2874,13 @@
     ],
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "ChromeOS",
-      "macOS",
-      "iOS",
+      "Fire OS",
       "Linux",
       "Web Browser",
-      "Windows"
+      "Windows",
+      "iOS",
+      "macOS"
     ],
     "pricing": {
       "free_trial": false,
@@ -2929,12 +2937,12 @@
     "self_signup": true,
     "supported_platforms": [
       "Android",
-      "Fire OS",
       "ChromeOS",
+      "Fire OS",
       "Linux",
       "Tizen",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -3003,8 +3011,8 @@
       "Linux",
       "Tizen",
       "Web Browser",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,
@@ -3044,8 +3052,8 @@
     "supported_platforms": [
       "Android",
       "Fire OS",
-      "webOS",
-      "Windows"
+      "Windows",
+      "webOS"
     ],
     "pricing": {
       "free_trial": true,

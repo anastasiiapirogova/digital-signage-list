@@ -1,30 +1,30 @@
 {
-    "id": "atmospheretv",
-    "name": "AtmosphereTV",
-    "description": "",
-    "website": "https://www.atmosphere.tv/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2019,
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "BrightSign",
-        "Linux",
-        "Tizen",
-        "webOS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 60000,
-            "source": "https://www.atmosphere.tv/",
-            "date": "2025-04"
-        }
+  "id": "atmospheretv",
+  "name": "AtmosphereTV",
+  "description": "",
+  "website": "https://www.atmosphere.tv/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2019,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 60000,
+      "source": "https://www.atmosphere.tv/",
+      "date": "2025-04"
     }
+  }
 }

@@ -1,40 +1,40 @@
 {
-    "id": "screenmanager",
-    "name": "ScreenManager",
-    "description": "",
-    "website": "https://screenmanager.tech/",
-    "headquarters": "Czechia",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2017,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "ChromeOS",
-        "Linux",
-        "Tizen",
-        "Web Browser",
-        "Windows",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Business",
-                "monthly": 8,
-                "yearly": 72
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 9345,
-            "source": "https://screenmanager.tech/",
-            "date": "2025-04"
-        }
+  "id": "screenmanager",
+  "name": "ScreenManager",
+  "description": "",
+  "website": "https://screenmanager.tech/",
+  "headquarters": "Czechia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2017,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Web Browser",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Business",
+        "monthly": 8,
+        "yearly": 72
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 9345,
+      "source": "https://screenmanager.tech/",
+      "date": "2025-04"
     }
+  }
 }

@@ -1,25 +1,22 @@
 {
-    "id": "displaymonkey",
-    "name": "DisplayMonkey",
-    "description": "",
-    "website": "https://github.com/fuel9/DisplayMonkey",
-    "headquarters": "Unknown",
-    "open_source": true,
-    "self_signup": false,
-    "is_deprecated": true,
-    "year_founded": 2015,
-    "notes": [
-    ],
-    "supported_platforms": [
-        "Web Browser"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false,
-        "has_freemium": false,
-        "plans": [
-        ]
-    },
-    "stats": {
-    }
+  "id": "displaymonkey",
+  "name": "DisplayMonkey",
+  "description": "",
+  "website": "https://github.com/fuel9/DisplayMonkey",
+  "headquarters": "Unknown",
+  "open_source": true,
+  "self_signup": false,
+  "is_deprecated": true,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {}
 }

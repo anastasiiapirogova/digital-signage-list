@@ -1,26 +1,24 @@
 {
-    "id": "doohly",
-    "name": "Doohly",
-    "description": "",
-    "website": "https://www.dooh.ly/",
-    "headquarters": "Australia",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2020,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "Linux",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false,
-        "has_freemium": false,
-        "plans": [
-        ]
-    },
-    "stats": {
-    }
+  "id": "doohly",
+  "name": "Doohly",
+  "description": "",
+  "website": "https://www.dooh.ly/",
+  "headquarters": "Australia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2020,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {}
 }

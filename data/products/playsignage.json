@@ -1,41 +1,41 @@
 {
-    "id": "playsignage",
-    "name": "PlaySignage",
-    "description": "",
-    "website": "https://playsignage.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2013,
-    "notes": [],
-    "supported_platforms": [
-        "Amazon Signage",
-        "Android",
-        "ChromeOS",
-        "Fire OS",
-        "Linux",
-        "macOS",
-        "Tizen",
-        "Windows",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Subscription",
-                "monthly": 18,
-                "yearly": 144
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 17000,
-            "source": "https://playsignage.com/",
-            "date": "2025-04"
-        }
+  "id": "playsignage",
+  "name": "PlaySignage",
+  "description": "",
+  "website": "https://playsignage.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2013,
+  "notes": [],
+  "supported_platforms": [
+    "Amazon Signage",
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Subscription",
+        "monthly": 18,
+        "yearly": 144
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 17000,
+      "source": "https://playsignage.com/",
+      "date": "2025-04"
     }
+  }
 }

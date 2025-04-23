@@ -1,30 +1,30 @@
 {
-    "id": "poppulo",
-    "name": "Poppulo",
-    "description": "",
-    "website": "https://www.poppulo.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 1996,
-    "supported_platforms": [
-        "Amazon Signage",
-        "Android",
-        "Fire OS",
-        "BrightSign",
-        "Tizen",
-        "webOS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 500000,
-            "source": "https://www.poppulo.com/",
-            "date": "2025-04"
-        }
+  "id": "poppulo",
+  "name": "Poppulo",
+  "description": "",
+  "website": "https://www.poppulo.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 1996,
+  "supported_platforms": [
+    "Amazon Signage",
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 500000,
+      "source": "https://www.poppulo.com/",
+      "date": "2025-04"
     }
+  }
 }

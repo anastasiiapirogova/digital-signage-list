@@ -1,39 +1,39 @@
 {
-    "id": "screencloud",
-    "name": "ScreenCloud",
-    "description": "",
-    "website": "https://screencloud.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2015,
-    "supported_platforms": [
-        "Amazon Signage",
-        "Android",
-        "ChromeOS",
-        "Fire OS",
-        "macOS",
-        "Tizen",
-        "Web Browser",
-        "webOS",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "plans": [
-            {
-                "name": "Core",
-                "monthly": 24,
-                "yearly": 240
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 100000,
-            "source": "https://dreamdata.io/blog/success-story-screencloud",
-            "date": "2023-12"
-        }
+  "id": "screencloud",
+  "name": "ScreenCloud",
+  "description": "",
+  "website": "https://screencloud.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2015,
+  "supported_platforms": [
+    "Amazon Signage",
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Tizen",
+    "Web Browser",
+    "Windows",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "Core",
+        "monthly": 24,
+        "yearly": 240
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 100000,
+      "source": "https://dreamdata.io/blog/success-story-screencloud",
+      "date": "2023-12"
     }
+  }
 }

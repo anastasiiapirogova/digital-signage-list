@@ -1,25 +1,25 @@
 {
-    "id": "scala",
-    "name": "Scala",
-    "description": "",
-    "website": "https://scala.com",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 1987,
-    "supported_platforms": [
-        "Linux",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 3100000,
-            "source": "https://scala.com",
-            "date": "2025-04"
-        }
+  "id": "scala",
+  "name": "Scala",
+  "description": "",
+  "website": "https://scala.com",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 1987,
+  "supported_platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 3100000,
+      "source": "https://scala.com",
+      "date": "2025-04"
     }
+  }
 }

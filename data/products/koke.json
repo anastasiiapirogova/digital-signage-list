@@ -1,36 +1,37 @@
 {
-    "id": "koke",
-    "name": "Koke",
-    "description": "",
-    "website": "https://koke.gmbh/kms/",
-    "headquarters": "Germany",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2011,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Tizen",
-        "Windows",
-        "webOS"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": true,
-        "has_freemium": false,
-        "plans": [
-            {
-                "name": "Device License",
-                "monthly": 16.63,
-                "yearly": null
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 3523,
-            "source": "https://koke.gmbh/",
-            "date": "2025-04"
-        }
+  "id": "koke",
+  "name": "Koke",
+  "description": "",
+  "website": "https://koke.gmbh/kms/",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Device License",
+        "monthly": 16.63,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 3523,
+      "source": "https://koke.gmbh/",
+      "date": "2025-04"
     }
+  }
 }

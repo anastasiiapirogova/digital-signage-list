@@ -1,34 +1,34 @@
 {
-    "id": "vivi",
-    "name": "Vivi",
-    "description": "",
-    "website": "https://www.vivi.io/",
-    "headquarters": "Australia",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2015,
-    "notes": [
-        "Total sceens number based on the number of classrooms provided"
-    ],
-    "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "ChromeOS",
-        "macOS",
-        "iOS",
-        "Linux",
-        "Web Browser",
-        "Windows"
-    ],
-    "pricing": {
-        "free_trial": false,
-        "pricing_available": false
-    },
-    "stats": {
-        "screens": {
-            "total": 120000,
-            "source": "https://www.vivi.io/",
-            "date": "2025-04"
-        }
+  "id": "vivi",
+  "name": "Vivi",
+  "description": "",
+  "website": "https://www.vivi.io/",
+  "headquarters": "Australia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [
+    "Total sceens number based on the number of classrooms provided"
+  ],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Web Browser",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false
+  },
+  "stats": {
+    "screens": {
+      "total": 120000,
+      "source": "https://www.vivi.io/",
+      "date": "2025-04"
     }
+  }
 }

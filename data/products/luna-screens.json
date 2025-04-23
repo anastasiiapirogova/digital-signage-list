@@ -1,39 +1,39 @@
 {
-    "id": "luna-screens",
-    "name": "Luna Screens",
-    "description": "",
-    "website": "https://lunascreens.com/",
-    "headquarters": "Australia",
-    "open_source": false,
-    "self_signup": true,
-    "year_founded": 2024,
-    "notes": [],
-    "supported_platforms": [
-        "Android",
-        "Fire OS"
-    ],
-    "pricing": {
-        "free_trial": true,
-        "pricing_available": true,
-        "has_freemium": true,
-        "plans": [
-            {
-                "name": "Free",
-                "monthly": 0,
-                "yearly": 0
-            },
-            {
-                "name": "Paid",
-                "monthly": 3.75,
-                "yearly": 35
-            }
-        ]
-    },
-    "stats": {
-        "screens": {
-            "total": 1000,
-            "source": "https://www.sixteen-nine.net/2025/03/17/alastair-taft-of-tasmanias-luna-screens-explains-his-approach-to-really-simple-digital-signage-software/",
-            "date": "2025-03"
-        }
+  "id": "luna-screens",
+  "name": "Luna Screens",
+  "description": "",
+  "website": "https://lunascreens.com/",
+  "headquarters": "Australia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2024,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Paid",
+        "monthly": 3.75,
+        "yearly": 35
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 1000,
+      "source": "https://www.sixteen-nine.net/2025/03/17/alastair-taft-of-tasmanias-luna-screens-explains-his-approach-to-really-simple-digital-signage-software/",
+      "date": "2025-03"
     }
+  }
 }
