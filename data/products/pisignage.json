@@ -1,0 +1,38 @@
+{
+    "id": "pisignage",
+    "name": "piSignage",
+    "description": "",
+    "website": "https://pisignage.com/",
+    "headquarters": "India",
+    "open_source": true,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [
+        "A player license is required for open-source server usage, though subscription charges are waived if opting for an open-source server."
+    ],
+    "supported_platforms": [
+        "Linux",
+        "Android",
+        "Fire OS",
+        "Web Browser"
+    ],
+    "pricing": {
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": true,
+        "plans": [
+            {
+                "name": "Basic",
+                "monthly": 3.43,
+                "yearly": null
+            }
+        ]
+    },
+    "stats": {
+        "screens": {
+            "total": 125493,
+            "source": "https://pisignage.com/homepage/index.html",
+            "date": "2025-04"
+        }
+    }
+}

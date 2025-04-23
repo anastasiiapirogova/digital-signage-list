@@ -1,0 +1,30 @@
+{
+    "id": "garlic-player",
+    "name": "Garlic Player",
+    "description": "",
+    "website": "https://garlic-player.com/",
+    "headquarters": "Unknown",
+    "open_source": true,
+    "self_signup": false,
+    "is_deprecated": false,
+    "year_founded": 2016,
+    "notes": [
+        "You need to build your own CMS to connect this player, or use it with a SmilControl CMS."
+    ],
+    "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "Linux",
+        "Windows",
+        "macOS"
+    ],
+    "pricing": {
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false,
+        "plans": [
+        ]
+    },
+    "stats": {
+    }
+}
