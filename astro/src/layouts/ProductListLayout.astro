@@ -9,7 +9,7 @@ import { GlobalStats } from "../components";
 <Layout>
     <div class="flex h-full relative">
         <div
-            class="w-[300px] flex flex-col gap-5 max-h-screen h-screen overflow-y-auto sticky top-0 scrollbar-thin p-5 bg-neutral-100"
+            class="hidden lg:flex w-[300px] flex-col gap-5 shrink-0 max-h-screen h-screen overflow-y-auto sticky top-0 scrollbar-thin p-5 bg-neutral-100"
         >
             <FiltersSidebar client:only />
         </div>
@@ -17,7 +17,7 @@ import { GlobalStats } from "../components";
             <Header />
             <About />
             <GlobalStats client:only />
-            <div class="px-10">
+            <div class="md:px-5 lg:px-10">
                 <slot />
             </div>
         </div>

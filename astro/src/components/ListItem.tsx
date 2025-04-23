@@ -1,4 +1,4 @@
-import { TbDeviceDesktop, TbExternalLink, TbMapPin } from "react-icons/tb";
+import { TbExternalLink, TbMapPin } from "react-icons/tb";
 import type { Product } from "./types";
 import { Badge } from "./Badge";
 
@@ -40,20 +40,20 @@ const Screens = ({ product }: { product: Product }) => {
 
 export const ListItem = ({ product }: { product: Product }) => {
     return (
-        <div className="hover:bg-neutral-100 rounded p-5 group">
+        <div className="hover:bg-neutral-100 md:rounded p-3 lg:p-5 group">
             <div className="flex gap-5 items-center">
-                <div className="aspect-square h-20 flex items-center justify-center rounded bg-neutral-200">
+                <div className="aspect-square h-14 md:h-20 flex items-center justify-center rounded bg-neutral-200">
                     <div className="text-3xl text-gray-400 font-mono font-bold">
                         { product.name[0] }
                     </div>
                 </div>
-                <div className="flex flex-col w-full gap-3">
+                <div className="flex flex-col w-full gap-2 md:gap-3">
                     <div className="flex items-center justify-between w-full">
                         <div className="grow flex items-center font-medium gap-2 text-xl">
                             <div>
                                 {product.name}
                             </div>
-                            <a href={`${product.website}?ref=signagelist.org`} className="opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-colors transition-opacity p-1" target="_blank" rel="noopener noreferrer">
+                            <a href={`${product.website}?ref=signagelist.org`} className="opacity-100 lg:opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-colors transition-opacity p-1" target="_blank" rel="noopener noreferrer">
                                 <TbExternalLink size={20} />
                             </a>
                         </div>
@@ -73,7 +73,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                             </div>
                             <Screens product={product} />
                         </div>
-                        <div className="flex gap-2 items-center">
+                        <div className="gap-2 items-center hidden md:flex">
                             <FreeTrial product={product} />
                             <Pricing product={product} />
                             <OpenSource product={product} />
