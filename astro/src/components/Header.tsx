@@ -3,7 +3,7 @@ import githubLogo from "../assets/github-mark.svg";
 
 export const Header = () => {
     return (
-        <header className="border-b border-neutral-200 py-4 px-10">
+        <header className="border-b border-neutral-200 py-4 px-10 sticky top-0 bg-white z-10">
             <div className="flex justify-between items-center font-mono">
                 <h1>signagelist</h1>
                 <nav>
