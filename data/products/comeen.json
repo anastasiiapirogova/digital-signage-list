@@ -1,5 +1,5 @@
 {
-  "id": "сomeen",
+  "id": "comeen",
   "name": "Comeen",
   "description": "",
   "website": "https://comeen.com/products/digital-signage",
@@ -31,5 +31,5 @@
     ]
   },
   "stats": {},
-  "has_logo": false
+  "has_logo": true
 }

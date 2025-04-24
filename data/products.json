@@ -272,7 +272,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "blynk",
@@ -297,7 +297,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "breeze",
@@ -330,7 +330,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "brightsign",
@@ -362,7 +362,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "broadsign",
@@ -389,7 +389,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "cenareo",
@@ -420,7 +420,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "centoview",
@@ -447,7 +447,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "cms-signage",
@@ -482,10 +482,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
-    "id": "сomeen",
+    "id": "comeen",
     "name": "Comeen",
     "description": "",
     "website": "https://comeen.com/products/digital-signage",
@@ -517,7 +517,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "concerto",
@@ -539,7 +539,7 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "deepiscreen",

@@ -41,7 +41,7 @@ const Screens = ({ product }: { product: Product }) => {
 const Logo = ({ product }: { product: Product }) => {
     if (!product.has_logo) {
         return (
-            <div className="aspect-square h-14 md:h-20 flex items-center justify-center rounded bg-neutral-200">
+            <div className="aspect-square h-16 md:h-24 flex items-center justify-center rounded bg-neutral-200">
                 <div className="text-3xl text-gray-400 font-mono font-bold">
                     {product.name[0]}
                 </div>
@@ -53,7 +53,7 @@ const Logo = ({ product }: { product: Product }) => {
         <img
             src={`/assets/logos/${product.id}.png`}
             alt={product.name}
-            className="aspect-square h-14 md:h-20 object-cover rounded shrink-0"
+            className="aspect-square h-16 md:h-24 object-cover rounded shrink-0"
         />
     )
 }
@@ -61,7 +61,7 @@ const Logo = ({ product }: { product: Product }) => {
 export const ListItem = ({ product }: { product: Product }) => {
     return (
         <div className="hover:bg-neutral-100 md:rounded p-3 lg:p-5 group">
-            <div className="flex gap-5 items-center">
+            <div className="flex gap-3 md:gap-5 items-center">
                 <Logo product={product} />
                 <div className="flex flex-col w-full gap-2 md:gap-3">
                     <div className="flex items-center justify-between w-full">
