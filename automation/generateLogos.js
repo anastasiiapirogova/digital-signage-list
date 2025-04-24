@@ -23,8 +23,7 @@ async function processImage(file, folder) {
     const outputPath = join(outputDir, outputFileName);
 
     if (existsSync(outputPath)) {
-        console.log(`⚠️ Skipping (already converted): ${file}`);
-        return;
+        return
     }
 
     try {
