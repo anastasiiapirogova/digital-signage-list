@@ -1,0 +1,30 @@
+{
+  "id": "iisignage",
+  "name": "iiSignage",
+  "description": "",
+  "website": "https://iiyama.com/gl_en/iisignage",
+  "headquarters": "Japan",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2023,
+  "notes": [
+    "To work with iiSignage the PC or notebook needs to be connected to the same (LAN/WiFi) network as the displays.",
+    "There is also iiSignage², which is cloud-based."
+  ],
+  "supported_platforms": [
+    "iiyama"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      }
+    ]
+  },
+  "stats": {}
+}

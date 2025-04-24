@@ -1,0 +1,30 @@
+{
+  "id": "viewneo",
+  "name": "viewneo",
+  "description": "",
+  "website": "https://www.viewneo.com/",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2013,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows",
+    "iOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "viewneo Professional",
+        "monthly": 21,
+        "yearly": null
+      }
+    ]
+  },
+  "stats": {}
+}

@@ -26,6 +26,39 @@
     }
   },
   {
+    "id": "addreality",
+    "name": "Addreality",
+    "description": "",
+    "website": "https://addreality.com/",
+    "headquarters": "Russia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 60000,
+        "source": "https://addreality.com/",
+        "date": "2025-04"
+      }
+    }
+  },
+  {
     "id": "admira",
     "name": "Admira",
     "description": "",
@@ -206,8 +239,35 @@
     }
   },
   {
+    "id": "bizplay",
+    "name": "Bizplay",
+    "description": "",
+    "website": "https://www.bizplay.com/",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Smart",
+          "monthly": 14.82,
+          "yearly": 151.68
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "blynk",
-    "name": "Blynk`",
+    "name": "Blynk",
     "description": "",
     "website": "https://blynk.co.uk/content-programming/",
     "headquarters": "United Kingdom",
@@ -521,6 +581,34 @@
     }
   },
   {
+    "id": "digisigns",
+    "name": "Digisigns",
+    "description": "",
+    "website": "https://digisigns.in/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2023,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "STANDARD",
+          "monthly": 20,
+          "yearly": 220
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "digitalsignage-net",
     "name": "digitalsignage.NET",
     "description": "",
@@ -544,6 +632,41 @@
           "name": "Starter",
           "monthly": null,
           "yearly": 184
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "id": "disign",
+    "name": "disign",
+    "description": "",
+    "website": "https://www.disign.tv/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Media",
+          "monthly": 10.25,
+          "yearly": 109.32
         }
       ]
     },
@@ -808,6 +931,36 @@
     }
   },
   {
+    "id": "fijee",
+    "name": "Fijee",
+    "description": "",
+    "website": "https://fijee.ru/",
+    "headquarters": "Russia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2021,
+    "notes": [
+      "Formerly known as Phygital Signage (phygitalsignage.io)"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Cloud",
+          "monthly": 4.7,
+          "yearly": 47
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "flexitive",
     "name": "Flexitive",
     "description": "",
@@ -1008,6 +1161,57 @@
     "notes": [],
     "supported_platforms": [
       "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {}
+  },
+  {
+    "id": "iisignage",
+    "name": "iiSignage",
+    "description": "",
+    "website": "https://iiyama.com/gl_en/iisignage",
+    "headquarters": "Japan",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2023,
+    "notes": [
+      "To work with iiSignage the PC or notebook needs to be connected to the same (LAN/WiFi) network as the displays.",
+      "There is also iiSignage², which is cloud-based."
+    ],
+    "supported_platforms": [
+      "iiyama"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "id": "iisignage2",
+    "name": "iiSignage²",
+    "description": "",
+    "website": "https://iiyama.com/gl_en/iisignage2",
+    "headquarters": "Japan",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2023,
+    "notes": [],
+    "supported_platforms": [
+      "iiyama"
     ],
     "pricing": {
       "free_trial": false,
@@ -2858,6 +3062,31 @@
     "stats": {}
   },
   {
+    "id": "smart-prospective",
+    "name": "Smart Prospective",
+    "description": "",
+    "website": "https://smartprospective.com/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Cloud",
+          "monthly": 56.26,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
     "id": "smartsign2go",
     "name": "SmartSign2Go",
     "description": "",
@@ -2904,6 +3133,39 @@
         "date": "2025-04"
       }
     }
+  },
+  {
+    "id": "smilcontrol",
+    "name": "SmilControl",
+    "description": "",
+    "website": "https://smil-control.com/software/cms/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2011,
+    "notes": [
+      "A CMS that can be used with the open-source digital signage player Garlic Player"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Sample Offer",
+          "monthly": 5.7,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {}
   },
   {
     "id": "spectrio",
@@ -2995,6 +3257,36 @@
           "yearly": 96
         }
       ]
+    },
+    "stats": {}
+  },
+  {
+    "id": "touchify",
+    "name": "Touchify",
+    "description": "",
+    "website": "https://www.touchify.io/en/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {}
   },
@@ -3100,6 +3392,36 @@
         "date": "2025-04"
       }
     }
+  },
+  {
+    "id": "viewneo",
+    "name": "viewneo",
+    "description": "",
+    "website": "https://www.viewneo.com/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "viewneo Professional",
+          "monthly": 21,
+          "yearly": null
+        }
+      ]
+    },
+    "stats": {}
   },
   {
     "id": "visionbox",

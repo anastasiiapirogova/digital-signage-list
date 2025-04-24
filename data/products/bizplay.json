@@ -1,0 +1,27 @@
+{
+  "id": "bizplay",
+  "name": "Bizplay",
+  "description": "",
+  "website": "https://www.bizplay.com/",
+  "headquarters": "Netherlands",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Smart",
+        "monthly": 14.82,
+        "yearly": 151.68
+      }
+    ]
+  },
+  "stats": {}
+}

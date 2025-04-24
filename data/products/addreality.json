@@ -1,0 +1,33 @@
+{
+  "id": "addreality",
+  "name": "Addreality",
+  "description": "",
+  "website": "https://addreality.com/",
+  "headquarters": "Russia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 60000,
+      "source": "https://addreality.com/",
+      "date": "2025-04"
+    }
+  }
+}
