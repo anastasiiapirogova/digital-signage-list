@@ -1,0 +1,24 @@
+{
+  "id": "zebrix",
+  "name": "Zebrix",
+  "description": "",
+  "website": "https://www.zebrix.net/en/",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 50000,
+      "source": "https://www.zebrix.net/en/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": false
+}

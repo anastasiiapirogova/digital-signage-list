@@ -601,6 +601,24 @@
     "has_logo": true
   },
   {
+    "id": "digimago",
+    "name": "digimago",
+    "description": "",
+    "website": "https://www.digimago.tv/web/digitalsignage/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "digisigns",
     "name": "Digisigns",
     "description": "",
@@ -1480,6 +1498,24 @@
     "has_logo": true
   },
   {
+    "id": "leftclick",
+    "name": "LeftClick",
+    "description": "",
+    "website": "https://www.leftclick.cloud/",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "libre-signage",
     "name": "Libre Signage",
     "description": "",
@@ -1923,6 +1959,29 @@
       }
     },
     "has_logo": true
+  },
+  {
+    "id": "neoscreen",
+    "name": "Neoscreen",
+    "description": "",
+    "website": "https://affichagedynamique.iagona.com/en/our-software/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1988,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "netvisual",
@@ -3577,6 +3636,24 @@
     "has_logo": false
   },
   {
+    "id": "wesion",
+    "name": "wesion",
+    "description": "",
+    "website": "https://www.wesion.hu/",
+    "headquarters": "Hungary",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2022,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "worldvds",
     "name": "World VDS",
     "description": "",
@@ -3720,6 +3797,30 @@
       "screens": {
         "total": 180000,
         "source": "https://www.yodeck.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": false
+  },
+  {
+    "id": "zebrix",
+    "name": "Zebrix",
+    "description": "",
+    "website": "https://www.zebrix.net/en/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://www.zebrix.net/en/",
         "date": "2025-04"
       }
     },
