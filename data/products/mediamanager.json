@@ -1,5 +1,5 @@
 {
-  "id": "madiamanager",
+  "id": "mediamanager",
   "name": "Media Manager 2.0",
   "description": "",
   "website": "https://applink.pl/en/",
@@ -15,5 +15,5 @@
     "has_freemium": false
   },
   "stats": {},
-  "has_logo": false
+  "has_logo": true
 }

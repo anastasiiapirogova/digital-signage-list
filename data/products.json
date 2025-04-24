@@ -834,7 +834,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "easy-signage",
@@ -874,7 +874,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "easyscreen",
@@ -908,32 +908,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
-  },
-  {
-    "id": "econocom",
-    "name": "Econocom",
-    "description": "",
-    "website": "https://gather.econocom.com/en",
-    "headquarters": "Spain",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2023,
-    "notes": [],
-    "supported_platforms": [],
-    "pricing": {
-      "free_trial": false,
-      "pricing_available": false,
-      "has_freemium": false
-    },
-    "stats": {
-      "screens": {
-        "total": 5000,
-        "source": "https://invidis.com/news/2023/12/gather-rebranding-for-econocom-proav-business/",
-        "date": "2023-12"
-      }
-    },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "engagesuite",
@@ -960,7 +935,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "fijee",
@@ -991,7 +966,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "flexitive",
@@ -1025,7 +1000,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "framr",
@@ -1055,7 +1030,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "friendlyway",
@@ -1085,7 +1060,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "frontface",
@@ -1115,7 +1090,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "fusion-signage",
@@ -1156,7 +1131,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "garlic-player",
@@ -1185,7 +1160,7 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "hfl-signage-player",
@@ -1239,7 +1214,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "iisignage2",
@@ -1261,7 +1236,7 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "info-beamer",
@@ -1290,7 +1265,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "intelisa",
@@ -1308,7 +1283,7 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "intraactive-replay",
@@ -1336,7 +1311,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "intuiface",
@@ -1373,7 +1348,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "ipoint",
@@ -1401,7 +1376,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "juuno",
@@ -1431,7 +1406,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "kiwi-signage",
@@ -1464,7 +1439,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "koke",
@@ -1502,7 +1477,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "libre-signage",
@@ -1564,7 +1539,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "look-ds",
@@ -1603,7 +1578,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "loop-tv",
@@ -1631,7 +1606,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "luna-screens",
@@ -1671,7 +1646,7 @@
         "date": "2025-03"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "mandoe",
@@ -1707,7 +1682,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "mango-display",
@@ -1782,10 +1757,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
-    "id": "madiamanager",
+    "id": "mediamanager",
     "name": "Media Manager 2.0",
     "description": "",
     "website": "https://applink.pl/en/",
@@ -1801,7 +1776,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "mediatile",
@@ -1840,7 +1815,7 @@
         "date": ""
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "monitorsanywhere",
@@ -1867,7 +1842,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "musthavemenus",
@@ -1902,7 +1877,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "mvix",
@@ -1947,7 +1922,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "netvisual",
