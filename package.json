@@ -11,7 +11,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "merge-products": "node automation/updatePlatforms.js && node automation/mergeProducts.js",
+    "process-products": "node automation/updatePlatforms.js && node automation/generateLogos.js && node automation/updateLogoInformation.js && node automation/mergeProducts.js",
     "charts-data": "node automation/generateChartsData.js"
+  },
+  "dependencies": {
+    "imagemin": "^9.0.1",
+    "imagemin-pngquant": "^10.0.0",
+    "sharp": "^0.34.1"
   }
 }

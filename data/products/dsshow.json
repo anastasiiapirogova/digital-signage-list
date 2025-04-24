@@ -17,5 +17,6 @@
     "pricing_available": true,
     "has_freemium": false
   },
-  "stats": {}
+  "stats": {},
+  "has_logo": false
 }

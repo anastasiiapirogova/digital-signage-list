@@ -13,5 +13,6 @@
     "free_trial": true,
     "pricing_available": false
   },
-  "stats": {}
+  "stats": {},
+  "has_logo": false
 }

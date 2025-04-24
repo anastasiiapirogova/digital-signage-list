@@ -23,7 +23,8 @@
         "source": "https://acrelec.com/about/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": true
   },
   {
     "id": "addreality",
@@ -56,7 +57,8 @@
         "source": "https://addreality.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": true
   },
   {
     "id": "admira",
@@ -94,7 +96,8 @@
         "source": "https://admira.com/en/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": true
   },
   {
     "id": "admooh",
@@ -131,7 +134,8 @@
         "source": "https://site.admooh.com/admooh-anunciantes",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": true
   },
   {
     "id": "airtame",
@@ -158,7 +162,8 @@
         "source": "https://airtame.com/digital-signage/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": true
   },
   {
     "id": "anthias",
@@ -177,7 +182,8 @@
       "free_trial": false,
       "pricing_available": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": true
   },
   {
     "id": "appspace",
@@ -206,7 +212,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": true
   },
   {
     "id": "atmospheretv",
@@ -236,7 +243,8 @@
         "source": "https://www.atmosphere.tv/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": true
   },
   {
     "id": "bizplay",
@@ -263,7 +271,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "blynk",
@@ -287,7 +296,8 @@
         "source": "https://blynk.co.uk/content-programming/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "breeze",
@@ -319,7 +329,8 @@
         "source": "https://keywesttechnology.com/breeze-digital-signage",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "brightsign",
@@ -350,7 +361,8 @@
         "source": "https://www.brightsign.biz/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "broadsign",
@@ -376,7 +388,8 @@
         "source": "https://broadsign.com/our-story/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "cenareo",
@@ -406,7 +419,8 @@
         "source": "https://www.cenareo.com/fr/a-propos",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "centoview",
@@ -432,7 +446,8 @@
         "source": "https://www.centoview.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "cms-signage",
@@ -466,7 +481,8 @@
         "source": "https://cmssignage.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "сomeen",
@@ -500,7 +516,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "concerto",
@@ -521,7 +538,8 @@
       "free_trial": false,
       "pricing_available": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "deepiscreen",
@@ -548,7 +566,8 @@
         "source": "https://deepidoo.com/en/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "denevads",
@@ -578,7 +597,8 @@
         "source": "https://www.denevads.es/en/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "digisigns",
@@ -606,7 +626,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "digitalsignage-net",
@@ -635,7 +656,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "disign",
@@ -670,7 +692,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "displ",
@@ -712,7 +735,8 @@
         "source": "https://displ.com/about",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "displaymonkey",
@@ -734,7 +758,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "doohly",
@@ -758,7 +783,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "dsshow",
@@ -779,7 +805,8 @@
       "pricing_available": true,
       "has_freemium": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "easescreen",
@@ -806,7 +833,8 @@
         "source": "https://easescreen.com/en/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "easy-signage",
@@ -845,7 +873,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "easyscreen",
@@ -878,7 +907,8 @@
         "source": "https://easyscreen.tv/en/digital-signage-software/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "econocom",
@@ -902,7 +932,8 @@
         "source": "https://invidis.com/news/2023/12/gather-rebranding-for-econocom-proav-business/",
         "date": "2023-12"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "engagesuite",
@@ -928,7 +959,8 @@
         "source": "https://www.linkedin.com/company/zetadisplay/?utm_campaign=Global-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_p7VztyRT_Em6v_YcQLol_-IgMZ_dy29VxPAbqplr6ySGfv3x7M5eyr1tCN5viNmfBD9qW",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "fijee",
@@ -958,7 +990,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "flexitive",
@@ -991,7 +1024,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "framr",
@@ -1020,7 +1054,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "friendlyway",
@@ -1049,7 +1084,8 @@
         "source": "https://www.friendlyway.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "frontface",
@@ -1078,7 +1114,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "fusion-signage",
@@ -1118,7 +1155,8 @@
         "source": "https://fusionsignage.com.au/our-story",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "garlic-player",
@@ -1146,7 +1184,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "hfl-signage-player",
@@ -1168,7 +1207,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "iisignage",
@@ -1198,7 +1238,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "iisignage2",
@@ -1219,7 +1260,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "info-beamer",
@@ -1247,7 +1289,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "intelisa",
@@ -1264,7 +1307,8 @@
       "free_trial": true,
       "pricing_available": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "intraactive-replay",
@@ -1291,7 +1335,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "intuiface",
@@ -1327,7 +1372,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "ipoint",
@@ -1354,7 +1400,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "juuno",
@@ -1383,7 +1430,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "kiwi-signage",
@@ -1415,7 +1463,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "koke",
@@ -1452,7 +1501,8 @@
         "source": "https://koke.gmbh/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "libre-signage",
@@ -1474,7 +1524,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "livesignage",
@@ -1512,7 +1563,8 @@
         "source": "https://www.livesignage.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "look-ds",
@@ -1550,7 +1602,8 @@
         "source": "https://www.lookdigitalsignage.com/about-us",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "loop-tv",
@@ -1577,7 +1630,8 @@
         "source": "https://ww3.loop.tv/advertisers",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "luna-screens",
@@ -1616,7 +1670,8 @@
         "source": "https://www.sixteen-nine.net/2025/03/17/alastair-taft-of-tasmanias-luna-screens-explains-his-approach-to-really-simple-digital-signage-software/",
         "date": "2025-03"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "mandoe",
@@ -1651,7 +1706,8 @@
         "source": "https://mandoemedia.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "mango-display",
@@ -1697,7 +1753,8 @@
         "source": "https://davesdharma.live/2024/12/09/the-reward-of-product-obsession/",
         "date": "2024-12"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "media4display",
@@ -1724,7 +1781,8 @@
         "source": "https://www.linkedin.com/company/telelogos/about/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "madiamanager",
@@ -1742,7 +1800,8 @@
       "pricing_available": false,
       "has_freemium": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "mediatile",
@@ -1780,7 +1839,8 @@
         "source": "",
         "date": ""
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "monitorsanywhere",
@@ -1806,7 +1866,8 @@
         "source": "https://www.linkedin.com/in/roy--tal/?originalSubdomain=il",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "musthavemenus",
@@ -1840,7 +1901,8 @@
         "source": "https://www.musthavemenus.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "mvix",
@@ -1884,7 +1946,8 @@
         "source": "https://mvix.com/about-us/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "netvisual",
@@ -1902,7 +1965,8 @@
       "pricing_available": false,
       "has_freemium": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "novacloud",
@@ -1927,7 +1991,8 @@
         "source": "https://www.novastar.tech/products/nova-cloud/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "novisign",
@@ -1965,7 +2030,8 @@
         "source": "https://www.novisign.com/about/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "nowsignage",
@@ -2009,7 +2075,8 @@
         "source": "https://secure.nowsignage.com/customers/register",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "nsigntv",
@@ -2038,7 +2105,8 @@
         "source": "https://blog.nsign.tv/en/nsign.tv-named-a-2023-digital-signage-experience-awards-dizzie-finalist",
         "date": "2023-10"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "nutrislice",
@@ -2065,7 +2133,8 @@
         "source": "https://nutrislice.com/about-us/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "obscreen",
@@ -2093,7 +2162,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "omnivex",
@@ -2110,7 +2180,8 @@
       "free_trial": true,
       "pricing_available": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "onsign-tv",
@@ -2148,7 +2219,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "pickcel",
@@ -2192,7 +2264,8 @@
         "source": "https://www.pickcel.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "pisignage",
@@ -2230,7 +2303,8 @@
         "source": "https://pisignage.com/homepage/index.html",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "playipp",
@@ -2261,7 +2335,8 @@
         "source": "",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "playsignage",
@@ -2302,7 +2377,8 @@
         "source": "https://playsignage.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "poppulo",
@@ -2332,7 +2408,8 @@
         "source": "https://www.poppulo.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "posterbooking",
@@ -2372,7 +2449,8 @@
         "source": "https://posterbooking.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "q-play",
@@ -2412,7 +2490,8 @@
         "source": "https://nordicscreen.com/digital-signage/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "raydiant",
@@ -2434,7 +2513,8 @@
       "pricing_available": false,
       "has_freemium": false
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "reach",
@@ -2464,7 +2544,8 @@
         "source": "https://www.linkedin.com/company/reachmedianetwork/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "rise-vision",
@@ -2504,7 +2585,8 @@
         "source": "https://www.risevision.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "scala",
@@ -2529,7 +2611,8 @@
         "source": "https://scala.com",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "scalefusion",
@@ -2576,7 +2659,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "screencloud",
@@ -2615,7 +2699,8 @@
         "source": "https://dreamdata.io/blog/success-story-screencloud",
         "date": "2023-12"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "screendrive",
@@ -2643,7 +2728,8 @@
         "source": "https://screendrive.net/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "screenfeed",
@@ -2677,7 +2763,8 @@
         "source": "https://www.screenfeed.com/why-screenfeed-content",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "screenfluence",
@@ -2702,7 +2789,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "screenly",
@@ -2736,7 +2824,8 @@
         "source": "https://www.screenly.io/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "screenmanager",
@@ -2776,7 +2865,8 @@
         "source": "https://screenmanager.tech/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "signagelive",
@@ -2814,7 +2904,8 @@
         "source": "https://www.linkedin.com/company/signagelive/about/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "signageos",
@@ -2853,7 +2944,8 @@
         "source": "https://www.signageos.io/company",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "signagetube",
@@ -2888,7 +2980,8 @@
         "source": "https://presentationpoint.com/about/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "signao",
@@ -2933,7 +3026,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "signio",
@@ -2955,7 +3049,8 @@
         "source": "https://nanovo.group/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "simplesignage",
@@ -2982,7 +3077,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "sklera",
@@ -3031,7 +3127,8 @@
         "source": "https://sklera.tv/en/about-us",
         "date": "2017-01"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "slideshow",
@@ -3059,7 +3156,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "smart-prospective",
@@ -3084,7 +3182,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "smartsign2go",
@@ -3132,7 +3231,8 @@
         "source": "https://smartsign2go.com/life-with-us/about-us/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "smilcontrol",
@@ -3165,7 +3265,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "spectrio",
@@ -3198,7 +3299,8 @@
         "source": "https://www.spectrio.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "stratacache",
@@ -3223,7 +3325,8 @@
         "source": "https://www.stratacache.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "telemetrytv",
@@ -3258,7 +3361,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "touchify",
@@ -3288,7 +3392,8 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "trudigital",
@@ -3329,7 +3434,8 @@
         "source": "https://www.trudigital.com/about",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "uniguest",
@@ -3354,7 +3460,8 @@
         "source": "https://uniguest.com/digital-signage/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "valotalive",
@@ -3391,7 +3498,8 @@
         "source": "https://getlatka.com/companies/valota",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "viewneo",
@@ -3421,7 +3529,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "visionbox",
@@ -3454,7 +3563,8 @@
         }
       ]
     },
-    "stats": {}
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "vivi",
@@ -3488,7 +3598,8 @@
         "source": "https://www.vivi.io/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "worldvds",
@@ -3517,7 +3628,8 @@
         "source": "https://www.amplitudenet.pt/en/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "xibo",
@@ -3562,7 +3674,8 @@
         "source": "https://xibosignage.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "xtremesignage",
@@ -3588,7 +3701,8 @@
         "source": "https://www.xtreme-media.com/products/digital-signage",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "yodeck",
@@ -3633,7 +3747,8 @@
         "source": "https://www.yodeck.com/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   },
   {
     "id": "zeetaminds",
@@ -3668,6 +3783,7 @@
         "source": "https://www.capterra.com/p/155060/Zeetaminds/",
         "date": "2025-04"
       }
-    }
+    },
+    "has_logo": false
   }
 ]

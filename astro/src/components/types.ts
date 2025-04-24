@@ -28,4 +28,5 @@ export type Product = {
             date: string
         }
     }
+    has_logo: boolean
 }
