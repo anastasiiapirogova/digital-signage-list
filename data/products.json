@@ -567,7 +567,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "denevads",
@@ -598,7 +598,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "digisigns",
@@ -627,7 +627,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "digitalsignage-net",
@@ -657,7 +657,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "disign",
@@ -693,7 +693,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "displ",
@@ -736,7 +736,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "displaymonkey",
@@ -759,7 +759,7 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "doohly",
@@ -784,7 +784,7 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "dsshow",
@@ -806,7 +806,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "easescreen",
