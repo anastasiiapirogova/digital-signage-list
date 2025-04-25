@@ -3839,7 +3839,14 @@
     "open_source": false,
     "self_signup": false,
     "year_founded": 2011,
-    "supported_platforms": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
     "pricing": {
       "free_trial": false,
       "pricing_available": false,
@@ -3852,7 +3859,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "zeetaminds",
@@ -3883,8 +3890,8 @@
     },
     "stats": {
       "screens": {
-        "total": 15000,
-        "source": "https://www.capterra.com/p/155060/Zeetaminds/",
+        "total": 30000,
+        "source": "https://www.reddit.com/r/digitalsignage/comments/1k760p7/comment/moxjqw2/",
         "date": "2025-04"
       }
     },
