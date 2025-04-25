@@ -1,24 +1,31 @@
-# 📺 Digital Signage List
+# signagelist
 
-> A curated list of digital signage software, platforms, and tools.  
-> For digital screens, smart displays, kiosks, menu boards, dashboards, and more.
+A curated list of digital signage software, CMS, platforms and tools.
 
----
+Perfect for managing, scheduling, and displaying content across screens, smart displays, kiosks, menuboards, dashboards and more!
 
-Digital signage is everywhere, from airport displays and digital menu boards to in-store screens and interactive kiosks.
+## Add a Product
 
-This list curates the best software for managing, scheduling, and displaying content on screens.
+[Create an issue](https://github.com/514sid/digital-signage-list/issues) with a brief description and link to the product. We'll review and add it!
 
-Whether you're building a DIY setup or looking for enterprise-grade tools, there's something here for every use case.
+## Update Product Data
 
----
+To make updates, [open an issue](https://github.com/514sid/digital-signage-list/issues) or submit a pull request with the updated product data in the JSON file.
 
-To add a new product, [create an issue](https://github.com/514sid/digital-signage-list/issues) in the repository with a short description and link. We'll review it and add it to the list!
+## Contributions
 
-## Fire OS notes
+We welcome contributions from developers experienced with Astro and React to help enhance this project.
 
-For every product that lists Android as a supported platform, we are also including Fire OS.
+If you're not a programmer but have an idea or suggestion, feel free to create an issue and share your thoughts. We'd love to hear your feedback and consider it for future improvements!
 
-> Fire OS is the operating system that runs Amazon's Fire TV and tablets. Fire OS is a fork of Android, so if your app runs on
-> Android, it will most likely run on Amazon's Fire devices too. As a developer, you might not have to adjust your Android code > at all to publish your app on Amazon's OS.
-> https://developer.amazon.com/docs/fire-tv/fire-os-overview.html
+## Fire OS Notes
+
+For products supporting Android, we also include Fire OS compatibility. Since Fire OS is based on Android, most Android apps work seamlessly on Amazon Fire devices.
+
+Learn more: [Fire OS Overview](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html)
+
+## Contributors
+
+Design & Code: [@514sid](https://x.com/whois514)
+
+Research & Data Collection: [@514sid](https://x.com/whois514), [Anastasia](https://www.linkedin.com/in/anastasiapirogova/)
