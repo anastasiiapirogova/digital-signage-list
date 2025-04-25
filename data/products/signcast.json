@@ -1,0 +1,33 @@
+{
+  "id": "signcast",
+  "name": "SignCast",
+  "description": "",
+  "website": "https://signcast.ca/",
+  "headquarters": "Canada",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2001,
+  "notes": [
+    "Seems like NoviSign white-label"
+  ],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Studio",
+        "monthly": null,
+        "yearly": 216
+      }
+    ]
+  },
+  "stats": {},
+  "has_logo": true
+}

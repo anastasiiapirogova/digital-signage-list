@@ -1,0 +1,34 @@
+{
+  "id": "vibe-fyi",
+  "name": "Vibe.fyi",
+  "description": "",
+  "website": "https://www.vibe.fyi/",
+  "headquarters": "New Zealand",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2001,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Web Browser",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Lite",
+        "monthly": 0,
+        "yearly": 0
+      }
+    ]
+  },
+  "stats": {},
+  "has_logo": true
+}

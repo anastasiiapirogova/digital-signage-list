@@ -1,0 +1,27 @@
+{
+  "id": "doohmain",
+  "name": "Doohmain",
+  "description": "",
+  "website": "https://doohmain.com/en/cms/",
+  "headquarters": "Uruguay",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2019,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "NovaStar",
+    "Raspberry Pi",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

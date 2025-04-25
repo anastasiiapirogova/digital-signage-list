@@ -1,0 +1,21 @@
+{
+  "id": "adv-signage",
+  "name": "ADV Signage",
+  "description": "",
+  "website": "https://advsignage.com/",
+  "headquarters": "Italy",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2020,
+  "supported_platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

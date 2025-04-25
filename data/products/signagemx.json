@@ -1,0 +1,19 @@
+{
+  "id": "signagemx",
+  "name": "SignageMx",
+  "description": "",
+  "website": "https://signage.mx/",
+  "headquarters": "Mexico",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

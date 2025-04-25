@@ -138,6 +138,27 @@
     "has_logo": true
   },
   {
+    "id": "adv-signage",
+    "name": "ADV Signage",
+    "description": "",
+    "website": "https://advsignage.com/",
+    "headquarters": "Italy",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2020,
+    "supported_platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "airtame",
     "name": "Airtame",
     "description": "",
@@ -273,6 +294,24 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "aware",
+    "name": "Aware",
+    "description": "",
+    "website": "https://www.innominds.com/solutions/digital-signage-management-aware",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1998,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -834,6 +873,63 @@
     "has_logo": true
   },
   {
+    "id": "doohmain",
+    "name": "Doohmain",
+    "description": "",
+    "website": "https://doohmain.com/en/cms/",
+    "headquarters": "Uruguay",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "NovaStar",
+      "Raspberry Pi",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "ds-suit",
+    "name": "DS Suit",
+    "description": "",
+    "website": "https://www.innova.com.tr/en/digital-signage",
+    "headquarters": "Turkey",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1999,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 4500,
+        "source": "https://www.innova.com.tr/en/success-story/turk-telekom-integrated-store-digital-signage-project",
+        "date": "2009-01"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "dsshow",
     "name": "DS Show",
     "description": "",
@@ -955,6 +1051,28 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "engage",
+    "name": "EnGage",
+    "description": "",
+    "website": "https://comqi.com/content-management-system/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 1999,
+    "notes": [],
+    "supported_platforms": [
+      "BrightSign",
+      "ComQi Player"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -1231,6 +1349,56 @@
     },
     "stats": {},
     "has_logo": false
+  },
+  {
+    "id": "hyper-net",
+    "name": "HYPER Net",
+    "description": "",
+    "website": "https://www.hypermedia.co.nz/digital-signage-and-software",
+    "headquarters": "New Zealand",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2010,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 2000,
+        "source": "https://www.hypermedia.co.nz/digital-signage-and-software",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "icompel",
+    "name": "iCompel",
+    "description": "",
+    "website": "https://www.blackbox.com/products/brands/icompel-digital-signage",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1976,
+    "notes": [],
+    "supported_platforms": [
+      "BrightSign",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "iCompel player",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
   },
   {
     "id": "iisignage",
@@ -1919,6 +2087,44 @@
     "has_logo": true
   },
   {
+    "id": "medyapin",
+    "name": "Medyapin",
+    "description": "",
+    "website": "https://medyapin.com/",
+    "headquarters": "Turkey",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Per screen",
+          "monthly": 27,
+          "yearly": 270
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 7000,
+        "source": "https://medyapin.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "monitorsanywhere",
     "name": "Monitors AnyWhere",
     "description": "",
@@ -2026,6 +2232,29 @@
     "has_logo": true
   },
   {
+    "id": "mysignageportal",
+    "name": "My Signage Portal",
+    "description": "",
+    "website": "https://mysignageportal.com/cdms/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "neoscreen",
     "name": "Neoscreen",
     "description": "",
@@ -2091,6 +2320,27 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "noventri",
+    "name": "Noventri",
+    "description": "",
+    "website": "https://www.noventri.com/digital-signage-products/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1978,
+    "notes": [],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -2317,6 +2567,52 @@
           "yearly": 215.88
         }
       ]
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "pads4",
+    "name": "PADS4",
+    "description": "",
+    "website": "https://pads4.com/digital-signage/",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "notes": [],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 16000,
+        "source": "https://www.pacificsatellite.com/wd/upload/day_210718/202107182032519117.pdf",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "philips-cmnd",
+    "name": "Philips CMND",
+    "description": "",
+    "website": "https://cmnd.io/",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
     },
     "stats": {},
     "has_logo": true
@@ -2766,6 +3062,31 @@
     "has_logo": true
   },
   {
+    "id": "screen-publishing",
+    "name": "Screen Publishing",
+    "description": "",
+    "website": "https://www.screenpublishing.no/",
+    "headquarters": "Norway",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "screencloud",
     "name": "ScreenCloud",
     "description": "",
@@ -3011,6 +3332,25 @@
     "has_logo": true
   },
   {
+    "id": "signagemx",
+    "name": "SignageMx",
+    "description": "",
+    "website": "https://signage.mx/",
+    "headquarters": "Mexico",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "signageos",
     "name": "signageOS",
     "description": "",
@@ -3126,6 +3466,39 @@
           "name": "Pro+",
           "monthly": 33,
           "yearly": null
+        }
+      ]
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "signcast",
+    "name": "SignCast",
+    "description": "",
+    "website": "https://signcast.ca/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2001,
+    "notes": [
+      "Seems like NoviSign white-label"
+    ],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Studio",
+          "monthly": null,
+          "yearly": 216
         }
       ]
     },
@@ -3519,6 +3892,31 @@
     "has_logo": true
   },
   {
+    "id": "superbolt",
+    "name": "Superbolt",
+    "description": "",
+    "website": "https://superbolt.com.au/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2023,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "SMB",
+          "monthly": null,
+          "yearly": 149
+        }
+      ]
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "telemetrytv",
     "name": "TelemetryTV",
     "description": "",
@@ -3548,6 +3946,39 @@
           "name": "Entry",
           "monthly": 9,
           "yearly": 96
+        }
+      ]
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "teos",
+    "name": "SONY TEOS",
+    "description": "",
+    "website": "https://teos.solutions/",
+    "headquarters": "Japan",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 1946,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Advanced",
+          "monthly": 95,
+          "yearly": 1195
         }
       ]
     },
@@ -3686,6 +4117,70 @@
       "screens": {
         "total": 100000,
         "source": "https://getlatka.com/companies/valota",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "vibe-fyi",
+    "name": "Vibe.fyi",
+    "description": "",
+    "website": "https://www.vibe.fyi/",
+    "headquarters": "New Zealand",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2001,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Lite",
+          "monthly": 0,
+          "yearly": 0
+        }
+      ]
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "vidarti",
+    "name": "Vidarti",
+    "description": "",
+    "website": "https://vidarti.com/kursu",
+    "headquarters": "Turkey",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 4000,
+        "source": "https://vidarti.com/about",
         "date": "2025-04"
       }
     },

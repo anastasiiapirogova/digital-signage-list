@@ -1,0 +1,24 @@
+{
+  "id": "hyper-net",
+  "name": "HYPER Net",
+  "description": "",
+  "website": "https://www.hypermedia.co.nz/digital-signage-and-software",
+  "headquarters": "New Zealand",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2010,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 2000,
+      "source": "https://www.hypermedia.co.nz/digital-signage-and-software",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

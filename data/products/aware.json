@@ -1,0 +1,18 @@
+{
+  "id": "aware",
+  "name": "Aware",
+  "description": "",
+  "website": "https://www.innominds.com/solutions/digital-signage-management-aware",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 1998,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

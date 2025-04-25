@@ -1,0 +1,25 @@
+{
+  "id": "screen-publishing",
+  "name": "Screen Publishing",
+  "description": "",
+  "website": "https://www.screenpublishing.no/",
+  "headquarters": "Norway",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2016,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}
