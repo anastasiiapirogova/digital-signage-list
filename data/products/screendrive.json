@@ -14,7 +14,7 @@
   ],
   "pricing": {
     "free_trial": true,
-    "pricing_available": true,
+    "pricing_available": false,
     "has_freemium": false,
     "plans": []
   },

@@ -18,7 +18,8 @@
         "monthly": 19.99,
         "yearly": null
       }
-    ]
+    ],
+    "tier": "midRange"
   },
   "stats": {
     "screens": {

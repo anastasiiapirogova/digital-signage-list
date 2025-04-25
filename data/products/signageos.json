@@ -27,7 +27,8 @@
         "monthly": 3,
         "yearly": null
       }
-    ]
+    ],
+    "tier": "affordable"
   },
   "stats": {
     "screens": {

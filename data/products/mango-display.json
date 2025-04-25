@@ -34,7 +34,8 @@
         "monthly": 2.99,
         "yearly": 29.99
       }
-    ]
+    ],
+    "tier": "affordable"
   },
   "stats": {
     "screens": {

@@ -32,7 +32,8 @@
         "monthly": 20,
         "yearly": null
       }
-    ]
+    ],
+    "tier": "midRange"
   },
   "stats": {
     "screens": {

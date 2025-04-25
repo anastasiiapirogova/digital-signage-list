@@ -29,7 +29,8 @@
         "monthly": 19.38,
         "yearly": null
       }
-    ]
+    ],
+    "tier": "midRange"
   },
   "stats": {},
   "has_logo": true

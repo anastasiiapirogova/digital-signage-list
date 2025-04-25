@@ -88,7 +88,8 @@
           "monthly": 17,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -126,7 +127,8 @@
           "monthly": 5.1,
           "yearly": 51.95
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -337,7 +339,8 @@
           "monthly": 14.82,
           "yearly": 151.68
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -421,7 +424,8 @@
           "monthly": null,
           "yearly": 139
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -452,8 +456,8 @@
     },
     "stats": {
       "screens": {
-        "total": 1500000,
-        "source": "https://broadsign.com/our-story/",
+        "total": 2000000,
+        "source": "https://www.linkedin.com/posts/broadsign_thepowerof2million-activity-7321156055743291393-FgjW",
         "date": "2025-04"
       }
     },
@@ -541,7 +545,8 @@
           "monthly": 10,
           "yearly": 110
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -582,7 +587,8 @@
           "monthly": null,
           "yearly": 324
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -710,7 +716,8 @@
           "monthly": 20,
           "yearly": 220
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -740,7 +747,8 @@
           "monthly": null,
           "yearly": 184
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -776,7 +784,8 @@
           "monthly": 10.25,
           "yearly": 109.32
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -813,7 +822,8 @@
           "monthly": null,
           "yearly": 206
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -945,7 +955,7 @@
     ],
     "pricing": {
       "free_trial": true,
-      "pricing_available": true,
+      "pricing_available": false,
       "has_freemium": false
     },
     "stats": {},
@@ -1014,7 +1024,8 @@
           "monthly": 9.98,
           "yearly": 99
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1042,7 +1053,8 @@
           "monthly": null,
           "yearly": 413
         }
-      ]
+      ],
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -1128,7 +1140,8 @@
           "monthly": 4.7,
           "yearly": 47
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1162,7 +1175,8 @@
           "monthly": null,
           "yearly": 1068
         }
-      ]
+      ],
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -1192,7 +1206,8 @@
           "monthly": null,
           "yearly": 94.56
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1252,7 +1267,8 @@
           "monthly": 39.95,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -1287,7 +1303,8 @@
           "monthly": null,
           "yearly": 124
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -1477,7 +1494,8 @@
           "monthly": 8.84,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1523,7 +1541,8 @@
           "monthly": 14.85,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1560,7 +1579,8 @@
           "monthly": 36.18,
           "yearly": 173.66
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1588,7 +1608,8 @@
           "monthly": null,
           "yearly": 199
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1618,7 +1639,8 @@
           "monthly": 5,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1651,7 +1673,8 @@
           "monthly": 16.99,
           "yearly": 136.73
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1683,7 +1706,8 @@
           "monthly": 16.63,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -1763,7 +1787,8 @@
           "monthly": 22,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -1802,7 +1827,8 @@
           "monthly": 15,
           "yearly": 162
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -1872,7 +1898,8 @@
           "monthly": 19.38,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1906,7 +1933,8 @@
           "monthly": 3.75,
           "yearly": 35
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -1942,7 +1970,8 @@
           "monthly": 14,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -1989,7 +2018,8 @@
           "monthly": 2.99,
           "yearly": 29.99
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2075,7 +2105,8 @@
           "monthly": null,
           "yearly": 239
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2113,7 +2144,8 @@
           "monthly": 27,
           "yearly": 270
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2140,7 +2172,7 @@
     ],
     "pricing": {
       "free_trial": true,
-      "pricing_available": true
+      "pricing_available": false
     },
     "stats": {
       "screens": {
@@ -2175,7 +2207,8 @@
           "monthly": 20,
           "yearly": 240
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2220,7 +2253,8 @@
           "monthly": 30,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2371,7 +2405,8 @@
           "monthly": 20,
           "yearly": 216
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2416,7 +2451,8 @@
           "monthly": 20,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2509,7 +2545,8 @@
           "monthly": 3.43,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -2566,7 +2603,8 @@
           "monthly": 19.99,
           "yearly": 215.88
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -2651,7 +2689,8 @@
           "monthly": 15,
           "yearly": 162
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2691,7 +2730,8 @@
           "monthly": 3.43,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2723,7 +2763,8 @@
           "monthly": 27,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2768,7 +2809,8 @@
           "monthly": 18,
           "yearly": 144
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2840,7 +2882,8 @@
           "monthly": 6.49,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2881,7 +2924,8 @@
           "monthly": 13.8,
           "yearly": 138
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2935,7 +2979,8 @@
           "monthly": 19.99,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2976,7 +3021,8 @@
           "monthly": 12,
           "yearly": 132
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3056,7 +3102,8 @@
           "monthly": null,
           "yearly": 72
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3115,7 +3162,8 @@
           "monthly": 24,
           "yearly": 240
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -3142,7 +3190,7 @@
     ],
     "pricing": {
       "free_trial": true,
-      "pricing_available": true,
+      "pricing_available": false,
       "has_freemium": false,
       "plans": []
     },
@@ -3179,7 +3227,8 @@
           "monthly": 8,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3211,7 +3260,8 @@
           "monthly": 30,
           "yearly": 324
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -3240,7 +3290,8 @@
           "monthly": 13,
           "yearly": 132
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3281,7 +3332,8 @@
           "monthly": 8,
           "yearly": 72
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3320,7 +3372,8 @@
           "monthly": null,
           "yearly": 270
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -3379,7 +3432,8 @@
           "monthly": 3,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3415,7 +3469,8 @@
           "monthly": 19,
           "yearly": 168
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3467,7 +3522,8 @@
           "monthly": 33,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3500,7 +3556,8 @@
           "monthly": null,
           "yearly": 216
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -3551,7 +3608,8 @@
           "monthly": null,
           "yearly": 250
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -3595,7 +3653,8 @@
           "monthly": null,
           "yearly": 360
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3656,7 +3715,8 @@
           "monthly": 56.26,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -3699,7 +3759,8 @@
           "monthly": 43,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -3739,7 +3800,8 @@
           "monthly": 5.7,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3798,7 +3860,8 @@
           "monthly": 13.9,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3860,7 +3923,8 @@
           "monthly": 4.99,
           "yearly": 49.99
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3911,7 +3975,8 @@
           "monthly": null,
           "yearly": 149
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3947,7 +4012,8 @@
           "monthly": 9,
           "yearly": 96
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3980,7 +4046,8 @@
           "monthly": 95,
           "yearly": 1195
         }
-      ]
+      ],
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -4047,7 +4114,8 @@
           "monthly": 49,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -4111,7 +4179,8 @@
           "monthly": 10.31,
           "yearly": 92
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -4212,7 +4281,8 @@
           "monthly": 21,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4246,7 +4316,8 @@
           "monthly": null,
           "yearly": 17
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -4369,7 +4440,8 @@
           "monthly": 4.9,
           "yearly": 58.8
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -4442,7 +4514,8 @@
           "monthly": 8,
           "yearly": null
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -4509,7 +4582,8 @@
           "monthly": 10,
           "yearly": 100
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {
       "screens": {

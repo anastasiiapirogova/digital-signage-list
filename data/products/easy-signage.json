@@ -33,7 +33,8 @@
         "monthly": 9.98,
         "yearly": 99
       }
-    ]
+    ],
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

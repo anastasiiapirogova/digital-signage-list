@@ -41,7 +41,8 @@
         "monthly": null,
         "yearly": 72
       }
-    ]
+    ],
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

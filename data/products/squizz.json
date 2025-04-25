@@ -21,7 +21,8 @@
         "monthly": 4.99,
         "yearly": 49.99
       }
-    ]
+    ],
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

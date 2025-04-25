@@ -19,7 +19,8 @@
         "monthly": 30,
         "yearly": 324
       }
-    ]
+    ],
+    "tier": "midRange"
   },
   "stats": {},
   "has_logo": true

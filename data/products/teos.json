@@ -26,7 +26,8 @@
         "monthly": 95,
         "yearly": 1195
       }
-    ]
+    ],
+    "tier": "premium"
   },
   "stats": {},
   "has_logo": true

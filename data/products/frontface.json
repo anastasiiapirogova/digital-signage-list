@@ -23,7 +23,8 @@
         "monthly": 39.95,
         "yearly": null
       }
-    ]
+    ],
+    "tier": "premium"
   },
   "stats": {},
   "has_logo": true

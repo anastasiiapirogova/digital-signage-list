@@ -1,10 +1,44 @@
-import { TbExternalLink, TbMapPin } from "react-icons/tb";
+import { TbCoin, TbCurrencyDollar, TbExternalLink, TbMapPin } from "react-icons/tb";
 import type { Product } from "./types";
 import { Badge } from "./Badge";
 
 const FreeTrial = ({ product }: { product: Product }) => {
     if (product.pricing.free_trial) {
         return <Badge text="Free trial" />
+    }
+
+    return null
+}
+
+const PricingTier = ({ product }: { product: Product }) => {
+    if (product.pricing.tier) {
+        if (product.pricing.tier === "affordable") {
+            return (
+                <div className="flex items-center">
+                    <TbCurrencyDollar size={16} />
+                    <TbCurrencyDollar size={16} className="text-neutral-400"/>
+                    <TbCurrencyDollar size={16} className="text-neutral-400"/>
+                </div>
+            );
+        }
+        if (product.pricing.tier === "midRange") {
+            return (
+                <div className="flex items-center">
+                    <TbCurrencyDollar size={16} />
+                    <TbCurrencyDollar size={16} />
+                    <TbCurrencyDollar size={16} className="text-neutral-400"/>
+                </div>
+            )
+        }
+        if (product.pricing.tier === "premium") {
+            return (
+                <div className="flex items-center">
+                    <TbCurrencyDollar size={16} />
+                    <TbCurrencyDollar size={16} />
+                    <TbCurrencyDollar size={16} />
+                </div>
+            )
+        }
     }
 
     return null
@@ -88,6 +122,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                                 </div>
                             </div>
                             <Screens product={product} />
+                            <PricingTier product={product} />
                         </div>
                         <div className="gap-2 items-center hidden md:flex">
                             <FreeTrial product={product} />

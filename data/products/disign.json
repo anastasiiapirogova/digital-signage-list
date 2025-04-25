@@ -29,7 +29,8 @@
         "monthly": 10.25,
         "yearly": 109.32
       }
-    ]
+    ],
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

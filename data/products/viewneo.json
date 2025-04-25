@@ -24,7 +24,8 @@
         "monthly": 21,
         "yearly": null
       }
-    ]
+    ],
+    "tier": "midRange"
   },
   "stats": {},
   "has_logo": true
