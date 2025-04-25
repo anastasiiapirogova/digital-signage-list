@@ -2074,7 +2074,13 @@
       "pricing_available": false,
       "has_freemium": false
     },
-    "stats": {},
+    "stats": {
+      "screens": {
+        "total": 12500,
+        "source": "https://applink.pl/en/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
