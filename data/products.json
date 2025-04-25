@@ -2385,10 +2385,13 @@
     "supported_platforms": [
       "Amazon Signage",
       "Android",
+      "BrightSign",
       "ChromeOS",
       "Fire OS",
       "Linux",
+      "Raspberry Pi",
       "Tizen",
+      "Web Browser",
       "Windows",
       "macOS",
       "webOS"
@@ -2412,7 +2415,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "poppulo",
