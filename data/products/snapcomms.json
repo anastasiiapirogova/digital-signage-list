@@ -1,0 +1,20 @@
+{
+  "id": "snapcomms",
+  "name": "SnapComms",
+  "description": "",
+  "website": "https://www.snapcomms.com/",
+  "headquarters": "New Zealand",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2007,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
