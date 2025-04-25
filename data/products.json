@@ -1981,7 +1981,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "netvisual",
@@ -2000,7 +2000,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "novacloud",
@@ -2026,7 +2026,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "novisign",
@@ -2065,7 +2065,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "nowsignage",
@@ -2110,7 +2110,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "nsigntv",
@@ -2140,7 +2140,7 @@
         "date": "2023-10"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "nutrislice",
@@ -2168,7 +2168,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "obscreen",
@@ -2197,7 +2197,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "omnivex",
@@ -2215,7 +2215,7 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "onsign-tv",
@@ -2254,7 +2254,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "pickcel",
@@ -2299,7 +2299,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "pisignage",
@@ -2317,6 +2317,7 @@
       "Android",
       "Fire OS",
       "Linux",
+      "Raspberry Pi",
       "Web Browser"
     ],
     "pricing": {
@@ -2338,7 +2339,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "playipp",
@@ -2370,7 +2371,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "playsignage",
@@ -2446,7 +2447,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "posterbooking",
@@ -2487,7 +2488,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "q-play",
@@ -2528,7 +2529,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "raydiant",
@@ -2551,7 +2552,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "reach",
@@ -2582,7 +2583,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "rise-vision",
@@ -2623,7 +2624,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "scala",
@@ -2649,7 +2650,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "scalefusion",
@@ -2697,7 +2698,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "screencloud",
@@ -2737,7 +2738,7 @@
         "date": "2023-12"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "screendrive",
@@ -2766,7 +2767,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "screenfeed",
@@ -2801,7 +2802,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "screenfluence",
@@ -2827,7 +2828,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "screenly",
@@ -2862,7 +2863,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "screenmanager",
@@ -2903,7 +2904,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "signagelive",
@@ -2942,7 +2943,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "signageos",
@@ -2982,7 +2983,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "signagetube",
@@ -3018,7 +3019,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "signao",
@@ -3064,7 +3065,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "signio",
@@ -3087,7 +3088,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "simplesignage",
@@ -3115,7 +3116,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "sklera",
@@ -3165,7 +3166,7 @@
         "date": "2017-01"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "slideshow",
@@ -3194,7 +3195,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "smart-prospective",
@@ -3220,7 +3221,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "smartsign2go",
@@ -3269,7 +3270,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "smilcontrol",
@@ -3303,7 +3304,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "spectrio",
@@ -3337,7 +3338,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "squizz",
@@ -3391,7 +3392,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "telemetrytv",
@@ -3427,7 +3428,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "touchify",
@@ -3458,7 +3459,7 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "trudigital",
@@ -3500,7 +3501,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "uniguest",
@@ -3526,7 +3527,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "valotalive",
@@ -3564,7 +3565,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "viewneo",
@@ -3595,7 +3596,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "visionbox",
@@ -3629,7 +3630,7 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "vivi",
@@ -3664,7 +3665,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "wesion",
@@ -3682,7 +3683,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "worldvds",
@@ -3712,7 +3713,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "xibo",
@@ -3758,7 +3759,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "xtremesignage",
@@ -3785,7 +3786,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "yodeck",
@@ -3831,7 +3832,7 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "zebrix",
@@ -3898,6 +3899,6 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": true
   }
 ]

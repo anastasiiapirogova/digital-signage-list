@@ -14,6 +14,7 @@
     "Android",
     "Fire OS",
     "Linux",
+    "Raspberry Pi",
     "Web Browser"
   ],
   "pricing": {
@@ -35,5 +36,5 @@
       "date": "2025-04"
     }
   },
-  "has_logo": false
+  "has_logo": true
 }
