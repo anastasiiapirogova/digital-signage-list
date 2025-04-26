@@ -4,6 +4,7 @@ const commands = [
     'node automation/updatePlatforms.js',
     'node automation/generateLogos.js',
     'node automation/updateLogoInformation.js',
+    'node automation/generatePriceRank.js',
     'node automation/mergeProducts.js',
     'node automation/generateReadmeProductList.js'
 ];

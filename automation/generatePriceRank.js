@@ -36,7 +36,16 @@ function getProductPricing(products) {
 
 async function processProducts() {
   try {
-    const products = await loadProductData('../data/products.json');
+    const dataFolder = path.resolve('data', 'products');
+    const fileNames = await readdir(dataFolder);
+
+    const products = [];
+
+    for (const fileName of fileNames) {
+      const filePath = path.join(dataFolder, fileName);
+      const data = await readFile(filePath, 'utf-8');
+      products.push(JSON.parse(data));
+    }
 
     const productList = Array.isArray(products) ? products : [products];
 
@@ -55,9 +64,6 @@ async function processProducts() {
 
     const cheapThreshold = minPrice + priceRange * 0.33;
     const mediumThreshold = minPrice + priceRange * 0.66;
-
-    const dataFolder = path.resolve('..', 'data', 'products');
-    const fileNames = await readdir(dataFolder);
 
     for (const fileName of fileNames) {
       const productId = path.basename(fileName, '.json');
