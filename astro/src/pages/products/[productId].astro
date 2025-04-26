@@ -5,17 +5,22 @@ import Layout from "../../layouts/Layout.astro";
 export function getStaticPaths() {
     return products.map((product) => ({
         params: {
-            productId: product.id
+            productId: product.id,
         },
         props: {
-            product
-        }
+            product,
+        },
     }));
 }
 
 const { product } = Astro.props;
 ---
 
-<Layout>
+<Layout
+    seo={{
+        title: product.name,
+        description: product.description,
+    }}
+>
     <div>{product.name}</div>
 </Layout>
