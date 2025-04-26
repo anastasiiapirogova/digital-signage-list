@@ -30,9 +30,10 @@ export const ScrollToTopButton = () => {
         <button
             onClick={scrollToTop}
             disabled={isDisabled}
+            aria-label="Scroll to top"
             className={
-                'p-2 rounded-full transition-all duration-300 ease-in-out bg-black/0' +
-                (!isDisabled ? 'opacity-100 cursor-pointer hover:bg-black/90' : ' opacity-20 pointer-events-none')
+            'p-2 rounded-full transition-all duration-300 ease-in-out bg-black/0' +
+            (!isDisabled ? 'opacity-100 cursor-pointer hover:bg-black/90' : ' opacity-20 pointer-events-none')
             }
         >
             <TbArrowUp size={24} className='text-white'/>
