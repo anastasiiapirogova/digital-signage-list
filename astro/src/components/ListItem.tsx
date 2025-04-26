@@ -60,7 +60,9 @@ const Screens = ({ product }: { product: Product }) => {
         );
     }
 
-    return null
+    return (
+        <div className="-mr-5"></div>
+    )
 }
 
 const Logo = ({ product }: { product: Product }) => {
@@ -88,9 +90,9 @@ export const ListItem = ({ product }: { product: Product }) => {
         <div className="hover:bg-neutral-100 md:rounded p-3 lg:p-5 group">
             <div className="flex gap-3 md:gap-5 items-center">
                 <Logo product={product} />
-                <div className="flex flex-col w-full gap-2 md:gap-3">
+                <div className="flex flex-col w-full gap-1 md:gap-3">
                     <div className="flex items-center justify-between w-full">
-                        <div className="grow flex items-center font-medium gap-2 text-xl">
+                        <div className="grow flex items-center font-medium gap-2 md:text-xl">
                             <div>
                                 {product.name}
                             </div>
@@ -105,17 +107,19 @@ export const ListItem = ({ product }: { product: Product }) => {
                         </div>
                     </div>
                     <div className="flex items-center justify-between w-full">
-                        <div className="flex gap-5 items-center">
-                            <div className="flex gap-1 items-center text-gray-400">
-                                <TbMapPin size={20} />
+                        <div className="flex flex-col items-start md:flex-row gap-1 md:gap-5 md:items-center w-full">
+                            <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base shrink-0">
+                                <TbMapPin className="w-4 h-4 md:w-5 md:h-5" />
                                 <div>
                                     {product.headquarters}
                                 </div>
                             </div>
-                            <Screens product={product} />
-                            <PricingTier product={product} />
+                            <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base w-full justify-between md:justify-start md:gap-5">
+                                <Screens product={product} />
+                                <PricingTier product={product} />
+                            </div>
                         </div>
-                        <div className="gap-2 items-center hidden md:flex">
+                        <div className="gap-2 items-center hidden md:flex shrink-0">
                             <FreeTrial product={product} />
                             <Pricing product={product} />
                             <OpenSource product={product} />
