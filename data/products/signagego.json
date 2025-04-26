@@ -1,0 +1,27 @@
+{
+  "id": "signagego",
+  "name": "SignageGo",
+  "description": "",
+  "website": "http://signagego.in/",
+  "headquarters": "India",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2018,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

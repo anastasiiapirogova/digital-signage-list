@@ -1,19 +1,17 @@
 {
-  "id": "comeen",
-  "name": "Comeen",
+  "id": "funeralscreen",
+  "name": "FuneralScreen",
   "description": "",
-  "website": "https://comeen.com/products/digital-signage",
-  "headquarters": "France",
+  "website": "https://funeralscreen.com/",
+  "headquarters": "USA",
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2013,
+  "year_founded": 2010,
   "notes": [],
   "supported_platforms": [
     "Android",
     "BrightSign",
-    "ChromeOS",
     "Fire OS",
-    "Linux",
     "Tizen",
     "Windows",
     "webOS"
@@ -24,9 +22,19 @@
     "has_freemium": false,
     "plans": [
       {
-        "name": "Starter",
-        "monthly": null,
-        "yearly": 324
+        "name": "Basic",
+        "monthly": 28,
+        "yearly": 300
+      },
+      {
+        "name": "Premium",
+        "monthly": 33,
+        "yearly": 360
+      },
+      {
+        "name": "Enterprise",
+        "monthly": 38,
+        "yearly": 420
       }
     ],
     "tier": "premium"

@@ -1,0 +1,31 @@
+{
+  "id": "kitcast",
+  "name": "Kitcast",
+  "description": "",
+  "website": "https://kitcast.tv/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2014,
+  "notes": [
+    "Digital Signage Software for Apple TV. Platforms planned for 2025: Android, Fire OS, BrightSign, Tizen, webOS, macOS"
+  ],
+  "supported_platforms": [
+    "tvOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Growth",
+        "monthly": 25,
+        "yearly": 240
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

@@ -1,36 +1,35 @@
 {
-  "id": "socialscreen",
-  "name": "SocialScreen",
+  "id": "xogo",
+  "name": "XOGO",
   "description": "",
-  "website": "https://socialscreen.com/",
-  "headquarters": "Norway",
+  "website": "https://www.xogo.io/",
+  "headquarters": "USA",
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2013,
+  "year_founded": 2015,
   "notes": [],
   "supported_platforms": [
     "Android",
     "ChromeOS",
     "Fire OS",
-    "Raspberry Pi",
     "Web Browser",
     "Windows",
     "iOS"
   ],
   "pricing": {
-    "free_trial": true,
+    "free_trial": false,
     "pricing_available": true,
     "has_freemium": true,
     "plans": [
       {
-        "name": "FREE (1 device)",
+        "name": "Free",
         "monthly": 0,
         "yearly": 0
       },
       {
-        "name": "STANDARD",
-        "monthly": 13.9,
-        "yearly": null
+        "name": "Pro",
+        "monthly": 20,
+        "yearly": 180
       }
     ],
     "tier": "midRange"

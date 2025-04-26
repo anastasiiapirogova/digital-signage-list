@@ -1,15 +1,17 @@
 {
-  "id": "intraactive-replay",
-  "name": "IntraActive Replay",
+  "id": "skykit",
+  "name": "Skykit Beam",
   "description": "",
-  "website": "https://intraactivereplay.net/",
-  "headquarters": "Denmark",
+  "website": "https://www.skykit.com/",
+  "headquarters": "USA",
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2022,
+  "year_founded": 2016,
   "notes": [],
   "supported_platforms": [
-    "Web Browser"
+    "Android",
+    "Fire OS",
+    "Skykit Media Player"
   ],
   "pricing": {
     "free_trial": true,
@@ -17,8 +19,8 @@
     "has_freemium": false,
     "plans": [
       {
-        "name": "Basic",
-        "monthly": 14.85,
+        "name": "Base",
+        "monthly": 16.5,
         "yearly": null
       }
     ],

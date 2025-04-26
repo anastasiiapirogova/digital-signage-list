@@ -1,15 +1,16 @@
 {
-  "id": "intraactive-replay",
-  "name": "IntraActive Replay",
+  "id": "dotsignage",
+  "name": "DotSignage",
   "description": "",
-  "website": "https://intraactivereplay.net/",
-  "headquarters": "Denmark",
+  "website": "https://www.dotsignage.com/",
+  "headquarters": "India",
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2022,
+  "year_founded": 2018,
   "notes": [],
   "supported_platforms": [
-    "Web Browser"
+    "Android",
+    "Fire OS"
   ],
   "pricing": {
     "free_trial": true,
@@ -17,12 +18,12 @@
     "has_freemium": false,
     "plans": [
       {
-        "name": "Basic",
-        "monthly": 14.85,
-        "yearly": null
+        "name": "Standard",
+        "monthly": 12,
+        "yearly": 120
       }
     ],
-    "tier": "midRange"
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

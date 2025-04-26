@@ -161,6 +161,31 @@
     "has_logo": true
   },
   {
+    "id": "aem-screens",
+    "name": "Experience Manager Screens",
+    "description": "",
+    "website": "https://business.adobe.com/products/experience-manager/screens.html",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "airtame",
     "name": "Airtame",
     "description": "",
@@ -588,7 +613,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -858,6 +883,87 @@
     "has_logo": true
   },
   {
+    "id": "display-now",
+    "name": "Display NOW",
+    "description": "",
+    "website": "https://displaynow.io",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 8,
+          "yearly": 60
+        },
+        {
+          "name": "Pro",
+          "monthly": 11,
+          "yearly": 108
+        }
+      ]
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
+    "id": "ditto",
+    "name": "Ditto",
+    "description": "",
+    "website": "https://www.airsquirrels.com/ditto/digital-signage-features",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS",
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 17,
+          "yearly": 99
+        },
+        {
+          "name": "Premium",
+          "monthly": 25,
+          "yearly": 150
+        },
+        {
+          "name": "Elite",
+          "monthly": 29,
+          "yearly": 175
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "doohly",
     "name": "Doohly",
     "description": "",
@@ -905,6 +1011,69 @@
       "free_trial": false,
       "pricing_available": false,
       "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "dotsignage",
+    "name": "DotSignage",
+    "description": "",
+    "website": "https://www.dotsignage.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2018,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Standard",
+          "monthly": 12,
+          "yearly": 120
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "dripboards",
+    "name": "Drip Boards",
+    "description": "",
+    "website": "https://dripboards.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [
+      "You must have an active PosterMyWall subscription to use the Drip Boards Free Starter Subscription"
+    ],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Monthly or Yearly",
+          "monthly": 9.99,
+          "yearly": 99.99
+        }
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1274,6 +1443,50 @@
     "has_logo": true
   },
   {
+    "id": "funeralscreen",
+    "name": "FuneralScreen",
+    "description": "",
+    "website": "https://funeralscreen.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2010,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 28,
+          "yearly": 300
+        },
+        {
+          "name": "Premium",
+          "monthly": 33,
+          "yearly": 360
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 38,
+          "yearly": 420
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "fusion-signage",
     "name": "Fusion Signage",
     "description": "",
@@ -1542,7 +1755,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1580,7 +1793,7 @@
           "yearly": 173.66
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1641,6 +1854,37 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "kitcast",
+    "name": "Kitcast",
+    "description": "",
+    "website": "https://kitcast.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [
+      "Digital Signage Software for Apple TV. Platforms planned for 2025: Android, Fire OS, BrightSign, Tizen, webOS, macOS"
+    ],
+    "supported_platforms": [
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Growth",
+          "monthly": 25,
+          "yearly": 240
+        }
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1828,7 +2072,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -1971,7 +2215,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2558,6 +2802,38 @@
     "has_logo": true
   },
   {
+    "id": "ommasign",
+    "name": "OmmaSign",
+    "description": "",
+    "website": "https://ommasign.com/product-software/",
+    "headquarters": "Turkey",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 12000,
+        "source": "https://www.ommasign.com/contact-us/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "omnivex",
     "name": "Omnivex",
     "description": "",
@@ -2611,6 +2887,28 @@
         }
       ],
       "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "opensign",
+    "name": "OpenSign",
+    "description": "",
+    "website": "https://www.opensign.us/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": null,
+    "notes": [],
+    "supported_platforms": [
+      "Screenly Player",
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true
     },
     "stats": {},
     "has_logo": true
@@ -2747,7 +3045,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -2821,7 +3119,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -2991,6 +3289,53 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "quickesign",
+    "name": "Quickesign",
+    "description": "",
+    "website": "https://quickesign.net/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Raspberry Pi",
+      "Roku OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Light",
+          "monthly": 6,
+          "yearly": 60
+        },
+        {
+          "name": "Standard",
+          "monthly": 10,
+          "yearly": 99
+        },
+        {
+          "name": "Pro",
+          "monthly": 15,
+          "yearly": 149
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 20,
+          "yearly": 199
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -3318,7 +3663,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -3399,6 +3744,33 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "signagego",
+    "name": "SignageGo",
+    "description": "",
+    "website": "http://signagego.in/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2018,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -3527,7 +3899,7 @@
           "yearly": 168
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -3720,6 +4092,37 @@
         "date": "2017-01"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "skykit",
+    "name": "Skykit Beam",
+    "description": "",
+    "website": "https://www.skykit.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Skykit Media Player"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Base",
+          "monthly": 16.5,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -3918,7 +4321,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4508,6 +4911,45 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "xogo",
+    "name": "XOGO",
+    "description": "",
+    "website": "https://www.xogo.io/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Web Browser",
+      "Windows",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Pro",
+          "monthly": 20,
+          "yearly": 180
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
