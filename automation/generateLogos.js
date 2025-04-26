@@ -106,7 +106,7 @@ async function run() {
         }
     }
 
-    console.log('🎉 Done!');
+    console.log('Logos processed successfully!');
 }
 
 run();
