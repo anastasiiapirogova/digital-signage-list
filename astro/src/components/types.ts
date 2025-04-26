@@ -9,7 +9,7 @@ export type Pricing = {
     pricing_available: boolean
     has_freemium?: boolean
     plans?: Plan[]
-    tier?: "affordable" | "midRange" | "premium"
+    tier?: "affordable" | "midRange" | "premium" | string
 }
 
 export type Product = {

@@ -1,4 +1,4 @@
-# signagelist
+# SignageList
 
 A curated list of digital signage software, CMS, platforms and tools.
 

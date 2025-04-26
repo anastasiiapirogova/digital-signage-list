@@ -1,12 +1,18 @@
 ---
 import Layout from "./Layout.astro";
-import { BottomMenu, Header } from "../components";
-import { About } from "../components";
+import Header from "../components/Header.astro";
+import About from "../components/About.astro";
+import { BottomMenu } from "../components";
 import { GlobalStats } from "../components";
+
+const seo = {
+    title: "Digital Signage Software List",
+    description: "A curated list of digital signage software.",
+};
 ---
 
-<Layout>
-    <BottomMenu client:only/>
+<Layout seo={seo}>
+    <BottomMenu client:only />
     <div class="flex max-w-screen-xl w-full mx-auto h-full relative">
         <div class="flex flex-col grow mb-20">
             <Header />

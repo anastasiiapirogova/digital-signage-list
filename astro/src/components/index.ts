@@ -1,6 +1,4 @@
-export { About } from "./About";
 export { GlobalStats } from "./GlobalStats";
-export { Header } from "./Header";
 export { HeadquartersFilter } from "./HeadquartersFilter";
 export { OpenSourceFilter } from "./OpenSourceFilter";
 export { PlatformFilter } from "./PlatformFilter";
@@ -11,3 +9,4 @@ export { ResetFiltersButton } from "./ResetFiltersButton";
 export { FiltersModalButton } from "./FiltersModalButton";
 export { BottomMenu } from "./BottomMenu";
 export { ScrollToTopButton } from "./ScrollToTopButton";
+export { FilteredList } from "./FilteredList";

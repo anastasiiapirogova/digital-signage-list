@@ -1,0 +1,29 @@
+---
+import { getCollection } from "astro:content";
+import CollectionLayout from "../../layouts/CollectionLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { collectionProductsFilter } from "../../utils/collectionProductsFilter";
+import { products } from "../../utils/products";
+
+export async function getStaticPaths() {
+    const collections = await getCollection("productCollections");
+
+    return collections.map((collection) => ({
+        params: { slug: collection.data.slug },
+        props: { collection: collection.data },
+    }));
+}
+
+const { collection } = Astro.props;
+const { seo } = collection;
+
+const filteredProducts = collectionProductsFilter(products, collection.filter);
+---
+
+<Layout seo={seo}>
+    <CollectionLayout
+        title={collection.title}
+        description={collection.description}
+        products={filteredProducts}
+    />
+</Layout>

@@ -1,0 +1,22 @@
+---
+import Header from "../components/Header.astro";
+import { FilteredList } from "../components";
+import CollectionHeader from "../components/CollectionHeader.astro";
+import TotalProducts from "../components/TotalProducts.astro";
+
+const { products, title, description } = Astro.props;
+---
+
+<div class="flex max-w-screen-xl w-full mx-auto h-full relative">
+    <div class="flex flex-col grow mb-20">
+        <Header />
+        <CollectionHeader
+            title={ title}
+            description={ description}
+        />
+        <TotalProducts total={ products.length } />
+        <div class="md:px-5 lg:px-10">
+            <FilteredList products={products} />
+        </div>
+    </div>
+</div>

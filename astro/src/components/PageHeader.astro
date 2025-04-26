@@ -1,0 +1,20 @@
+---
+import { TbChevronLeft } from "react-icons/tb";
+
+const { title, description } = Astro.props;
+---
+
+<div class="px-5 md:px-10 py-5">
+    <a href="/" class="bg-neutral-200 px-4 pr-5 py-2 rounded-md hover:bg-neutral-300 transition duration-200 ease-in-out cursor-pointer font-mono text-sm inline-flex items-center">
+        <TbChevronLeft className="inline-block mr-2" size="20" />
+        Back to all products
+    </a>
+</div>
+<div class="px-5 md:px-10 h-[240px] flex flex-col justify-center gap-5">
+    <div class="text-3xl">
+      { title }
+    </div>
+    <div>
+      { description}
+    </div>
+  </div>

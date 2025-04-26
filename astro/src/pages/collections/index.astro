@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import Header from "../../components/Header.astro";
+import PageHeader from "../../components/PageHeader.astro";
+
+const seo = {
+    title: "Collections",
+    description:
+        "Explore our collections of digital sigange software products.",
+};
+
+const data = await getCollection("productCollections");
+
+const list = data
+    .map((collection) => collection.data)
+    .sort((a, b) => a.title.localeCompare(b.title));
+---
+
+<Layout seo={seo}>
+    <div class="flex max-w-screen-xl w-full mx-auto h-full relative">
+        <div class="flex flex-col grow mb-20">
+            <Header />
+            <PageHeader
+                title="Collections"
+                description="Explore our collections of digital signage software products."
+            />
+            <div class="md:px-5 lg:px-10">
+                {
+                    list.map((collection) => (
+                        <a
+                            href={`/collections/${collection.slug}`}
+                            class="flex hover:bg-neutral-100 md:rounded p-3 lg:p-5 group text-lg font-medium"
+                        >
+                            {collection.title}
+                        </a>
+                    ))
+                }
+            </div>
+        </div>
+    </div>
+</Layout>
