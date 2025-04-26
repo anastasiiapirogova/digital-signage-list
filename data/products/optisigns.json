@@ -1,0 +1,51 @@
+{
+  "id": "optisigns",
+  "name": "OptiSigns",
+  "description": "",
+  "website": "https://www.optisigns.com/",
+  "headquarters": "USA",
+  "year_founded": 2016,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "macOS",
+    "tvOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Standard",
+        "monthly": 10,
+        "yearly": 108
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 175605,
+      "source": "https://www.optisigns.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}
