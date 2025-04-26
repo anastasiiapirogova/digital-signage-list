@@ -1,20 +1,32 @@
 import type { Product } from "../components/types";
 
 type Filter = {
-    field?: string
-    has?: string[] | string
-}
+    field?: string;
+    has?: string[] | string;
+    is?: boolean | string | null | number
+};
 
-export const collectionProductsFilter = (products: Product[], filter: any) => {
-    if(filter.field === "supported_platforms") {
-        return products.filter((product) => {
-            const platforms = Array.isArray(filter.has) ? filter.has : [filter.has];
-            if (platforms && !platforms.every((platform: string) => product.supported_platforms.includes(platform))) {
-                return false;
-            }
-            return true;
-        });
-    }
+export const collectionProductsFilter = (products: Product[], filters: Filter[]) => {
+    return filters.reduce((filteredProducts, filter) => {
+        if (filter.field === "supported_platforms") {
+            return filteredProducts.filter((product) => {
+                if(!filter.has) {
+                    return false
+                }
+                const platforms = Array.isArray(filter.has) ? filter.has : [filter.has];
+                return platforms.every((platform: string) => product.supported_platforms.includes(platform));
+            });
+        }
 
-    return products
-}
+        if(filter.field === "pricing.has_freemium") {
+            return filteredProducts.filter((product) => {
+                if(filter.is === undefined) {
+                    return false
+                }
+                
+                return product.pricing.has_freemium === (filter.is === "true" || filter.is === true) || product.open_source === (filter.is === "true" || filter.is === true);
+            });
+        }
+        return filteredProducts;
+    }, products);
+};

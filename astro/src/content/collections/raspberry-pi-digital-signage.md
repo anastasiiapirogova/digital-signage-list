@@ -5,7 +5,10 @@ description: "Explore our curated selection of digital signage software tailored
 seo:
     title: "Raspberry Pi Digital Signage Software"
     description: "A curated list of Raspberry Pi digital signage software."
-filter:
-    field: "supported_platforms"
-    has: "Raspberry Pi"
+filters: [
+    {
+        field: "supported_platforms",
+        has: "Raspberry Pi"
+    }
+]
 ---

@@ -11,10 +11,13 @@ const productCollections = defineCollection({
             title: z.string(),
             description: z.string(),
         }),
-        filter: z.object({
-            field: z.string(),
-            has: z.string(),
-        }),
+        filters: z.array(
+            z.object({
+                field: z.string(),
+                has: z.string().optional(),
+                is: z.union([z.string(), z.boolean()]).optional(),
+            })
+        ),
     }),
 });
 

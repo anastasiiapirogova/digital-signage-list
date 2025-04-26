@@ -5,7 +5,10 @@ description: "Browse our complete range of digital signage software for Android,
 seo:
     title: "Android Digital Signage Software"
     description: "A curated list of Android digital signage software."
-filter:
-    field: "supported_platforms"
-    has: "Android"
+filters: [
+    {
+        field: "supported_platforms",
+        has: "Android"
+    }
+]
 ---
