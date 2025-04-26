@@ -11,38 +11,29 @@ const FreeTrial = ({ product }: { product: Product }) => {
 }
 
 const PricingTier = ({ product }: { product: Product }) => {
-    if (product.pricing.tier) {
-        if (product.pricing.tier === "affordable") {
-            return (
-                <div className="flex items-center">
-                    <TbCurrencyDollar size={16} />
-                    <TbCurrencyDollar size={16} className="text-neutral-400"/>
-                    <TbCurrencyDollar size={16} className="text-neutral-400"/>
-                </div>
-            );
-        }
-        if (product.pricing.tier === "midRange") {
-            return (
-                <div className="flex items-center">
-                    <TbCurrencyDollar size={16} />
-                    <TbCurrencyDollar size={16} />
-                    <TbCurrencyDollar size={16} className="text-neutral-400"/>
-                </div>
-            )
-        }
-        if (product.pricing.tier === "premium") {
-            return (
-                <div className="flex items-center">
-                    <TbCurrencyDollar size={16} />
-                    <TbCurrencyDollar size={16} />
-                    <TbCurrencyDollar size={16} />
-                </div>
-            )
-        }
-    }
+    const tierLevels = {
+        affordable: 1,
+        midRange: 2,
+        premium: 3,
+    } as const;
 
-    return null
-}
+    const tier = product.pricing.tier;
+    const filledCount = tier ? tierLevels[tier as keyof typeof tierLevels] : 0;
+
+    if (!filledCount) return null;
+
+    return (
+        <div className="flex items-center">
+            {[...Array(3)].map((_, i) => (
+                <TbCurrencyDollar
+                    key={i}
+                    size={16}
+                    className={i < filledCount ? "text-blue-600" : "text-neutral-400"}
+                />
+            ))}
+        </div>
+    );
+};
 
 const OpenSource = ({ product }: { product: Product }) => {
     if (product.open_source) {
