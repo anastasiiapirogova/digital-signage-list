@@ -6,7 +6,8 @@
   "headquarters": "United Kingdom",
   "year_founded": 2004,
   "notes": [
-    "Android, Tizen and webOS players are closed-source, commercial products."
+    "Android, Tizen and webOS players are closed-source, commercial products and require a (perpetual) license if used with a free self-hosted server.",
+    "The Tizen player is currently limited to HD resolution on 4K screens."
   ],
   "open_source": true,
   "self_signup": true,
