@@ -1,0 +1,25 @@
+{
+  "id": "vizansign",
+  "name": "VizanSign",
+  "description": "",
+  "website": "https://www.vizansign.com/software/",
+  "headquarters": "Singapore",
+  "year_founded": 2014,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

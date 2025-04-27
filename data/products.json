@@ -1567,6 +1567,46 @@
     "has_logo": true
   },
   {
+    "id": "fugo",
+    "name": "Fugo",
+    "description": "",
+    "website": "https://www.fugo.ai/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2020,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Raspberry Pi",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Essential",
+          "monthly": 24,
+          "yearly": 240
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {
+      "screens": {
+        "total": null,
+        "source": "",
+        "date": ""
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "funeralscreen",
     "name": "FuneralScreen",
     "description": "",
@@ -2462,6 +2502,27 @@
     "has_logo": true
   },
   {
+    "id": "magicinfo",
+    "name": "MagicINFO",
+    "description": "",
+    "website": "https://www.samsung.com/us/business/solutions/digital-signage-solutions/magicinfo/",
+    "headquarters": "South Korea",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "mandoe",
     "name": "Mandoe",
     "description": "",
@@ -2811,6 +2872,47 @@
     "has_logo": true
   },
   {
+    "id": "navori",
+    "name": "Navori",
+    "description": "",
+    "website": "https://navori.com/",
+    "headquarters": "Switzerland",
+    "year_founded": 1998,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Cloud Essential",
+          "monthly": 14,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 40000,
+        "source": "https://navori.com/company/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "neoscreen",
     "name": "Neoscreen",
     "description": "",
@@ -2937,6 +3039,25 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "novods",
+    "name": "NovoDS",
+    "description": "",
+    "website": "https://www.novods.com/",
+    "headquarters": "Taiwan",
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -3822,6 +3943,37 @@
     "has_logo": true
   },
   {
+    "id": "samsung-vxt",
+    "name": "Samsung VXT",
+    "description": "",
+    "website": "https://vxt.samsung.com/",
+    "headquarters": "South Korea",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "S Series",
+          "monthly": 20,
+          "yearly": 200
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "scala",
     "name": "Scala",
     "description": "",
@@ -3917,6 +4069,25 @@
       "free_trial": false,
       "pricing_available": false,
       "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "screenberry",
+    "name": "Screenberry",
+    "description": "",
+    "website": "https://screenberry.com/",
+    "headquarters": "",
+    "year_founded": 2006,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -4130,6 +4301,38 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "signage-rocket",
+    "name": "Signage Rocket",
+    "description": "",
+    "website": "https://signagerocket.com/",
+    "headquarters": "",
+    "year_founded": 2019,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "BrightSign",
+      "ChromeOS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "All-inclusive",
+          "monthly": 25,
+          "yearly": 249
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5287,6 +5490,31 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "vizansign",
+    "name": "VizanSign",
+    "description": "",
+    "website": "https://www.vizansign.com/software/",
+    "headquarters": "Singapore",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {

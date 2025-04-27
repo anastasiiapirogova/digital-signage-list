@@ -1,0 +1,31 @@
+{
+  "id": "samsung-vxt",
+  "name": "Samsung VXT",
+  "description": "",
+  "website": "https://vxt.samsung.com/",
+  "headquarters": "South Korea",
+  "year_founded": 2024,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "S Series",
+        "monthly": 20,
+        "yearly": 200
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

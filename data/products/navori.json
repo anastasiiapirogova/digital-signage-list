@@ -1,0 +1,41 @@
+{
+  "id": "navori",
+  "name": "Navori",
+  "description": "",
+  "website": "https://navori.com/",
+  "headquarters": "Switzerland",
+  "year_founded": 1998,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "Cloud Essential",
+        "monthly": 14,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 40000,
+      "source": "https://navori.com/company/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}
