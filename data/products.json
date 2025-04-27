@@ -61,6 +61,28 @@
     "has_logo": true
   },
   {
+    "id": "admaster",
+    "name": "ADMASTER",
+    "description": "",
+    "website": "https://admaster.io/",
+    "headquarters": "Russia",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "admira",
     "name": "Admira",
     "description": "",
@@ -1201,6 +1223,43 @@
     "has_logo": true
   },
   {
+    "id": "easycms",
+    "name": "easyCMS",
+    "description": "",
+    "website": "https://www.myeasycms.com/",
+    "headquarters": "Poland",
+    "year_founded": 2018,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "easyCMS Licence",
+          "monthly": null,
+          "yearly": null,
+          "lifetime": 113.86
+        }
+      ]
+    },
+    "stats": {
+      "screens": {
+        "total": 322,
+        "source": "https://www.myeasycms.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "easyscreen",
     "name": "Easyscreen",
     "description": "",
@@ -1233,6 +1292,27 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "eggs-tv",
+    "name": "Eggs TV",
+    "description": "",
+    "website": "https://eggstv.io/",
+    "headquarters": "Russia",
+    "year_founded": 2017,
+    "notes": [
+      "There is no pricing per screen, only per location, so we are not mentioning plans because it can be extremely expensive or ultra cheap depending on the number of screens in a location."
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -1964,6 +2044,34 @@
     "has_logo": true
   },
   {
+    "id": "ledsee",
+    "name": "Ledsee",
+    "description": "",
+    "website": "https://ledsee.pl/digital-signage/",
+    "headquarters": "Poland",
+    "year_founded": 2009,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "leftclick",
     "name": "LeftClick",
     "description": "",
@@ -2003,6 +2111,49 @@
     },
     "stats": {},
     "has_logo": false
+  },
+  {
+    "id": "liqvid",
+    "name": "Liqvid",
+    "description": "",
+    "website": "https://liqvid.io/",
+    "headquarters": "Spain",
+    "year_founded": 2020,
+    "notes": [
+      "The screen count is based on the number of provided customer count. The actual screen count may vary."
+    ],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Premium",
+          "monthly": 9.9,
+          "yearly": 79.2
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 7000,
+        "source": "https://liqvid.io/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
   },
   {
     "id": "livesignage",
@@ -3282,6 +3433,35 @@
         "total": 35000,
         "source": "https://posterbooking.com/",
         "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "prtv",
+    "name": "PRTV",
+    "description": "",
+    "website": "https://s.prtv.su/",
+    "headquarters": "Russia",
+    "year_founded": 2019,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": null,
+        "source": "",
+        "date": ""
       }
     },
     "has_logo": true
@@ -4723,6 +4903,29 @@
     "has_logo": true
   },
   {
+    "id": "vicont",
+    "name": "ViCont",
+    "description": "",
+    "website": "https://elecard.com/products/digital-signage/vicont",
+    "headquarters": "Russia",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "vidarti",
     "name": "Vidarti",
     "description": "",
@@ -4852,6 +5055,37 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "wejha",
+    "name": "Wejha",
+    "description": "",
+    "website": "https://wejha.com/",
+    "headquarters": "Saudi Arabia",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 8,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {

@@ -1,0 +1,37 @@
+{
+  "id": "easycms",
+  "name": "easyCMS",
+  "description": "",
+  "website": "https://www.myeasycms.com/",
+  "headquarters": "Poland",
+  "year_founded": 2018,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "easyCMS Licence",
+        "monthly": null,
+        "yearly": null,
+        "lifetime": 113.86
+      }
+    ]
+  },
+  "stats": {
+    "screens": {
+      "total": 322,
+      "source": "https://www.myeasycms.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

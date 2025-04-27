@@ -1,0 +1,23 @@
+{
+  "id": "vicont",
+  "name": "ViCont",
+  "description": "",
+  "website": "https://elecard.com/products/digital-signage/vicont",
+  "headquarters": "Russia",
+  "year_founded": 2023,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

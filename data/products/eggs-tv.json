@@ -1,0 +1,21 @@
+{
+  "id": "eggs-tv",
+  "name": "Eggs TV",
+  "description": "",
+  "website": "https://eggstv.io/",
+  "headquarters": "Russia",
+  "year_founded": 2017,
+  "notes": [
+    "There is no pricing per screen, only per location, so we are not mentioning plans because it can be extremely expensive or ultra cheap depending on the number of screens in a location."
+  ],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

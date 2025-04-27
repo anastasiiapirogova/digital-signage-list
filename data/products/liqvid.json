@@ -1,0 +1,43 @@
+{
+  "id": "liqvid",
+  "name": "Liqvid",
+  "description": "",
+  "website": "https://liqvid.io/",
+  "headquarters": "Spain",
+  "year_founded": 2020,
+  "notes": [
+    "The screen count is based on the number of provided customer count. The actual screen count may vary."
+  ],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Premium",
+        "monthly": 9.9,
+        "yearly": 79.2
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 7000,
+      "source": "https://liqvid.io/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

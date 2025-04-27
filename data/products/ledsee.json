@@ -1,0 +1,28 @@
+{
+  "id": "ledsee",
+  "name": "Ledsee",
+  "description": "",
+  "website": "https://ledsee.pl/digital-signage/",
+  "headquarters": "Poland",
+  "year_founded": 2009,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
