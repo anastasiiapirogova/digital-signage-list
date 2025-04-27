@@ -1,0 +1,27 @@
+{
+  "id": "xignage",
+  "name": "Xignage",
+  "description": "",
+  "website": "https://www.xaness.com/solutions/digital-signage/xignage-system",
+  "headquarters": "China",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Web Browser",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

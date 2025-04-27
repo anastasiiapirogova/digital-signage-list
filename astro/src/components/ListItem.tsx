@@ -47,7 +47,7 @@ const Pricing = ({ product }: { product: Product }) => {
     if (product.pricing.pricing_available) {
         return <Badge text="Public pricing" />
     }
-    if(!product.open_source) {
+    if (!product.open_source) {
         return <Badge text="Pricing on request" />
     }
 }
@@ -97,10 +97,10 @@ export const ListItem = ({ product }: { product: Product }) => {
                             <div>
                                 {product.name}
                             </div>
-                            <a 
-                                href={`${product.website}?ref=signagelist.org`} 
-                                className="opacity-100 lg:opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-colors transition-opacity p-1" 
-                                target="_blank" 
+                            <a
+                                href={`${product.website}?ref=signagelist.org`}
+                                className="opacity-100 lg:opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-colors transition-opacity p-1"
+                                target="_blank"
                                 rel="noopener noreferrer"
                                 aria-label={`Visit ${product.name} website`}
                             >
@@ -108,9 +108,13 @@ export const ListItem = ({ product }: { product: Product }) => {
                             </a>
                         </div>
                         <div>
-                            <div className="flex gap-1 items-center text-gray-400">
-                                {product.year_founded}
-                            </div>
+                            {
+                                product.year_founded && (
+                                    <div className="flex gap-1 items-center text-gray-400">
+                                        {product.year_founded}
+                                    </div>
+                                )
+                            }
                         </div>
                     </div>
                     <div className="flex items-center justify-between w-full">

@@ -1,0 +1,25 @@
+{
+  "id": "wicanvas",
+  "name": "WiCanvas",
+  "description": "",
+  "website": "https://wicanvas.wistron.com/products/cms",
+  "headquarters": "Japan",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": null,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Web Browser",
+    "iOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

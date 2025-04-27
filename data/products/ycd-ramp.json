@@ -1,0 +1,34 @@
+{
+  "id": "ycd-ramp",
+  "name": "YCD RAMP",
+  "description": "",
+  "website": "https://ycdmultimedia.com/ramp/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 1999,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 120000,
+      "source": "https://ycdmultimedia.com/about/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

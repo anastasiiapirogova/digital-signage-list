@@ -1,0 +1,29 @@
+{
+  "id": "wioplex",
+  "name": "Wioplex",
+  "description": "",
+  "website": "https://www.wioplex.com/",
+  "headquarters": "Singapore",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2023,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

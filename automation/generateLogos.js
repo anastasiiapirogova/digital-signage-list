@@ -15,7 +15,7 @@ const FOLDER_BG_COLORS = {
     dark: '#ffffff'
 };
 
-const SUPPORTED_EXTENSIONS = ['.png', '.svg', '.webp', '.jpg', '.jpeg'];
+const SUPPORTED_EXTENSIONS = ['.png', '.svg', '.avif', '.webp', '.jpg', '.jpeg'];
 
 async function processImage(file, folder) {
     const inputPath = join(inputDir, folder, file);

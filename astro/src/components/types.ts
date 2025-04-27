@@ -20,7 +20,7 @@ export type Product = {
     headquarters: string
     open_source: boolean
     pricing: Pricing
-    year_founded: number
+    year_founded: number | null
     supported_platforms: string[]
     stats: {
         screens?: {

@@ -5954,6 +5954,102 @@
     "has_logo": true
   },
   {
+    "id": "wicanvas",
+    "name": "WiCanvas",
+    "description": "",
+    "website": "https://wicanvas.wistron.com/products/cms",
+    "headquarters": "Japan",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": null,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "wilyer",
+    "name": "Wilyer",
+    "description": "",
+    "website": "https://wilyer.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2022,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Pro",
+          "monthly": 15,
+          "yearly": 150
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://wilyer.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "wioplex",
+    "name": "Wioplex",
+    "description": "",
+    "website": "https://www.wioplex.com/",
+    "headquarters": "Singapore",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2023,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "worldvds",
     "name": "World VDS",
     "description": "",
@@ -5981,6 +6077,33 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "x-sign",
+    "name": "X-Sign",
+    "description": "",
+    "website": "https://www.benq.com/en-us/education/software/x-sign.html",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2001,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "iPadOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -6032,6 +6155,59 @@
     "has_logo": true
   },
   {
+    "id": "xignage",
+    "name": "Xignage",
+    "description": "",
+    "website": "https://www.xaness.com/solutions/digital-signage/xignage-system",
+    "headquarters": "China",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "xiphias",
+    "name": "Xiphias",
+    "description": "",
+    "website": "https://www.xiphiastec.com/sg/digital-signage-cms-software-solution.html",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2005,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://www.xiphiastec.com/sg/digital-signage-cms-software-solution.html",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "xogo",
     "name": "XOGO",
     "description": "",
@@ -6071,6 +6247,30 @@
     "has_logo": true
   },
   {
+    "id": "xtravu",
+    "name": "xtravu",
+    "description": "",
+    "website": "https://xtravu.in/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "xtremesignage",
     "name": "XtremeSignage",
     "description": "",
@@ -6092,6 +6292,60 @@
       "screens": {
         "total": 25000,
         "source": "https://www.xtreme-media.com/products/digital-signage",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "yap-create",
+    "name": "Yap!create",
+    "description": "",
+    "website": "https://www.yapdigital.com.au/dynamic-modern-design/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "ycd-ramp",
+    "name": "YCD RAMP",
+    "description": "",
+    "website": "https://ycdmultimedia.com/ramp/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 1999,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 120000,
+        "source": "https://ycdmultimedia.com/about/",
         "date": "2025-04"
       }
     },
