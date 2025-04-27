@@ -1,0 +1,35 @@
+{
+  "id": "retailrotor",
+  "name": "RetailRotor",
+  "description": "",
+  "website": "https://rerotor.ru/",
+  "headquarters": "Russia",
+  "year_founded": 2016,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "Small business",
+        "monthly": 8.2,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 50000,
+      "source": "https://rerotor.ru/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

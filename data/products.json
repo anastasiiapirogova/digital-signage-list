@@ -408,6 +408,30 @@
     "has_logo": true
   },
   {
+    "id": "avesign",
+    "name": "Avesign",
+    "description": "",
+    "website": "https://averetmedia.ru/catalog/view/programnyi-modul-avesign",
+    "headquarters": "Russia",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "aware",
     "name": "Aware",
     "description": "",
@@ -741,6 +765,31 @@
       "pricing_available": false
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "crowntv",
+    "name": "CrownTV",
+    "description": "",
+    "website": "https://www.crowntv-us.com/",
+    "headquarters": "USA",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 13500,
+        "source": "https://www.crowntv-us.com/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -2361,6 +2410,25 @@
     "has_logo": true
   },
   {
+    "id": "lg-supersign",
+    "name": "LG SuperSign",
+    "description": "",
+    "website": "https://www.lg.com/us/business/display-solutions/supersign",
+    "headquarters": "South Korea",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "libre-signage",
     "name": "Libre Signage",
     "description": "",
@@ -2904,6 +2972,30 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "mood-media",
+    "name": "Mood Harmony",
+    "description": "",
+    "website": "https://us.moodmedia.com/sight/digital-signage-software/",
+    "headquarters": "USA",
+    "year_founded": 2000,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -4064,6 +4156,41 @@
     "has_logo": true
   },
   {
+    "id": "retailrotor",
+    "name": "RetailRotor",
+    "description": "",
+    "website": "https://rerotor.ru/",
+    "headquarters": "Russia",
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Small business",
+          "monthly": 8.2,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://rerotor.ru/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "revel-digital",
     "name": "Revel Digital",
     "description": "",
@@ -4853,6 +4980,45 @@
       "tier": "midRange"
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "sitekiosk",
+    "name": "SiteKiosk",
+    "description": "",
+    "website": "https://www.sitekiosk.com/",
+    "headquarters": "USA",
+    "year_founded": 2001,
+    "notes": [
+      "The screen count is based on the number of provided customer count. The actual screen count may vary."
+    ],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": null,
+      "plans": [
+        {
+          "name": "Online Cloud",
+          "monthly": null,
+          "yearly": 272.46
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://www.sitekiosk.com/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {

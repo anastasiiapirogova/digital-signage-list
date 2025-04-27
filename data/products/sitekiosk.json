@@ -1,0 +1,39 @@
+{
+  "id": "sitekiosk",
+  "name": "SiteKiosk",
+  "description": "",
+  "website": "https://www.sitekiosk.com/",
+  "headquarters": "USA",
+  "year_founded": 2001,
+  "notes": [
+    "The screen count is based on the number of provided customer count. The actual screen count may vary."
+  ],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Web Browser",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": null,
+    "plans": [
+      {
+        "name": "Online Cloud",
+        "monthly": null,
+        "yearly": 272.46
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {
+    "screens": {
+      "total": 10000,
+      "source": "https://www.sitekiosk.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

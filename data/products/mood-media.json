@@ -1,0 +1,24 @@
+{
+  "id": "mood-media",
+  "name": "Mood Harmony",
+  "description": "",
+  "website": "https://us.moodmedia.com/sight/digital-signage-software/",
+  "headquarters": "USA",
+  "year_founded": 2000,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

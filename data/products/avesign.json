@@ -1,0 +1,24 @@
+{
+  "id": "avesign",
+  "name": "Avesign",
+  "description": "",
+  "website": "https://averetmedia.ru/catalog/view/programnyi-modul-avesign",
+  "headquarters": "Russia",
+  "year_founded": 2015,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

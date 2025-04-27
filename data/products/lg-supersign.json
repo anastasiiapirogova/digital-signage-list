@@ -1,0 +1,19 @@
+{
+  "id": "lg-supersign",
+  "name": "LG SuperSign",
+  "description": "",
+  "website": "https://www.lg.com/us/business/display-solutions/supersign",
+  "headquarters": "South Korea",
+  "year_founded": 2010,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
