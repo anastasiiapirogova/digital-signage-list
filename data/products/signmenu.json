@@ -1,0 +1,32 @@
+{
+  "id": "signmenu",
+  "name": "SignMenu",
+  "description": "",
+  "website": "https://www.signmenu.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2017,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": null,
+        "yearly": 0
+      },
+      {
+        "name": "Standard",
+        "monthly": null,
+        "yearly": 499
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {},
+  "has_logo": true
+}

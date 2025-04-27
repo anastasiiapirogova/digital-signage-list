@@ -511,6 +511,25 @@
     "has_logo": true
   },
   {
+    "id": "budsense",
+    "name": "BudSense",
+    "description": "",
+    "website": "https://www.mybudsense.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "cenareo",
     "name": "Cenareo",
     "description": "",
@@ -635,7 +654,7 @@
           "yearly": 324
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -795,7 +814,7 @@
           "yearly": 184
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1033,6 +1052,30 @@
     "pricing": {
       "free_trial": false,
       "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "dopublicity",
+    "name": "doPublicity",
+    "description": "",
+    "website": "https://www.dopublicity.com/Digital-Signage-Software.aspx",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2006,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
       "has_freemium": false
     },
     "stats": {},
@@ -1562,7 +1605,7 @@
           "yearly": 420
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1836,7 +1879,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1874,7 +1917,7 @@
           "yearly": 173.66
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -1906,6 +1949,54 @@
       "tier": "midRange"
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "iteq",
+    "name": "ITEQ Digital",
+    "description": "",
+    "website": "https://iteq.rs/en/",
+    "headquarters": "Serbia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [
+      "The total number of screens is based on the number daily broadcast spots"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Pharmacies",
+          "monthly": 5,
+          "yearly": null
+        },
+        {
+          "name": "Laboratories",
+          "monthly": 9,
+          "yearly": null
+        },
+        {
+          "name": "Private clinics",
+          "monthly": 13,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 81600,
+        "source": "https://iteq.rs/en/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -2224,7 +2315,7 @@
           "yearly": 162
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -2342,6 +2433,35 @@
     "has_logo": true
   },
   {
+    "id": "m4b-wall",
+    "name": "M4B WALL",
+    "description": "",
+    "website": "https://m4b.com/en/digital-signage/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 30000,
+        "source": "https://m4b.com/en/about-us/",
+        "date": "2019"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "mandoe",
     "name": "Mandoe",
     "description": "",
@@ -2367,7 +2487,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3197,7 +3317,7 @@
           "yearly": 162
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -3250,6 +3370,27 @@
     "has_logo": true
   },
   {
+    "id": "playengo",
+    "name": "Playengo",
+    "description": "",
+    "website": "https://www.playengo.com/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "is_deprecated": true,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "playipp",
     "name": "PLAYipp",
     "description": "",
@@ -3271,7 +3412,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -3611,6 +3752,34 @@
     "has_logo": true
   },
   {
+    "id": "revel-digital",
+    "name": "Revel Digital",
+    "description": "",
+    "website": "https://www.reveldigital.com/",
+    "headquarters": "USA",
+    "open_source": true,
+    "self_signup": true,
+    "year_founded": 2000,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "rise-vision",
     "name": "Rise Vision",
     "description": "",
@@ -3880,7 +4049,7 @@
           "yearly": 324
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4116,7 +4285,7 @@
           "yearly": 168
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -4229,6 +4398,38 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "signmenu",
+    "name": "SignMenu",
+    "description": "",
+    "website": "https://www.signmenu.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": null,
+          "yearly": 0
+        },
+        {
+          "name": "Standard",
+          "monthly": null,
+          "yearly": 499
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -4538,7 +4739,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -4827,6 +5028,37 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "upshow",
+    "name": "UPshow",
+    "description": "",
+    "website": "https://www.upshow.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2015,
+    "notes": [
+      "Acquired by EverPass Media"
+    ],
+    "supported_platforms": [
+      "ChromeOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": 50,
+          "yearly": null
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5218,7 +5450,7 @@
           "yearly": 180
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -5363,6 +5595,33 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "zeroframe",
+    "name": "Zeroframe",
+    "description": "",
+    "website": "https://zeroframe.art/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Collector",
+          "monthly": 9,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   }
 ]

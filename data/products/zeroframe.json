@@ -1,24 +1,22 @@
 {
-  "id": "intraactive-replay",
-  "name": "IntraActive Replay",
+  "id": "zeroframe",
+  "name": "Zeroframe",
   "description": "",
-  "website": "https://intraactivereplay.net/",
-  "headquarters": "Denmark",
+  "website": "https://zeroframe.art/",
+  "headquarters": "USA",
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2022,
+  "year_founded": 2021,
   "notes": [],
-  "supported_platforms": [
-    "Web Browser"
-  ],
+  "supported_platforms": [],
   "pricing": {
     "free_trial": true,
     "pricing_available": true,
     "has_freemium": false,
     "plans": [
       {
-        "name": "Basic",
-        "monthly": 14.85,
+        "name": "Collector",
+        "monthly": 9,
         "yearly": null
       }
     ],

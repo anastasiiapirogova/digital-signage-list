@@ -1,0 +1,48 @@
+{
+  "id": "iteq",
+  "name": "ITEQ Digital",
+  "description": "",
+  "website": "https://iteq.rs/en/",
+  "headquarters": "Serbia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2013,
+  "notes": [
+    "The total number of screens is based on the number daily broadcast spots"
+  ],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Pharmacies",
+        "monthly": 5,
+        "yearly": null
+      },
+      {
+        "name": "Laboratories",
+        "monthly": 9,
+        "yearly": null
+      },
+      {
+        "name": "Private clinics",
+        "monthly": 13,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 81600,
+      "source": "https://iteq.rs/en/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

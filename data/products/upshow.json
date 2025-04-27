@@ -1,15 +1,17 @@
 {
-  "id": "intraactive-replay",
-  "name": "IntraActive Replay",
+  "id": "upshow",
+  "name": "UPshow",
   "description": "",
-  "website": "https://intraactivereplay.net/",
-  "headquarters": "Denmark",
+  "website": "https://www.upshow.tv/",
+  "headquarters": "USA",
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2022,
-  "notes": [],
+  "year_founded": 2015,
+  "notes": [
+    "Acquired by EverPass Media"
+  ],
   "supported_platforms": [
-    "Web Browser"
+    "ChromeOS"
   ],
   "pricing": {
     "free_trial": true,
@@ -17,12 +19,12 @@
     "has_freemium": false,
     "plans": [
       {
-        "name": "Basic",
-        "monthly": 14.85,
+        "name": "Starter",
+        "monthly": 50,
         "yearly": null
       }
     ],
-    "tier": "affordable"
+    "tier": "premium"
   },
   "stats": {},
   "has_logo": true

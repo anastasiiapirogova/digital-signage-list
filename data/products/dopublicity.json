@@ -1,0 +1,24 @@
+{
+  "id": "dopublicity",
+  "name": "doPublicity",
+  "description": "",
+  "website": "https://www.dopublicity.com/Digital-Signage-Software.aspx",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2006,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}
