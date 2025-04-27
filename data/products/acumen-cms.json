@@ -1,0 +1,38 @@
+{
+  "id": "acumen-cms",
+  "name": "Acumen CMS",
+  "description": "",
+  "website": "https://acumencms.com/",
+  "headquarters": "India",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2017,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Platinum",
+        "monthly": 8,
+        "yearly": null
+      },
+      {
+        "name": "Custom Advanced",
+        "monthly": 11,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 30000,
+      "source": "https://acumencms.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

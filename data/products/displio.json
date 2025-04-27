@@ -1,0 +1,41 @@
+{
+  "id": "displio",
+  "name": "Displio",
+  "description": "",
+  "website": "https://displio.cz/en/",
+  "headquarters": "Czechia",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2023,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Profi",
+        "monthly": 12,
+        "yearly": 120
+      },
+      {
+        "name": "Premium",
+        "monthly": 18,
+        "yearly": 178
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}
