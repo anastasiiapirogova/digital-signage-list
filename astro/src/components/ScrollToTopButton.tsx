@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { TbArrowUp } from 'react-icons/tb';
 
 export const ScrollToTopButton = () => {
-    const [isDisabled, setIsDisabled] = useState(false);
+    const [isDisabled, setIsDisabled] = useState(true);
 
     const handleScroll = () => {
         if (window.scrollY > 300) {
