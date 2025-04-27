@@ -40,15 +40,16 @@ const OpenSource = ({ product }: { product: Product }) => {
         return <Badge text="Open source" />
     }
 
-    return <Badge text="Proprietary" />
+    return null
 }
 
 const Pricing = ({ product }: { product: Product }) => {
     if (product.pricing.pricing_available) {
         return <Badge text="Public pricing" />
     }
-
-    return <Badge text="Pricing on request" />
+    if(!product.open_source) {
+        return <Badge text="Pricing on request" />
+    }
 }
 
 const Screens = ({ product }: { product: Product }) => {
