@@ -4196,7 +4196,7 @@
     "description": "",
     "website": "https://www.reveldigital.com/",
     "headquarters": "USA",
-    "open_source": true,
+    "open_source": false,
     "self_signup": true,
     "year_founded": 2000,
     "notes": [],
