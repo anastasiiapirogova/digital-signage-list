@@ -3781,7 +3781,7 @@
     "name": "PlayShield",
     "description": "",
     "website": "https://playshield.tv/",
-    "headquarters": "Unknown",
+    "headquarters": "Israel",
     "open_source": false,
     "self_signup": true,
     "year_founded": 2023,
@@ -3809,7 +3809,13 @@
       ],
       "tier": "affordable"
     },
-    "stats": {},
+    "stats": {
+      "screens": {
+        "total": 5000,
+        "source": "https://github.com/514sid/digital-signage-list/issues/7",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
