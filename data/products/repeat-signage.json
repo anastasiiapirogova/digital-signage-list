@@ -1,0 +1,28 @@
+{
+  "id": "repeat-signage",
+  "name": "Repeat Signage",
+  "description": "",
+  "website": "https://www.repeatsoftware.com/",
+  "headquarters": "United Kingdom",
+  "year_founded": 2009,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "Repeat Signage V5 Standard Edition",
+        "monthly": null,
+        "yearly": 172.5
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

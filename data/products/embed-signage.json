@@ -1,0 +1,37 @@
+{
+  "id": "embed-signage",
+  "name": "embed signage",
+  "description": "",
+  "website": "https://embedsignage.com/",
+  "headquarters": "United Kingdom",
+  "year_founded": 2014,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "plans": [
+      {
+        "name": "embed annual",
+        "monthly": null,
+        "yearly": 185
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

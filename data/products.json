@@ -1,5 +1,29 @@
 [
   {
+    "id": "ablesign",
+    "name": "AbleSign",
+    "description": "",
+    "website": "https://www.ablesign.tv/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "acrelec",
     "name": "Acrelec",
     "description": "",
@@ -1354,6 +1378,43 @@
       "free_trial": false,
       "pricing_available": true,
       "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "embed-signage",
+    "name": "embed signage",
+    "description": "",
+    "website": "https://embedsignage.com/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "embed annual",
+          "monthly": null,
+          "yearly": 185
+        }
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -3873,6 +3934,34 @@
     "has_logo": true
   },
   {
+    "id": "repeat-signage",
+    "name": "Repeat Signage",
+    "description": "",
+    "website": "https://www.repeatsoftware.com/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2009,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Repeat Signage V5 Standard Edition",
+          "monthly": null,
+          "yearly": 172.5
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "revel-digital",
     "name": "Revel Digital",
     "description": "",
@@ -5160,6 +5249,36 @@
       "pricing_available": false,
       "has_freemium": false,
       "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "troudigital",
+    "name": "TrouDigital",
+    "description": "",
+    "website": "https://troudigital.com/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2013,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "plans": [
+        {
+          "name": "Essential",
+          "monthly": 21.3,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
