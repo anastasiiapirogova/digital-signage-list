@@ -860,29 +860,6 @@
     "has_logo": true
   },
   {
-    "id": "displaymonkey",
-    "name": "DisplayMonkey",
-    "description": "",
-    "website": "https://github.com/fuel9/DisplayMonkey",
-    "headquarters": "USA",
-    "open_source": true,
-    "self_signup": false,
-    "is_deprecated": true,
-    "year_founded": 2015,
-    "notes": [],
-    "supported_platforms": [
-      "Web Browser"
-    ],
-    "pricing": {
-      "free_trial": false,
-      "pricing_available": false,
-      "has_freemium": false,
-      "plans": []
-    },
-    "stats": {},
-    "has_logo": true
-  },
-  {
     "id": "display-now",
     "name": "Display NOW",
     "description": "",
@@ -913,10 +890,34 @@
           "monthly": 11,
           "yearly": 108
         }
-      ]
+      ],
+      "tier": "affordable"
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
+  },
+  {
+    "id": "displaymonkey",
+    "name": "DisplayMonkey",
+    "description": "",
+    "website": "https://github.com/fuel9/DisplayMonkey",
+    "headquarters": "USA",
+    "open_source": true,
+    "self_signup": false,
+    "is_deprecated": true,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
   },
   {
     "id": "ditto",
@@ -1978,7 +1979,7 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": true
   },
   {
     "id": "libre-signage",
@@ -3128,6 +3129,42 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "playshield",
+    "name": "PlayShield",
+    "description": "",
+    "website": "https://playshield.tv/",
+    "headquarters": "Unknown",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2023,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Cloud",
+          "monthly": 5,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
