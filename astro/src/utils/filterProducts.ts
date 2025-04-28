@@ -43,13 +43,14 @@ export const filterProducts = (products: Product[], filters: Record<string, stri
         filteredProducts.sort(() => Math.random() - 0.5);
     } else if (sortBy === "screens") {
         filteredProducts.sort((a, b) => {
-            if(a.stats.screens === undefined || b.stats.screens === undefined) return 0;
-
             const screensA = a.stats.screens;
             const screensB = b.stats.screens;
 
-            if (screensA < screensB) return sortOrder === "asc" ? -1 : 1;
-            if (screensA > screensB) return sortOrder === "asc" ? 1 : -1;
+            const screensAValue = screensA?.total ?? 0;
+            const screensBValue = screensB?.total ?? 0;
+
+            if (screensAValue < screensBValue) return sortOrder === "asc" ? -1 : 1;
+            if (screensAValue > screensBValue) return sortOrder === "asc" ? 1 : -1;
             return 0;
         });
     }

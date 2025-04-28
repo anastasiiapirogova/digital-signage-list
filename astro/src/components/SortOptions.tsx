@@ -14,9 +14,9 @@ export const SortOptions = () => {
     sortOrder: null,
   };
 
-  const screensAsc: ProductsSortOption = {
+  const screensDesc: ProductsSortOption = {
     sortBy: "screens",
-    sortOrder: "asc",
+    sortOrder: "desc",
   };
 
   const handleSortChange = (option: ProductsSortOption) => {
@@ -37,7 +37,7 @@ export const SortOptions = () => {
         Name
       </button>
       <button
-        onClick={() => handleSortChange(screensAsc)}
+        onClick={() => handleSortChange(screensDesc)}
         className={[
           "px-4 py-1.5 rounded-lg",
           $sort.sortBy === "screens"
