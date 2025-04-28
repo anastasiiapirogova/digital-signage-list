@@ -14,6 +14,11 @@ export const SortOptions = () => {
     sortOrder: null,
   };
 
+  const screensAsc: ProductsSortOption = {
+    sortBy: "screens",
+    sortOrder: "asc",
+  };
+
   const handleSortChange = (option: ProductsSortOption) => {
     setProductsSortOption(option);
   };
@@ -32,6 +37,17 @@ export const SortOptions = () => {
         Name
       </button>
       <button
+        onClick={() => handleSortChange(screensAsc)}
+        className={[
+          "px-4 py-1.5 rounded-lg",
+          $sort.sortBy === "screens"
+            ? "bg-white text-black"
+            : "text-neutral-800"
+        ].join(" ")}
+      >
+        Screens
+      </button>
+      <button
         onClick={() => handleSortChange(shuffle)}
         className={[
           "px-4 py-1.5 rounded-lg",
@@ -42,6 +58,7 @@ export const SortOptions = () => {
       >
         Shuffle
       </button>
+     
     </div>
   )
 }

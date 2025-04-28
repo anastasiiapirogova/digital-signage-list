@@ -1,7 +1,7 @@
 import { atom } from 'nanostores';
 
 export type ProductsSortOption = {
-    sortBy: 'name' | 'shuffle';
+    sortBy: 'name' | 'shuffle' | 'screens';
     sortOrder: 'asc' | 'desc' | null;
 }
 

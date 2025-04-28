@@ -1,0 +1,84 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Header from "../../components/Header.astro";
+import PageHeader from "../../components/PageHeader.astro";
+import { products } from "../../utils/products";
+import { FoundedYearChart } from "../../components/charts/FoundedYearChart";
+import { TotalProductsChart } from "../../components/charts/TotalProductsChart";
+import { SupportedPlatformsChart } from "../../components/charts/SupportedPlatformsChart";
+import { HeadquartersChart } from "../../components/charts/HeadquartersChart";
+
+const seo = {
+    title: "2025 Digital Signage Software Market Statistics: Trends, Growth, and Insights",
+    description:
+        "Explore key digital signage software statistics for 2025, including global market growth trends and country-level comparisons.",
+}
+
+const totalScreens = products.reduce((acc, product) => {
+    const screens = typeof product.stats?.screens ? product.stats.screens?.total ? product.stats.screens?.total : 0 : 0
+    return acc + screens;
+}, 0);
+
+const totalWithScreens = products.filter(product => typeof product.stats?.screens?.total === 'number').length;
+
+const totalWithScreensStatsPercentage = (totalWithScreens / products.length) * 100;
+---
+
+<Layout seo={seo}>
+    <div class="flex max-w-screen-xl w-full mx-auto h-full relative">
+        <div class="flex flex-col grow mb-20">
+            <Header />
+            <PageHeader
+                title={ seo.title}
+                description={ seo.description }
+            />
+            <div class="px-5 lg:px-10">
+                <div class="text-2xl font-medium my-10">
+                    Total products
+                </div>
+                <div class="text-4xl mb-4">
+                    { products.length.toLocaleString() }
+                </div>
+                <div class="text-2xl font-medium my-10">
+                    Screen count
+                </div>
+                <div class="text-4xl mb-4">
+                    { totalScreens.toLocaleString() }+
+                </div>
+                <div class="text-neutral-500">
+                    Screen count is based on the number of screens reported by each software vendor. Provided by { totalWithScreens } of { products.length } ({totalWithScreensStatsPercentage.toFixed(2)}%) vendors.
+                </div>
+                <div class="text-2xl font-medium my-10">
+                    New products by year
+                </div>
+                <div>
+                    <FoundedYearChart client:load/>
+                </div>
+                <div class="text-2xl font-medium my-10">
+                    Total products by year
+                </div>
+                <data>
+                    <TotalProductsChart client:load/>
+                </data>
+                <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-20">
+                    <div>
+                        <div class="text-2xl font-medium my-10">
+                            Supported platforms
+                        </div>
+                        <data>
+                            <SupportedPlatformsChart client:load/>
+                        </data>
+                    </div>
+                    <div>
+                        <div class="text-2xl font-medium my-10">
+                            Product by headquarters country
+                            </div>
+                            <div>
+                                <HeadquartersChart client:load/>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</Layout>

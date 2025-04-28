@@ -56,7 +56,7 @@ const Screens = ({ product }: { product: Product }) => {
     if (product.stats.screens && product.stats.screens.total) {
         return (
             <div className="flex items-center text-gray-500 font-mono">
-                {product.stats.screens.total.toLocaleString()} screens
+                {product.stats.screens.total.toLocaleString()}+ screens
             </div>
         );
     }
