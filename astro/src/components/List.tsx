@@ -15,7 +15,6 @@ export const List = () => {
     const deferredSort = useDeferredValue($sort);
 
     useEffect(() => {
-        console.log($filters)
         const newFilteredProducts = filterProducts(products, $filters, deferredSort)
         setProducts(newFilteredProducts)
     }, [$filters, deferredSort])
