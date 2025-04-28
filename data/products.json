@@ -2535,6 +2535,47 @@
     "has_logo": true
   },
   {
+    "id": "localscreens",
+    "name": "LocalScreens",
+    "description": "",
+    "website": "https://localscreens.pl/oprogramowanie-digital-signage/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2017,
+    "notes": [
+      "Helloscreens whitelabel solution."
+    ],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 8,
+          "yearly": null
+        },
+        {
+          "name": "Premium",
+          "monthly": 11,
+          "yearly": null
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 15,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "look-ds",
     "name": "Look Digital Signage",
     "description": "",
@@ -5528,6 +5569,68 @@
     "has_logo": true
   },
   {
+    "id": "trilbytv",
+    "name": "TrilbyTV",
+    "description": "",
+    "website": "https://www.trilbytv.co.uk/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [
+      "Digital signage for schools mainly, but also offers options per screen for Charity, Voluntary organisation, or Business."
+    ],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS",
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Per screen",
+          "monthly": null,
+          "yearly": 267
+        },
+        {
+          "name": "Unlimited screen",
+          "monthly": null,
+          "yearly": 2406
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "trinax",
+    "name": "Trinax",
+    "description": "",
+    "website": "https://www.trinax.sg/",
+    "headquarters": "Singapore",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "troudigital",
     "name": "TrouDigital",
     "description": "",
@@ -5662,6 +5765,31 @@
     "has_logo": true
   },
   {
+    "id": "urve",
+    "name": "URVE",
+    "description": "",
+    "website": "https://smartoffice.expert/en/digital-signage-2/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "valotalive",
     "name": "Valotalive",
     "description": "",
@@ -5698,6 +5826,26 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "vertika",
+    "name": "Vertika",
+    "description": "",
+    "website": "https://www.vertika.tv/",
+    "headquarters": "China",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2010,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5788,6 +5936,57 @@
     "has_logo": true
   },
   {
+    "id": "videomood",
+    "name": "videoMOOD",
+    "description": "",
+    "website": "https://videomood.net/en",
+    "headquarters": "Italy",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "videri",
+    "name": "Videri",
+    "description": "",
+    "website": "https://videri.com/software/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "viewneo",
     "name": "viewneo",
     "description": "",
@@ -5817,6 +6016,52 @@
       "tier": "midRange"
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "vigitsign",
+    "name": "VIGITSIGN",
+    "description": "",
+    "website": "https://v-series.net/software/vigitsign/",
+    "headquarters": "Malaysia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2005,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "virtusignage",
+    "name": "VirtuSignage",
+    "description": "",
+    "website": "https://www.virtubox.io/in/virtusignage",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 3000,
+        "source": "https://www.virtubox.io/in",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -5850,6 +6095,31 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "visshow",
+    "name": "visShow",
+    "description": "",
+    "website": "http://uvis.co.th/web/products/visshow/",
+    "headquarters": "Thailand",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -5912,6 +6182,138 @@
       "plans": []
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "vsplayer",
+    "name": "VSplayer",
+    "description": "",
+    "website": "https://www.dsvisual.sg/software",
+    "headquarters": "Singapore",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "wallboard",
+    "name": "Wallboard",
+    "description": "",
+    "website": "https://www.wallboard.us/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Professional",
+          "monthly": 25,
+          "yearly": null
+        },
+        {
+          "name": "Premium",
+          "monthly": 30,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "wallsign",
+    "name": "WallSign",
+    "description": "",
+    "website": "https://www.wallsign.eu/en/",
+    "headquarters": "Italy",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 4000,
+        "source": "https://www.wallsign.eu/en/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "wauly",
+    "name": "Wauly",
+    "description": "",
+    "website": "https://wauly.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [
+      "The total number of screens is based on the number of licenses"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Professional",
+          "monthly": 10,
+          "yearly": 110
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 21000,
+        "source": "https://wauly.com/digital-signage-software",
+        "date": "2017"
+      }
+    },
     "has_logo": true
   },
   {

@@ -1,0 +1,37 @@
+{
+  "id": "wallboard",
+  "name": "Wallboard",
+  "description": "",
+  "website": "https://www.wallboard.us/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Professional",
+        "monthly": 25,
+        "yearly": null
+      },
+      {
+        "name": "Premium",
+        "monthly": 30,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

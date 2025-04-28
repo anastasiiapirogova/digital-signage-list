@@ -1,0 +1,42 @@
+{
+  "id": "trilbytv",
+  "name": "TrilbyTV",
+  "description": "",
+  "website": "https://www.trilbytv.co.uk/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2014,
+  "notes": [
+    "Digital signage for schools mainly, but also offers options per screen for Charity, Voluntary organisation, or Business."
+  ],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Windows",
+    "iOS",
+    "macOS",
+    "tvOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Per screen",
+        "monthly": null,
+        "yearly": 267
+      },
+      {
+        "name": "Unlimited screen",
+        "monthly": null,
+        "yearly": 2406
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

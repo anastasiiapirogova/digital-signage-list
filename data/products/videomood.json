@@ -1,0 +1,28 @@
+{
+  "id": "videomood",
+  "name": "videoMOOD",
+  "description": "",
+  "website": "https://videomood.net/en",
+  "headquarters": "Italy",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2004,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

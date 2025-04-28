@@ -1,0 +1,41 @@
+{
+  "id": "wauly",
+  "name": "Wauly",
+  "description": "",
+  "website": "https://wauly.com/",
+  "headquarters": "India",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [
+    "The total number of screens is based on the number of licenses"
+  ],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Professional",
+        "monthly": 10,
+        "yearly": 110
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 21000,
+      "source": "https://wauly.com/digital-signage-software",
+      "date": "2017"
+    }
+  },
+  "has_logo": true
+}

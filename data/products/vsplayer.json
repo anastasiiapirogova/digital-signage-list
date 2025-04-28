@@ -1,0 +1,20 @@
+{
+  "id": "vsplayer",
+  "name": "VSplayer",
+  "description": "",
+  "website": "https://www.dsvisual.sg/software",
+  "headquarters": "Singapore",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2021,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

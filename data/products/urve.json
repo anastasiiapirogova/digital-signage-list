@@ -1,0 +1,25 @@
+{
+  "id": "urve",
+  "name": "URVE",
+  "description": "",
+  "website": "https://smartoffice.expert/en/digital-signage-2/",
+  "headquarters": "Poland",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2008,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
