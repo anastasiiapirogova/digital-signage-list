@@ -1,6 +1,7 @@
 import type { Product } from "../components/types";
+import type { ProductsSortOption } from "./productsSortOptionStore";
 
-export const filterProducts = (products: Product[], filters: Record<string, string>) => {
+export const filterProducts = (products: Product[], filters: Record<string, string>, sort: ProductsSortOption) => {
     const filteredProducts = products.filter((product) => {
         const platforms = filters.platform;
         const open_source = filters.open_source;
@@ -25,6 +26,22 @@ export const filterProducts = (products: Product[], filters: Record<string, stri
 
         return true;
     });
+
+    const sortBy = sort.sortBy;
+    const sortOrder = sort.sortOrder;
+
+    if (sortBy === "name") {
+        filteredProducts.sort((a, b) => {
+            const nameA = a.name.toLowerCase();
+            const nameB = b.name.toLowerCase();
+
+            if (nameA < nameB) return sortOrder === "asc" ? -1 : 1;
+            if (nameA > nameB) return sortOrder === "asc" ? 1 : -1;
+            return 0;
+        });
+    } else if (sortBy === "shuffle") {
+        filteredProducts.sort(() => Math.random() - 0.5);
+    }
 
     return filteredProducts;
 };

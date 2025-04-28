@@ -1,21 +1,24 @@
-import { useEffect, useState } from 'react'
+import { useDeferredValue, useEffect } from 'react'
 import { filterProducts } from '../utils/filterProducts'
 import { products } from '../utils/products'
 import { ListItem } from './ListItem'
 import { useStore } from '@nanostores/react'
 import { productFiltersStore, setProductFilters } from '../utils/productFiltersStore'
+import { productsSortOptionStore } from '../utils/productsSortOptionStore'
+import { productsStore, setProducts } from '../utils/productsStore'
 
 export const List = () => {
     const $filters = useStore(productFiltersStore)
+    const $sort = useStore(productsSortOptionStore)
+    const $products = useStore(productsStore)
 
-    const [filteredProducts, setFilteredProducts] = useState(() =>
-        filterProducts(products, $filters)
-    )
+    const deferredSort = useDeferredValue($sort);
 
     useEffect(() => {
-        const newFilteredProducts = filterProducts(products, $filters)
-        setFilteredProducts(newFilteredProducts)
-    }, [$filters])
+        console.log($filters)
+        const newFilteredProducts = filterProducts(products, $filters, deferredSort)
+        setProducts(newFilteredProducts)
+    }, [$filters, deferredSort])
 
     useEffect(() => {
         const filters: Record<string, string> = {}
@@ -29,7 +32,7 @@ export const List = () => {
 
     return (
         <div className='flex flex-col w-full gap-2'>
-            {filteredProducts.map((product) => (
+            {$products.map((product) => (
                 <ListItem product={product} key={product.id} />
             ))}
         </div>
