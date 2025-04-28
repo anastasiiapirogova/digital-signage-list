@@ -75,7 +75,7 @@ function BarListInner<T>(
                 ? [
                     "-m-0! cursor-pointer",
                     // hover
-                    "hover:bg-gray-50 dark:hover:bg-gray-900",
+                    "hover:bg-gray-50",
                   ]
                 : "",
             )}
@@ -86,9 +86,9 @@ function BarListInner<T>(
                 "flex items-center rounded-sm transition-all",
                 rowHeight,
                 // background color
-                "bg-blue-200 dark:bg-blue-900",
+                "bg-blue-200",
                 onValueChange
-                  ? "group-hover:bg-blue-300 dark:group-hover:bg-blue-800"
+                  ? "group-hover:bg-blue-300"
                   : "",
                 // margin and duration
                 {
@@ -106,7 +106,7 @@ function BarListInner<T>(
                       // base
                       "truncate whitespace-nowrap rounded-sm text-sm",
                       // text color
-                      "text-gray-900 dark:text-gray-50",
+                      "text-gray-900",
                       // hover
                       "hover:underline hover:underline-offset-2",
                       // focus
@@ -124,7 +124,7 @@ function BarListInner<T>(
                       // base
                       "truncate whitespace-nowrap text-sm",
                       // text color
-                      "text-gray-900 dark:text-gray-50",
+                      "text-gray-900",
                     )}
                   >
                     {item.name}
@@ -150,7 +150,7 @@ function BarListInner<T>(
                 // base
                 "truncate whitespace-nowrap text-sm leading-none",
                 // text color
-                "text-gray-900 dark:text-gray-50",
+                "text-gray-900",
               )}
             >
               {valueFormatter(item.value)}
