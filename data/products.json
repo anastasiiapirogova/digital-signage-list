@@ -2185,7 +2185,7 @@
     "headquarters": "USA",
     "open_source": false,
     "self_signup": false,
-    "year_founded": 1976,
+    "year_founded": 2012,
     "notes": [],
     "supported_platforms": [
       "BrightSign",
@@ -5815,7 +5815,7 @@
     "headquarters": "Japan",
     "open_source": false,
     "self_signup": false,
-    "year_founded": 1946,
+    "year_founded": 2017,
     "notes": [],
     "supported_platforms": [
       "Android",
@@ -6840,7 +6840,6 @@
       "Fire OS",
       "Windows",
       "iOS",
-      "iPadOS",
       "macOS"
     ],
     "pricing": {
