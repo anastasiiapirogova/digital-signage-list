@@ -1,0 +1,31 @@
+{
+  "id": "imidiatv",
+  "name": "ImidiaTV",
+  "description": "",
+  "website": "https://pixmidia.com.br/imidiatv/",
+  "headquarters": "Brazil",
+  "year_founded": 2017,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 12000,
+      "source": "https://pixmidia.com.br/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

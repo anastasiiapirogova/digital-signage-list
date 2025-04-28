@@ -1,0 +1,24 @@
+{
+  "id": "alpha-digital",
+  "name": "Alpha Digital",
+  "description": "",
+  "website": "https://alphadigital.co/products/digital-signage-software",
+  "headquarters": "Thailand",
+  "year_founded": 2022,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

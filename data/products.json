@@ -434,6 +434,57 @@
     "has_logo": true
   },
   {
+    "id": "alpha-digital",
+    "name": "Alpha Digital",
+    "description": "",
+    "website": "https://alphadigital.co/products/digital-signage-software",
+    "headquarters": "Thailand",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "anima",
+    "name": "ANIMA",
+    "description": "",
+    "website": "https://infinitys.it/en/content-panel/",
+    "headquarters": "Italy",
+    "year_founded": 2020,
+    "notes": [
+      "The screen count is based on the number of provided customer count. The actual screen count may vary."
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 1000,
+        "source": "https://infinitys.it/en/content-panel/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "anthias",
     "name": "Anthias",
     "description": "",
@@ -2203,6 +2254,37 @@
       "plans": []
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "imidiatv",
+    "name": "ImidiaTV",
+    "description": "",
+    "website": "https://pixmidia.com.br/imidiatv/",
+    "headquarters": "Brazil",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 12000,
+        "source": "https://pixmidia.com.br/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
