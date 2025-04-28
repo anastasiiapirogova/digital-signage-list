@@ -1,5 +1,30 @@
 [
   {
+    "id": "22miles",
+    "name": "22Miles",
+    "description": "",
+    "website": "https://www.22miles.com/solutions/digital-signage-2/",
+    "headquarters": "USA",
+    "year_founded": 2007,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 22000,
+        "source": "https://www.22miles.com/about/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "ablesign",
     "name": "AbleSign",
     "description": "",
@@ -21,6 +46,56 @@
       "plans": []
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "abuzz",
+    "name": "Abuzz",
+    "description": "",
+    "website": "https://www.abuzzsolutions.com/",
+    "headquarters": "Australia",
+    "year_founded": 1997,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 470,
+        "source": "https://www.abuzzsolutions.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "acquire2go",
+    "name": "Acquire2Go",
+    "description": "",
+    "website": "https://acquiredigital.com/acquire2go",
+    "headquarters": "United Kingdom",
+    "year_founded": 2008,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://acquiredigital.com/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -86,6 +161,29 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "ad-sign",
+    "name": "AD+Sign",
+    "description": "",
+    "website": "https://ad-sign.tv/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -221,6 +319,44 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "adooh",
+    "name": "Adooh",
+    "description": "",
+    "website": "https://www.adooh.io/",
+    "headquarters": "Singapore",
+    "year_founded": 2003,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "adscreen",
+    "name": "ADScreen",
+    "description": "",
+    "website": "https://adscreen.net/en/products/adscreen-software/",
+    "headquarters": "Poland",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -787,6 +923,39 @@
       "screens": {
         "total": 13500,
         "source": "https://www.crowntv-us.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "cubic-media",
+    "name": "Кубик Медиа",
+    "description": "",
+    "website": "https://ds.cubicmedia.ru/",
+    "headquarters": "Russia",
+    "year_founded": 2021,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 52000,
+        "source": "https://ds.cubicmedia.ru/",
         "date": "2025-04"
       }
     },
@@ -5207,6 +5376,40 @@
     "has_logo": true
   },
   {
+    "id": "smartplayer",
+    "name": "SmartPlayer",
+    "description": "",
+    "website": "https://smartplayer.org/",
+    "headquarters": "Russia",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://smartplayer.org/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "smartsign2go",
     "name": "SmartSign2Go",
     "description": "",
@@ -5462,6 +5665,25 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "switchboard",
+    "name": "Switchboard",
+    "description": "",
+    "website": "https://coatesgroup.com/what-we-do/software",
+    "headquarters": "USA",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -6059,6 +6281,36 @@
       "screens": {
         "total": 3000,
         "source": "https://www.virtubox.io/in",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "visiobox",
+    "name": "VisioBox",
+    "description": "",
+    "website": "http://portal.visiobox.ru/",
+    "headquarters": "Russia",
+    "year_founded": 2013,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 20000,
+        "source": "http://portal.visiobox.ru/",
         "date": "2025-04"
       }
     },

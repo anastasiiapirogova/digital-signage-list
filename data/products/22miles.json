@@ -1,0 +1,25 @@
+{
+  "id": "22miles",
+  "name": "22Miles",
+  "description": "",
+  "website": "https://www.22miles.com/solutions/digital-signage-2/",
+  "headquarters": "USA",
+  "year_founded": 2007,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 22000,
+      "source": "https://www.22miles.com/about/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": "switchboard",
+  "name": "Switchboard",
+  "description": "",
+  "website": "https://coatesgroup.com/what-we-do/software",
+  "headquarters": "USA",
+  "year_founded": 2017,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

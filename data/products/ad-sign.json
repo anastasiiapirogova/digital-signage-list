@@ -1,0 +1,23 @@
+{
+  "id": "ad-sign",
+  "name": "AD+Sign",
+  "description": "",
+  "website": "https://ad-sign.tv/",
+  "headquarters": "United Kingdom",
+  "year_founded": 2022,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": true,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

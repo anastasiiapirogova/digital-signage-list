@@ -1,0 +1,34 @@
+{
+  "id": "smartplayer",
+  "name": "SmartPlayer",
+  "description": "",
+  "website": "https://smartplayer.org/",
+  "headquarters": "Russia",
+  "year_founded": 2017,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Linux",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 50000,
+      "source": "https://smartplayer.org/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

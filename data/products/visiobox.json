@@ -1,0 +1,30 @@
+{
+  "id": "visiobox",
+  "name": "VisioBox",
+  "description": "",
+  "website": "http://portal.visiobox.ru/",
+  "headquarters": "Russia",
+  "year_founded": 2013,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 20000,
+      "source": "http://portal.visiobox.ru/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

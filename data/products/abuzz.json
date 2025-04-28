@@ -1,0 +1,25 @@
+{
+  "id": "abuzz",
+  "name": "Abuzz",
+  "description": "",
+  "website": "https://www.abuzzsolutions.com/",
+  "headquarters": "Australia",
+  "year_founded": 1997,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 470,
+      "source": "https://www.abuzzsolutions.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}
