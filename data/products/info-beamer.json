@@ -4,19 +4,25 @@
   "description": "",
   "website": "https://info-beamer.com/",
   "headquarters": "Germany",
-  "open_source": true,
+  "open_source": false,
   "self_signup": true,
-  "is_deprecated": false,
+  "discontinued": false,
   "year_founded": 2012,
   "notes": [],
   "supported_platforms": [
-    "Linux"
+    "Linux",
+    "Raspberry Pi"
   ],
   "pricing": {
     "free_trial": true,
     "pricing_available": true,
     "has_freemium": true,
     "plans": [
+      {
+        "name": "1st screen",
+        "monthly": 0,
+        "yearly": 0
+      },
       {
         "name": "Devices",
         "monthly": 8.84,
