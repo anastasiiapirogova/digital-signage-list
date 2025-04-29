@@ -66,6 +66,20 @@ const Screens = ({ product }: { product: Product }) => {
     )
 }
 
+const Discontinued = ({ product }: { product: Product }) => {
+    const isDiscontinued = product.discontinued || false;
+
+    if (isDiscontinued) {
+        return (
+            <div className="text-orange-500 text-sm">
+                Discontinued
+            </div>
+        );
+    }
+    
+    return null
+}
+
 const Logo = ({ product }: { product: Product }) => {
     if (!product.has_logo) {
         return (
@@ -86,7 +100,7 @@ const Logo = ({ product }: { product: Product }) => {
     )
 }
 
-export const ListItem = ({ product }: { product: Product }) => {
+export const ListItem = ({ product }: { product: Product }) => {    
     return (
         <div className="hover:bg-neutral-100 md:rounded p-3 lg:p-5 group">
             <div className="flex gap-3 md:gap-5 items-center">
@@ -127,6 +141,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                             </div>
                             <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base w-full justify-between md:justify-start md:gap-5">
                                 <Screens product={product} />
+                                <Discontinued product={product} />
                                 <PricingTier product={product} />
                             </div>
                         </div>
