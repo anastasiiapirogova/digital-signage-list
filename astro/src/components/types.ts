@@ -20,6 +20,7 @@ export type Product = {
     headquarters: string
     open_source: boolean
     pricing: Pricing
+    discontinued?: boolean
     year_founded: number | null
     supported_platforms: string[]
     stats: {

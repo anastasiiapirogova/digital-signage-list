@@ -6,7 +6,7 @@
   "headquarters": "Germany",
   "open_source": true,
   "self_signup": false,
-  "is_deprecated": false,
+  "discontinued": false,
   "year_founded": 2016,
   "notes": [
     "You need to build your own CMS to connect this player, or use it with a SmilControl CMS."

@@ -24,6 +24,7 @@ const createTemplate = async () => {
         notes: [],
         open_source: false,
         self_signup: null,
+        discontinued: false,
         supported_platforms: [],
         pricing: {
             free_trial: null,
