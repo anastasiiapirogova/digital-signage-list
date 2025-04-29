@@ -8,7 +8,15 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
   "pricing": {
     "free_trial": false,
     "pricing_available": false,
