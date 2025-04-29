@@ -2329,7 +2329,7 @@
     "description": "",
     "website": "https://info-beamer.com/opensource",
     "headquarters": "Germany",
-    "open_source": false,
+    "open_source": true,
     "self_signup": true,
     "discontinued": true,
     "year_founded": 2012,
