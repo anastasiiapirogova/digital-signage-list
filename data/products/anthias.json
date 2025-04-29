@@ -9,7 +9,8 @@
   "year_founded": 2022,
   "notes": [],
   "supported_platforms": [
-    "Linux"
+    "Linux",
+    "Raspberry Pi"
   ],
   "pricing": {
     "free_trial": false,
