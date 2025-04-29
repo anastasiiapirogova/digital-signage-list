@@ -3049,6 +3049,32 @@
     "has_logo": true
   },
   {
+    "id": "m-cube",
+    "name": "M-Cube",
+    "description": "",
+    "website": "https://mcubedigital.com/services/digital-signage/#",
+    "headquarters": "Italy",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2004,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 65000,
+        "source": "https://mcubedigital.com/services/digital-signage/#",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "m4b-wall",
     "name": "M4B WALL",
     "description": "",
@@ -3181,6 +3207,30 @@
         "date": "2024-12"
       }
     },
+    "has_logo": false
+  },
+  {
+    "id": "master-signage",
+    "name": "Master Signage",
+    "description": "",
+    "website": "https://www.mastersignage.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": null,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": false
   },
   {
@@ -6844,6 +6894,33 @@
     "has_logo": true
   },
   {
+    "id": "windowsight",
+    "name": "WindowSight",
+    "description": "",
+    "website": "https://windowsight.com/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "iOS",
+      "tvOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "wioplex",
     "name": "Wioplex",
     "description": "",
@@ -7064,6 +7141,26 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "xopvision",
+    "name": "XopVision",
+    "description": "",
+    "website": "https://www.xopvision.com/",
+    "headquarters": "Portugal",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
