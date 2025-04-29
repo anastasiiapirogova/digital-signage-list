@@ -2154,6 +2154,41 @@
     "has_logo": false
   },
   {
+    "id": "hipdeck",
+    "name": "HipDeck",
+    "description": "",
+    "website": "https://hipdeck.co/",
+    "headquarters": "USA",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "supported_platforms": [
+      "Fire OS",
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "1st screen",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Additional Screens",
+          "monthly": 5,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "hyper-net",
     "name": "HYPER Net",
     "description": "",
