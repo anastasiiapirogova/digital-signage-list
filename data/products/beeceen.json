@@ -1,0 +1,33 @@
+{
+  "id": "beeceen",
+  "name": "BEECEEN",
+  "description": "",
+  "website": "https://www.xplace-group.com/en/products/beeceen/",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2008,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows",
+    "iOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Core",
+        "monthly": 16,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

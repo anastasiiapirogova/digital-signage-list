@@ -1,0 +1,25 @@
+{
+  "id": "xuniplay",
+  "name": "XuniPlay",
+  "description": "",
+  "website": "https://www.xuniplay.com/en/",
+  "headquarters": "Italy",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2001,
+  "notes": [],
+  "supported_platforms": [
+    "Linux",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
