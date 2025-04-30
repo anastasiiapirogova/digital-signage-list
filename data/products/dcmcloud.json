@@ -1,0 +1,28 @@
+{
+  "id": "dcmcloud",
+  "name": "DC Media Cloud",
+  "description": "",
+  "website": "https://www.dcmediads.com/index.php",
+  "headquarters": "USA",
+  "year_founded": 2008,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "salute-screens",
+  "name": "Салют Экраны",
+  "description": "",
+  "website": "https://developers.sber.ru/portal/products/salute-screens",
+  "headquarters": "Russia",
+  "year_founded": 2022,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Без видеоаналитики",
+        "monthly": 10.5,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

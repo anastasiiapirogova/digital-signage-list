@@ -1,0 +1,21 @@
+{
+  "id": "d-i-s-play",
+  "name": "D.I.S.Play",
+  "description": "",
+  "website": "https://www.playinstore.gr/en/software/",
+  "headquarters": "Greece",
+  "year_founded": 2001,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

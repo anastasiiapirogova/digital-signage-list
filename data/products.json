@@ -1131,7 +1131,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -1527,7 +1527,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -1661,6 +1661,27 @@
     "has_logo": true
   },
   {
+    "id": "cortex",
+    "name": "Cortex",
+    "description": "",
+    "website": "https://www.vistarmedia.com/enterprise-operations",
+    "headquarters": "USA",
+    "year_founded": 2011,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "crowntv",
     "name": "CrownTV",
     "description": "",
@@ -1747,6 +1768,55 @@
     "has_logo": true
   },
   {
+    "id": "d-i-s-play",
+    "name": "D.I.S.Play",
+    "description": "",
+    "website": "https://www.playinstore.gr/en/software/",
+    "headquarters": "Greece",
+    "year_founded": 2001,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "dcmcloud",
+    "name": "DC Media Cloud",
+    "description": "",
+    "website": "https://www.dcmediads.com/index.php",
+    "headquarters": "USA",
+    "year_founded": 2008,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "deepiscreen",
     "name": "Deepiscreen",
     "description": "",
@@ -1824,6 +1894,41 @@
     "has_logo": true
   },
   {
+    "id": "digisign-play",
+    "name": "Digisign Play",
+    "description": "",
+    "website": "https://digisignplay.com/",
+    "headquarters": "Indonesia",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Less than 80 screens",
+          "monthly": 9,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "digisigns",
     "name": "Digisigns",
     "description": "",
@@ -1879,7 +1984,7 @@
           "yearly": 184
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -2496,7 +2601,7 @@
           "yearly": 185
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -2788,7 +2893,7 @@
           "yearly": 420
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -3181,7 +3286,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -3219,7 +3324,7 @@
           "yearly": 173.66
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -3896,7 +4001,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -4297,7 +4402,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -4971,7 +5076,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -5363,7 +5468,7 @@
           "yearly": 172.5
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5471,6 +5576,80 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "rt-screens",
+    "name": "Умные экраны",
+    "description": "",
+    "website": "https://rt.ru/b2b/solutions/screens",
+    "headquarters": "Russia",
+    "year_founded": 2020,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Без видеоаналитики",
+          "monthly": 10.5,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "salute-screens",
+    "name": "Салют Экраны",
+    "description": "",
+    "website": "https://developers.sber.ru/portal/products/salute-screens",
+    "headquarters": "Russia",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Без видеоаналитики",
+          "monthly": 10.5,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5751,7 +5930,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -6019,7 +6198,7 @@
           "yearly": 168
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -6546,7 +6725,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -7504,7 +7683,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -7969,7 +8148,7 @@
           "yearly": 180
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
