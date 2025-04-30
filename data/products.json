@@ -1315,6 +1315,60 @@
     "has_logo": true
   },
   {
+    "id": "cleverlive",
+    "name": "CleverLive",
+    "description": "",
+    "website": "https://www.clevertouch.com/uk/products/clever-software-solutions/cleverlive",
+    "headquarters": "United Kingdom",
+    "year_founded": 2021,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://www.clevertouch.com/uk/products/clever-software-solutions/cleverlive",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "clicandpublish",
+    "name": "ClicAndPublish",
+    "description": "",
+    "website": "https://visualcom.nc/affichage-dynamique/",
+    "headquarters": "New Caledonia",
+    "year_founded": 2011,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "cms-signage",
     "name": "CMS Signage",
     "description": "",
@@ -4592,6 +4646,27 @@
       }
     },
     "has_logo": true
+  },
+  {
+    "id": "cleverq-picturemachine",
+    "name": "cleverQ Picturemachine",
+    "description": "",
+    "website": "https://www.cleverq.de/en/modules/picturemachine/",
+    "headquarters": "Germany",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "picturemachine4",

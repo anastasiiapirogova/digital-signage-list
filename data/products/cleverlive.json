@@ -1,0 +1,30 @@
+{
+  "id": "cleverlive",
+  "name": "CleverLive",
+  "description": "",
+  "website": "https://www.clevertouch.com/uk/products/clever-software-solutions/cleverlive",
+  "headquarters": "United Kingdom",
+  "year_founded": 2021,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 10000,
+      "source": "https://www.clevertouch.com/uk/products/clever-software-solutions/cleverlive",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}
