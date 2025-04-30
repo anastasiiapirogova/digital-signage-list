@@ -9,6 +9,7 @@
   "year_founded": 2011,
   "notes": [],
   "supported_platforms": [
+    "Raspberry Pi",
     "Web Browser"
   ],
   "pricing": {

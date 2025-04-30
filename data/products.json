@@ -243,6 +243,7 @@
     "self_signup": false,
     "supported_platforms": [
       "Linux",
+      "Raspberry Pi",
       "Windows"
     ],
     "pricing": {
@@ -267,6 +268,7 @@
       "ChromeOS",
       "Fire OS",
       "Linux",
+      "Raspberry Pi",
       "Tizen",
       "Windows",
       "iOS",
@@ -307,6 +309,7 @@
       "Android",
       "Fire OS",
       "Linux",
+      "Raspberry Pi",
       "Tizen",
       "Windows"
     ],
@@ -659,6 +662,7 @@
     "year_founded": 2011,
     "notes": [],
     "supported_platforms": [
+      "Raspberry Pi",
       "Web Browser"
     ],
     "pricing": {
