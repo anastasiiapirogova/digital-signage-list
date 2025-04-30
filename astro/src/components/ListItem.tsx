@@ -115,7 +115,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                                 href={`${product.website}?ref=signagelist.org`}
                                 className="opacity-100 lg:opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-colors transition-opacity p-1"
                                 target="_blank"
-                                rel="noopener noreferrer"
+                                rel="noopener nofollow ugc"
                                 aria-label={`Visit ${product.name} website`}
                             >
                                 <TbExternalLink size={20} />
