@@ -1,0 +1,26 @@
+{
+  "id": "connectedsign",
+  "name": "ConnectedSign",
+  "description": "",
+  "website": "https://www.connectedsign.com/products/digital-signage",
+  "headquarters": "USA",
+  "year_founded": 2005,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

@@ -1402,6 +1402,65 @@
     "has_logo": true
   },
   {
+    "id": "cloudexa",
+    "name": "CloudExa",
+    "description": "",
+    "website": "https://www.cloudpoint.co.jp/digitalsignage/cloudexa/",
+    "headquarters": "Japan",
+    "year_founded": 2004,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 22400,
+        "source": "https://www.cloudpoint.co.jp/digitalsignage/cloudexa/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "cloudyfy-tv",
+    "name": "CloudyFy TV",
+    "description": "",
+    "website": "https://www.cloudyfy.tv/",
+    "headquarters": "India",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "iOS",
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 1000,
+        "source": "https://www.cloudyfy.tv/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "cms-signage",
     "name": "CMS Signage",
     "description": "",
@@ -1493,6 +1552,112 @@
       "pricing_available": false
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "connectedsign",
+    "name": "ConnectedSign",
+    "description": "",
+    "website": "https://www.connectedsign.com/products/digital-signage",
+    "headquarters": "USA",
+    "year_founded": 2005,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "control-play",
+    "name": "Control Play",
+    "description": "",
+    "website": "https://www.controlplay.com/",
+    "headquarters": "Canada",
+    "year_founded": 2004,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "coolerx",
+    "name": "CoolerX",
+    "description": "",
+    "website": "https://coolerx.com/",
+    "headquarters": "USA",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "corevo",
+    "name": "Corevo",
+    "description": "",
+    "website": "https://corevo.com/",
+    "headquarters": "Netherlands",
+    "year_founded": 2011,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://corevo.com/corevo-software-features/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
