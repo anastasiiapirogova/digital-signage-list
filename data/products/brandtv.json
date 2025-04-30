@@ -1,0 +1,28 @@
+{
+  "id": "brandtv",
+  "name": "Brand TV",
+  "description": "",
+  "website": "https://brandtv.pl/system",
+  "headquarters": "Poland",
+  "year_founded": 2019,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Cloud",
+        "monthly": 17.18,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

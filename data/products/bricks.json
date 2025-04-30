@@ -1,0 +1,41 @@
+{
+  "id": "bricks",
+  "name": "BRICKS",
+  "description": "",
+  "website": "https://www.bricks.tools/",
+  "headquarters": "Taiwan",
+  "year_founded": 2020,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Raspberry Pi",
+    "Web Browser",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Basic",
+        "monthly": 5,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

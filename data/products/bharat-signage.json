@@ -1,0 +1,42 @@
+{
+  "id": "bharat-signage",
+  "name": "Bharat Signage",
+  "description": "",
+  "website": "https://bharatsignage.com/",
+  "headquarters": "India",
+  "year_founded": 2023,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Commercial",
+        "monthly": 5.91,
+        "yearly": 49.68
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 2100,
+      "source": "https://bharatsignage.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "buetema",
+  "name": "Bütema",
+  "description": "",
+  "website": "https://www.buetema-ag.de/en/digital-signage/",
+  "headquarters": "Germany",
+  "year_founded": 2010,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "DS frontend license",
+        "monthly": 24,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {
+    "screens": {
+      "total": 7500,
+      "source": "https://www.buetema-ag.de/en/digital-signage/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

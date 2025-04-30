@@ -1,0 +1,27 @@
+{
+  "id": "admefy",
+  "name": "Admefy",
+  "description": "",
+  "website": "https://admefy.com/admefy-digital-signage",
+  "headquarters": "Spain",
+  "year_founded": 2020,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      }
+    ]
+  },
+  "stats": {},
+  "has_logo": true
+}

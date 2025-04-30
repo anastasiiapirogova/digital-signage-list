@@ -29,7 +29,14 @@ const createTemplate = async () => {
         pricing: {
             free_trial: null,
             pricing_available: null,
-            plans: []
+            has_freemium: null,
+            plans: [
+                {
+                    name: "",
+                    monthly: null,
+                    yearly: null,
+                }
+            ]
         },
         stats: {
             screens: {

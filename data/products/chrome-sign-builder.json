@@ -1,0 +1,23 @@
+{
+  "id": "chrome-sign-builder",
+  "name": "Chrome Sign Builder",
+  "description": "",
+  "website": "https://chromewebstore.google.com/detail/chrome-sign-builder/odjaaghiehpobimgdjjfofmablbaleem?pli=1",
+  "headquarters": "Ireland",
+  "year_founded": 2015,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "ChromeOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": true,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

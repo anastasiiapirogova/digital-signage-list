@@ -1,0 +1,29 @@
+{
+  "id": "bravia-signage-free",
+  "name": "BRAVIA Signage Free",
+  "description": "",
+  "website": "https://pro.sony/en_EE/products/display-software/bravia-signage-free",
+  "headquarters": "Japan",
+  "year_founded": 2004,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "BRAVIA"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      }
+    ]
+  },
+  "stats": {},
+  "has_logo": true
+}

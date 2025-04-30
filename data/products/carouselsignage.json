@@ -1,0 +1,35 @@
+{
+  "id": "carousel",
+  "name": "Carousel",
+  "description": "",
+  "website": "https://www.carouselsignage.com/",
+  "headquarters": "USA",
+  "year_founded": 1997,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "BrightSign",
+    "ChromeOS",
+    "Web Browser",
+    "iOS",
+    "macOS",
+    "tvOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Core",
+        "monthly": null,
+        "yearly": 300
+      }
+    ]
+  },
+  "stats": {},
+  "has_logo": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "clearconnect",
+  "name": "ClearConnect",
+  "description": "",
+  "website": "https://connect.na.panasonic.com/av/solutions/clear-connect-digital-signage",
+  "headquarters": "Japan",
+  "year_founded": 2019,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
