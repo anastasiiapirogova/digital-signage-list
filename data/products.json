@@ -86,7 +86,13 @@
       "has_freemium": false,
       "plans": []
     },
-    "stats": {},
+    "stats": {
+      "screens": {
+        "total": 12000,
+        "source": "https://github.com/514sid/digital-signage-list/issues/17",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
