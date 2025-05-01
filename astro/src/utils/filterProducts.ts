@@ -12,7 +12,9 @@ export const filterProducts = (products: Product[], filters: Record<string, stri
             return false;
         }
 
-        if (headquarters && !headquarters.split(",").includes(product.headquarters)) {
+        const productHeadquarters = Array.isArray(product.headquarters) ? product.headquarters : [product.headquarters];
+
+        if (headquarters && !headquarters.split(",").some((hq) => productHeadquarters.includes(hq))) {
             return false;
         }
 

@@ -17,7 +17,7 @@ export type Product = {
     name: string
     description: string
     website: string
-    headquarters: string
+    headquarters: string | string[]
     open_source: boolean
     pricing: Pricing
     discontinued?: boolean

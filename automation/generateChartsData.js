@@ -39,8 +39,16 @@ console.log('Products founded by year has been generated');
 function getProductsByHeadquarters(products) {
     const counts = products.reduce((acc, product) => {
         const headquarters = product.headquarters;
-        if (headquarters && headquarters !== "Unknown") {
-            acc[headquarters] = (acc[headquarters] || 0) + 1;
+        if (headquarters) {
+            if (Array.isArray(headquarters)) {
+                headquarters.forEach(hq => {
+                    if (hq !== "Unknown") {
+                        acc[hq] = (acc[hq] || 0) + 1;
+                    }
+                });
+            } else if (headquarters !== "Unknown") {
+                acc[headquarters] = (acc[headquarters] || 0) + 1;
+            }
         }
         return acc;
     }, {});

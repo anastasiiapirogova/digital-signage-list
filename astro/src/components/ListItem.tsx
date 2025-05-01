@@ -136,7 +136,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                             <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base shrink-0">
                                 <TbMapPin className="w-4 h-4 md:w-5 md:h-5" />
                                 <div>
-                                    {product.headquarters}
+                                    { Array.isArray(product.headquarters) ? `${product.headquarters.join(", ")}` : product.headquarters }
                                 </div>
                             </div>
                             <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base w-full justify-between md:justify-start md:gap-5">

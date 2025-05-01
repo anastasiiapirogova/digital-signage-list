@@ -3,7 +3,10 @@
   "name": "CS Play",
   "description": "",
   "website": "https://www.cityscreen.cloud/en/cms",
-  "headquarters": "Russia",
+  "headquarters": [
+    "Russia",
+    "Singapore"
+  ],
   "year_founded": 2016,
   "notes": [],
   "open_source": false,
