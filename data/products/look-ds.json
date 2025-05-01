@@ -3,7 +3,7 @@
   "name": "Look Digital Signage",
   "description": "",
   "website": "https://www.lookdigitalsignage.com/",
-  "headquarters": "USA",
+  "headquarters": ["USA", "Russia"],
   "open_source": false,
   "self_signup": true,
   "year_founded": 2016,
