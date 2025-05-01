@@ -63,6 +63,33 @@
     "has_logo": true
   },
   {
+    "id": "42-digital-signage",
+    "name": "42 Digital Signage",
+    "description": "",
+    "website": "https://www.42digitalsignage.com/digital-signage-cms/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "4dcast",
     "name": "4Dcast",
     "description": "",
