@@ -14,7 +14,13 @@ export const HeadquartersFilter = () => {
     const headquartersCounts = products.reduce((acc, product) => {
         const headquarters = product.headquarters;
         if (headquarters) {
-            acc[headquarters] = (acc[headquarters] || 0) + 1;
+            if (Array.isArray(headquarters)) {
+                headquarters.forEach(hq => {
+                    acc[hq] = (acc[hq] || 0) + 1;
+                });
+            } else {
+                acc[headquarters] = (acc[headquarters] || 0) + 1;
+            }
         }
         return acc;
     }, {} as Record<string, number>);
