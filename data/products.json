@@ -1379,6 +1379,27 @@
     "has_logo": true
   },
   {
+    "id": "cleverq-picturemachine",
+    "name": "cleverQ Picturemachine",
+    "description": "",
+    "website": "https://www.cleverq.de/en/modules/picturemachine/",
+    "headquarters": "Germany",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "clicandpublish",
     "name": "ClicAndPublish",
     "description": "",
@@ -4959,27 +4980,6 @@
       }
     },
     "has_logo": true
-  },
-  {
-    "id": "cleverq-picturemachine",
-    "name": "cleverQ Picturemachine",
-    "description": "",
-    "website": "https://www.cleverq.de/en/modules/picturemachine/",
-    "headquarters": "Germany",
-    "year_founded": 2015,
-    "notes": [],
-    "open_source": false,
-    "self_signup": false,
-    "discontinued": false,
-    "supported_platforms": [],
-    "pricing": {
-      "free_trial": false,
-      "pricing_available": false,
-      "has_freemium": false,
-      "plans": []
-    },
-    "stats": {},
-    "has_logo": false
   },
   {
     "id": "picturemachine4",
