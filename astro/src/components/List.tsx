@@ -1,4 +1,4 @@
-import { useDeferredValue, useEffect, useState } from 'react'
+import { useDeferredValue, useEffect, useRef, useState } from 'react'
 import { filterProducts } from '../utils/filterProducts'
 import { products } from '../utils/products'
 import { ListItem } from './ListItem'
@@ -14,6 +14,7 @@ export const List = () => {
 
     const deferredSort = useDeferredValue($sort)
     const [visibleCount, setVisibleCount] = useState(25)
+    const loadMoreRef = useRef<HTMLButtonElement | null>(null)
 
     useEffect(() => {
         const newFilteredProducts = filterProducts(products, $filters, deferredSort)
@@ -31,6 +32,27 @@ export const List = () => {
         setProductFilters(filters)
     }, [])
 
+    useEffect(() => {
+        const observer = new IntersectionObserver(
+            (entries) => {
+                if (entries[0].isIntersecting) {
+                    setVisibleCount((prev) => prev + 25)
+                }
+            },
+            { threshold: 1.0 }
+        )
+
+        if (loadMoreRef.current) {
+            observer.observe(loadMoreRef.current)
+        }
+
+        return () => {
+            if (loadMoreRef.current) {
+                observer.unobserve(loadMoreRef.current)
+            }
+        }
+    }, [])
+
     const handleLoadMore = () => {
         setVisibleCount((prev) => prev + 25)
     }
@@ -42,6 +64,7 @@ export const List = () => {
             ))}
             {visibleCount < $products.length && (
                 <button
+                    ref={loadMoreRef}
                     onClick={handleLoadMore}
                     className='my-5 p-3 bg-neutral-200 hover:bg-neutral-300 rounded cursor-pointer transition-colors'
                 >

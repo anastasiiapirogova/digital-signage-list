@@ -95,6 +95,7 @@ const Logo = ({ product }: { product: Product }) => {
         <img
             src={`/assets/logos/${product.id}.png`}
             alt={product.name}
+            loading="lazy"
             className="aspect-square h-16 md:h-24 object-cover rounded shrink-0"
         />
     )
