@@ -1,0 +1,35 @@
+{
+  "id": "disploy",
+  "name": "Disploy",
+  "description": "",
+  "website": "https://www.disploy.com/",
+  "headquarters": "USA",
+  "year_founded": 2021,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Amazon Signage",
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": 10,
+        "yearly": 96
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}
