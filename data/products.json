@@ -2466,6 +2466,42 @@
     "has_logo": true
   },
   {
+    "id": "dst-connect",
+    "name": "DST Connect",
+    "description": "",
+    "website": "https://dst-connect.io/",
+    "headquarters": "Netherlands",
+    "year_founded": 2025,
+    "notes": [
+      "The screen count is based on the number of provided customer count. The actual screen count may vary."
+    ],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "",
+          "monthly": 28.5,
+          "yearly": null
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {
+      "screens": {
+        "total": 1000,
+        "source": "https://dst-connect.io/software/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "easescreen",
     "name": "easescreen",
     "description": "",
@@ -2491,6 +2527,29 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "easy-multi-display",
+    "name": "Easy Multi Display",
+    "description": "",
+    "website": "https://easymultidisplay.com/",
+    "headquarters": "France",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -2628,6 +2687,36 @@
     "has_logo": true
   },
   {
+    "id": "emagentv",
+    "name": "EmagenTV",
+    "description": "",
+    "website": "",
+    "headquarters": "India",
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 15000,
+        "source": "https://www.emagen.tv/digitalsignage.php?prrdid=1",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "embed-signage",
     "name": "embed signage",
     "description": "",
@@ -2662,6 +2751,43 @@
       "tier": "midRange"
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "emity",
+    "name": "Emity",
+    "description": "",
+    "website": "https://www.emity.io/en/",
+    "headquarters": "France",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 5000,
+        "source": "https://www.emity.io/en/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -2711,6 +2837,32 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "eumedia-dss",
+    "name": "Eumedia DSS",
+    "description": "",
+    "website": "https://eumedia.com.my/",
+    "headquarters": "Malaysia",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -6849,6 +7001,52 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "spinetix-arya",
+    "name": "SpinetiX ARYA",
+    "description": "",
+    "website": "https://www.spinetix.com/digital-signage-products/arya",
+    "headquarters": "Switzerland",
+    "year_founded": 2019,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "SpinetiX"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "spinetix-elementi",
+    "name": "SpinetiX Elementi",
+    "description": "",
+    "website": "https://www.spinetix.com/digital-signage-products/elementi",
+    "headquarters": "Switzerland",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "SpinetiX"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {

@@ -1,0 +1,30 @@
+{
+  "id": "emagentv",
+  "name": "EmagenTV",
+  "description": "",
+  "website": "",
+  "headquarters": "India",
+  "year_founded": 2016,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 15000,
+      "source": "https://www.emagen.tv/digitalsignage.php?prrdid=1",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

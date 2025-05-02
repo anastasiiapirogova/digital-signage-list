@@ -1,0 +1,36 @@
+{
+  "id": "dst-connect",
+  "name": "DST Connect",
+  "description": "",
+  "website": "https://dst-connect.io/",
+  "headquarters": "Netherlands",
+  "year_founded": 2025,
+  "notes": [
+    "The screen count is based on the number of provided customer count. The actual screen count may vary."
+  ],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "",
+        "monthly": 28.5,
+        "yearly": null
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {
+    "screens": {
+      "total": 1000,
+      "source": "https://dst-connect.io/software/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}
