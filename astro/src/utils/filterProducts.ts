@@ -7,6 +7,7 @@ export const filterProducts = (products: Product[], filters: Record<string, stri
         const open_source = filters.open_source;
         const headquarters = filters.headquarters;
         const pricing_available = filters.pricing_available;
+        const search = filters.search;
 
         if (platforms && !platforms.split(",").every((platform) => product.supported_platforms.includes(platform))) {
             return false;
@@ -24,6 +25,17 @@ export const filterProducts = (products: Product[], filters: Record<string, stri
 
         if (pricing_available && product.pricing.pricing_available !== (pricing_available === "true")) {
             return false;
+        }
+
+        if (search) {
+            const searchLower = search.toLowerCase();
+            const nameMatch = product.name.toLowerCase().includes(searchLower);
+            const websiteMatch = product.website.toLowerCase().includes(searchLower);
+            const descriptionMatch = product.description.toLowerCase().includes(searchLower);
+
+            if (!nameMatch && !descriptionMatch && !websiteMatch) {
+                return false;
+            }
         }
 
         return true;

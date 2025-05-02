@@ -1,4 +1,4 @@
-import { useDeferredValue, useEffect } from 'react'
+import { useDeferredValue, useEffect, useState } from 'react'
 import { filterProducts } from '../utils/filterProducts'
 import { products } from '../utils/products'
 import { ListItem } from './ListItem'
@@ -12,10 +12,12 @@ export const List = () => {
     const $sort = useStore(productsSortOptionStore)
     const $products = useStore(productsStore)
 
-    const deferredSort = useDeferredValue($sort);
+    const deferredSort = useDeferredValue($sort)
+    const [visibleCount, setVisibleCount] = useState(25)
 
     useEffect(() => {
         const newFilteredProducts = filterProducts(products, $filters, deferredSort)
+        setVisibleCount(10)
         setProducts(newFilteredProducts)
     }, [$filters, deferredSort])
 
@@ -29,11 +31,23 @@ export const List = () => {
         setProductFilters(filters)
     }, [])
 
+    const handleLoadMore = () => {
+        setVisibleCount((prev) => prev + 25)
+    }
+
     return (
         <div className='flex flex-col w-full gap-2'>
-            {$products.map((product) => (
+            {$products.slice(0, visibleCount).map((product) => (
                 <ListItem product={product} key={product.id} />
             ))}
+            {visibleCount < $products.length && (
+                <button
+                    onClick={handleLoadMore}
+                    className='my-5 p-3 bg-neutral-200 hover:bg-neutral-300 rounded cursor-pointer transition-colors'
+                >
+                    Load More
+                </button>
+            )}
         </div>
     )
 }
