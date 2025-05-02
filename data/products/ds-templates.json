@@ -1,0 +1,21 @@
+{
+  "id": "ds-templates",
+  "name": "DS Templates",
+  "description": "",
+  "website": "https://www.digitalsignage-templates.com/software/",
+  "headquarters": "Netherlands",
+  "year_founded": 2018,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

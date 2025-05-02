@@ -1,0 +1,21 @@
+{
+  "id": "door-tablet-signs",
+  "name": "Door Tablet SIGNS",
+  "description": "",
+  "website": "https://www.door-tablet.com/door-app/signs",
+  "headquarters": "United Kingdom",
+  "year_founded": 2023,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
