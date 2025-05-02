@@ -1,16 +1,17 @@
 {
-  "id": "hipdeck",
-  "name": "HipDeck",
+  "id": "tvque",
+  "name": "TVQue",
   "description": "",
-  "website": "https://hipdeck.co/",
-  "headquarters": "USA",
-  "year_founded": 2024,
-  "notes": [],
+  "website": "https://www.tvque.com/",
+  "headquarters": "Unknown",
   "open_source": false,
   "self_signup": true,
+  "year_founded": 2014,
+  "notes": [],
   "supported_platforms": [
     "Android",
     "Fire OS",
+    "Roku OS",
     "Web Browser"
   ],
   "pricing": {
@@ -19,13 +20,18 @@
     "has_freemium": true,
     "plans": [
       {
-        "name": "1st screen",
-        "monthly": 0,
-        "yearly": 0
+        "name": "Business",
+        "monthly": 7,
+        "yearly": null
       },
       {
-        "name": "Additional Screens",
-        "monthly": 5,
+        "name": "Company",
+        "monthly": 10,
+        "yearly": null
+      },
+      {
+        "name": "Enterprise",
+        "monthly": 15,
         "yearly": null
       }
     ],

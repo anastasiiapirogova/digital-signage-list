@@ -3180,6 +3180,44 @@
     "has_logo": true
   },
   {
+    "id": "greet-tv",
+    "name": "Greet.TV",
+    "description": "",
+    "website": "https://greet.tv/",
+    "headquarters": "Sweden",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Standard",
+          "monthly": 11,
+          "yearly": 120
+        },
+        {
+          "name": "Premium",
+          "monthly": 17,
+          "yearly": 190
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "hexa",
     "name": "HEXA",
     "description": "",
@@ -3237,6 +3275,7 @@
     "open_source": false,
     "self_signup": true,
     "supported_platforms": [
+      "Android",
       "Fire OS",
       "Web Browser"
     ],
@@ -3998,7 +4037,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -5155,7 +5194,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -5635,6 +5674,32 @@
       "screens": {
         "total": 40000,
         "source": "https://www.linkedin.com/company/reachmedianetwork/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "reflectview",
+    "name": "ReflectView",
+    "description": "",
+    "website": "https://cri.com/what-we-do/digital-signage-software",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2001,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 400000,
+        "source": "https://cri.com/what-we-do/digital-signage-software",
         "date": "2025-04"
       }
     },
@@ -6570,6 +6635,48 @@
     "has_logo": true
   },
   {
+    "id": "sippo",
+    "name": "Sippo",
+    "description": "",
+    "website": "https://sippo.io/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2023,
+    "notes": [
+      "Digital Menu Boards"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": 12,
+          "yearly": 96
+        },
+        {
+          "name": "Professional",
+          "monthly": 24,
+          "yearly": 192
+        },
+        {
+          "name": "Business Plus",
+          "monthly": null,
+          "yearly": 384
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "sitekiosk",
     "name": "SiteKiosk",
     "description": "",
@@ -7050,6 +7157,37 @@
     "has_logo": true
   },
   {
+    "id": "splashtiles",
+    "name": "SplashTiles",
+    "description": "",
+    "website": "https://splash-tiles.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Raspberry Pi"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Lite",
+          "monthly": null,
+          "yearly": 25
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "squizz",
     "name": "Squizz",
     "description": "",
@@ -7142,6 +7280,45 @@
           "name": "SMB",
           "monthly": null,
           "yearly": 149
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "surevideo",
+    "name": "SureVideo",
+    "description": "",
+    "website": "https://www.42gears.com/products/digital-signage/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [
+      "a digital signage kiosk solution"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Android Cloud",
+          "monthly": 4.99,
+          "yearly": null
+        },
+        {
+          "name": "iOS or Windows Single License",
+          "monthly": null,
+          "yearly": 29.99
         }
       ],
       "tier": "affordable"
@@ -7403,6 +7580,48 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "tvque",
+    "name": "TVQue",
+    "description": "",
+    "website": "https://www.tvque.com/",
+    "headquarters": "Unknown",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Roku OS",
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 7,
+          "yearly": null
+        },
+        {
+          "name": "Company",
+          "monthly": 10,
+          "yearly": null
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 15,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -7832,6 +8051,45 @@
     "has_logo": true
   },
   {
+    "id": "visionect",
+    "name": "Visionect",
+    "description": "",
+    "website": "https://www.visionect.com/software/",
+    "headquarters": "Slovenia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Essential",
+          "monthly": null,
+          "yearly": 60
+        },
+        {
+          "name": "Cloud",
+          "monthly": null,
+          "yearly": 108
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "visshow",
     "name": "visShow",
     "description": "",
@@ -7917,6 +8175,28 @@
     "has_logo": true
   },
   {
+    "id": "voome",
+    "name": "Voome",
+    "description": "",
+    "website": "https://voome.com/",
+    "headquarters": "Italy",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "vsplayer",
     "name": "VSplayer",
     "description": "",
@@ -7934,6 +8214,73 @@
       "plans": []
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "vuepilot",
+    "name": "VuePilot",
+    "description": "",
+    "website": "https://www.vuepilot.com/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Raspberry Pi",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Monthly or Annual license",
+          "monthly": 10,
+          "yearly": 96
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "waapiti",
+    "name": "Waapiti",
+    "description": "",
+    "website": "https://www.waapiti.eu/",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2010,
+    "notes": [
+      "Total screens number is based on the number of the worldwide locations"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 10000,
+        "source": "https://www.waapiti.eu/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {

@@ -1,0 +1,39 @@
+{
+  "id": "visionect",
+  "name": "Visionect",
+  "description": "",
+  "website": "https://www.visionect.com/software/",
+  "headquarters": "Slovenia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "notes": [],
+  "supported_platforms": [
+    "Linux",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Essential",
+        "monthly": null,
+        "yearly": 60
+      },
+      {
+        "name": "Cloud",
+        "monthly": null,
+        "yearly": 108
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

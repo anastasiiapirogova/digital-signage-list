@@ -1,17 +1,17 @@
 {
-  "id": "hipdeck",
-  "name": "HipDeck",
+  "id": "splashtiles",
+  "name": "SplashTiles",
   "description": "",
-  "website": "https://hipdeck.co/",
+  "website": "https://splash-tiles.com/",
   "headquarters": "USA",
-  "year_founded": 2024,
-  "notes": [],
   "open_source": false,
   "self_signup": true,
+  "year_founded": 2019,
+  "notes": [],
   "supported_platforms": [
     "Android",
     "Fire OS",
-    "Web Browser"
+    "Raspberry Pi"
   ],
   "pricing": {
     "free_trial": true,
@@ -19,14 +19,9 @@
     "has_freemium": true,
     "plans": [
       {
-        "name": "1st screen",
-        "monthly": 0,
-        "yearly": 0
-      },
-      {
-        "name": "Additional Screens",
-        "monthly": 5,
-        "yearly": null
+        "name": "Lite",
+        "monthly": null,
+        "yearly": 25
       }
     ],
     "tier": "affordable"

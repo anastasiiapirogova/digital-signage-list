@@ -1,17 +1,19 @@
 {
-  "id": "hipdeck",
-  "name": "HipDeck",
+  "id": "greet-tv",
+  "name": "Greet.TV",
   "description": "",
-  "website": "https://hipdeck.co/",
-  "headquarters": "USA",
-  "year_founded": 2024,
-  "notes": [],
+  "website": "https://greet.tv/",
+  "headquarters": "Sweden",
   "open_source": false,
   "self_signup": true,
+  "year_founded": 2020,
+  "notes": [],
   "supported_platforms": [
     "Android",
     "Fire OS",
-    "Web Browser"
+    "Windows",
+    "iOS",
+    "macOS"
   ],
   "pricing": {
     "free_trial": true,
@@ -19,14 +21,14 @@
     "has_freemium": true,
     "plans": [
       {
-        "name": "1st screen",
-        "monthly": 0,
-        "yearly": 0
+        "name": "Standard",
+        "monthly": 11,
+        "yearly": 120
       },
       {
-        "name": "Additional Screens",
-        "monthly": 5,
-        "yearly": null
+        "name": "Premium",
+        "monthly": 17,
+        "yearly": 190
       }
     ],
     "tier": "affordable"
