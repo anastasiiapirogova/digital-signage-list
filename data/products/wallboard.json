@@ -12,7 +12,9 @@
     "Android",
     "BrightSign",
     "Fire OS",
-    "Windows"
+    "Tizen",
+    "Windows",
+    "webOS"
   ],
   "pricing": {
     "free_trial": false,
