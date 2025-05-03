@@ -1,14 +1,7 @@
-import { TbCoin, TbCurrencyDollar, TbExternalLink, TbMapPin } from "react-icons/tb";
+import { TbBookmark, TbBookmarkFilled, TbCurrencyDollar, TbExternalLink, TbMapPin } from "react-icons/tb";
 import type { Product } from "./types";
-import { Badge } from "./Badge";
-
-const FreeTrial = ({ product }: { product: Product }) => {
-    if (product.pricing.free_trial) {
-        return <Badge text="Free trial" />
-    }
-
-    return null
-}
+import { addBookmark, bookmarksStore, removeBookmark } from "../utils/bookmarksStore";
+import { useStore } from "@nanostores/react";
 
 const PricingTier = ({ product }: { product: Product }) => {
     const tierLevels = {
@@ -35,22 +28,32 @@ const PricingTier = ({ product }: { product: Product }) => {
     );
 };
 
-const OpenSource = ({ product }: { product: Product }) => {
-    if (product.open_source) {
-        return <Badge text="Open source" />
-    }
+const BookmarkItem = ({ product }: { product: Product }) => {
+    const $bookmarks = useStore(bookmarksStore)
+    
+    const isBookmarkedItem = $bookmarks.includes(product.id);
 
-    return null
+    const handleBookmarkClick = () => {
+        if (isBookmarkedItem) {
+            removeBookmark(product.id);
+        } else {
+            addBookmark(product.id);
+        }
+    };
+
+    return (
+        <div className="flex items-center gap-2">
+            <button
+                onClick={handleBookmarkClick}
+                className={`p-1 rounded-full transition-colors duration-200 cursor-pointer ${isBookmarkedItem ? 'text-orange-600' : 'text-gray-300 hover:text-orange-600'}`}
+                aria-label={isBookmarkedItem ? "Remove from bookmarks" : "Add to bookmarks"}
+            >
+                {isBookmarkedItem ? <TbBookmarkFilled size={25} /> : <TbBookmark size={25} />}
+            </button>
+        </div>
+    );
 }
 
-const Pricing = ({ product }: { product: Product }) => {
-    if (product.pricing.pricing_available) {
-        return <Badge text="Public pricing" />
-    }
-    if (!product.open_source) {
-        return <Badge text="Pricing on request" />
-    }
-}
 
 const Screens = ({ product }: { product: Product }) => {
     if (product.stats.screens && product.stats.screens.total) {
@@ -147,9 +150,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                             </div>
                         </div>
                         <div className="gap-2 items-center hidden md:flex shrink-0">
-                            <FreeTrial product={product} />
-                            <Pricing product={product} />
-                            <OpenSource product={product} />
+                            <BookmarkItem product={product} />
                         </div>
                     </div>
                 </div>

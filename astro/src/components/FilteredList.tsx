@@ -1,6 +1,3 @@
-import { useEffect, useState } from 'react'
-import { filterProducts } from '../utils/filterProducts'
-import { products } from '../utils/products'
 import { ListItem } from './ListItem'
 import type { Product } from './types'
 
