@@ -20,11 +20,13 @@ const loadBookmarks = () => {
     }
 }
 
-loadBookmarks()
+if (typeof localStorage !== 'undefined') {
+    loadBookmarks()
 
-bookmarksStore.subscribe((bookmarkedIds) => {
-    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(bookmarkedIds))
-})
+    bookmarksStore.subscribe((bookmarkedIds) => {
+        localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(bookmarkedIds))
+    })
+}
 
 export function addBookmark(id: string) {
     const currentBookmarks = bookmarksStore.get()
