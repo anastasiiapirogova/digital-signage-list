@@ -1223,8 +1223,9 @@
     "self_signup": true,
     "discontinued": false,
     "supported_platforms": [
-      "Adnroid",
+      "Android",
       "ChromeOS",
+      "Fire OS",
       "Linux",
       "Tizen",
       "Web Browser",
