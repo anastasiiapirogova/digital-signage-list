@@ -1,0 +1,27 @@
+{
+  "id": "smartersign",
+  "name": "SmarterSign",
+  "description": "",
+  "website": "https://smartersign.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2002,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Small Business",
+        "monthly": 30,
+        "yearly": null
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {},
+  "has_logo": true
+}

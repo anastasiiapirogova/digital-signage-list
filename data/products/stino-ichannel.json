@@ -1,0 +1,28 @@
+{
+  "id": "stino-ichannel",
+  "name": "STiNO iChannel",
+  "description": "",
+  "website": "https://www.stino.biz/en/produkte",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2000,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

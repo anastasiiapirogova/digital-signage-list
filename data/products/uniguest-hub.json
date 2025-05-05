@@ -1,0 +1,27 @@
+{
+  "id": "uniguest-hub",
+  "name": "Uniguest Hub",
+  "description": "",
+  "website": "https://uniguest.com/hub/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2024,
+  "notes": [
+    "An all-in-one solution for digital signage, interactive TV, casting, room signage, and interactive wayfinding."
+  ],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

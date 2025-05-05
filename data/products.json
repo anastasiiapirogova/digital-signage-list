@@ -7336,6 +7336,33 @@
     "has_logo": true
   },
   {
+    "id": "smartersign",
+    "name": "SmarterSign",
+    "description": "",
+    "website": "https://smartersign.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2002,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Small Business",
+          "monthly": 30,
+          "yearly": null
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "smartplayer",
     "name": "SmartPlayer",
     "description": "",
@@ -7515,6 +7542,35 @@
     "has_logo": true
   },
   {
+    "id": "sodaclick",
+    "name": "Sodaclick",
+    "description": "",
+    "website": "https://sodaclick.com/digital-signage/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "spectrio",
     "name": "Spectrio",
     "description": "",
@@ -7546,6 +7602,39 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "spectroo",
+    "name": "Spectroo",
+    "description": "",
+    "website": "https://spectroo.eu/?lang=en",
+    "headquarters": "Romania",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Standard: 1-29 screens",
+          "monthly": 20,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -7655,6 +7744,90 @@
     "has_logo": true
   },
   {
+    "id": "st-digital",
+    "name": "ST-DIGITAL",
+    "description": "",
+    "website": "https://st-digital.de/en/digital-signage-software-cms/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": null,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "stino-ichannel",
+    "name": "STiNO iChannel",
+    "description": "",
+    "website": "https://www.stino.biz/en/produkte",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2000,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "strandvision",
+    "name": "StrandVision",
+    "description": "",
+    "website": "https://www.strandvision.com/digital_signage_overview.html",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2003,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "PowerPoint",
+          "monthly": 10,
+          "yearly": 120
+        },
+        {
+          "name": "Basic",
+          "monthly": 41.6,
+          "yearly": 499.99
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "stratacache",
     "name": "Stratacache",
     "description": "",
@@ -7679,6 +7852,36 @@
       }
     },
     "has_logo": true
+  },
+  {
+    "id": "stratosmedia",
+    "name": "StratosMedia",
+    "description": "",
+    "website": "https://stratosmedia.com/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [
+      "StratosMedia also delivers its proprietary Operating System – StratosOS which can be loaded on any x86-64 hardware to create a StratosMedia playback device."
+    ],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "studiolite",
@@ -7784,6 +7987,89 @@
     "has_logo": true
   },
   {
+    "id": "szcope",
+    "name": "szcope",
+    "description": "",
+    "website": "https://pos-experience.de/leistungen/#digital-signage",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2010,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "tdm-signage",
+    "name": "TDM Signage",
+    "description": "",
+    "website": "https://tdmsignage.com/?lang=en",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": " Essential",
+          "monthly": null,
+          "yearly": 190
+        },
+        {
+          "name": "Small Business",
+          "monthly": null,
+          "yearly": 285
+        },
+        {
+          "name": "Enterprise",
+          "monthly": null,
+          "yearly": 339
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "telefonica-tech",
+    "name": "Telefónica Tech",
+    "description": "",
+    "website": "https://telefonicatech.com/en/solutions/iot-connectivity/smart-spaces/digital-signage",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "telemetrytv",
     "name": "TelemetryTV",
     "description": "",
@@ -7853,6 +8139,55 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "tigermeeting",
+    "name": "Tigermeeting",
+    "description": "",
+    "website": "https://tigermeeting.app/",
+    "headquarters": "Sweden",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2018,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "tippler-tv",
+    "name": "Tippler TV",
+    "description": "",
+    "website": "https://www.tippler.tv/",
+    "headquarters": "Unknown",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2025,
+    "notes": [
+      "Still WIP, Tizen to be added"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "touchify",
@@ -8021,6 +8356,26 @@
     "has_logo": true
   },
   {
+    "id": "tvlution",
+    "name": "TVLUTION",
+    "description": "",
+    "website": "https://accenta.de/digital-signage/",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "tvque",
     "name": "TVQue",
     "description": "",
@@ -8058,6 +8413,59 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "uniguest-hub",
+    "name": "Uniguest Hub",
+    "description": "",
+    "website": "https://uniguest.com/hub/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2024,
+    "notes": [
+      "An all-in-one solution for digital signage, interactive TV, casting, room signage, and interactive wayfinding."
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "uniguest-tripleplay",
+    "name": "Uniguest Tripleplay",
+    "description": "",
+    "website": "https://uniguest.com/tripleplay/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [
+      "IPTV, digital signage, and video streaming software and technology."
+    ],
+    "supported_platforms": [
+      "BrightSign",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -8149,6 +8557,28 @@
     "has_logo": true
   },
   {
+    "id": "userful-engage",
+    "name": "Userful Engage",
+    "description": "",
+    "website": "https://www.userful.com/platform/engage",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2025,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "valotalive",
     "name": "Valotalive",
     "description": "",
@@ -8185,6 +8615,29 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "venus-control-suite",
+    "name": "Venus Control Suite",
+    "description": "",
+    "website": "https://www.daktronics.com/en-us/products/software-and-controllers/venus-control-suite",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -8289,6 +8742,37 @@
       "screens": {
         "total": 4000,
         "source": "https://vidarti.com/about",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "videoinstore",
+    "name": "VideoInStore",
+    "description": "",
+    "website": "https://www.instore-solution.fr/en/nos-solutions/affichage-dynamique/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2006,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 25000,
+        "source": "https://www.instore-solution.fr/a-propos-dinstore/",
         "date": "2025-04"
       }
     },
@@ -9060,6 +9544,31 @@
     "has_logo": true
   },
   {
+    "id": "wovenmanager",
+    "name": "WovenManager",
+    "description": "",
+    "website": "https://wovenmedia.com/products/wovenmanager/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2010,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "x-sign",
     "name": "X-Sign",
     "description": "",
@@ -9514,6 +10023,52 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "zignage-zcast",
+    "name": "Zignage zCast",
+    "description": "",
+    "website": "https://www.zignage.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "BrightSign",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "zynchro",
+    "name": "ZYNCHRO",
+    "description": "",
+    "website": "https://zynchro.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "BrightSign",
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true

@@ -1,0 +1,26 @@
+{
+  "id": "uniguest-tripleplay",
+  "name": "Uniguest Tripleplay",
+  "description": "",
+  "website": "https://uniguest.com/tripleplay/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2019,
+  "notes": [
+    "IPTV, digital signage, and video streaming software and technology."
+  ],
+  "supported_platforms": [
+    "BrightSign",
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

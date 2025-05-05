@@ -1,0 +1,23 @@
+{
+  "id": "venus-control-suite",
+  "name": "Venus Control Suite",
+  "description": "",
+  "website": "https://www.daktronics.com/en-us/products/software-and-controllers/venus-control-suite",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

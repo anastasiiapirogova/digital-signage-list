@@ -1,0 +1,25 @@
+{
+  "id": "tippler-tv",
+  "name": "Tippler TV",
+  "description": "",
+  "website": "https://www.tippler.tv/",
+  "headquarters": "Unknown",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2025,
+  "notes": [
+    "Still WIP, Tizen to be added"
+  ],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

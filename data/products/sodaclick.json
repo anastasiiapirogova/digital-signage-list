@@ -1,0 +1,29 @@
+{
+  "id": "sodaclick",
+  "name": "Sodaclick",
+  "description": "",
+  "website": "https://sodaclick.com/digital-signage/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2019,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Web Browser",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
