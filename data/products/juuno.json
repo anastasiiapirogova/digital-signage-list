@@ -11,6 +11,7 @@
   "supported_platforms": [
     "Android",
     "Fire OS",
+    "Raspberry Pi",
     "Web Browser"
   ],
   "pricing": {
