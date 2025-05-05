@@ -1,0 +1,30 @@
+{
+  "id": "digichief-mercury",
+  "name": "Digichief Mercury",
+  "description": "",
+  "website": "https://mercury.digichief.com/",
+  "headquarters": "USA",
+  "year_founded": 2007,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "",
+        "monthly": 24,
+        "yearly": 21.6
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

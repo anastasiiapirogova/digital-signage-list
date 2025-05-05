@@ -1,5 +1,28 @@
 [
   {
+    "id": "1glance",
+    "name": "1Glance",
+    "description": "",
+    "website": "https://1glance.app/",
+    "headquarters": "USA",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "1play",
     "name": "1Play",
     "description": "",
@@ -756,6 +779,54 @@
     "has_logo": true
   },
   {
+    "id": "audience-cms",
+    "name": "Audience CMS",
+    "description": "",
+    "website": "https://www.capitalnetworks.com/audience-cms/",
+    "headquarters": "Canada",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "autora-dsm",
+    "name": "Autora DSM",
+    "description": "",
+    "website": "https://autoradsm.com/",
+    "headquarters": "",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "avesign",
     "name": "Avesign",
     "description": "",
@@ -795,6 +866,36 @@
       "has_freemium": false
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "axistv",
+    "name": "AxisTV",
+    "description": "",
+    "website": "https://www.visix.com/digital-signage-software/",
+    "headquarters": "USA",
+    "year_founded": 2000,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "BrightSign",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 4000,
+        "source": "https://www.visix.com/about/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -951,6 +1052,29 @@
         }
       ],
       "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "brandvisionhd",
+    "name": "BrandVisionHD",
+    "description": "",
+    "website": "https://www.pwcampbell.com/brandvisionhd/",
+    "headquarters": "USA",
+    "year_founded": 1998,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "BrightSign"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -1254,6 +1378,42 @@
     "has_logo": true
   },
   {
+    "id": "castmill",
+    "name": "Castmill",
+    "description": "",
+    "website": "https://castmill.com/",
+    "headquarters": "Sweden",
+    "year_founded": 2011,
+    "notes": [],
+    "open_source": true,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Web Browser",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Starter",
+          "monthly": 7.25,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "cayin",
     "name": "CAYIN",
     "description": "",
@@ -1356,6 +1516,26 @@
       "free_trial": false,
       "pricing_available": false,
       "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "clarity",
+    "name": "Creative Realities Clarity",
+    "description": "",
+    "website": "https://cri.com/what-we-do/digital-signage-software",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2001,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
       "plans": []
     },
     "stats": {},
@@ -1482,6 +1662,45 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "cloudshow",
+    "name": "CloudShow",
+    "description": "",
+    "website": "https://cloud.show/",
+    "headquarters": "Canada",
+    "year_founded": 2007,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "1 device",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 8,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -1932,6 +2151,36 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "digichief-mercury",
+    "name": "Digichief Mercury",
+    "description": "",
+    "website": "https://mercury.digichief.com/",
+    "headquarters": "USA",
+    "year_founded": 2007,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "",
+          "monthly": 24,
+          "yearly": 21.6
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5870,7 +6119,7 @@
   },
   {
     "id": "reflectview",
-    "name": "ReflectView",
+    "name": "Creative Realities ReflectView",
     "description": "",
     "website": "https://cri.com/what-we-do/digital-signage-software",
     "headquarters": "USA",

@@ -1,0 +1,23 @@
+{
+  "id": "brandvisionhd",
+  "name": "BrandVisionHD",
+  "description": "",
+  "website": "https://www.pwcampbell.com/brandvisionhd/",
+  "headquarters": "USA",
+  "year_founded": 1998,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "BrightSign"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

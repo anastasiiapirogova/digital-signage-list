@@ -1,0 +1,36 @@
+{
+  "id": "castmill",
+  "name": "Castmill",
+  "description": "",
+  "website": "https://castmill.com/",
+  "headquarters": "Sweden",
+  "year_founded": 2011,
+  "notes": [],
+  "open_source": true,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Raspberry Pi",
+    "Web Browser",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Starter",
+        "monthly": 7.25,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

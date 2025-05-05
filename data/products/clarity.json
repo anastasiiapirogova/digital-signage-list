@@ -1,6 +1,6 @@
 {
-  "id": "reflectview",
-  "name": "Creative Realities ReflectView",
+  "id": "clarity",
+  "name": "Creative Realities Clarity",
   "description": "",
   "website": "https://cri.com/what-we-do/digital-signage-software",
   "headquarters": "USA",
@@ -15,12 +15,6 @@
     "has_freemium": false,
     "plans": []
   },
-  "stats": {
-    "screens": {
-      "total": 400000,
-      "source": "https://cri.com/what-we-do/digital-signage-software",
-      "date": "2025-04"
-    }
-  },
+  "stats": {},
   "has_logo": true
 }

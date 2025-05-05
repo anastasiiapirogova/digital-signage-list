@@ -1,14 +1,18 @@
 {
-  "id": "reflectview",
-  "name": "Creative Realities ReflectView",
+  "id": "axistv",
+  "name": "AxisTV",
   "description": "",
-  "website": "https://cri.com/what-we-do/digital-signage-software",
+  "website": "https://www.visix.com/digital-signage-software/",
   "headquarters": "USA",
+  "year_founded": 2000,
+  "notes": [],
   "open_source": false,
   "self_signup": false,
-  "year_founded": 2001,
-  "notes": [],
-  "supported_platforms": [],
+  "discontinued": false,
+  "supported_platforms": [
+    "BrightSign",
+    "Windows"
+  ],
   "pricing": {
     "free_trial": false,
     "pricing_available": false,
@@ -17,8 +21,8 @@
   },
   "stats": {
     "screens": {
-      "total": 400000,
-      "source": "https://cri.com/what-we-do/digital-signage-software",
+      "total": 4000,
+      "source": "https://www.visix.com/about/",
       "date": "2025-04"
     }
   },
