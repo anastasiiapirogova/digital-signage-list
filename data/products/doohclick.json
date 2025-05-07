@@ -1,0 +1,21 @@
+{
+  "id": "doohclick",
+  "name": "DoohClick",
+  "description": "",
+  "website": "https://doohclick.com/",
+  "headquarters": "Sweden",
+  "year_founded": 2010,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

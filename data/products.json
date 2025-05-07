@@ -998,7 +998,7 @@
           "yearly": 151.68
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1372,7 +1372,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -2298,6 +2298,67 @@
     "has_logo": true
   },
   {
+    "id": "directable",
+    "name": "Directable",
+    "description": "",
+    "website": "https://directable.com/",
+    "headquarters": "USA",
+    "year_founded": 2012,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "2+ Screens",
+          "monthly": 7.5,
+          "yearly": 67.5
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "dise",
+    "name": "Dise",
+    "description": "",
+    "website": "https://www.dise.com/",
+    "headquarters": "Sweden",
+    "year_founded": 2003,
+    "notes": [
+      "The screen count is based on the number of provided customer count. The actual screen count may vary."
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 1000,
+        "source": "https://www.dise.com/about-us/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "disign",
     "name": "disign",
     "description": "",
@@ -2408,6 +2469,98 @@
           "name": "Pro",
           "monthly": 11,
           "yearly": 108
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "display-star",
+    "name": "Display Star",
+    "description": "",
+    "website": "https://www.kommatec-red.de/software-displaystar.html",
+    "headquarters": "Germany",
+    "year_founded": 2005,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "display-stream",
+    "name": "Display.Stream",
+    "description": "",
+    "website": "https://www.display.stream/",
+    "headquarters": "USA",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Raspberry Pi",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Start",
+          "monthly": 9,
+          "yearly": 104
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "displayhub",
+    "name": "DisplayHub",
+    "description": "",
+    "website": "https://displayhub.co.uk/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2018,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "SINGLE SCREEN",
+          "monthly": 6.6,
+          "yearly": null
         }
       ],
       "tier": "affordable"
@@ -2555,6 +2708,48 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "donatello-suite",
+    "name": "Donatello Suite",
+    "description": "",
+    "website": "https://www.wavetec.com/solutions/digital-signage/software/",
+    "headquarters": "UAE",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "doohclick",
+    "name": "DoohClick",
+    "description": "",
+    "website": "https://doohclick.com/",
+    "headquarters": "Sweden",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -3634,6 +3829,27 @@
     "has_logo": true
   },
   {
+    "id": "haivision-coolsign",
+    "name": "Haivision CoolSign",
+    "description": "",
+    "website": "https://doc.haivision.com/CoolSign",
+    "headquarters": "Canada",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "hexa",
     "name": "HEXA",
     "description": "",
@@ -4370,7 +4586,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -4898,7 +5114,7 @@
           "yearly": 270
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -5836,7 +6052,7 @@
           "yearly": 144
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -6799,7 +7015,7 @@
           "yearly": 270
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -7067,7 +7283,7 @@
           "yearly": 250
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -7142,7 +7358,7 @@
           "yearly": 272.46
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -7435,7 +7651,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -7923,7 +8139,7 @@
           "yearly": 149
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -8257,7 +8473,7 @@
           "yearly": 2406
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -8307,7 +8523,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -8856,7 +9072,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -9446,7 +9662,7 @@
           "yearly": 150
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {

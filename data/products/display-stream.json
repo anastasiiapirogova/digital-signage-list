@@ -1,10 +1,10 @@
 {
-  "id": "castit",
-  "name": "Castit",
+  "id": "display-stream",
+  "name": "Display.Stream",
   "description": "",
-  "website": "https://castitsignage.com/",
-  "headquarters": "Netherlands",
-  "year_founded": 2002,
+  "website": "https://www.display.stream/",
+  "headquarters": "USA",
+  "year_founded": 2022,
   "notes": [],
   "open_source": false,
   "self_signup": true,
@@ -13,29 +13,27 @@
     "Android",
     "ChromeOS",
     "Fire OS",
-    "Linux",
+    "Raspberry Pi",
     "Tizen",
-    "Web Browser",
-    "Windows",
     "webOS"
   ],
   "pricing": {
-    "free_trial": false,
+    "free_trial": true,
     "pricing_available": true,
     "has_freemium": true,
     "plans": [
       {
-        "name": "Basic",
+        "name": "Free",
         "monthly": 0,
         "yearly": 0
       },
       {
-        "name": "Professional",
-        "monthly": 21.66,
-        "yearly": null
+        "name": "Start",
+        "monthly": 9,
+        "yearly": 104
       }
     ],
-    "tier": "premium"
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

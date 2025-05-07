@@ -1,0 +1,29 @@
+{
+  "id": "dise",
+  "name": "Dise",
+  "description": "",
+  "website": "https://www.dise.com/",
+  "headquarters": "Sweden",
+  "year_founded": 2003,
+  "notes": [
+    "The screen count is based on the number of provided customer count. The actual screen count may vary."
+  ],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 1000,
+      "source": "https://www.dise.com/about-us/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

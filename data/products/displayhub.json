@@ -1,0 +1,31 @@
+{
+  "id": "displayhub",
+  "name": "DisplayHub",
+  "description": "",
+  "website": "https://displayhub.co.uk/",
+  "headquarters": "United Kingdom",
+  "year_founded": 2018,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "SINGLE SCREEN",
+        "monthly": 6.6,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}
