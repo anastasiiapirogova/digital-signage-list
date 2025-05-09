@@ -1,0 +1,39 @@
+{
+  "id": "ez-ad-tv",
+  "name": "EZ-AD TV",
+  "description": "",
+  "website": "https://ezadtv.com/",
+  "headquarters": "USA",
+  "year_founded": 2013,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Silver",
+        "monthly": 15,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {
+    "screens": {
+      "total": 30000,
+      "source": "https://ezadtv.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

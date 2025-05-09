@@ -1,0 +1,21 @@
+{
+  "id": "fingermark-supernova",
+  "name": "Fingermark Supernova",
+  "description": "",
+  "website": "https://fingermark.ai/",
+  "headquarters": "New Zealand",
+  "year_founded": 2022,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

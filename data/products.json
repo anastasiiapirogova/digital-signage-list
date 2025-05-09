@@ -1372,7 +1372,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -3451,6 +3451,38 @@
     "has_logo": true
   },
   {
+    "id": "enplug",
+    "name": "Enplug",
+    "description": "",
+    "website": "https://www.enplug.in/",
+    "headquarters": "USA",
+    "year_founded": 2012,
+    "notes": [
+      "Spectrio acquired Enplug in 2021."
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Growth",
+          "monthly": 32,
+          "yearly": null
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "eumedia-dss",
     "name": "Eumedia DSS",
     "description": "",
@@ -3469,6 +3501,203 @@
     ],
     "pricing": {
       "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "evergreen",
+    "name": "Evergreen",
+    "description": "",
+    "website": "https://www.evergreenhq.com/digital-menu-software/",
+    "headquarters": "USA",
+    "year_founded": 2012,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "exclaim",
+    "name": "Exclaim",
+    "description": "",
+    "website": "https://exclaimsignage.com/",
+    "headquarters": "USA",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "3 Screens",
+          "monthly": 5,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "eyecon",
+    "name": "EYECON",
+    "description": "",
+    "website": "https://www.tvdms.com.hk/",
+    "headquarters": "China",
+    "year_founded": 2009,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "ez-ad-tv",
+    "name": "EZ-AD TV",
+    "description": "",
+    "website": "https://ezadtv.com/",
+    "headquarters": "USA",
+    "year_founded": 2013,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Silver",
+          "monthly": 15,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {
+      "screens": {
+        "total": 30000,
+        "source": "https://ezadtv.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "ezposter",
+    "name": "EzPoster",
+    "description": "",
+    "website": "https://lcdledsigns.com.au/digital-signage-products/digital-signage-software/ezposter-editor.html",
+    "headquarters": "Australia",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
+    "id": "eztv",
+    "name": "EZ Plus",
+    "description": "",
+    "website": "https://eztv.plus/",
+    "headquarters": "USA",
+    "year_founded": 2019,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Basic",
+          "monthly": 2.99,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "feedsome",
+    "name": "FEEDSOME",
+    "description": "",
+    "website": "https://feedsome.com/",
+    "headquarters": [
+      "Malaysia",
+      "Singapore"
+    ],
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
       "pricing_available": false,
       "has_freemium": false,
       "plans": []
@@ -3509,6 +3738,139 @@
     "has_logo": true
   },
   {
+    "id": "fingermark-supernova",
+    "name": "Fingermark Supernova",
+    "description": "",
+    "website": "https://fingermark.ai/",
+    "headquarters": "New Zealand",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "firmchannel",
+    "name": "firmCHANNEL",
+    "description": "",
+    "website": "https://firmchannel.com/",
+    "headquarters": "Canada",
+    "year_founded": 2005,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Standard",
+          "monthly": 19.95,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "firstouch",
+    "name": "Firstouch",
+    "description": "",
+    "website": "https://firstouchkiosk.com/signage-software",
+    "headquarters": "India",
+    "year_founded": 2006,
+    "notes": [
+      "The screen count is based on the number of provided customer count. The actual screen count may vary."
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 30000,
+        "source": "https://firstouchkiosk.com/signage-software",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "five-faces",
+    "name": "Five Faces",
+    "description": "",
+    "website": "https://fivefaces.com.au/solutions/digital-signage-solutions/#software",
+    "headquarters": "Australia",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "flagship-cms",
+    "name": "Flagship CMS",
+    "description": "",
+    "website": "https://flagshipcms.com/",
+    "headquarters": "USA",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "flexitive",
     "name": "Flexitive",
     "description": "",
@@ -3541,6 +3903,48 @@
       "tier": "premium"
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "framen",
+    "name": "FRAMEN",
+    "description": "",
+    "website": "https://www.framen.com/",
+    "headquarters": "Germany",
+    "year_founded": 2018,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Premium",
+          "monthly": null,
+          "yearly": 136.8
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 18000,
+        "source": "https://www.framen.com/",
+        "date": "2025-04"
+      }
+    },
     "has_logo": true
   },
   {
@@ -4586,7 +4990,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -6052,7 +6456,7 @@
           "yearly": 144
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -6331,6 +6735,29 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "redyref-engage",
+    "name": "REDYREF Engage",
+    "description": "",
+    "website": "https://redyref.com/kiosk-management-software/",
+    "headquarters": "USA",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -6928,6 +7355,27 @@
     "has_logo": true
   },
   {
+    "id": "signage-pilot",
+    "name": "Signage Pilot",
+    "description": "",
+    "website": "https://www.99sensors.com/start-today/",
+    "headquarters": "Germany",
+    "year_founded": 2020,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "signage-rocket",
     "name": "Signage Rocket",
     "description": "",
@@ -6958,6 +7406,31 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "signage-studio",
+    "name": "Signage Studio",
+    "description": "",
+    "website": "https://lcdledsigns.com.au/digital-signage-products/digital-signage-software/signage-studio.html",
+    "headquarters": "Australia",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "signagego",
@@ -7283,7 +7756,7 @@
           "yearly": 250
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -8139,7 +8612,7 @@
           "yearly": 149
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -8523,7 +8996,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -9072,7 +9545,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -9662,7 +10135,7 @@
           "yearly": 150
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {

@@ -1,18 +1,16 @@
 {
-  "id": "viewneo",
-  "name": "viewneo",
+  "id": "exclaim",
+  "name": "Exclaim",
   "description": "",
-  "website": "https://www.viewneo.com/",
-  "headquarters": "Germany",
+  "website": "https://exclaimsignage.com/",
+  "headquarters": "USA",
+  "year_founded": 2014,
+  "notes": [],
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2013,
-  "notes": [],
+  "discontinued": false,
   "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Windows",
-    "iOS"
+    "Web Browser"
   ],
   "pricing": {
     "free_trial": true,
@@ -20,12 +18,12 @@
     "has_freemium": false,
     "plans": [
       {
-        "name": "viewneo Professional",
-        "monthly": 21,
+        "name": "3 Screens",
+        "monthly": 5,
         "yearly": null
       }
     ],
-    "tier": "midRange"
+    "tier": "affordable"
   },
   "stats": {},
   "has_logo": true

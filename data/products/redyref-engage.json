@@ -1,0 +1,23 @@
+{
+  "id": "redyref-engage",
+  "name": "REDYREF Engage",
+  "description": "",
+  "website": "https://redyref.com/kiosk-management-software/",
+  "headquarters": "USA",
+  "year_founded": 2014,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

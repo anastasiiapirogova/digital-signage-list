@@ -1,0 +1,42 @@
+{
+  "id": "framen",
+  "name": "FRAMEN",
+  "description": "",
+  "website": "https://www.framen.com/",
+  "headquarters": "Germany",
+  "year_founded": 2018,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Premium",
+        "monthly": null,
+        "yearly": 136.8
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 18000,
+      "source": "https://www.framen.com/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

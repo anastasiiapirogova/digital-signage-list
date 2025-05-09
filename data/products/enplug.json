@@ -1,0 +1,32 @@
+{
+  "id": "enplug",
+  "name": "Enplug",
+  "description": "",
+  "website": "https://www.enplug.in/",
+  "headquarters": "USA",
+  "year_founded": 2012,
+  "notes": [
+    "Spectrio acquired Enplug in 2021."
+  ],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Growth",
+        "monthly": 32,
+        "yearly": null
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {},
+  "has_logo": true
+}
