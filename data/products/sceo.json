@@ -1,0 +1,22 @@
+{
+  "id": "sceo",
+  "name": "SCEO",
+  "description": "",
+  "website": "https://tdcpolska.com/products/sceo-software/",
+  "headquarters": "Poland",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": null,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

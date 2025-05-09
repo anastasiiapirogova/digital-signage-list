@@ -1,0 +1,30 @@
+{
+  "id": "hydro-cms",
+  "name": "Hydro CMS",
+  "description": "",
+  "website": "https://www.hydromedia.co.nz/software.html",
+  "headquarters": "New Zealand",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2008,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "macOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

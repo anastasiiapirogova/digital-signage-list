@@ -1,0 +1,25 @@
+{
+  "id": "smart-media-control",
+  "name": "Smart Media Control",
+  "description": "",
+  "website": "https://www.smartmediacontrol.com/en/",
+  "headquarters": "Belgium",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2022,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

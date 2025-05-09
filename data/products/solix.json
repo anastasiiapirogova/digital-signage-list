@@ -1,0 +1,20 @@
+{
+  "id": "solix",
+  "name": "solix",
+  "description": "",
+  "website": "https://solix.pl/en/",
+  "headquarters": "Poland",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2002,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

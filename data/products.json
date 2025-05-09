@@ -4254,6 +4254,110 @@
     "has_logo": true
   },
   {
+    "id": "halo",
+    "name": "Halo",
+    "description": "",
+    "website": "https://nomadixinternational.com/halo",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [
+      "Halo Player"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Standard 12 month contract",
+          "monthly": null,
+          "yearly": 302.99
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
+    "id": "harmony-digital",
+    "name": "Harmony Digital",
+    "description": "",
+    "website": "https://www.harmonydigital.co.uk/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2022,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Per screen",
+          "monthly": 16,
+          "yearly": 160
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "helloscreens",
+    "name": "HelloScreens",
+    "description": "",
+    "website": "https://helloscreens.io/software-price/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Standard",
+          "monthly": 7.99,
+          "yearly": null
+        },
+        {
+          "name": "Pro",
+          "monthly": 9.99,
+          "yearly": null
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 12.99,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {
+      "screens": {
+        "total": 15000,
+        "source": "https://helloscreens.io/contact/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "hexa",
     "name": "HEXA",
     "description": "",
@@ -4273,6 +4377,53 @@
       "pricing_available": false,
       "has_freemium": false,
       "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "hexnode",
+    "name": "hexnode",
+    "description": "",
+    "website": "https://www.hexnode.com/mobile-device-management/hexnode-digital-signage-software/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS",
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Pro",
+          "monthly": 2.4,
+          "yearly": 26.4
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 3.6,
+          "yearly": 38.4
+        },
+        {
+          "name": "Ultimate",
+          "monthly": 5.2,
+          "yearly": 56.4
+        }
+      ],
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -4337,6 +4488,36 @@
     "has_logo": true
   },
   {
+    "id": "hydro-cms",
+    "name": "Hydro CMS",
+    "description": "",
+    "website": "https://www.hydromedia.co.nz/software.html",
+    "headquarters": "New Zealand",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "hyper-net",
     "name": "HYPER Net",
     "description": "",
@@ -4358,6 +4539,51 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "hypersign",
+    "name": "Hypersign+",
+    "description": "",
+    "website": "https://hypersign.com/hypersignplus/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Essentials",
+          "monthly": null,
+          "yearly": 238.8
+        },
+        {
+          "name": "Pro",
+          "monthly": null,
+          "yearly": 418.8
+        },
+        {
+          "name": "Enterprise",
+          "monthly": null,
+          "yearly": 648.96
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -4990,7 +5216,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -5686,6 +5912,28 @@
     "has_logo": true
   },
   {
+    "id": "navigo",
+    "name": "Navigo",
+    "description": "",
+    "website": "https://www.itouchinc.com/navigo-software",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "navori",
     "name": "Navori",
     "description": "",
@@ -5724,6 +5972,34 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "nento",
+    "name": "nento",
+    "description": "",
+    "website": "https://nento.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [
+      "webOS and Tizen are planned to be added"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Roku OS",
+      "iOS",
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -6196,6 +6472,31 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "peaksignage",
+    "name": "PeakSignage",
+    "description": "",
+    "website": "https://www.lamasatech.com/solutions/digital-signage/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -7100,6 +7401,28 @@
     "has_logo": true
   },
   {
+    "id": "sceo",
+    "name": "SCEO",
+    "description": "",
+    "website": "https://tdcpolska.com/products/sceo-software/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": null,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "screen-publishing",
     "name": "Screen Publishing",
     "description": "",
@@ -7998,6 +8321,31 @@
     "has_logo": true
   },
   {
+    "id": "smart-media-control",
+    "name": "Smart Media Control",
+    "description": "",
+    "website": "https://www.smartmediacontrol.com/en/",
+    "headquarters": "Belgium",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2022,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "smart-prospective",
     "name": "Smart Prospective",
     "description": "",
@@ -8083,6 +8431,36 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "smartsign",
+    "name": "Smartsign",
+    "description": "",
+    "website": "https://www.smartsignmanager.com/en/",
+    "headquarters": "Sweden",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [
+      "The first release notes are available from 2020"
+    ],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "iiyama",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -8258,6 +8636,26 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "solix",
+    "name": "solix",
+    "description": "",
+    "website": "https://solix.pl/en/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2002,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "spectrio",
@@ -8612,7 +9010,7 @@
           "yearly": 149
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -10135,7 +10533,7 @@
           "yearly": 150
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {

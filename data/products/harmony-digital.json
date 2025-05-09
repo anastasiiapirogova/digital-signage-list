@@ -1,0 +1,30 @@
+{
+  "id": "harmony-digital",
+  "name": "Harmony Digital",
+  "description": "",
+  "website": "https://www.harmonydigital.co.uk/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2022,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Per screen",
+        "monthly": 16,
+        "yearly": 160
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

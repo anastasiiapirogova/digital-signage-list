@@ -1,0 +1,47 @@
+{
+  "id": "hexnode",
+  "name": "hexnode",
+  "description": "",
+  "website": "https://www.hexnode.com/mobile-device-management/hexnode-digital-signage-software/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2013,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Web Browser",
+    "Windows",
+    "iOS",
+    "macOS",
+    "tvOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Pro",
+        "monthly": 2.4,
+        "yearly": 26.4
+      },
+      {
+        "name": "Enterprise",
+        "monthly": 3.6,
+        "yearly": 38.4
+      },
+      {
+        "name": "Ultimate",
+        "monthly": 5.2,
+        "yearly": 56.4
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}
