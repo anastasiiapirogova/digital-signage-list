@@ -1,0 +1,24 @@
+{
+  "id": "id2son",
+  "name": "ID2SON",
+  "description": "",
+  "website": "https://www.id2son.fr",
+  "headquarters": "France",
+  "year_founded": 2016,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

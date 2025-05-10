@@ -1,0 +1,21 @@
+{
+  "id": "infini-sign",
+  "name": "INFINI SIGN",
+  "description": "",
+  "website": "https://www.anshi.com.hk/software-digital-signage",
+  "headquarters": "China",
+  "year_founded": null,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

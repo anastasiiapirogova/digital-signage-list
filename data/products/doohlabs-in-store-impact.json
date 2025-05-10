@@ -1,0 +1,27 @@
+{
+  "id": "doohlabs-in-store-impact",
+  "name": "Doohlabs In-Store IMPACT",
+  "description": "",
+  "website": "https://www.doohlabs.com/cms",
+  "headquarters": "Finland",
+  "year_founded": 2018,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

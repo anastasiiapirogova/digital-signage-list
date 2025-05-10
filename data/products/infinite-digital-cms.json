@@ -1,0 +1,31 @@
+{
+  "id": "infinite-digital-cms",
+  "name": "Infinite Digital CMS",
+  "description": "",
+  "website": "https://www.famatechnologies.com/infinite-digital-cms",
+  "headquarters": "Saudi Arabia",
+  "year_founded": 2010,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Web Browser",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

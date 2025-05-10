@@ -1,0 +1,26 @@
+{
+  "id": "infinitys-anima",
+  "name": "ANIMA INFINITYS",
+  "description": "",
+  "website": "https://infinitys.it/en/content-panel/",
+  "headquarters": "Italy",
+  "year_founded": 2009,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "impressbox",
+  "name": "Impressbox",
+  "description": "",
+  "website": "https://www.impressbox.lt/en/",
+  "headquarters": "Lithuania",
+  "year_founded": 2013,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Player",
+        "monthly": 21.66,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

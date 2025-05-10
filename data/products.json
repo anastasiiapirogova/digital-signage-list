@@ -2755,6 +2755,33 @@
     "has_logo": true
   },
   {
+    "id": "doohlabs-in-store-impact",
+    "name": "Doohlabs In-Store IMPACT",
+    "description": "",
+    "website": "https://www.doohlabs.com/cms",
+    "headquarters": "Finland",
+    "year_founded": 2018,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "doohly",
     "name": "Doohly",
     "description": "",
@@ -4721,6 +4748,83 @@
     "has_logo": true
   },
   {
+    "id": "idesk",
+    "name": "IDESK",
+    "description": "",
+    "website": "https://i-desk.pro/",
+    "headquarters": "Russia",
+    "year_founded": 2019,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "id2son",
+    "name": "ID2SON",
+    "description": "",
+    "website": "https://www.id2son.fr",
+    "headquarters": "France",
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
+    "id": "ievince",
+    "name": "iEvince",
+    "description": "",
+    "website": "https://ievince.com/",
+    "headquarters": [
+      "India",
+      "Bahrain"
+    ],
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "iisignage",
     "name": "iiSignage",
     "description": "",
@@ -4805,6 +4909,141 @@
     "has_logo": true
   },
   {
+    "id": "immerse",
+    "name": "IMMERSE",
+    "description": "",
+    "website": "https://www.promultis.info/immerse/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2004,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "impressbox",
+    "name": "Impressbox",
+    "description": "",
+    "website": "https://www.impressbox.lt/en/",
+    "headquarters": "Lithuania",
+    "year_founded": 2013,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Player",
+          "monthly": 21.66,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "infini-sign",
+    "name": "INFINI SIGN",
+    "description": "",
+    "website": "https://www.anshi.com.hk/software-digital-signage",
+    "headquarters": "China",
+    "year_founded": null,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "infinite-digital-cms",
+    "name": "Infinite Digital CMS",
+    "description": "",
+    "website": "https://www.famatechnologies.com/infinite-digital-cms",
+    "headquarters": "Saudi Arabia",
+    "year_founded": 2010,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "infinitys-anima",
+    "name": "ANIMA INFINITYS",
+    "description": "",
+    "website": "https://infinitys.it/en/content-panel/",
+    "headquarters": "Italy",
+    "year_founded": 2009,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "info-beamer-oss",
     "name": "info-beamer Open Source",
     "description": "",
@@ -4859,6 +5098,29 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "innes",
+    "name": "INNES",
+    "description": "",
+    "website": "https://web.archive.org/web/20241007132450/https://www.innes.pro/en/",
+    "headquarters": "France",
+    "year_founded": 2005,
+    "notes": [
+      "Had 40,000 screens in 2024"
+    ],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": true,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
