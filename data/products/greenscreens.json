@@ -1,0 +1,28 @@
+{
+  "id": "greenscreens",
+  "name": "GreenScreens",
+  "description": "",
+  "website": "https://greenscreens.tv/",
+  "headquarters": "USA",
+  "year_founded": 2017,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Dispensary Basic",
+        "monthly": 75,
+        "yearly": 855
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {},
+  "has_logo": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": "grubbrr",
+  "name": "GRUBBRR",
+  "description": "",
+  "website": "https://grubbrr.com/",
+  "headquarters": "USA",
+  "year_founded": 2019,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

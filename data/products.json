@@ -998,7 +998,7 @@
           "yearly": 151.68
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -4195,6 +4195,87 @@
     "has_logo": true
   },
   {
+    "id": "gobright",
+    "name": "GoBright",
+    "description": "",
+    "website": "https://gobright.com/products/digital-signage/",
+    "headquarters": "Netherlands",
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "grassfish-ixm-platform",
+    "name": "Grassfish IXM Platform",
+    "description": "",
+    "website": "https://grassfish.com/platform/",
+    "headquarters": "Sweden",
+    "year_founded": 2005,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "greenscreens",
+    "name": "GreenScreens",
+    "description": "",
+    "website": "https://greenscreens.tv/",
+    "headquarters": "USA",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Dispensary Basic",
+          "monthly": 75,
+          "yearly": 855
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "greet-tv",
     "name": "Greet.TV",
     "description": "",
@@ -4228,6 +4309,33 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "grubbrr",
+    "name": "GRUBBRR",
+    "description": "",
+    "website": "https://grubbrr.com/",
+    "headquarters": "USA",
+    "year_founded": 2019,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -5216,7 +5324,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -5744,7 +5852,7 @@
           "yearly": 270
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -7811,7 +7919,7 @@
           "yearly": 270
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8154,7 +8262,7 @@
           "yearly": 272.46
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8502,7 +8610,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -9010,7 +9118,7 @@
           "yearly": 149
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -9344,7 +9452,7 @@
           "yearly": 2406
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -10533,7 +10641,7 @@
           "yearly": 150
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
