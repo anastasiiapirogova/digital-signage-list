@@ -23,6 +23,7 @@ export type Product = {
     discontinued?: boolean
     year_founded: number | null
     supported_platforms: string[]
+    is_sponsor?: boolean
     stats: {
         screens?: {
             total: number | null

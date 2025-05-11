@@ -1,0 +1,27 @@
+{
+  "id": "eze-suite",
+  "name": "Eze Suite",
+  "description": "",
+  "website": "https://engagis.com/products-services/eze-suite-platform/",
+  "headquarters": "Australia",
+  "year_founded": 2001,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 50000,
+      "source": "https://engagis.com/about-us/engagis-story/",
+      "date": "2025-04"
+    }
+  },
+  "has_logo": true
+}

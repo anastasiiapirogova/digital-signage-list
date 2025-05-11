@@ -1,0 +1,30 @@
+{
+  "id": "korbyt",
+  "name": "Korbyt",
+  "description": "",
+  "website": "https://www.gokorbyt.com/digital-signage/",
+  "headquarters": "USA",
+  "year_founded": 2017,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "BrightSign",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

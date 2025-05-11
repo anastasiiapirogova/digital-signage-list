@@ -1,0 +1,28 @@
+{
+  "id": "joan",
+  "name": "Joan",
+  "description": "",
+  "website": "https://getjoan.com/workplace-digital-signage/",
+  "headquarters": "United Kingdom",
+  "year_founded": 2016,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Essentials",
+        "monthly": null,
+        "yearly": 205.2
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

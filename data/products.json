@@ -2404,6 +2404,7 @@
     "open_source": false,
     "self_signup": true,
     "year_founded": 2017,
+    "is_sponsor": true,
     "notes": [
       "The screen count is based on the number of provided connected locations. The actual screen count may vary."
     ],
@@ -3641,6 +3642,33 @@
       "screens": {
         "total": 30000,
         "source": "https://ezadtv.com/",
+        "date": "2025-04"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "eze-suite",
+    "name": "Eze Suite",
+    "description": "",
+    "website": "https://engagis.com/products-services/eze-suite-platform/",
+    "headquarters": "Australia",
+    "year_founded": 2001,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 50000,
+        "source": "https://engagis.com/about-us/engagis-story/",
         "date": "2025-04"
       }
     },
@@ -5126,6 +5154,27 @@
     "has_logo": true
   },
   {
+    "id": "innovative-dmc",
+    "name": "Innovative DMC",
+    "description": "",
+    "website": "https://web.archive.org/web/20241007161659/https://idmc.com.ua/",
+    "headquarters": "Ukraine",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": true,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "intelisa",
     "name": "Intelisa",
     "description": "",
@@ -5139,6 +5188,27 @@
     "pricing": {
       "free_trial": true,
       "pricing_available": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "interads",
+    "name": "InterAds",
+    "description": "",
+    "website": "https://interads.co.id/",
+    "headquarters": "Indonesia",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -5240,6 +5310,31 @@
     "has_logo": true
   },
   {
+    "id": "is-media",
+    "name": "IS-Media",
+    "description": "",
+    "website": "https://ccrs.ru/solutions/multimedia/",
+    "headquarters": "Russia",
+    "year_founded": 2000,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "iteq",
     "name": "ITEQ Digital",
     "description": "",
@@ -5285,6 +5380,80 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "itotem",
+    "name": "Itotem",
+    "description": "",
+    "website": "https://itotem.ro/en/solutions/software/",
+    "headquarters": "Romania",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "jiosignage",
+    "name": "JioSignage",
+    "description": "",
+    "website": "https://jiothings.com/jiosignage.html",
+    "headquarters": "India",
+    "year_founded": 2020,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "joan",
+    "name": "Joan",
+    "description": "",
+    "website": "https://getjoan.com/workplace-digital-signage/",
+    "headquarters": "United Kingdom",
+    "year_founded": 2016,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Essentials",
+          "monthly": null,
+          "yearly": 205.2
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5385,6 +5554,27 @@
     "has_logo": true
   },
   {
+    "id": "koesio-tv",
+    "name": "Koesio TV",
+    "description": "",
+    "website": "https://koesio.com/en/communications/dynamic-display-koesio-tv/",
+    "headquarters": "France",
+    "year_founded": 2021,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "koke",
     "name": "Koke",
     "description": "",
@@ -5421,6 +5611,36 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "korbyt",
+    "name": "Korbyt",
+    "description": "",
+    "website": "https://www.gokorbyt.com/digital-signage/",
+    "headquarters": "USA",
+    "year_founded": 2017,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {

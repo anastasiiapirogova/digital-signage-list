@@ -1,7 +1,8 @@
-import { TbBookmark, TbBookmarkFilled, TbCurrencyDollar, TbExternalLink, TbMapPin } from "react-icons/tb";
+import { TbBookmark, TbBookmarkFilled, TbCurrencyDollar, TbExternalLink, TbMapPin, TbRosetteDiscountCheckFilled } from "react-icons/tb";
 import type { Product } from "./types";
 import { addBookmark, bookmarksStore, removeBookmark } from "../utils/bookmarksStore";
 import { useStore } from "@nanostores/react";
+import { useCallback } from "react";
 
 const PricingTier = ({ product }: { product: Product }) => {
     const tierLevels = {
@@ -30,7 +31,7 @@ const PricingTier = ({ product }: { product: Product }) => {
 
 const BookmarkItem = ({ product }: { product: Product }) => {
     const $bookmarks = useStore(bookmarksStore)
-    
+
     const isBookmarkedItem = $bookmarks.includes(product.id);
 
     const handleBookmarkClick = () => {
@@ -79,7 +80,7 @@ const Discontinued = ({ product }: { product: Product }) => {
             </div>
         );
     }
-    
+
     return null
 }
 
@@ -104,7 +105,23 @@ const Logo = ({ product }: { product: Product }) => {
     )
 }
 
-export const ListItem = ({ product }: { product: Product }) => {    
+export const ListItem = ({ product }: { product: Product }) => {
+    const appendUTM = useCallback((url: string) => {
+        const urlObj = new URL(url);
+
+        urlObj.searchParams.set('utm_source', 'signagelist');
+        urlObj.searchParams.set('utm_medium', 'referral');
+
+        if (product.is_sponsor) {
+            urlObj.searchParams.set('utm_campaign', 'sponsor');
+        } else {
+            urlObj.searchParams.set('utm_campaign', 'listing');
+        }
+        urlObj.searchParams.set('ref', 'signagelist.org');
+
+        return urlObj.toString();
+    }, [product.website, product.is_sponsor])
+
     return (
         <div className="hover:bg-neutral-100 md:rounded p-3 lg:p-5 group">
             <div className="flex gap-3 md:gap-5 items-center">
@@ -115,8 +132,18 @@ export const ListItem = ({ product }: { product: Product }) => {
                             <div>
                                 {product.name}
                             </div>
+                            {
+                                product.is_sponsor && (
+                                    <div className="flex gap-1 p-1 rounded-full px-2 pr-2.5 items-center bg-blue-50 group-hover:bg-blue-100">
+                                        <TbRosetteDiscountCheckFilled size={20} className="text-blue-600" />
+                                        <span className="text-sm text-blue-600 leading-1">
+                                            Sponsor
+                                        </span>
+                                    </div>
+                                )
+                            }
                             <a
-                                href={`${product.website}?ref=signagelist.org`}
+                                href={appendUTM(product.website)}
                                 className="opacity-100 lg:opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-[color,opacity] p-1"
                                 target="_blank"
                                 rel="noopener nofollow ugc"
@@ -140,7 +167,7 @@ export const ListItem = ({ product }: { product: Product }) => {
                             <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base shrink-0">
                                 <TbMapPin className="w-4 h-4 md:w-5 md:h-5" />
                                 <div>
-                                    { Array.isArray(product.headquarters) ? `${product.headquarters.join(", ")}` : product.headquarters }
+                                    {Array.isArray(product.headquarters) ? `${product.headquarters.join(", ")}` : product.headquarters}
                                 </div>
                             </div>
                             <div className="flex gap-1 items-center text-gray-400 text-sm md:text-base w-full justify-between md:justify-start md:gap-5">

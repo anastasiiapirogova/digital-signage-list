@@ -1,0 +1,21 @@
+{
+  "id": "innovative-dmc",
+  "name": "Innovative DMC",
+  "description": "",
+  "website": "https://web.archive.org/web/20241007161659/https://idmc.com.ua/",
+  "headquarters": "Ukraine",
+  "year_founded": 2014,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": true,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
