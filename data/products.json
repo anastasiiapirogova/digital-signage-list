@@ -6502,6 +6502,41 @@
     "has_logo": true
   },
   {
+    "id": "nanonation-commandpoint",
+    "name": "Nanonation Commandpoint",
+    "description": "",
+    "website": "https://nanonation.net/digital-signage/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [
+      "The total number of screens is based on terminals deployed globally as dislosed."
+    ],
+    "supported_platforms": [
+      "BrightSign",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 100000,
+        "source": "https://nanonation.net/lg_soc_addition/",
+        "date": "2022-08"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "navigo",
     "name": "Navigo",
     "description": "",
@@ -6593,6 +6628,38 @@
     "has_logo": true
   },
   {
+    "id": "neon",
+    "name": "Neon",
+    "description": "",
+    "website": "https://www.neonscreens.com/digital-signage",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Digital Signage",
+          "monthly": 35,
+          "yearly": 360
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "neoscreen",
     "name": "Neoscreen",
     "description": "",
@@ -6611,6 +6678,55 @@
       "free_trial": false,
       "pricing_available": false,
       "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "neotess",
+    "name": "Neotess",
+    "description": "",
+    "website": "https://www.neotess.fr/logiciel-daffichage-dynamique/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 7500,
+        "source": "https://www.neotess.fr/qui-sommes-nous/",
+        "date": "2025-05"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "neovo-signage",
+    "name": "Neovo Signage",
+    "description": "",
+    "website": "https://solutions.agneovo.com/neovo-signage-cloud-based-digital-signage-solution",
+    "headquarters": "Taiwan",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2019,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -7155,6 +7271,54 @@
     "has_logo": true
   },
   {
+    "id": "pictor",
+    "name": "Pictor",
+    "description": "",
+    "website": "https://pictorplayer.pl/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2019,
+    "notes": [
+      "Two purchase methods: subscription and one-time license payment that includes 1 year remote management"
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 10,
+          "yearly": null
+        },
+        {
+          "name": "Advanced",
+          "monthly": 13,
+          "yearly": null
+        },
+        {
+          "name": "Premium",
+          "monthly": 21,
+          "yearly": null
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 32,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "picturemachine4",
     "name": "picturemachine4",
     "description": "",
@@ -7173,6 +7337,32 @@
       "plans": []
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "pilottv",
+    "name": "PilotTV",
+    "description": "",
+    "website": "https://www.pilottv.com.tw/",
+    "headquarters": "Taiwan",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 7000,
+        "source": "https://www.pilottv.com.tw/about",
+        "date": "2025-05"
+      }
+    },
     "has_logo": true
   },
   {
@@ -10175,6 +10365,31 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "uniview",
+    "name": "UniView",
+    "description": "",
+    "website": "https://www.uniview.pl/",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
