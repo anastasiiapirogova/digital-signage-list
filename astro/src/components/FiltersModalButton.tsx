@@ -1,4 +1,4 @@
-import { TbFilter, TbX } from "react-icons/tb";
+import { TbFilter } from "react-icons/tb";
 import {
     PlatformFilter,
     OpenSourceFilter,

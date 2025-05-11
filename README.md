@@ -149,7 +149,7 @@ Total Products: 399
 - [easyCMS](https://www.myeasycms.com/)
 - [Easyscreen](https://easyscreen.tv/en/digital-signage-software/)
 - [Eggs TV](https://eggstv.io/)
-- [EmagenTV]()
+- [EmagenTV](https://www.emagen.tv/)
 - [embed signage](https://embedsignage.com/)
 - [Emity](https://www.emity.io/en/)
 - [EnGage](https://comqi.com/content-management-system/)
