@@ -1,0 +1,27 @@
+{
+  "id": "magicsign",
+  "name": "magicSign",
+  "description": "",
+  "website": "https://www.demuk.co.th/magicsign",
+  "headquarters": "Thailand",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2016,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Web Browser",
+    "Windows",
+    "iOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

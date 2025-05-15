@@ -1,0 +1,26 @@
+{
+  "id": "skysignage",
+  "name": "SkySignage",
+  "description": "",
+  "website": "https://www.skysignage.com/",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "iiyama",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

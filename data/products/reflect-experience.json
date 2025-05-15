@@ -1,0 +1,22 @@
+{
+  "id": "reflect-experience",
+  "name": "Creative Realities Reflect eXperience",
+  "description": "",
+  "website": "https://cri.com/what-we-do/digital-signage-software",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2021,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

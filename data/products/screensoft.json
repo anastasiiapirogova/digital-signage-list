@@ -1,0 +1,23 @@
+{
+  "id": "screensoft",
+  "name": "Screensoft",
+  "description": "",
+  "website": "https://www.screensoft-affichage-dynamique.com/logiciel-affichage-dynamique",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "notes": [
+    "Video demo of the software is available."
+  ],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

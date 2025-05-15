@@ -1,0 +1,35 @@
+{
+  "id": "visual-art-signage-player",
+  "name": "Visual Art Signage Player",
+  "description": "",
+  "website": "https://visualart.com/digital-signage/digital-signage-software",
+  "headquarters": "Sweden",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2010,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Linux",
+    "Raspberry Pi",
+    "Tizen",
+    "Windows",
+    "iOS",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {
+    "screens": {
+      "total": 73000,
+      "source": "https://visualart.com/knowledge-hub/visual-art-wins-award-for-best-digital-signage-software",
+      "date": "2024-05"
+    }
+  },
+  "has_logo": true
+}

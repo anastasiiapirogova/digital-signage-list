@@ -1,0 +1,35 @@
+{
+  "id": "quicksign",
+  "name": "QuickSign",
+  "description": "",
+  "website": "https://quicksigncloud.com/features/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "QS Basic",
+        "monthly": 15,
+        "yearly": null
+      },
+      {
+        "name": "QS Pro",
+        "monthly": 20,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

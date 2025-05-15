@@ -1,0 +1,22 @@
+{
+  "id": "sandisplay",
+  "name": "SanDisplay",
+  "description": "",
+  "website": "https://allsan.fr/expertise/logiciel-dedie-sandisplay/",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2013,
+  "notes": [],
+  "supported_platforms": [
+    "Tizen"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

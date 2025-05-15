@@ -1,0 +1,22 @@
+{
+  "id": "reflect-adlogic",
+  "name": "Creative Realities Reflect AdLogic",
+  "description": "",
+  "website": "https://cri.com/what-we-do/digital-signage-software",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2025,
+  "notes": [
+    "Digital advertising solution designed specifically for the unique needs of the place-based and out-of-home markets."
+  ],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

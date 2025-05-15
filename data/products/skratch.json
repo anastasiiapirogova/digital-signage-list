@@ -1,0 +1,33 @@
+{
+  "id": "skratch",
+  "name": "Skratch",
+  "description": "",
+  "website": "https://skratchav.com/cms-content-management-systems/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2014,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 11641,
+      "source": "https://skratchav.com/cms-content-management-systems/",
+      "date": "2025-05"
+    }
+  },
+  "has_logo": true
+}

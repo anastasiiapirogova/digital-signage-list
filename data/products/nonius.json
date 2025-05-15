@@ -1,0 +1,25 @@
+{
+  "id": "nonius",
+  "name": "Nonius",
+  "description": "",
+  "website": "https://noniussolutions.com/digital-signage/",
+  "headquarters": "Portugal",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2024,
+  "notes": [
+    "Digital signage solution for hotels."
+  ],
+  "supported_platforms": [
+    "Web Browser",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

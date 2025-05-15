@@ -1,0 +1,22 @@
+{
+  "id": "loopsign",
+  "name": "LoopSign",
+  "description": "",
+  "website": "https://loop24.no/loopsign/",
+  "headquarters": "Norway",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2018,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

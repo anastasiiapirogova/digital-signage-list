@@ -1,0 +1,23 @@
+{
+  "id": "signage-ninja",
+  "name": "signage.ninja",
+  "description": "",
+  "website": "https://signage.ninja/#overview",
+  "headquarters": "Spain",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2014,
+  "notes": [
+    "By TRISON"
+  ],
+  "supported_platforms": [
+    "ChromeOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

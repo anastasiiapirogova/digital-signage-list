@@ -998,7 +998,7 @@
           "yearly": 151.68
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1516,6 +1516,29 @@
       "free_trial": false,
       "pricing_available": false,
       "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "cirrus-screenhub",
+    "name": "Cirrus ScreenHub",
+    "description": "",
+    "website": "https://www.cirrusled.com/screenhub",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
       "plans": []
     },
     "stats": {},
@@ -5644,6 +5667,33 @@
     "has_logo": true
   },
   {
+    "id": "laqorr",
+    "name": "Laqorr",
+    "description": "",
+    "website": "https://datmedia.com.au/solution/laqorr-content-management",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "ledsee",
     "name": "Ledsee",
     "description": "",
@@ -5818,6 +5868,26 @@
     "has_logo": true
   },
   {
+    "id": "livespace",
+    "name": "LiveSpace",
+    "description": "",
+    "website": "https://livespacesignage.co.uk/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "localscreens",
     "name": "LocalScreens",
     "description": "",
@@ -5902,6 +5972,31 @@
     "has_logo": true
   },
   {
+    "id": "lookr",
+    "name": "Lookr",
+    "description": "",
+    "website": "https://www.kabob.io/en/lookr/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "loop-tv",
     "name": "Loop TV",
     "description": "",
@@ -5927,6 +6022,28 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "loopsign",
+    "name": "LoopSign",
+    "description": "",
+    "website": "https://loop24.no/loopsign/",
+    "headquarters": "Norway",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2018,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -5959,6 +6076,38 @@
           "name": "Solo",
           "monthly": 19.38,
           "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "lumoplay",
+    "name": "LUMOplay",
+    "description": "",
+    "website": "https://www.lumoplay.com/",
+    "headquarters": "Canada",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "LUMO Playground",
+          "monthly": 33.5,
+          "yearly": 263.16
+        },
+        {
+          "name": "LUMO Playmaker",
+          "monthly": 73.86,
+          "yearly": 585.12
         }
       ],
       "tier": "midRange"
@@ -6084,6 +6233,33 @@
     "has_logo": true
   },
   {
+    "id": "magicsign",
+    "name": "magicSign",
+    "description": "",
+    "website": "https://www.demuk.co.th/magicsign",
+    "headquarters": "Thailand",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "magit-dsnet",
     "name": "DSnet",
     "description": "",
@@ -6188,6 +6364,50 @@
       }
     },
     "has_logo": false
+  },
+  {
+    "id": "mangosigns",
+    "name": "MangoSigns",
+    "description": "",
+    "website": "https://mangosigns.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2012,
+    "notes": [
+      "20% discounts for non-profit organizations, educational institutions or places of worship."
+    ],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 9.95,
+          "yearly": 107.4
+        },
+        {
+          "name": "Premium",
+          "monthly": 14.95,
+          "yearly": 161.4
+        },
+        {
+          "name": "Enterprise",
+          "monthly": 24.95,
+          "yearly": 269.4
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
   },
   {
     "id": "master-signage",
@@ -6334,7 +6554,7 @@
           "yearly": 270
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -6751,6 +6971,112 @@
     "has_logo": true
   },
   {
+    "id": "newvision",
+    "name": "Newvision",
+    "description": "",
+    "website": "https://www.newvision.pt/en/solutions/digital-signage",
+    "headquarters": "Portugal",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2000,
+    "notes": [
+      "The total number of screens is based on the number of sites installed. The actual number may vary."
+    ],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 6000,
+        "source": "https://www.newvision.pt/en/about",
+        "date": "2025-05"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "nixplay",
+    "name": "Nixplay",
+    "description": "",
+    "website": "https://www.nixplaysignage.com/pages/display-signage-cms-software",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Built-in, Complete Signage Software",
+          "monthly": 19.99,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "nonius",
+    "name": "Nonius",
+    "description": "",
+    "website": "https://noniussolutions.com/digital-signage/",
+    "headquarters": "Portugal",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2024,
+    "notes": [
+      "Digital signage solution for hotels."
+    ],
+    "supported_platforms": [
+      "Web Browser",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "notice-signage",
+    "name": "Notice Signage",
+    "description": "",
+    "website": "https://www.noticebrandedmedia.com/narrowcasting/",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "novacloud",
     "name": "Nova Cloud",
     "description": "",
@@ -6930,6 +7256,29 @@
         "date": "2023-10"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "nusyn",
+    "name": "Nusyn",
+    "description": "",
+    "website": "https://www.nusyndigital.com/",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -7151,6 +7500,31 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "ozonet",
+    "name": "Ozonet",
+    "description": "",
+    "website": "https://ozonet.co.in/digital-signage-solutions",
+    "headquarters": "India",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -7741,6 +8115,41 @@
     "has_logo": true
   },
   {
+    "id": "quicksign",
+    "name": "QuickSign",
+    "description": "",
+    "website": "https://quicksigncloud.com/features/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "QS Basic",
+          "monthly": 15,
+          "yearly": null
+        },
+        {
+          "name": "QS Pro",
+          "monthly": 20,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "radix",
     "name": "Radix",
     "description": "",
@@ -7831,6 +8240,50 @@
     "discontinued": false,
     "supported_platforms": [
       "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "reflect-adlogic",
+    "name": "Creative Realities Reflect AdLogic",
+    "description": "",
+    "website": "https://cri.com/what-we-do/digital-signage-software",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2025,
+    "notes": [
+      "Digital advertising solution designed specifically for the unique needs of the place-based and out-of-home markets."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "reflect-experience",
+    "name": "Creative Realities Reflect eXperience",
+    "description": "",
+    "website": "https://cri.com/what-we-do/digital-signage-software",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
     ],
     "pricing": {
       "free_trial": false,
@@ -8001,6 +8454,65 @@
     "has_logo": true
   },
   {
+    "id": "rockbot",
+    "name": "Rockbot",
+    "description": "",
+    "website": "https://rockbot.com/digital-signage-for-business",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Digital Signage",
+          "monthly": 30,
+          "yearly": 300
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "rs-cms",
+    "name": "RS-CMS",
+    "description": "",
+    "website": "https://www.rapidsignage.com/cms",
+    "headquarters": "Taiwan",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "rt-screens",
     "name": "Умные экраны",
     "description": "",
@@ -8033,6 +8545,98 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "ryarc-campaignmanager",
+    "name": "Ryarc CampaignManager",
+    "description": "",
+    "website": "https://ryarc.com/products/campaign-manager/",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2012,
+    "notes": [
+      "A single platform for managing digital signage, audio, and sensors."
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "sabercom",
+    "name": "Sabercom",
+    "description": "",
+    "website": "https://www.sabercom.co.uk/products/digital-signage/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
+    "id": "sageview",
+    "name": "SageVIEW",
+    "description": "",
+    "website": "https://www.sagenet.com/service/sageview/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 430000,
+        "source": "https://www.sagenet.com/about-us/",
+        "date": "2025-05"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "saii",
+    "name": "SAII",
+    "description": "",
+    "website": "https://saga-digital.fr/#digitales",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2023,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -8101,6 +8705,28 @@
         }
       ],
       "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "sandisplay",
+    "name": "SanDisplay",
+    "description": "",
+    "website": "https://allsan.fr/expertise/logiciel-dedie-sandisplay/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Tizen"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -8198,6 +8824,37 @@
       "pricing_available": false,
       "has_freemium": false,
       "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "screen-canvas",
+    "name": "Screen Canvas",
+    "description": "",
+    "website": "https://www.screencanvas.app/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2024,
+    "notes": [
+      "Digital signage software for Apple TV with no subscription"
+    ],
+    "supported_platforms": [
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Pro",
+          "monthly": null,
+          "yearly": null,
+          "lifetime": 19.99
+        }
+      ]
     },
     "stats": {},
     "has_logo": true
@@ -8458,6 +9115,73 @@
     "has_logo": true
   },
   {
+    "id": "screensoft",
+    "name": "Screensoft",
+    "description": "",
+    "website": "https://www.screensoft-affichage-dynamique.com/logiciel-affichage-dynamique",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [
+      "Video demo of the software is available."
+    ],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "seencmp",
+    "name": "SeenCMP",
+    "description": "",
+    "website": "https://www.seentechnology.com.au/seencmp-introduction",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "signage-ninja",
+    "name": "signage.ninja",
+    "description": "",
+    "website": "https://signage.ninja/#overview",
+    "headquarters": "Spain",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2014,
+    "notes": [
+      "By TRISON"
+    ],
+    "supported_platforms": [
+      "ChromeOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "signage-pilot",
     "name": "Signage Pilot",
     "description": "",
@@ -8474,6 +9198,25 @@
       "pricing_available": false,
       "has_freemium": false,
       "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "signage-plus",
+    "name": "Signage Plus",
+    "description": "",
+    "website": "https://signageplus.net/",
+    "headquarters": "Nepal",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2023,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
     },
     "stats": {},
     "has_logo": true
@@ -8591,7 +9334,7 @@
           "yearly": 270
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -8781,6 +9524,51 @@
     "has_logo": true
   },
   {
+    "id": "signcloud",
+    "name": "SignCloud",
+    "description": "",
+    "website": "https://signcloud.tv/why-signcloud/",
+    "headquarters": "Singapore",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2016,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "signera",
+    "name": "Signera",
+    "description": "",
+    "website": "https://signera.net/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2008,
+    "notes": [],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "signio",
     "name": "Signio",
     "description": "",
@@ -8801,6 +9589,43 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "signmate",
+    "name": "SignMate",
+    "description": "",
+    "website": "https://www.signmate.co/",
+    "headquarters": "Thailand",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Standard",
+          "monthly": null,
+          "yearly": 109
+        },
+        {
+          "name": "Premium",
+          "monthly": null,
+          "yearly": 182
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -8831,6 +9656,30 @@
         }
       ],
       "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "signstix",
+    "name": "SignStix",
+    "description": "",
+    "website": "https://signstix.com/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -8934,7 +9783,7 @@
           "yearly": 272.46
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -9041,6 +9890,39 @@
     "has_logo": true
   },
   {
+    "id": "skratch",
+    "name": "Skratch",
+    "description": "",
+    "website": "https://skratchav.com/cms-content-management-systems/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2014,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 11641,
+        "source": "https://skratchav.com/cms-content-management-systems/",
+        "date": "2025-05"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "skykit",
     "name": "Skykit Beam",
     "description": "",
@@ -9067,6 +9949,54 @@
         }
       ],
       "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "skymedia",
+    "name": "SkyMedia",
+    "description": "",
+    "website": "https://www.skymedia.com.sg/",
+    "headquarters": "Singapore",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2015,
+    "notes": [
+      "One-time charge without subscription."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
+    "id": "skysignage",
+    "name": "SkySignage",
+    "description": "",
+    "website": "https://www.skysignage.com/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "iiyama",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -9282,7 +10212,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -10124,7 +11054,7 @@
           "yearly": 2406
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -10929,6 +11859,63 @@
     "has_logo": true
   },
   {
+    "id": "visual-art-signage-player",
+    "name": "Visual Art Signage Player",
+    "description": "",
+    "website": "https://visualart.com/digital-signage/digital-signage-software",
+    "headquarters": "Sweden",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2010,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {
+      "screens": {
+        "total": 73000,
+        "source": "https://visualart.com/knowledge-hub/visual-art-wins-award-for-best-digital-signage-software",
+        "date": "2024-05"
+      }
+    },
+    "has_logo": true
+  },
+  {
+    "id": "visuscreen",
+    "name": "VisuScreen",
+    "description": "",
+    "website": "https://en.wedeko.com/digital-signage-software",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2021,
+    "notes": [
+      "Video tutorial is available on the website."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "vivi",
     "name": "Vivi",
     "description": "",
@@ -11168,6 +12155,30 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "wand",
+    "name": "WAND",
+    "description": "",
+    "website": "https://shop.wanddigital.com/wand-content-management-software-license-1-per-store/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2010,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "Web Browser",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {

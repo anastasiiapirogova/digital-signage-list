@@ -1,0 +1,29 @@
+{
+  "id": "nixplay",
+  "name": "Nixplay",
+  "description": "",
+  "website": "https://www.nixplaysignage.com/pages/display-signage-cms-software",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2016,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Built-in, Complete Signage Software",
+        "monthly": 19.99,
+        "yearly": null
+      }
+    ],
+    "tier": "midRange"
+  },
+  "stats": {},
+  "has_logo": true
+}

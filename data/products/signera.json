@@ -1,0 +1,22 @@
+{
+  "id": "signera",
+  "name": "Signera",
+  "description": "",
+  "website": "https://signera.net/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2008,
+  "notes": [],
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

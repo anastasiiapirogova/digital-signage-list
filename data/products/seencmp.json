@@ -1,0 +1,21 @@
+{
+  "id": "seencmp",
+  "name": "SeenCMP",
+  "description": "",
+  "website": "https://www.seentechnology.com.au/seencmp-introduction",
+  "headquarters": "Australia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2014,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

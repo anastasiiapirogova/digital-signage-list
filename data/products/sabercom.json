@@ -1,0 +1,20 @@
+{
+  "id": "sabercom",
+  "name": "Sabercom",
+  "description": "",
+  "website": "https://www.sabercom.co.uk/products/digital-signage/",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2009,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

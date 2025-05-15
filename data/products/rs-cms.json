@@ -1,0 +1,27 @@
+{
+  "id": "rs-cms",
+  "name": "RS-CMS",
+  "description": "",
+  "website": "https://www.rapidsignage.com/cms",
+  "headquarters": "Taiwan",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Web Browser",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

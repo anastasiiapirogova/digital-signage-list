@@ -1,0 +1,23 @@
+{
+  "id": "cirrus-screenhub",
+  "name": "Cirrus ScreenHub",
+  "description": "",
+  "website": "https://www.cirrusled.com/screenhub",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2013,
+  "notes": [],
+  "supported_platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

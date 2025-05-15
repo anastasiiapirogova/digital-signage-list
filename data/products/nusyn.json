@@ -1,0 +1,23 @@
+{
+  "id": "nusyn",
+  "name": "Nusyn",
+  "description": "",
+  "website": "https://www.nusyndigital.com/",
+  "headquarters": "India",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [
+    "ChromeOS",
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

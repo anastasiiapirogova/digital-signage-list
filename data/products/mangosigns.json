@@ -1,0 +1,44 @@
+{
+  "id": "mangosigns",
+  "name": "MangoSigns",
+  "description": "",
+  "website": "https://mangosigns.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2012,
+  "notes": [
+    "20% discounts for non-profit organizations, educational institutions or places of worship."
+  ],
+  "supported_platforms": [
+    "Android",
+    "ChromeOS",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Basic",
+        "monthly": 9.95,
+        "yearly": 107.4
+      },
+      {
+        "name": "Premium",
+        "monthly": 14.95,
+        "yearly": 161.4
+      },
+      {
+        "name": "Enterprise",
+        "monthly": 24.95,
+        "yearly": 269.4
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}
