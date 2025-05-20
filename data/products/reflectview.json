@@ -8,7 +8,11 @@
   "self_signup": false,
   "year_founded": 2001,
   "notes": [],
-  "supported_platforms": [],
+  "supported_platforms": [
+	"Android",
+	"BrightSign",
+	"Windows"
+  ],
   "pricing": {
     "free_trial": false,
     "pricing_available": false,
