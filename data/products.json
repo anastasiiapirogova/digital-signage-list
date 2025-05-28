@@ -1843,6 +1843,7 @@
     "supported_platforms": [
       "Android",
       "Fire OS",
+      "Raspberry Pi",
       "Web Browser"
     ],
     "pricing": {
@@ -7839,7 +7840,7 @@
     "name": "PlayShield",
     "description": "",
     "website": "https://playshield.tv/",
-    "headquarters": "Israel",
+    "headquarters": "USA",
     "open_source": false,
     "self_signup": true,
     "year_founded": 2020,
@@ -8304,7 +8305,12 @@
     "self_signup": false,
     "year_founded": 2001,
     "notes": [],
-    "supported_platforms": [],
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Windows"
+    ],
     "pricing": {
       "free_trial": false,
       "pricing_available": false,

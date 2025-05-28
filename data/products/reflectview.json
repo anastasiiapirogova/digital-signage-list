@@ -9,9 +9,10 @@
   "year_founded": 2001,
   "notes": [],
   "supported_platforms": [
-	"Android",
-	"BrightSign",
-	"Windows"
+    "Android",
+    "BrightSign",
+    "Fire OS",
+    "Windows"
   ],
   "pricing": {
     "free_trial": false,
