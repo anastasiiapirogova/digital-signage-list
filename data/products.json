@@ -9075,6 +9075,36 @@
     "has_logo": true
   },
   {
+    "id": "screenlite",
+    "name": "Screenlite",
+    "description": "",
+    "website": "https://github.com/screenlite/screenlite",
+    "headquarters": "Unknown",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": true,
+    "self_signup": false,
+    "discontinued": false,
+    "is_sponsor": true,
+    "supported_platforms": [
+      "Web Browser"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 0,
+        "source": "https://github.com/screenlite/screenlite",
+        "date": "2025-05"
+      }
+    },
+    "has_logo": true
+  },
+  {
     "id": "screenly",
     "name": "Screenly",
     "description": "",

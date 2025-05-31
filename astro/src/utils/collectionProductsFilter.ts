@@ -27,6 +27,16 @@ export const collectionProductsFilter = (products: Product[], filters: Filter[])
                 return product.pricing.has_freemium === (filter.is === "true" || filter.is === true) || product.open_source === (filter.is === "true" || filter.is === true);
             });
         }
+
+		if(filter.field === "open_source") {
+            return filteredProducts.filter((product) => {
+                if(filter.is === undefined) {
+                    return false
+                }
+
+                return product.open_source === (filter.is === "true" || filter.is === true);
+            });
+        }
         return filteredProducts;
     }, products);
 };
