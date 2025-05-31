@@ -2,15 +2,6 @@ import { readFile } from 'fs/promises';
 import { readdir, writeFile } from 'fs/promises';
 import path from 'path';
 
-async function loadProductData(filePath) {
-  try {
-    const data = await readFile(filePath, 'utf-8');
-    return JSON.parse(data);
-  } catch (err) {
-    throw new Error('Error reading or parsing the file: ' + err);
-  }
-}
-
 function getProductPricing(products) {
   return products.map(product => {
     if (!product.pricing || !product.pricing.plans || product.pricing.plans.length === 0) {
