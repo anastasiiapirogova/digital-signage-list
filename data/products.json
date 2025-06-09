@@ -3294,6 +3294,30 @@
     "has_logo": true
   },
   {
+    "id": "easydisplay",
+    "name": "EasyDisplay",
+    "description": "",
+    "website": "https://sites.google.com/view/shiningtech/easydisplay/about",
+    "headquarters": "Unknown",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2025,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "easyscreen",
     "name": "Easyscreen",
     "description": "",
