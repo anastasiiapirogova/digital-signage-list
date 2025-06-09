@@ -1,13 +1,15 @@
 {
-  "id": "socialscreen",
-  "name": "SocialScreen",
+  "id": "fyresign",
+  "name": "Fyresign",
   "description": "",
-  "website": "https://socialscreen.com/",
+  "website": "https://fyresign.com/en",
   "headquarters": "Norway",
   "open_source": false,
   "self_signup": true,
   "year_founded": 2013,
-  "notes": [],
+  "notes": [
+    "Formerly known as SocialScreen"
+  ],
   "supported_platforms": [
     "Android",
     "ChromeOS",
