@@ -2,8 +2,8 @@
   "id": "jiosignage",
   "name": "JioSignage",
   "description": "",
-  "website": "https://jiothings.com/jiosignage.html",
-  "headquarters": "India",
+  "website": "https://www.jiosignage.com/",
+  "headquarters": "USA",
   "year_founded": 2020,
   "notes": [],
   "open_source": false,
@@ -12,9 +12,16 @@
   "supported_platforms": [],
   "pricing": {
     "free_trial": false,
-    "pricing_available": false,
+    "pricing_available": true,
     "has_freemium": false,
-    "plans": []
+    "plans": [
+      {
+        "name": "Advanced Users",
+        "monthly": 25,
+        "yearly": null
+      }
+    ],
+    "tier": "premium"
   },
   "stats": {},
   "has_logo": true
