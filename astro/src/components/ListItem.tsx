@@ -97,7 +97,7 @@ const Logo = ({ product }: { product: Product }) => {
 
     return (
         <img
-            src={`/assets/logos/${product.id}.png`}
+            src={`/assets/logos/${product.id}.webp`}
             alt={product.name}
             loading="lazy"
             className="aspect-square h-16 md:h-24 object-cover rounded shrink-0"

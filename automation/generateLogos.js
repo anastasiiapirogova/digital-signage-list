@@ -2,8 +2,6 @@ import sharp from 'sharp';
 import { existsSync, mkdirSync, readdirSync } from 'fs';
 import { join, parse, extname, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import imagemin from 'imagemin';
-import imageminPngquant from 'imagemin-pngquant';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -19,11 +17,11 @@ const SUPPORTED_EXTENSIONS = ['.png', '.svg', '.avif', '.webp', '.jpg', '.jpeg']
 
 async function processImage(file, folder) {
     const inputPath = join(inputDir, folder, file);
-    const outputFileName = parse(file).name + '.png';
-    const outputPath = join(outputDir, outputFileName);
+    const baseName = parse(file).name;
+    const webpOutputPath = join(outputDir, baseName + '.webp');
 
-    if (existsSync(outputPath)) {
-        return
+    if (existsSync(webpOutputPath)) {
+        return;
     }
 
     try {
@@ -47,8 +45,6 @@ async function processImage(file, folder) {
         const left = Math.floor((size - resizedMeta.width) / 2);
         const top = Math.floor((size - resizedMeta.height) / 2);
 
-        const tempOutputPath = join(outputDir, outputFileName);
-
         await sharp({
             create: {
                 width: size,
@@ -58,19 +54,10 @@ async function processImage(file, folder) {
             }
         })
             .composite([{ input: logoBuffer, left, top }])
-            .png()
-            .toFile(tempOutputPath);
+            .webp({ quality: 80 })
+            .toFile(webpOutputPath);
 
-        await imagemin([tempOutputPath], {
-            destination: outputDir,
-            plugins: [
-                imageminPngquant({
-                    quality: [0.6, 0.8]
-                })
-            ]
-        });
-
-        console.log(`✅ Converted and optimized: ${folder}/${file}`);
+        console.log(`✅ Processed (WebP): ${folder}/${file}`);
     } catch (err) {
         console.error(`❌ Failed: ${folder}/${file}`, err.message);
     }
@@ -106,7 +93,7 @@ async function run() {
         }
     }
 
-    console.log('Logos processed successfully!');
+    console.log('WebP logos generated successfully!');
 }
 
 run();

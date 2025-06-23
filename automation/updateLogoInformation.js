@@ -24,7 +24,7 @@ fs.readdir(productsDir, (err, files) => {
             let modified = false;
 
             const checkAndSetHasLogo = (product) => {
-                const logoFilePath = join(logosDir, `${file.replace('.json', '.png')}`);
+                const logoFilePath = join(logosDir, `${file.replace('.json', '.webp')}`);
                 product.has_logo = fs.existsSync(logoFilePath);
                 modified = true;
             };
