@@ -1,0 +1,19 @@
+{
+  "id": "signboox",
+  "name": "SignBoox",
+  "description": "",
+  "website": "https://signboox.com/ar/",
+  "headquarters": "Argentina",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false
+  },
+  "stats": {},
+  "has_logo": true
+}

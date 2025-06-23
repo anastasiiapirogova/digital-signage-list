@@ -1,0 +1,22 @@
+{
+  "id": "menara-ds",
+  "name": "Menara DS",
+  "description": "",
+  "website": "https://www.venetasystem.ma/menara_ds.html",
+  "headquarters": "Morocco",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2019,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

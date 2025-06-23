@@ -1,0 +1,23 @@
+{
+  "id": "oneview",
+  "name": "OneView",
+  "description": "",
+  "website": "https://oneview.rs/en/",
+  "headquarters": "Serbia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2009,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

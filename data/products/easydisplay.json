@@ -2,20 +2,21 @@
   "id": "easydisplay",
   "name": "EasyDisplay",
   "description": "",
-  "website": "https://sites.google.com/view/shiningtech/easydisplay/about",
-  "headquarters": "Unknown",
-  "open_source": false,
+  "website": "https://shiningtech.info/",
+  "headquarters": "China",
+  "open_source": true,
   "self_signup": true,
   "year_founded": 2025,
   "notes": [],
   "supported_platforms": [
     "Android",
     "Fire OS",
+    "Linux",
     "Windows"
   ],
   "pricing": {
     "free_trial": true,
-    "pricing_available": true,
+    "pricing_available": false,
     "has_freemium": true,
     "plans": []
   },

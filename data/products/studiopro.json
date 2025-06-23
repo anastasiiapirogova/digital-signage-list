@@ -1,0 +1,30 @@
+{
+  "id": "studiopro",
+  "name": "StudioPro",
+  "description": "",
+  "website": "https://www.videoteldigital.com/pages/studioweb-and-studiopro-cloud-based-software-subscription-based",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2022,
+  "notes": [],
+  "supported_platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Per screen",
+        "monthly": 10,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

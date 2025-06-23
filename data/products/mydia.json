@@ -1,0 +1,20 @@
+{
+  "id": "mydia",
+  "name": "Mydia",
+  "description": "",
+  "website": "https://mydia.ai/digital-signage/",
+  "headquarters": "UAE",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2020,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

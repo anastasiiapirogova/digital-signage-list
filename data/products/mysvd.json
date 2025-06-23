@@ -1,0 +1,27 @@
+{
+  "id": "mysvd",
+  "name": "MySVD",
+  "description": "",
+  "website": "https://svd-studio.fr/affichage-dynamique-mysvd/",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Starting price",
+        "monthly": 67,
+        "yearly": null
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {},
+  "has_logo": true
+}

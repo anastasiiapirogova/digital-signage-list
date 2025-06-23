@@ -1,0 +1,20 @@
+{
+  "id": "one-ds",
+  "name": "ONE-DS",
+  "description": "",
+  "website": "https://www.wecast.co.kr/digitalsignage",
+  "headquarters": "South Korea",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": null,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

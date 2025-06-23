@@ -1,0 +1,25 @@
+{
+  "id": "signagecontrol",
+  "name": "SignageControl",
+  "description": "",
+  "website": "https://signagecontrol.com/en/",
+  "headquarters": "Netherlands",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2014,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Tizen",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

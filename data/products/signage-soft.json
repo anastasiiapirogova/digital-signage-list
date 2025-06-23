@@ -1,0 +1,22 @@
+{
+  "id": "signage-soft",
+  "name": "Signage Soft",
+  "description": "",
+  "website": "https://www.signagesoft.com/",
+  "headquarters": "India",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2016,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "usb-slideshow",
+  "name": "USB Slideshow",
+  "description": "",
+  "website": "https://deepakpk.com/usbslideshow",
+  "headquarters": "India",
+  "year_founded": 2024,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Subscription",
+        "monthly": 5,
+        "yearly": 25
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": null,
+      "source": "",
+      "date": ""
+    }
+  },
+  "has_logo": true
+}

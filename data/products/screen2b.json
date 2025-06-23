@@ -1,0 +1,39 @@
+{
+  "id": "screen2b",
+  "name": "screen2b",
+  "description": "",
+  "website": "https://screen2b.ru/",
+  "headquarters": "Russia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2009,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free (1 Screen)",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Stationary",
+        "monthly": 4.5,
+        "yearly": null
+      },
+      {
+        "name": "Transport",
+        "monthly": 6.4,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

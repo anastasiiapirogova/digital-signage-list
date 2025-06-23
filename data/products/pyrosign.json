@@ -1,0 +1,45 @@
+{
+  "id": "pyrosign",
+  "name": "PyroSign",
+  "description": "",
+  "website": "https://pyrosign.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2023,
+  "notes": [],
+  "supported_platforms": [
+    "Raspberry Pi",
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "1 Display Free",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Standard",
+        "monthly": 7,
+        "yearly": 84
+      },
+      {
+        "name": "Pro",
+        "monthly": 10,
+        "yearly": 120
+      },
+      {
+        "name": "Enterprise",
+        "monthly": 14,
+        "yearly": 168
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

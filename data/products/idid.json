@@ -1,0 +1,22 @@
+{
+  "id": "idid",
+  "name": "iDiD",
+  "description": "",
+  "website": "https://www.idid.fi/en/digital-signage",
+  "headquarters": "Finland",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2005,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

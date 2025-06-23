@@ -1,0 +1,22 @@
+{
+  "id": "signage-space",
+  "name": "Signage Space",
+  "description": "",
+  "website": "https://signagespace.com/",
+  "headquarters": "Sweden",
+  "open_source": false,
+  "self_signup": true,
+  "year_founded": 2021,
+  "notes": [],
+  "supported_platforms": [
+    "Web Browser"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": true,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
