@@ -5,7 +5,9 @@
   "website": "https://infinitys.it/en/content-panel/",
   "headquarters": "Italy",
   "year_founded": 2009,
-  "notes": [],
+  "notes": [
+    "The screen count is based on the number of provided customer count. The actual screen count may vary."
+  ],
   "open_source": false,
   "self_signup": false,
   "discontinued": false,
@@ -21,6 +23,12 @@
     "has_freemium": false,
     "plans": []
   },
-  "stats": {},
+  "stats": {
+    "screens": {
+      "total": 1000,
+      "source": "https://infinitys.it/en/content-panel/",
+      "date": "2025-04"
+    }
+  },
   "has_logo": true
 }
