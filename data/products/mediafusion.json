@@ -1,0 +1,24 @@
+{
+  "id": "mediafusion",
+  "name": "MediaFusion",
+  "description": "",
+  "website": "http://m-fusion.com.sg/",
+  "headquarters": "Singapore",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2001,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

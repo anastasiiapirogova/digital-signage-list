@@ -1,0 +1,25 @@
+{
+  "id": "marve-ds",
+  "name": "Marve DS",
+  "description": "",
+  "website": "https://aflak.com.sa/en/saudi/retail/digital-signage",
+  "headquarters": "Saudi Arabia",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2017,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Web Browser",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

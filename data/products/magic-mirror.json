@@ -1,0 +1,22 @@
+{
+  "id": "magic-mirror",
+  "name": "Magic Mirror",
+  "description": "",
+  "website": "https://www.magicmirror.me/Apps/Interactive-Digital-Signage",
+  "headquarters": "United Kingdom",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2007,
+  "notes": [
+    "Software only comes in a package with a hardware as well."
+  ],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

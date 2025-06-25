@@ -1273,6 +1273,27 @@
     "has_logo": true
   },
   {
+    "id": "canvaspro",
+    "name": "CanvasPro",
+    "description": "",
+    "website": "https://canvaspro.tech/",
+    "headquarters": "",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "carousel",
     "name": "Carousel",
     "description": "",
@@ -4371,6 +4392,30 @@
     "has_logo": true
   },
   {
+    "id": "gotiger",
+    "name": "GOTIGER",
+    "description": "",
+    "website": "https://thegotiger.com/en/product",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "grassfish-ixm-platform",
     "name": "Grassfish IXM Platform",
     "description": "",
@@ -6421,6 +6466,28 @@
     "has_logo": true
   },
   {
+    "id": "magic-mirror",
+    "name": "Magic Mirror",
+    "description": "",
+    "website": "https://www.magicmirror.me/Apps/Interactive-Digital-Signage",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2007,
+    "notes": [
+      "Software only comes in a package with a hardware as well."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "magicinfo",
     "name": "MagicINFO",
     "description": "",
@@ -6619,6 +6686,31 @@
     "has_logo": true
   },
   {
+    "id": "marve-ds",
+    "name": "Marve DS",
+    "description": "",
+    "website": "https://aflak.com.sa/en/saudi/retail/digital-signage",
+    "headquarters": "Saudi Arabia",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "master-signage",
     "name": "Master Signage",
     "description": "",
@@ -6668,6 +6760,30 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "mediafusion",
+    "name": "MediaFusion",
+    "description": "",
+    "website": "http://m-fusion.com.sg/",
+    "headquarters": "Singapore",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2001,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -7018,6 +7134,31 @@
         }
       ],
       "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "myvideospot",
+    "name": "MyVideoSpot",
+    "description": "",
+    "website": "https://www.myvideospot.com/platform/digital-signage/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "iOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -8468,6 +8609,50 @@
         "date": ""
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "publicview",
+    "name": "PublicView",
+    "description": "",
+    "website": "https://www.narrowcaster.eu/?lang=en",
+    "headquarters": "Netherlands",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2013,
+    "notes": [
+      "One time start-up fee of $109.9 is not included in the subcription price."
+    ],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Lite",
+          "monthly": null,
+          "yearly": 347
+        },
+        {
+          "name": "Basic",
+          "monthly": null,
+          "yearly": 486
+        },
+        {
+          "name": "Advanced",
+          "monthly": null,
+          "yearly": 624
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -12051,6 +12236,57 @@
     "has_logo": true
   },
   {
+    "id": "uniguest-onelan",
+    "name": "Uniguest Onelan",
+    "description": "",
+    "website": "https://uniguest.com/onelan/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2018,
+    "notes": [],
+    "supported_platforms": [
+      "BrightSign",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "uniguest-otrum",
+    "name": "Uniguest Otrum",
+    "description": "",
+    "website": "https://otrumsignage.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2007,
+    "notes": [
+      "Norwegian hospitality platform acquired by Uniguest in 2022."
+    ],
+    "supported_platforms": [
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "uniguest-tripleplay",
     "name": "Uniguest Tripleplay",
     "description": "",
@@ -13135,6 +13371,29 @@
       "free_trial": false,
       "pricing_available": false,
       "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "wesual",
+    "name": "WESUAL",
+    "description": "",
+    "website": "https://www.wesual.at/en/software/",
+    "headquarters": "Austria",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2011,
+    "notes": [],
+    "supported_platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true

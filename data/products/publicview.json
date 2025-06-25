@@ -1,0 +1,44 @@
+{
+  "id": "publicview",
+  "name": "PublicView",
+  "description": "",
+  "website": "https://www.narrowcaster.eu/?lang=en",
+  "headquarters": "Netherlands",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2013,
+  "notes": [
+    "One time start-up fee of $109.9 is not included in the subcription price."
+  ],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows",
+    "webOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Lite",
+        "monthly": null,
+        "yearly": 347
+      },
+      {
+        "name": "Basic",
+        "monthly": null,
+        "yearly": 486
+      },
+      {
+        "name": "Advanced",
+        "monthly": null,
+        "yearly": 624
+      }
+    ],
+    "tier": "premium"
+  },
+  "stats": {},
+  "has_logo": true
+}

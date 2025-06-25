@@ -1,0 +1,23 @@
+{
+  "id": "wesual",
+  "name": "WESUAL",
+  "description": "",
+  "website": "https://www.wesual.at/en/software/",
+  "headquarters": "Austria",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2011,
+  "notes": [],
+  "supported_platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
