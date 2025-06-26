@@ -28,6 +28,16 @@ export const collectionProductsFilter = (products: Product[], filters: Filter[])
             });
         }
 
+		if(filter.field === "pricing.free_trial") {
+            return filteredProducts.filter((product) => {
+                if(filter.is === undefined) {
+                    return false
+                }
+                
+                return product.pricing.free_trial === (filter.is === "true" || filter.is === true) || product.open_source === (filter.is === "true" || filter.is === true);
+            });
+        }
+
 		if(filter.field === "open_source") {
             return filteredProducts.filter((product) => {
                 if(filter.is === undefined) {
