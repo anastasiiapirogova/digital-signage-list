@@ -1,0 +1,29 @@
+{
+  "id": "eye-intelligence",
+  "name": "Eye-Intelligence",
+  "description": "",
+  "website": "https://eye-in.com/digital-signage",
+  "headquarters": [
+    "Canada",
+    "USA"
+  ],
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2003,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Tizen",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
