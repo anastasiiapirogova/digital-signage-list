@@ -1,23 +1,19 @@
 {
-  "id": "fyresign",
-  "name": "Fyresign",
+  "id": "visionboxone",
+  "name": "VisionboxOne",
   "description": "",
-  "website": "https://fyresign.com/en",
-  "headquarters": "Norway",
+  "website": "https://visionbox.it/en/visionbox-one/",
+  "headquarters": "Italy",
+  "year_founded": 2024,
+  "notes": [],
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2013,
-  "notes": [
-    "Formerly known as SocialScreen"
-  ],
+  "discontinued": false,
   "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Raspberry Pi",
+    "Tizen",
     "Web Browser",
     "Windows",
-    "iOS"
+    "webOS"
   ],
   "pricing": {
     "free_trial": true,
@@ -25,14 +21,14 @@
     "has_freemium": true,
     "plans": [
       {
-        "name": "FREE (1 device)",
+        "name": "Free",
         "monthly": 0,
         "yearly": 0
       },
       {
-        "name": "STANDARD",
-        "monthly": 13.9,
-        "yearly": null
+        "name": "Plus",
+        "monthly": 14.07,
+        "yearly": 112.53
       }
     ],
     "tier": "affordable"

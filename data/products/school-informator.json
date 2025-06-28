@@ -1,0 +1,27 @@
+{
+  "id": "school-informator",
+  "name": "Школьный информатор",
+  "description": "",
+  "website": "https://f2c.ru/services/school-informator/",
+  "headquarters": "Russia",
+  "year_founded": 2022,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

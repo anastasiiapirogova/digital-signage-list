@@ -1261,7 +1261,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -1324,7 +1324,7 @@
           "yearly": 300
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -1819,7 +1819,7 @@
           "yearly": 324
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4245,7 +4245,7 @@
           "yearly": 420
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4329,7 +4329,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -4610,7 +4610,7 @@
           "yearly": 302.99
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": false
@@ -4640,7 +4640,7 @@
           "yearly": 160
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -5437,7 +5437,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -5475,7 +5475,7 @@
           "yearly": 173.66
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -5630,7 +5630,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -6243,7 +6243,7 @@
           "yearly": 162
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -6611,7 +6611,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -7279,7 +7279,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -7416,6 +7416,27 @@
     "pricing": {
       "free_trial": false,
       "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "netplay",
+    "name": "NetPlay",
+    "description": "",
+    "website": "https://video-storm.com/products.php?cat=15",
+    "headquarters": "USA",
+    "year_founded": 2003,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
       "has_freemium": false,
       "plans": []
     },
@@ -7727,6 +7748,27 @@
         "date": "2023-10"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "numia",
+    "name": "Numia",
+    "description": "",
+    "website": "https://numia.co/en/soluciones-en/digital-signage",
+    "headquarters": "Argentina",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -8189,7 +8231,7 @@
           "yearly": 162
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -8419,7 +8461,7 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8516,6 +8558,27 @@
         "date": "2025-04"
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "plustv",
+    "name": "PlusTV",
+    "description": "",
+    "website": "http://www.plustvinc.com/digitalsignage.html",
+    "headquarters": "India",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -8772,6 +8835,30 @@
     "has_logo": true
   },
   {
+    "id": "qmatic-display",
+    "name": "Qmatic Display",
+    "description": "",
+    "website": "https://www.qmatic.com/products/display-signage/",
+    "headquarters": "Sweden",
+    "year_founded": null,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "quickesign",
     "name": "Quickesign",
     "description": "",
@@ -8875,6 +8962,27 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "raspberry-digital-signage",
+    "name": "Raspberry Digital Signage",
+    "description": "",
+    "website": "https://www.binaryemotions.com/digital-signage-systems/raspberry-digital-signage/",
+    "headquarters": "Italy",
+    "year_founded": 2014,
+    "notes": [],
+    "open_source": true,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "raydiant",
@@ -9052,7 +9160,7 @@
           "yearly": 172.5
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {},
     "has_logo": true
@@ -9189,7 +9297,7 @@
           "yearly": 300
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -9538,6 +9646,33 @@
     "has_logo": true
   },
   {
+    "id": "school-informator",
+    "name": "Школьный информатор",
+    "description": "",
+    "website": "https://f2c.ru/services/school-informator/",
+    "headquarters": "Russia",
+    "year_founded": 2022,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "screen-canvas",
     "name": "Screen Canvas",
     "description": "",
@@ -9779,7 +9914,7 @@
           "yearly": 324
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -9914,6 +10049,35 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "sdbcomplex",
+    "name": "СДБ Комплекс",
+    "description": "",
+    "website": "http://www.sdbcomplex.ru/",
+    "headquarters": "Russia",
+    "year_founded": 2007,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 7135,
+        "source": "http://www.sdbcomplex.ru/indoortv.aspx",
+        "date": "2025-06"
+      }
+    },
+    "has_logo": false
   },
   {
     "id": "sedco",
@@ -10077,6 +10241,27 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "signage-orchestrator",
+    "name": "Signage Orchestrator",
+    "description": "",
+    "website": "https://www.binaryemotions.com/signage-orchestrator/",
+    "headquarters": "Italy",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": true,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "signage-pilot",
@@ -10416,7 +10601,7 @@
           "yearly": 168
         }
       ],
-      "tier": "midRange"
+      "tier": "affordable"
     },
     "stats": {
       "screens": {
@@ -11114,6 +11299,27 @@
     "has_logo": true
   },
   {
+    "id": "smartinfo",
+    "name": "SmartInfo",
+    "description": "",
+    "website": "https://ms34.ru/production/programma-dlya-upravleniya-informatsionnymi-ekranami/",
+    "headquarters": "Russia",
+    "year_founded": 2012,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "smartplayer",
     "name": "SmartPlayer",
     "description": "",
@@ -11783,6 +11989,27 @@
         }
       ],
       "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "surspb",
+    "name": "Сервис управления рекламой (СУР)",
+    "description": "",
+    "website": "https://surspb.ru/",
+    "headquarters": "Russia",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
     },
     "stats": {},
     "has_logo": true
@@ -12906,6 +13133,72 @@
     "has_logo": true
   },
   {
+    "id": "visionboxone",
+    "name": "VisionboxOne",
+    "description": "",
+    "website": "https://visionbox.it/en/visionbox-one/",
+    "headquarters": "Italy",
+    "year_founded": 2024,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Plus",
+          "monthly": 14.07,
+          "yearly": 112.53
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "visionboxpro",
+    "name": "VisionboxPro",
+    "description": "",
+    "website": "https://visionbox.it/en/visionbox-pro/",
+    "headquarters": "Italy",
+    "year_founded": 2006,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Business",
+          "monthly": 46.89,
+          "yearly": null
+        }
+      ],
+      "tier": "premium"
+    },
+    "stats": {},
+    "has_logo": false
+  },
+  {
     "id": "visionect",
     "name": "Visionect",
     "description": "",
@@ -13229,9 +13522,42 @@
           "yearly": null
         }
       ],
-      "tier": "premium"
+      "tier": "midRange"
     },
     "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "wallin-one",
+    "name": "Wallin ONE",
+    "description": "",
+    "website": "https://wallinone.tv/en/",
+    "headquarters": "Italy",
+    "year_founded": 2015,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Windows",
+      "webOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 2000,
+        "source": "https://wallinone.tv/en/",
+        "date": "2025-06"
+      }
+    },
     "has_logo": true
   },
   {
@@ -13354,6 +13680,27 @@
       }
     },
     "has_logo": true
+  },
+  {
+    "id": "weivit",
+    "name": "Weivit",
+    "description": "",
+    "website": "https://weivit.com/",
+    "headquarters": "Unknown",
+    "year_founded": 2020,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": true,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "wejha",

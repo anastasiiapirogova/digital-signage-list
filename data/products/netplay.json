@@ -1,10 +1,10 @@
 {
-  "id": "jiosignage",
-  "name": "JioSignage",
+  "id": "netplay",
+  "name": "NetPlay",
   "description": "",
-  "website": "https://www.jiosignage.com/",
+  "website": "https://video-storm.com/products.php?cat=15",
   "headquarters": "USA",
-  "year_founded": 2020,
+  "year_founded": 2003,
   "notes": [],
   "open_source": false,
   "self_signup": false,
@@ -14,14 +14,7 @@
     "free_trial": false,
     "pricing_available": true,
     "has_freemium": false,
-    "plans": [
-      {
-        "name": "Advanced Users",
-        "monthly": 25,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
+    "plans": []
   },
   "stats": {},
   "has_logo": true

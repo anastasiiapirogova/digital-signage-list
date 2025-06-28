@@ -1,0 +1,21 @@
+{
+  "id": "weivit",
+  "name": "Weivit",
+  "description": "",
+  "website": "https://weivit.com/",
+  "headquarters": "Unknown",
+  "year_founded": 2020,
+  "notes": [],
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": true,
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": false
+}

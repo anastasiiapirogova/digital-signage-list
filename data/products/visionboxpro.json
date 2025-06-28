@@ -1,10 +1,10 @@
 {
-  "id": "jiosignage",
-  "name": "JioSignage",
+  "id": "visionboxpro",
+  "name": "VisionboxPro",
   "description": "",
-  "website": "https://www.jiosignage.com/",
-  "headquarters": "USA",
-  "year_founded": 2020,
+  "website": "https://visionbox.it/en/visionbox-pro/",
+  "headquarters": "Italy",
+  "year_founded": 2006,
   "notes": [],
   "open_source": false,
   "self_signup": false,
@@ -16,13 +16,13 @@
     "has_freemium": false,
     "plans": [
       {
-        "name": "Advanced Users",
-        "monthly": 25,
+        "name": "Business",
+        "monthly": 46.89,
         "yearly": null
       }
     ],
-    "tier": "midRange"
+    "tier": "premium"
   },
   "stats": {},
-  "has_logo": true
+  "has_logo": false
 }
