@@ -1,0 +1,22 @@
+{
+  "id": "moogx",
+  "name": "MoogX",
+  "description": "",
+  "website": "https://moogx.ai/index.html",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2012,
+  "notes": [
+    "Digital signage for menu boards"
+  ],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

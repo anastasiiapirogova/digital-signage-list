@@ -2085,6 +2085,48 @@
     "has_logo": true
   },
   {
+    "id": "dakboard",
+    "name": "DAKboard",
+    "description": "",
+    "website": "https://dakboard.com/site",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [
+      "Fire OS",
+      "Raspberry Pi",
+      "Web Browser",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free (1 screen)",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Essential (2 screens)",
+          "monthly": 6,
+          "yearly": 60
+        },
+        {
+          "name": "Plus (3 screens)",
+          "monthly": 10,
+          "yearly": 96
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "dcmcloud",
     "name": "DC Media Cloud",
     "description": "",
@@ -4033,6 +4075,29 @@
     "has_logo": true
   },
   {
+    "id": "foyer",
+    "name": "Foyer",
+    "description": "",
+    "website": "https://foyer.tv/",
+    "headquarters": "Netherlands",
+    "open_source": true,
+    "self_signup": false,
+    "discontinued": true,
+    "year_founded": 2017,
+    "notes": [
+      "Digital Signage for WordPress."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "framen",
     "name": "FRAMEN",
     "description": "",
@@ -5927,6 +5992,27 @@
     "has_logo": true
   },
   {
+    "id": "ldsk",
+    "name": "LDSK",
+    "description": "",
+    "website": "https://ldsk.io/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2012,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "led-display-cms",
     "name": "LED display CMS",
     "description": "",
@@ -7010,6 +7096,28 @@
     "pricing": {
       "free_trial": false,
       "pricing_available": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "moogx",
+    "name": "MoogX",
+    "description": "",
+    "website": "https://moogx.ai/index.html",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2012,
+    "notes": [
+      "Digital signage for menu boards"
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
       "plans": []
     },
     "stats": {},
@@ -12052,6 +12160,28 @@
     },
     "stats": {},
     "has_logo": true
+  },
+  {
+    "id": "tcadvert",
+    "name": "TCadvert",
+    "description": "",
+    "website": "https://imssensory.com/en/systems/#zarzadzanie2",
+    "headquarters": "Poland",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2018,
+    "notes": [
+      "IMS has over 4300 digital signage screens installed according to their website; however, not all of them are using their TCadvert software."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": false
   },
   {
     "id": "tdm-signage",
