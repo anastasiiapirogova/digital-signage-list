@@ -1,0 +1,23 @@
+{
+  "id": "medisign",
+  "name": "MEDI+SIGN",
+  "description": "",
+  "website": "https://medisigndisplays.com/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "year_founded": 2014,
+  "notes": [
+    "Healthcare platform offering digital patient whiteboards & door displays."
+  ],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

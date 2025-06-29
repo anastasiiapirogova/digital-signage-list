@@ -1,0 +1,27 @@
+{
+  "id": "highview",
+  "name": "HighView",
+  "description": "",
+  "website": "https://madic-digital.fr/solution-highview3/",
+  "headquarters": "France",
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "year_founded": 2020,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {
+    "screens": {
+      "total": 45000,
+      "source": "https://www.linkedin.com/company/madicdigital/?originalSubdomain=fr",
+      "date": "2025-06"
+    }
+  },
+  "has_logo": true
+}

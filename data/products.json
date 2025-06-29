@@ -692,6 +692,28 @@
     "has_logo": true
   },
   {
+    "id": "appsuite",
+    "name": "AppSuite",
+    "description": "",
+    "website": "https://www.eyefactive.com/en/touchscreen-cms-appsuite",
+    "headquarters": "Germany",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2009,
+    "notes": [],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "arreya",
     "name": "Arreya",
     "description": "",
@@ -3537,6 +3559,31 @@
     "has_logo": true
   },
   {
+    "id": "engageiot",
+    "name": "Engage IoT",
+    "description": "",
+    "website": "https://livewiredigital.com/engage-iot-server/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2009,
+    "notes": [
+      "Software for kiosk management"
+    ],
+    "supported_platforms": [
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "engagesuite",
     "name": "EngageSuite",
     "description": "",
@@ -4848,6 +4895,33 @@
     },
     "stats": {},
     "has_logo": false
+  },
+  {
+    "id": "highview",
+    "name": "HighView",
+    "description": "",
+    "website": "https://madic-digital.fr/solution-highview3/",
+    "headquarters": "France",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2020,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {
+      "screens": {
+        "total": 45000,
+        "source": "https://www.linkedin.com/company/madicdigital/?originalSubdomain=fr",
+        "date": "2025-06"
+      }
+    },
+    "has_logo": true
   },
   {
     "id": "hipdeck",
@@ -6878,6 +6952,66 @@
     "has_logo": true
   },
   {
+    "id": "mediacast",
+    "name": "MediaCAST",
+    "description": "",
+    "website": "http://mediacastportal.com/k12/digital-signage?i=1",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2002,
+    "notes": [],
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "mediacloud",
+    "name": "mediaCLOUD",
+    "description": "",
+    "website": "https://digitalsignage.com/_html/mediacloud.html",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2015,
+    "notes": [],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "Free (3 screens)",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Plus",
+          "monthly": 3,
+          "yearly": null
+        }
+      ],
+      "tier": "affordable"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "mediafusion",
     "name": "MediaFusion",
     "description": "",
@@ -6987,6 +7121,29 @@
         "date": ""
       }
     },
+    "has_logo": true
+  },
+  {
+    "id": "medisign",
+    "name": "MEDI+SIGN",
+    "description": "",
+    "website": "https://medisigndisplays.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2014,
+    "notes": [
+      "Healthcare platform offering digital patient whiteboards & door displays."
+    ],
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
     "has_logo": true
   },
   {
@@ -12612,6 +12769,28 @@
       "Tizen",
       "webOS"
     ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
+    "id": "uniguest-mediastar",
+    "name": "Uniguest MediaStar",
+    "description": "",
+    "website": "https://uniguest.com/mediastar/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2022,
+    "notes": [
+      "MediaStar Systems acquired by Uniguest in November 2022, originally founded in the UK."
+    ],
+    "supported_platforms": [],
     "pricing": {
       "free_trial": false,
       "pricing_available": false,

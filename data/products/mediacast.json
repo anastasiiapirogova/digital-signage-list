@@ -1,0 +1,27 @@
+{
+  "id": "mediacast",
+  "name": "MediaCAST",
+  "description": "",
+  "website": "http://mediacastportal.com/k12/digital-signage?i=1",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "year_founded": 2002,
+  "notes": [],
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

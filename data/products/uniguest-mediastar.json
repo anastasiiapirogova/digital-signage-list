@@ -1,0 +1,22 @@
+{
+  "id": "uniguest-mediastar",
+  "name": "Uniguest MediaStar",
+  "description": "",
+  "website": "https://uniguest.com/mediastar/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2022,
+  "notes": [
+    "MediaStar Systems acquired by Uniguest in November 2022, originally founded in the UK."
+  ],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

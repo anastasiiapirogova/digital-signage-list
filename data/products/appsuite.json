@@ -1,0 +1,22 @@
+{
+  "id": "appsuite",
+  "name": "AppSuite",
+  "description": "",
+  "website": "https://www.eyefactive.com/en/touchscreen-cms-appsuite",
+  "headquarters": "Germany",
+  "open_source": false,
+  "self_signup": false,
+  "year_founded": 2009,
+  "notes": [],
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}

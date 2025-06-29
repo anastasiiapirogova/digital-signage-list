@@ -1,0 +1,33 @@
+{
+  "id": "mediacloud",
+  "name": "mediaCLOUD",
+  "description": "",
+  "website": "https://digitalsignage.com/_html/mediacloud.html",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "year_founded": 2015,
+  "notes": [],
+  "supported_platforms": [],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": true,
+    "has_freemium": true,
+    "plans": [
+      {
+        "name": "Free (3 screens)",
+        "monthly": 0,
+        "yearly": 0
+      },
+      {
+        "name": "Plus",
+        "monthly": 3,
+        "yearly": null
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {},
+  "has_logo": true
+}

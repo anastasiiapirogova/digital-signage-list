@@ -1,0 +1,25 @@
+{
+  "id": "engageiot",
+  "name": "Engage IoT",
+  "description": "",
+  "website": "https://livewiredigital.com/engage-iot-server/",
+  "headquarters": "USA",
+  "open_source": false,
+  "self_signup": false,
+  "discontinued": false,
+  "year_founded": 2009,
+  "notes": [
+    "Software for kiosk management"
+  ],
+  "supported_platforms": [
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true
+}
