@@ -4284,7 +4284,7 @@
     "description": "",
     "website": "https://www.fugo.ai/",
     "headquarters": "United Kingdom",
-    "year_founded": 2020,
+    "year_founded": 2019,
     "notes": [],
     "open_source": false,
     "self_signup": true,
@@ -4293,6 +4293,8 @@
       "BrightSign",
       "ChromeOS",
       "Fire OS",
+      "IAdea",
+      "Linux",
       "Raspberry Pi",
       "Web Browser",
       "Windows"
@@ -4305,17 +4307,21 @@
           "name": "Essential",
           "monthly": 24,
           "yearly": 240
+        },
+        {
+          "name": "Core",
+          "monthly": 36,
+          "yearly": 360
+        },
+        {
+          "name": "Enterprise",
+          "monthly": null,
+          "yearly": 400
         }
       ],
       "tier": "midRange"
     },
-    "stats": {
-      "screens": {
-        "total": null,
-        "source": "",
-        "date": ""
-      }
-    },
+    "stats": {},
     "has_logo": true
   },
   {
