@@ -1,5 +1,5 @@
 import { LineChart } from "./LineChart";
-import chartData from "../../../../data/charts/productsFoundedByYear.json";
+import chartData from "../../../data/charts/productsFoundedByYear.json";
 
 const data = Object.entries(chartData)
     .filter(([key]) => parseInt(key, 10) >= 1990)

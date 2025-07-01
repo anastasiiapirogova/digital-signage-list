@@ -1,21 +1,44 @@
 {
-  "name": "digital-signage-list",
-  "version": "1.0.0",
+  "name": "signagelist",
+  "type": "module",
+  "version": "0.0.1",
   "description": "A curated list of digital signage software, platforms, and tools.",
   "homepage": "https://github.com/514sid/digital-signage-list#readme",
   "bugs": {
     "url": "https://github.com/514sid/digital-signage-list/issues"
   },
   "author": "514sid",
-  "type": "module",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "process-products": "node automation/run.js",
-    "charts-data": "node automation/generateChartsData.js",
-    "new-product": "node automation/newProduct.js"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "bin": {
+    "signagelist": "cli.js"
   },
   "dependencies": {
-    "sharp": "^0.34.1"
+    "@astrojs/react": "^4.3.0",
+    "@nanostores/react": "^1.0.0",
+    "@radix-ui/react-dialog": "^1.1.11",
+    "@remixicon/react": "^4.6.0",
+    "@tailwindcss/vite": "^4.1.4",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "astro": "^5.10.0",
+    "astro-seo": "^0.8.4",
+    "clsx": "^2.1.1",
+    "radix-ui": "^1.3.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "recharts": "^2.15.3",
+    "tailwind-merge": "^3.2.0",
+    "tailwind-variants": "^1.0.0",
+    "tailwindcss": "^4.1.4"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.1",
+    "vite-plugin-static-copy": "^2.3.1"
   }
 }

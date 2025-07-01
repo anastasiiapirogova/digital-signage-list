@@ -1,0 +1,10 @@
+services:
+  signagelist:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4321:4321"
+    volumes:
+      - ./:/app
+      - /app/node_modules

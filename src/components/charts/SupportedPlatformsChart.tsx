@@ -1,6 +1,6 @@
 import { BarList } from "./BarList"
-import supportedPlatforms from "../../../../data/charts/productsBySupportedPlatforms.json"
-import products from "../../../../data/products.json"
+import supportedPlatforms from "../../../data/charts/productsBySupportedPlatforms.json"
+import products from "../../../data/products.json"
 
 const totalValue = products.length
 

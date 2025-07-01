@@ -1,6 +1,6 @@
 import { BarList } from "./BarList"
-import headquarters from "../../../../data/charts/productsByHeadquarters.json"
-import products from "../../../../data/products.json"
+import headquarters from "../../../data/charts/productsByHeadquarters.json"
+import products from "../../../data/products.json"
 
 const totalValue = products.length
 
@@ -15,4 +15,4 @@ const data = Object.entries(headquarters).map(([key, value]) => {
 
 export const HeadquartersChart = () => {
   return <BarList data={data} />
-}
+} 
