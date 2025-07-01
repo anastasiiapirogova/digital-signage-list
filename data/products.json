@@ -7709,6 +7709,33 @@
     "has_logo": true
   },
   {
+    "id": "netpresenter",
+    "name": "Netpresenter",
+    "description": "",
+    "website": "https://www.netpresenter.com",
+    "headquarters": "Netherlands",
+    "year_founded": 1995,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "netvisual",
     "name": "Netvisual",
     "description": "",
