@@ -641,6 +641,27 @@
     "has_logo": true
   },
   {
+    "id": "alto",
+    "name": "alto",
+    "description": "",
+    "website": "https://www.netsync.com/solutions/alto/alto-digital-signage/",
+    "headquarters": "USA",
+    "year_founded": 2002,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "anthias",
     "name": "Anthias",
     "description": "",
@@ -1283,7 +1304,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -1346,7 +1367,7 @@
           "yearly": 300
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -1841,7 +1862,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -4363,7 +4384,7 @@
           "yearly": 420
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -4447,7 +4468,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4728,7 +4749,7 @@
           "yearly": 302.99
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": false
@@ -4758,7 +4779,7 @@
           "yearly": 160
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5582,7 +5603,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5620,7 +5641,7 @@
           "yearly": 173.66
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5775,7 +5796,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -6409,7 +6430,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -6777,7 +6798,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -7214,6 +7235,41 @@
     "has_logo": true
   },
   {
+    "id": "mirror",
+    "name": "Mirror",
+    "description": "",
+    "website": "https://www.mirrorsignage.io/",
+    "headquarters": "Sweden",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 20,
+          "yearly": null
+        },
+        {
+          "name": "Professional",
+          "monthly": 29,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "monitorsanywhere",
     "name": "Monitors AnyWhere",
     "description": "",
@@ -7550,7 +7606,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8529,7 +8585,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8759,7 +8815,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -9458,7 +9514,7 @@
           "yearly": 172.5
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -9595,7 +9651,7 @@
           "yearly": 300
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -10212,7 +10268,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -10899,7 +10955,7 @@
           "yearly": 168
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -13864,7 +13920,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true

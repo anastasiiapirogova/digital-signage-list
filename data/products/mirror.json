@@ -1,15 +1,16 @@
 {
-  "id": "intraactive-replay",
-  "name": "IntraActive Replay",
+  "id": "mirror",
+  "name": "Mirror",
   "description": "",
-  "website": "https://intraactivereplay.net/",
-  "headquarters": "Denmark",
+  "website": "https://www.mirrorsignage.io/",
+  "headquarters": "Sweden",
+  "year_founded": 2023,
+  "notes": [],
   "open_source": false,
   "self_signup": true,
-  "year_founded": 2022,
-  "notes": [],
+  "discontinued": false,
   "supported_platforms": [
-    "Web Browser"
+    "tvOS"
   ],
   "pricing": {
     "free_trial": true,
@@ -18,7 +19,12 @@
     "plans": [
       {
         "name": "Basic",
-        "monthly": 14.85,
+        "monthly": 20,
+        "yearly": null
+      },
+      {
+        "name": "Professional",
+        "monthly": 29,
         "yearly": null
       }
     ],
