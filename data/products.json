@@ -642,7 +642,7 @@
   },
   {
     "id": "alto",
-    "name": "alto",
+    "name": "ALTO",
     "description": "",
     "website": "https://www.netsync.com/solutions/alto/alto-digital-signage/",
     "headquarters": "USA",
@@ -1459,7 +1459,7 @@
     "year_founded": 2004,
     "notes": [],
     "open_source": false,
-    "self_signup": null,
+    "self_signup": false,
     "discontinued": false,
     "supported_platforms": [
       "Android",

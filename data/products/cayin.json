@@ -7,7 +7,7 @@
   "year_founded": 2004,
   "notes": [],
   "open_source": false,
-  "self_signup": null,
+  "self_signup": false,
   "discontinued": false,
   "supported_platforms": [
     "Android",
