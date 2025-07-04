@@ -55,7 +55,7 @@ Total Products: 511
 - [Experience Manager Screens](https://business.adobe.com/products/experience-manager/screens.html)
 - [Airtame](https://airtame.com/digital-signage/)
 - [Alpha Digital](https://alphadigital.co/products/digital-signage-software)
-- [alto](https://www.netsync.com/solutions/alto/alto-digital-signage/)
+- [ALTO](https://www.netsync.com/solutions/alto/alto-digital-signage/)
 - [Anthias](https://anthias.screenly.io/)
 - [Appspace](https://www.appspace.com/)
 - [AppSuite](https://www.eyefactive.com/en/touchscreen-cms-appsuite)
