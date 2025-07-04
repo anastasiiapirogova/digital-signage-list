@@ -55,7 +55,7 @@ export const PlatformFilter = () => {
 
     return (
         <div>
-            <h2>Supported Platform</h2>
+            <h2>Supported platform</h2>
             {sortedPlatforms.map(([platform, count]) => (
                 <div key={platform}>
                     <label className="flex items-center space-x-2 cursor-pointer hover:bg-neutral-50 p-2">

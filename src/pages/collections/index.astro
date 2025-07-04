@@ -1,7 +1,6 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import Header from "../../components/Header.astro";
 import PageHeader from "../../components/PageHeader.astro";
 
 const seo = {
@@ -20,7 +19,6 @@ const list = data
 <Layout seo={seo}>
     <div class="flex max-w-screen-xl w-full mx-auto h-full relative">
         <div class="flex flex-col grow mb-20">
-            <Header />
             <PageHeader
                 title="Collections"
                 description="Explore our collections of digital signage software products."

@@ -1,7 +1,5 @@
-import { TbBookmark, TbBookmarkFilled, TbCurrencyDollar, TbExternalLink, TbMapPin, TbRosetteDiscountCheckFilled } from "react-icons/tb";
+import { TbCurrencyDollar, TbMapPin, TbRosetteDiscountCheckFilled } from "react-icons/tb";
 import type { Product } from "./types";
-import { addBookmark, bookmarksStore, removeBookmark } from "../utils/bookmarksStore";
-import { useStore } from "@nanostores/react";
 import { useCallback } from "react";
 
 const PricingTier = ({ product }: { product: Product }) => {
@@ -28,33 +26,6 @@ const PricingTier = ({ product }: { product: Product }) => {
         </div>
     );
 };
-
-const BookmarkItem = ({ product }: { product: Product }) => {
-    const $bookmarks = useStore(bookmarksStore)
-
-    const isBookmarkedItem = $bookmarks.includes(product.id);
-
-    const handleBookmarkClick = () => {
-        if (isBookmarkedItem) {
-            removeBookmark(product.id);
-        } else {
-            addBookmark(product.id);
-        }
-    };
-
-    return (
-        <div className="flex items-center gap-2">
-            <button
-                onClick={handleBookmarkClick}
-                className={`p-1 rounded-full transition-colors duration-200 cursor-pointer ${isBookmarkedItem ? 'text-orange-600' : 'text-gray-300 hover:text-orange-600'}`}
-                aria-label={isBookmarkedItem ? "Remove from bookmarks" : "Add to bookmarks"}
-            >
-                {isBookmarkedItem ? <TbBookmarkFilled size={25} /> : <TbBookmark size={25} />}
-            </button>
-        </div>
-    );
-}
-
 
 const Screens = ({ product }: { product: Product }) => {
     if (product.stats.screens && product.stats.screens.total) {
@@ -123,7 +94,12 @@ export const ListItem = ({ product }: { product: Product }) => {
     }, [product.website, product.is_sponsor])
 
     return (
-        <div className="hover:bg-neutral-100 md:rounded p-3 lg:p-5 group">
+        <a
+            href={appendUTM(product.website)}
+            className="bg-white rounded-3xl p-5 group" target="_blank"
+            rel="noopener nofollow ugc"
+            aria-label={`Visit ${product.name} website`}
+        >
             <div className="flex gap-3 md:gap-5 items-center">
                 <Logo product={product} />
                 <div className="flex flex-col w-full gap-1 md:gap-3">
@@ -139,24 +115,6 @@ export const ListItem = ({ product }: { product: Product }) => {
                                         <span className="text-sm text-blue-600 leading-1">
                                             Sponsor
                                         </span>
-                                    </div>
-                                )
-                            }
-                            <a
-                                href={appendUTM(product.website)}
-                                className="opacity-100 lg:opacity-0 group-hover:opacity-100 flex text-gray-400 hover:text-blue-600 transition-[color,opacity] p-1"
-                                target="_blank"
-                                rel="noopener nofollow ugc"
-                                aria-label={`Visit ${product.name} website`}
-                            >
-                                <TbExternalLink size={20} />
-                            </a>
-                        </div>
-                        <div>
-                            {
-                                product.year_founded && (
-                                    <div className="flex gap-1 items-center text-gray-400">
-                                        {product.year_founded}
                                     </div>
                                 )
                             }
@@ -176,12 +134,9 @@ export const ListItem = ({ product }: { product: Product }) => {
                                 <PricingTier product={product} />
                             </div>
                         </div>
-                        <div className="gap-2 items-center hidden md:flex shrink-0">
-                            <BookmarkItem product={product} />
-                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </a>
     );
 };

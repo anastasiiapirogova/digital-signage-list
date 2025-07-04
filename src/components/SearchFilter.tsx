@@ -35,13 +35,13 @@ export const SearchFilter = () => {
     };
 
     return (
-        <div className="px-5 md:px-10 mb-2">
+        <div className="">
             <input
                 type="text"
                 value={searchQuery}
                 onChange={(event) => handleSearchChange(event.target.value)}
                 placeholder="Search products..."
-                className="form-input w-full p-2 border border-gray-300 rounded focus:outline-none"
+                className="form-input text-lg w-full px-5 py-2 border border-gray-300 rounded-full focus:outline-none"
             />
         </div>
     );

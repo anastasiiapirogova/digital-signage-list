@@ -47,6 +47,16 @@ export const collectionProductsFilter = (products: Product[], filters: Filter[])
                 return product.open_source === (filter.is === "true" || filter.is === true);
             });
         }
+
+		if(filter.field === "self_signup") {
+            return filteredProducts.filter((product) => {
+                if(filter.is === undefined) {
+                    return false
+                }
+
+                return product.self_signup === (filter.is === "true" || filter.is === true);
+            });
+        }
         return filteredProducts;
     }, products);
 };

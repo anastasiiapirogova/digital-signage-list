@@ -1,10 +1,29 @@
 ---
-import ProductListLayout from '../layouts/ProductListLayout.astro';
-import {
-	List,
-} from '../components';
+import Layout from "../layouts/Layout.astro";
+import About from "../components/About.astro";
+import { BottomMenu, FilteredProductsCount, List } from "../components";
+import { SearchFilter } from "../components/SearchFilter";
+import { ResetFiltersButton } from "../components";
+
+const seo = {
+    title: "Digital signage software list",
+    description: "A curated list of digital signage software.",
+};
 ---
 
-<ProductListLayout>
-	<List client:only/>
-</ProductListLayout>
+<Layout seo={seo}>
+    <BottomMenu client:only />
+    <div class="flex flex-col max-w-screen-lg w-full mx-auto h-full relative mb-10 px-5">
+        <About />
+        <SearchFilter client:only />
+    </div>
+    <div class="bg-neutral-100 py-20 pb-40 flex flex-col grow">
+        <div class="flex flex-col gap-20 max-w-screen-lg w-full mx-auto h-full relative px-3">
+            <div class="flex justify-between items-center">
+                <FilteredProductsCount client:only />
+                <ResetFiltersButton client:only />
+            </div>
+            <List client:only />
+        </div>
+    </div>
+</Layout>

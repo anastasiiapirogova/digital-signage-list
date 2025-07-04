@@ -1,27 +1,37 @@
 ---
-import { TbBookmark, TbChartBarPopular, TbLibrary } from "react-icons/tb";
+import { TbChartBarPopular, TbLibrary, TbPlus } from "react-icons/tb";
 ---
 
-<div class="px-5 md:px-10 h-[240px] flex flex-col justify-center gap-5">
-  <div class="text-3xl">A curated list of digital signage software</div>
-  <div>
-    ⭐ Support our work - <a
-      href="https://github.com/514sid/digital-signage-list"
-      class="text-blue-600 hover:underline">star the project on GitHub!</a
-    >
+<div
+  class="px-5 md:px-10 h-[514px] flex flex-col justify-center text-center gap-5"
+>
+  <div class="flex flex-col gap-5 mb-10">
+    <h1 class="text-5xl font-bold">SignageList</h1>
+    <div class="text-xl">A curated list of digital signage software</div>
   </div>
-</div>
-<div class="px-5 md:px-10 mb-5 flex gap-5">
-  <a href="/collections" class="text-lg flex items-center font-medium hover:bg-neutral-100 md:rounded p-3 py-2 group">
-    <TbLibrary className="inline-block mr-2" size="20" />
-    Collections
-  </a>
-  <a href="/statistics" class="text-lg flex items-center font-medium hover:bg-neutral-100 md:rounded p-3 py-2 group">
-    <TbChartBarPopular className="inline-block mr-2" size="20" />
-    Statistics
-  </a>
-  <a href="/bookmarks" class="hidden md:flex text-lg items-center font-medium hover:bg-neutral-100 md:rounded p-3 py-2 group">
-    <TbBookmark className="inline-block mr-2" size="20" />
-    Bookmarks
-  </a>
+  <div class="flex flex-col md:flex-row gap-5 justify-center">
+    <a
+      href="https://github.com/514sid/digital-signage-list/blob/main/SUBMISSION_GUIDE.md"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-lg flex items-center font-medium bg-neutral-50 hover:bg-neutral-100 px-5 py-2 group rounded-full"
+    >
+      <TbPlus className="inline-block mr-2" size="20" />
+      Add product
+    </a>
+    <a
+      href="/collections"
+      class="text-lg flex items-center font-medium bg-neutral-50 hover:bg-neutral-100 px-5 py-2 group rounded-full"
+    >
+      <TbLibrary className="inline-block mr-2" size="20" />
+      Collections
+    </a>
+    <a
+      href="/statistics"
+      class="text-lg flex items-center font-medium bg-neutral-50 hover:bg-neutral-100 px-5 py-2 group rounded-full"
+    >
+      <TbChartBarPopular className="inline-block mr-2" size="20" />
+      Statistics
+    </a>
+  </div>
 </div>

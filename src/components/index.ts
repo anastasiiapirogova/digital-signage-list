@@ -1,6 +1,7 @@
 export { GlobalStats } from "./GlobalStats"
 export { HeadquartersFilter } from "./HeadquartersFilter"
 export { OpenSourceFilter } from "./OpenSourceFilter"
+export { OpenSignupFilter } from "./OpenSignupFilter"
 export { PlatformFilter } from "./PlatformFilter"
 export { FilteredProductsCount } from "./FilteredProductsCount"
 export { List } from "./List"
