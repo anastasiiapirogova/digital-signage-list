@@ -6,11 +6,9 @@ Perfect for managing, scheduling, and displaying content across screens, smart d
 
 ## Add a Product
 
-[Create an issue](https://github.com/514sid/digital-signage-list/issues) with a brief description and link to the product. We'll review and add it!
+📋 **[View our comprehensive submission guide](SUBMISSION_GUIDE.md)** for detailed instructions on how to add new products or update existing ones.
 
-## Update Product Data
-
-To make updates, [open an issue](https://github.com/514sid/digital-signage-list/issues) or submit a pull request with the updated product data in the JSON file.
+We accept submissions through GitHub Issues to maintain a transparent curation process.
 
 ## Contributions
 
