@@ -25,5 +25,8 @@
       "date": "2025-06"
     }
   },
-  "has_logo": false
+  "has_logo": false,
+  "categories": [
+    "CMS"
+  ]
 }

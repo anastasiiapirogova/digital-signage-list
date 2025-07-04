@@ -37,5 +37,8 @@
       "date": "2023-12"
     }
   },
-  "has_logo": true
+  "has_logo": true,
+  "categories": [
+    "CMS"
+  ]
 }

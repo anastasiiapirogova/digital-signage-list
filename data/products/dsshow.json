@@ -18,5 +18,8 @@
     "has_freemium": false
   },
   "stats": {},
-  "has_logo": true
+  "has_logo": true,
+  "categories": [
+    "CMS"
+  ]
 }

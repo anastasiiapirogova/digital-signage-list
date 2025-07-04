@@ -21,5 +21,8 @@
     "plans": []
   },
   "stats": {},
-  "has_logo": false
+  "has_logo": false,
+  "categories": [
+    "CMS"
+  ]
 }

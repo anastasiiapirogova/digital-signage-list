@@ -40,5 +40,8 @@
     "tier": "premium"
   },
   "stats": {},
-  "has_logo": true
+  "has_logo": true,
+  "categories": [
+    "CMS"
+  ]
 }
