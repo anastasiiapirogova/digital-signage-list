@@ -323,6 +323,7 @@ Total Products: 511
 - [OneView](https://oneview.rs/en/)
 - [OnSign TV](https://onsign.tv/)
 - [OpenSign](https://www.opensign.us/)
+- [Opensignage](https://www.opensignage.com/en/free-digital-signage-software)
 - [OptiSigns](https://www.optisigns.com/)
 - [Ozonet](https://ozonet.co.in/digital-signage-solutions)
 - [PADS4](https://pads4.com/digital-signage/)

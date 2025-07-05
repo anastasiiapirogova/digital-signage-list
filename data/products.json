@@ -9277,6 +9277,38 @@
     ]
   },
   {
+    "id": "opensignage",
+    "name": "Opensignage",
+    "description": "",
+    "website": "https://www.opensignage.com/en/free-digital-signage-software",
+    "headquarters": "Netherlands",
+    "year_founded": 2009,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "CMS Subscription",
+          "monthly": 23.5,
+          "yearly": 254
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "optisigns",
     "name": "OptiSigns",
     "description": "",
