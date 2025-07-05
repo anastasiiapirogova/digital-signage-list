@@ -1283,7 +1283,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -1346,7 +1346,7 @@
           "yearly": 300
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -1841,7 +1841,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -4363,7 +4363,7 @@
           "yearly": 420
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -4447,7 +4447,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -4728,7 +4728,7 @@
           "yearly": 302.99
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": false
@@ -4758,7 +4758,7 @@
           "yearly": 160
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5582,7 +5582,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5620,7 +5620,7 @@
           "yearly": 173.66
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -5775,7 +5775,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -6409,7 +6409,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -6777,7 +6777,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -7550,7 +7550,7 @@
           "yearly": null
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8348,6 +8348,38 @@
     "has_logo": true
   },
   {
+    "id": "opensignage",
+    "name": "Opensignage",
+    "description": "",
+    "website": "https://www.opensignage.com/en/free-digital-signage-software",
+    "headquarters": "Netherlands",
+    "year_founded": 2009,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true,
+      "plans": [
+        {
+          "name": "CMS Subscription",
+          "monthly": 23.5,
+          "yearly": 254
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true
+  },
+  {
     "id": "optisigns",
     "name": "OptiSigns",
     "description": "",
@@ -8529,7 +8561,7 @@
           "yearly": 162
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -8759,7 +8791,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {
       "screens": {
@@ -9458,7 +9490,7 @@
           "yearly": 172.5
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {},
     "has_logo": true
@@ -9595,7 +9627,7 @@
           "yearly": 300
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -10212,7 +10244,7 @@
           "yearly": 324
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
@@ -10899,7 +10931,7 @@
           "yearly": 168
         }
       ],
-      "tier": "affordable"
+      "tier": "midRange"
     },
     "stats": {
       "screens": {
@@ -13864,7 +13896,7 @@
           "yearly": null
         }
       ],
-      "tier": "midRange"
+      "tier": "premium"
     },
     "stats": {},
     "has_logo": true
