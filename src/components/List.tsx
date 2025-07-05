@@ -1,26 +1,23 @@
-import { useDeferredValue, useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { filterProducts } from '../utils/filterProducts'
 import { products } from '../utils/products'
 import { ListItem } from './ListItem'
 import { useStore } from '@nanostores/react'
 import { productFiltersStore, setProductFilters } from '../utils/productFiltersStore'
-import { productsSortOptionStore } from '../utils/productsSortOptionStore'
 import { productsStore, setProducts } from '../utils/productsStore'
 
 export const List = () => {
     const $filters = useStore(productFiltersStore)
-    const $sort = useStore(productsSortOptionStore)
     const $products = useStore(productsStore)
 
-    const deferredSort = useDeferredValue($sort)
     const [visibleCount, setVisibleCount] = useState(25)
     const loadMoreRef = useRef<HTMLButtonElement | null>(null)
 
     useEffect(() => {
-        const newFilteredProducts = filterProducts(products, $filters, deferredSort)
+        const newFilteredProducts = filterProducts(products, $filters)
         setVisibleCount(10)
         setProducts(newFilteredProducts)
-    }, [$filters, deferredSort])
+    }, [$filters])
 
     useEffect(() => {
         const filters: Record<string, string> = {}
@@ -51,14 +48,14 @@ export const List = () => {
                 observer.unobserve(loadMoreRef.current)
             }
         }
-    }, [])
+    }, [visibleCount, $products.length])
 
     const handleLoadMore = () => {
         setVisibleCount((prev) => prev + 25)
     }
 
     return (
-        <div className='flex flex-col w-full gap-2'>
+        <div className='flex flex-col w-full gap-5'>
             {$products.slice(0, visibleCount).map((product) => (
                 <ListItem product={product} key={product.id} />
             ))}

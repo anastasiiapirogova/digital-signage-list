@@ -19,6 +19,7 @@ const createTemplate = async () => {
         name: "",
         description: "",
         website: "",
+        categories: [],
         headquarters: "",
         year_founded: 0,
         notes: [],

@@ -8,6 +8,7 @@ const commands = [
     'node automation/mergeProducts.js',
     'node automation/generateReadmeProductList.js',
     'node automation/generateChartsData.js',
+    'node automation/generatePlansCsv.js',
 ];
 
 function runCommands(commands) {

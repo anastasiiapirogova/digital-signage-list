@@ -44,5 +44,8 @@
       "date": "2024-12"
     }
   },
-  "has_logo": false
+  "has_logo": false,
+  "categories": [
+    "CMS"
+  ]
 }

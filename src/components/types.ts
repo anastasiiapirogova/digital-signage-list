@@ -19,6 +19,8 @@ export type Product = {
     website: string
     headquarters: string | string[]
     open_source: boolean
+    self_signup: boolean
+    categories: string[]
     pricing: Pricing
     discontinued?: boolean
     year_founded: number | null

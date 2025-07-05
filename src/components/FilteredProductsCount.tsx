@@ -6,7 +6,7 @@ export const FilteredProductsCount = () => {
   const $products = useStore(productsStore)
   
   return (
-    <div>
+    <div className="text-3xl font-bold">
       { `${$products.length} of ${products.length} products` }
     </div>
   )

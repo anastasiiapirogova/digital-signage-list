@@ -20,7 +20,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "1play",
@@ -50,7 +53,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "22miles",
@@ -83,7 +89,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "42-digital-signage",
@@ -116,7 +125,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "4dcast",
@@ -137,7 +149,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ablesign",
@@ -161,7 +176,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "abuzz",
@@ -186,7 +204,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "acquire2go",
@@ -214,7 +235,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "acrelec",
@@ -241,7 +265,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "acumen-cms",
@@ -279,7 +306,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ad-sign",
@@ -302,7 +332,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "addreality",
@@ -336,7 +369,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "adfloow",
@@ -371,7 +407,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "admaster",
@@ -394,7 +433,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "admefy",
@@ -421,7 +463,10 @@
       ]
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "admira",
@@ -462,7 +507,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "admooh",
@@ -502,7 +550,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "adooh",
@@ -521,7 +572,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "adscreen",
@@ -540,7 +594,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "adv-signage",
@@ -561,7 +618,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "aem-screens",
@@ -586,7 +646,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "airtame",
@@ -614,7 +677,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "alpha-digital",
@@ -638,7 +704,34 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
+  },
+  {
+    "id": "alto",
+    "name": "ALTO",
+    "description": "",
+    "website": "https://www.netsync.com/solutions/alto/alto-digital-signage/",
+    "headquarters": "USA",
+    "year_founded": 2002,
+    "notes": [],
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "supported_platforms": [],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false,
+      "plans": []
+    },
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "anthias",
@@ -659,7 +752,10 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "appspace",
@@ -689,7 +785,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "appsuite",
@@ -711,7 +810,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "arreya",
@@ -740,7 +842,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "atmospheretv",
@@ -771,7 +876,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "audience-cms",
@@ -798,7 +906,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "autora-dsm",
@@ -819,7 +930,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "avesign",
@@ -843,7 +957,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "aware",
@@ -861,7 +978,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "axistv",
@@ -891,7 +1011,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "beeceen",
@@ -924,7 +1047,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "bharat-signage",
@@ -966,7 +1092,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "bizplay",
@@ -996,7 +1125,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "blynk",
@@ -1021,7 +1153,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "brandtv",
@@ -1049,7 +1184,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "brandvisionhd",
@@ -1072,7 +1210,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "bravia-signage-free",
@@ -1101,7 +1242,10 @@
       ]
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "breeze",
@@ -1134,7 +1278,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "bricks",
@@ -1175,7 +1322,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "brightsign",
@@ -1208,7 +1358,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "broadsign",
@@ -1235,7 +1388,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "budsense",
@@ -1254,7 +1410,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "buetema",
@@ -1292,7 +1451,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "canvaspro",
@@ -1313,7 +1475,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "carousel",
@@ -1349,7 +1514,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "castit",
@@ -1391,7 +1559,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "castmill",
@@ -1427,7 +1598,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cayin",
@@ -1438,7 +1612,7 @@
     "year_founded": 2004,
     "notes": [],
     "open_source": false,
-    "self_signup": null,
+    "self_signup": false,
     "discontinued": false,
     "supported_platforms": [
       "Android",
@@ -1454,7 +1628,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cenareo",
@@ -1485,7 +1662,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "centoview",
@@ -1512,7 +1692,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "chrome-sign-builder",
@@ -1535,7 +1718,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cirrus-screenhub",
@@ -1558,7 +1744,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "clarity",
@@ -1578,7 +1767,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "clearconnect",
@@ -1599,7 +1791,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cleverlive",
@@ -1629,7 +1824,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cleverq-picturemachine",
@@ -1650,7 +1848,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "clicandpublish",
@@ -1674,7 +1875,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cloudexa",
@@ -1701,7 +1905,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cloudshow",
@@ -1740,7 +1947,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cloudyfy-tv",
@@ -1772,7 +1982,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cms-signage",
@@ -1808,7 +2021,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "comeen",
@@ -1844,7 +2060,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "concerto",
@@ -1867,7 +2086,10 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "connectedsign",
@@ -1893,7 +2115,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "control-play",
@@ -1914,7 +2139,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "coolerx",
@@ -1939,7 +2167,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "corevo",
@@ -1973,7 +2204,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cortex",
@@ -1994,7 +2228,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "crowntv",
@@ -2019,7 +2256,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cs-play",
@@ -2050,7 +2290,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "cubic-media",
@@ -2083,7 +2326,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "d-i-s-play",
@@ -2104,7 +2350,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dakboard",
@@ -2146,7 +2395,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dcmcloud",
@@ -2174,7 +2426,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "deepiscreen",
@@ -2202,7 +2457,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "denevads",
@@ -2233,7 +2491,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "digichief-mercury",
@@ -2263,7 +2524,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "digimago",
@@ -2281,7 +2545,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "digisign-play",
@@ -2316,7 +2583,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "digisigns",
@@ -2346,7 +2616,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "digitalsignage-net",
@@ -2377,7 +2650,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "directable",
@@ -2409,7 +2685,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dise",
@@ -2438,7 +2717,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "disign",
@@ -2475,7 +2757,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "displ",
@@ -2520,7 +2805,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "display-now",
@@ -2557,7 +2845,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "display-star",
@@ -2578,7 +2869,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "display-stream",
@@ -2618,7 +2912,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "displayhub",
@@ -2649,7 +2946,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "displaymonkey",
@@ -2672,7 +2972,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "displio",
@@ -2713,7 +3016,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "disploy",
@@ -2748,7 +3054,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ditto",
@@ -2793,7 +3102,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "donatello-suite",
@@ -2814,7 +3126,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "doohclick",
@@ -2835,7 +3150,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "doohlabs-in-store-impact",
@@ -2862,7 +3180,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "doohly",
@@ -2887,7 +3208,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "doohmain",
@@ -2914,7 +3238,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "door-tablet-signs",
@@ -2935,7 +3262,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dopublicity",
@@ -2959,7 +3289,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dotsignage",
@@ -2989,7 +3322,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "download-player",
@@ -3023,7 +3359,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dripboards",
@@ -3056,7 +3395,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ds-suit",
@@ -3086,7 +3428,10 @@
         "date": "2009-01"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ds-templates",
@@ -3107,7 +3452,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dsgo-pro",
@@ -3131,7 +3479,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dsgo",
@@ -3162,7 +3513,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dsshow",
@@ -3184,7 +3538,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "dst-connect",
@@ -3220,7 +3577,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "easescreen",
@@ -3248,7 +3608,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "easy-multi-display",
@@ -3271,7 +3634,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "easy-signage",
@@ -3312,7 +3678,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "easycms",
@@ -3349,7 +3718,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "easydisplay",
@@ -3374,7 +3746,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "easyscreen",
@@ -3409,7 +3784,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "eggs-tv",
@@ -3430,7 +3808,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "emagentv",
@@ -3460,7 +3841,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "embed-signage",
@@ -3497,7 +3881,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "emity",
@@ -3534,7 +3921,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "engage",
@@ -3556,7 +3946,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "engageiot",
@@ -3581,7 +3974,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "engagesuite",
@@ -3608,7 +4004,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "enplug",
@@ -3640,7 +4039,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "eumedia-dss",
@@ -3666,7 +4068,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "evergreen",
@@ -3687,7 +4092,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "exclaim",
@@ -3717,7 +4125,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "eye-intelligence",
@@ -3746,7 +4157,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "eyecon",
@@ -3767,7 +4181,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ez-ad-tv",
@@ -3806,7 +4223,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "eze-suite",
@@ -3833,7 +4253,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ezposter",
@@ -3858,7 +4281,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "eztv",
@@ -3893,7 +4319,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "feedsome",
@@ -3919,7 +4348,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "fijee",
@@ -3951,7 +4383,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "fingermark-supernova",
@@ -3972,7 +4407,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "firmchannel",
@@ -4010,7 +4448,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "firstouch",
@@ -4042,7 +4483,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "five-faces",
@@ -4063,7 +4507,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "flagship-cms",
@@ -4084,7 +4531,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "flexitive",
@@ -4119,7 +4569,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "foyer",
@@ -4142,7 +4595,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "framen",
@@ -4184,7 +4640,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "framr",
@@ -4215,7 +4674,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "friendlyway",
@@ -4245,7 +4707,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "frontface",
@@ -4276,7 +4741,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "fugo",
@@ -4322,7 +4790,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "funeralscreen",
@@ -4366,7 +4837,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "fusion-signage",
@@ -4408,7 +4882,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "fyresign",
@@ -4450,7 +4927,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "garlic-player",
@@ -4479,7 +4959,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "glootv",
@@ -4511,7 +4994,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "gobright",
@@ -4536,7 +5022,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "gotiger",
@@ -4560,7 +5049,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "grassfish-ixm-platform",
@@ -4588,7 +5080,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "greenscreens",
@@ -4616,7 +5111,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "greet-tv",
@@ -4654,7 +5152,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "grubbrr",
@@ -4681,7 +5182,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "haivision-coolsign",
@@ -4702,7 +5206,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "halo",
@@ -4731,7 +5238,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "harmony-digital",
@@ -4761,7 +5271,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "helloscreens",
@@ -4806,7 +5319,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hexa",
@@ -4830,7 +5346,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hexnode",
@@ -4877,7 +5396,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hfl-signage-player",
@@ -4900,7 +5422,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "highview",
@@ -4927,7 +5452,10 @@
         "date": "2025-06"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hipdeck",
@@ -4963,7 +5491,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hydro-cms",
@@ -4993,7 +5524,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hyper-net",
@@ -5017,7 +5551,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "hypersign",
@@ -5062,7 +5599,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "icompel",
@@ -5088,7 +5628,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "idesk",
@@ -5109,7 +5652,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "idid",
@@ -5131,7 +5677,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "id2son",
@@ -5155,7 +5704,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ievince",
@@ -5187,7 +5739,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "iisignage",
@@ -5218,7 +5773,10 @@
       ]
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "iisignage2",
@@ -5240,7 +5798,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "imidiatv",
@@ -5271,7 +5832,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "immerse",
@@ -5292,7 +5856,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "impressbox",
@@ -5328,7 +5895,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "infini-sign",
@@ -5349,7 +5919,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "infinite-digital-cms",
@@ -5380,7 +5953,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "infinitys-anima",
@@ -5414,7 +5990,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "info-beamer-oss",
@@ -5437,7 +6016,10 @@
       "has_freemium": true
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "info-beamer",
@@ -5473,7 +6055,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "innes",
@@ -5496,7 +6081,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "innovative-dmc",
@@ -5517,7 +6105,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "intelisa",
@@ -5535,7 +6126,10 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "interads",
@@ -5556,7 +6150,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "intraactive-replay",
@@ -5585,7 +6182,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "intuiface",
@@ -5623,7 +6223,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ipoint",
@@ -5652,7 +6255,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "is-media",
@@ -5677,7 +6283,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "iteq",
@@ -5725,7 +6334,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "itotem",
@@ -5750,7 +6362,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "jiosignage",
@@ -5778,7 +6393,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "jiothings-jiosignage",
@@ -5799,7 +6417,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "joan",
@@ -5827,7 +6448,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "juuno",
@@ -5859,7 +6483,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "kitcast",
@@ -5890,7 +6517,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "kiwi-signage",
@@ -5924,7 +6554,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "koesio-tv",
@@ -5945,7 +6578,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "koke",
@@ -5984,7 +6620,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "korbyt",
@@ -6014,7 +6653,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "l-squared-hub",
@@ -6042,7 +6684,10 @@
       ]
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "laqorr",
@@ -6069,7 +6714,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ldsk",
@@ -6090,7 +6738,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "led-display-cms",
@@ -6110,7 +6761,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ledsee",
@@ -6138,7 +6792,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "leftclick",
@@ -6156,7 +6813,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "lg-supersign",
@@ -6175,7 +6835,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "libre-signage",
@@ -6198,7 +6861,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "liqvid",
@@ -6244,7 +6910,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "lira-screen",
@@ -6274,7 +6943,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "livesignage",
@@ -6314,7 +6986,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "livespace",
@@ -6334,7 +7009,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "localscreens",
@@ -6375,7 +7053,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "look-ds",
@@ -6418,7 +7099,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "lookr",
@@ -6443,7 +7127,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "loop-tv",
@@ -6471,7 +7158,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "loopsign",
@@ -6493,7 +7183,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "lumicast",
@@ -6530,7 +7223,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "lumoplay",
@@ -6562,7 +7258,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "luna-screens",
@@ -6603,7 +7302,10 @@
         "date": "2025-03"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "m-cube",
@@ -6629,7 +7331,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "m4b-wall",
@@ -6658,7 +7363,10 @@
         "date": "2019"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "magic-mirror",
@@ -6680,7 +7388,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "magicinfo",
@@ -6701,7 +7412,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "magicsign",
@@ -6728,7 +7442,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "magit-dsnet",
@@ -6749,7 +7466,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mandoe",
@@ -6786,7 +7506,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mango-display",
@@ -6834,7 +7557,10 @@
         "date": "2024-12"
       }
     },
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mangosigns",
@@ -6878,7 +7604,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "marve-ds",
@@ -6903,7 +7632,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "master-signage",
@@ -6927,7 +7659,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "media4display",
@@ -6955,7 +7690,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mediacast",
@@ -6982,7 +7720,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mediacloud",
@@ -7015,7 +7756,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mediafusion",
@@ -7039,7 +7783,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mediamanager",
@@ -7064,7 +7811,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mediasignage",
@@ -7087,7 +7837,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mediatile",
@@ -7127,7 +7880,10 @@
         "date": ""
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "medisign",
@@ -7150,7 +7906,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "medyapin",
@@ -7189,7 +7948,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "menara-ds",
@@ -7211,7 +7973,48 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
+  },
+  {
+    "id": "mirror",
+    "name": "Mirror",
+    "description": "",
+    "website": "https://www.mirrorsignage.io/",
+    "headquarters": "Sweden",
+    "year_founded": 2023,
+    "notes": [],
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "supported_platforms": [
+      "tvOS"
+    ],
+    "pricing": {
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false,
+      "plans": [
+        {
+          "name": "Basic",
+          "monthly": 20,
+          "yearly": null
+        },
+        {
+          "name": "Professional",
+          "monthly": 29,
+          "yearly": null
+        }
+      ],
+      "tier": "midRange"
+    },
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "monitorsanywhere",
@@ -7238,7 +8041,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mood-media",
@@ -7262,7 +8068,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "moogx",
@@ -7284,7 +8093,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "musthavemenus",
@@ -7320,7 +8132,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mvix",
@@ -7366,7 +8181,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mydia",
@@ -7386,7 +8204,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mysignageportal",
@@ -7409,7 +8230,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "mysvd",
@@ -7436,7 +8260,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "myvideospot",
@@ -7461,7 +8288,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nanonation-commandpoint",
@@ -7496,7 +8326,10 @@
         "date": "2022-08"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "navigo",
@@ -7518,7 +8351,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "navori",
@@ -7559,7 +8395,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nento",
@@ -7587,7 +8426,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "neon",
@@ -7619,7 +8461,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "neoscreen",
@@ -7642,7 +8487,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "neotess",
@@ -7668,7 +8516,10 @@
         "date": "2025-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "neovo-signage",
@@ -7691,7 +8542,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "netplay",
@@ -7712,7 +8566,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "netpresenter",
@@ -7739,7 +8596,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "netvisual",
@@ -7758,7 +8618,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "newvision",
@@ -7788,7 +8651,10 @@
         "date": "2025-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nixplay",
@@ -7817,7 +8683,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nonius",
@@ -7842,7 +8711,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "notice-signage",
@@ -7864,7 +8736,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "novacloud",
@@ -7890,7 +8765,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "noventri",
@@ -7911,7 +8789,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "novisign",
@@ -7951,7 +8832,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "novods",
@@ -7970,7 +8854,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nowsignage",
@@ -8016,7 +8903,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nsigntv",
@@ -8046,7 +8936,10 @@
         "date": "2023-10"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "numia",
@@ -8067,7 +8960,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nusyn",
@@ -8090,7 +8986,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nutrislice",
@@ -8118,7 +9017,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "nuvelar-display",
@@ -8138,7 +9040,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "obscreen",
@@ -8168,7 +9073,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ommasign",
@@ -8200,7 +9108,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "omnivex",
@@ -8218,7 +9129,10 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "one-ds",
@@ -8238,7 +9152,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "oneblending",
@@ -8260,7 +9177,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "oneview",
@@ -8283,7 +9203,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "onsign-tv",
@@ -8323,7 +9246,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "opensign",
@@ -8345,7 +9271,10 @@
       "has_freemium": true
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "opensignage",
@@ -8428,7 +9357,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ozonet",
@@ -8453,7 +9385,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pads4",
@@ -8480,7 +9415,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "peaksignage",
@@ -8505,7 +9443,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "philips-cmnd",
@@ -8524,7 +9465,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pickcel",
@@ -8570,7 +9514,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pictor",
@@ -8618,7 +9565,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "picturemachine4",
@@ -8639,7 +9589,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pilottv",
@@ -8665,7 +9618,10 @@
         "date": "2025-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pisignage",
@@ -8706,7 +9662,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pixelnebula",
@@ -8726,7 +9685,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pixilab-blocks",
@@ -8746,7 +9708,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "playengo",
@@ -8767,7 +9732,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "playipp",
@@ -8800,7 +9768,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "playshield",
@@ -8842,7 +9813,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "playsignage",
@@ -8888,7 +9862,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "plustv",
@@ -8909,7 +9886,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "poppulo",
@@ -8940,7 +9920,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "posterbooking",
@@ -8983,7 +9966,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "professional-signs",
@@ -9002,7 +9988,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "prtv",
@@ -9031,7 +10020,10 @@
         "date": ""
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "publicview",
@@ -9075,7 +10067,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "pyrosign",
@@ -9120,7 +10115,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "q-play",
@@ -9162,7 +10160,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "qmatic-display",
@@ -9186,7 +10187,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "quickesign",
@@ -9233,7 +10237,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "quicksign",
@@ -9268,7 +10275,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "radix",
@@ -9291,7 +10301,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "raspberry-digital-signage",
@@ -9312,7 +10325,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "raydiant",
@@ -9335,7 +10351,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "reach",
@@ -9367,7 +10386,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "redyref-engage",
@@ -9390,7 +10412,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "reflect-adlogic",
@@ -9412,7 +10437,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "reflect-experience",
@@ -9434,7 +10462,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "reflectview",
@@ -9465,7 +10496,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "repeat-signage",
@@ -9493,7 +10527,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "retailrotor",
@@ -9528,7 +10565,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "revel-digital",
@@ -9556,7 +10596,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "rise-vision",
@@ -9598,7 +10641,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "rockbot",
@@ -9630,7 +10676,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "rs-cms",
@@ -9657,7 +10706,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "rt-screens",
@@ -9694,7 +10746,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ryarc-campaignmanager",
@@ -9721,7 +10776,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sabercom",
@@ -9741,7 +10799,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sageview",
@@ -9766,7 +10827,10 @@
         "date": "2025-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "saii",
@@ -9786,7 +10850,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "salute-screens",
@@ -9823,7 +10890,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "samsung-vxt",
@@ -9854,7 +10924,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sandisplay",
@@ -9876,7 +10949,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "scala",
@@ -9902,7 +10978,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "scalefusion",
@@ -9951,7 +11030,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sceo",
@@ -9973,7 +11055,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "school-informator",
@@ -10000,7 +11085,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screen-canvas",
@@ -10031,7 +11119,10 @@
       ]
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screen-publishing",
@@ -10056,7 +11147,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screen2b",
@@ -10095,7 +11189,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screenberry",
@@ -10114,7 +11211,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screencloud",
@@ -10155,7 +11255,10 @@
         "date": "2023-12"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screendrive",
@@ -10184,7 +11287,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screenfeed",
@@ -10220,7 +11326,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screenfluence",
@@ -10247,7 +11356,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screenlite",
@@ -10277,7 +11389,10 @@
         "date": "2025-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screenly",
@@ -10313,7 +11428,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screenmanager",
@@ -10355,7 +11473,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "screensoft",
@@ -10378,7 +11499,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sdbcomplex",
@@ -10407,7 +11531,10 @@
         "date": "2025-06"
       }
     },
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sedco",
@@ -10427,7 +11554,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sedna-cloud",
@@ -10449,7 +11579,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "seencmp",
@@ -10470,7 +11603,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sensorylab",
@@ -10490,7 +11626,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "shop-iq",
@@ -10517,7 +11656,10 @@
         "date": "2025-06"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sign-presenter",
@@ -10547,7 +11689,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-ninja",
@@ -10570,7 +11715,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-orchestrator",
@@ -10591,7 +11739,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-pilot",
@@ -10612,7 +11763,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-plus",
@@ -10631,7 +11785,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-rocket",
@@ -10663,7 +11820,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-soft",
@@ -10685,7 +11845,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-space",
@@ -10707,7 +11870,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signage-studio",
@@ -10732,7 +11898,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signagecontrol",
@@ -10757,7 +11926,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signagect",
@@ -10776,7 +11948,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signagego",
@@ -10803,7 +11978,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signagelive",
@@ -10843,7 +12021,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signagemx",
@@ -10862,7 +12043,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signageos",
@@ -10903,7 +12087,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signagetube",
@@ -10940,7 +12127,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signao",
@@ -10987,7 +12177,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signboox",
@@ -11006,7 +12199,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signcast",
@@ -11040,7 +12236,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signcloud",
@@ -11063,7 +12262,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signera",
@@ -11085,7 +12287,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signio",
@@ -11108,7 +12313,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signmate",
@@ -11145,7 +12353,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signmenu",
@@ -11177,7 +12388,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "signstix",
@@ -11201,7 +12415,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "simplesignage",
@@ -11230,7 +12447,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sippo",
@@ -11272,7 +12492,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sitekiosk",
@@ -11311,7 +12534,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sklera",
@@ -11362,7 +12588,10 @@
         "date": "2017-01"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "skoop",
@@ -11406,7 +12635,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "skratch",
@@ -11439,7 +12671,10 @@
         "date": "2025-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "skykit",
@@ -11470,7 +12705,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "skymedia",
@@ -11492,7 +12730,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "skysignage",
@@ -11518,7 +12759,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "slideshow",
@@ -11547,7 +12791,10 @@
       ]
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smart-media-control",
@@ -11572,7 +12819,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smart-prospective",
@@ -11599,7 +12849,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smartersign",
@@ -11626,7 +12879,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smartinfo",
@@ -11647,7 +12903,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smartplayer",
@@ -11681,7 +12940,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smartsign",
@@ -11711,7 +12973,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smartsign2go",
@@ -11761,7 +13026,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "smilcontrol",
@@ -11796,7 +13064,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "snapcomms",
@@ -11816,7 +13087,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "sodaclick",
@@ -11845,7 +13119,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "solix",
@@ -11865,7 +13142,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "spectrio",
@@ -11899,7 +13179,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "spectroo",
@@ -11932,7 +13215,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "spinetix-arya",
@@ -11955,7 +13241,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "spinetix-elementi",
@@ -11978,7 +13267,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "splashtiles",
@@ -12009,7 +13301,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "squizz",
@@ -12038,7 +13333,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "st-digital",
@@ -12058,7 +13356,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "stino-ichannel",
@@ -12086,7 +13387,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "strandvision",
@@ -12122,7 +13426,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "stratacache",
@@ -12148,7 +13455,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "stratosmedia",
@@ -12178,7 +13488,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "studiolite",
@@ -12197,7 +13510,10 @@
       "pricing_available": false
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "studiopro",
@@ -12227,7 +13543,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "studioweb",
@@ -12256,7 +13575,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "superbolt",
@@ -12282,7 +13604,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "surevideo",
@@ -12321,7 +13646,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "surspb",
@@ -12342,7 +13670,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "switchboard",
@@ -12361,7 +13692,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "szcope",
@@ -12381,7 +13715,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "tcadvert",
@@ -12403,7 +13740,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "tdm-signage",
@@ -12446,7 +13786,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "telefonica-tech",
@@ -12466,7 +13809,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "telemetrytv",
@@ -12503,7 +13849,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "teos",
@@ -12537,7 +13886,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "tigermeeting",
@@ -12561,7 +13913,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "tippler-tv",
@@ -12586,7 +13941,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "touchify",
@@ -12617,7 +13975,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "trilbytv",
@@ -12659,7 +14020,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "trinax",
@@ -12679,7 +14043,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "troudigital",
@@ -12709,7 +14076,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "trudigital",
@@ -12752,7 +14122,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "tvlution",
@@ -12772,7 +14145,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "tvque",
@@ -12814,7 +14190,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniguest-hub",
@@ -12841,7 +14220,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniguest-mediastar",
@@ -12863,7 +14245,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniguest-onelan",
@@ -12887,7 +14272,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniguest-otrum",
@@ -12914,7 +14302,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniguest-tripleplay",
@@ -12940,7 +14331,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniguest",
@@ -12970,7 +14364,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "uniview",
@@ -12995,7 +14392,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "upshow",
@@ -13026,7 +14426,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "urve",
@@ -13051,7 +14454,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "usb-slideshow",
@@ -13088,7 +14494,10 @@
         "date": ""
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "userful-engage",
@@ -13110,7 +14519,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "valotalive",
@@ -13149,7 +14561,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "venus-control-suite",
@@ -13172,7 +14587,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vertika",
@@ -13192,7 +14610,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vibe-fyi",
@@ -13226,7 +14647,10 @@
       ]
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vicont",
@@ -13249,7 +14673,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vidarti",
@@ -13279,7 +14706,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "videoinstore",
@@ -13310,7 +14740,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "videomood",
@@ -13338,7 +14771,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "videri",
@@ -13361,7 +14797,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "viewneo",
@@ -13393,7 +14832,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vigitsign",
@@ -13413,7 +14855,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "virtusignage",
@@ -13439,7 +14884,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visiobox",
@@ -13469,7 +14917,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visionbox",
@@ -13504,7 +14955,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visionboxone",
@@ -13542,7 +14996,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visionboxpro",
@@ -13570,7 +15027,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visionect",
@@ -13609,7 +15069,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visshow",
@@ -13634,7 +15097,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visual-art-signage-player",
@@ -13669,7 +15135,10 @@
         "date": "2024-05"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "visuscreen",
@@ -13691,7 +15160,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vivi",
@@ -13726,7 +15198,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vizansign",
@@ -13751,7 +15226,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "voome",
@@ -13773,7 +15251,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vsplayer",
@@ -13793,7 +15274,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "vuepilot",
@@ -13825,7 +15309,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "waapiti",
@@ -13860,7 +15347,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wallboard",
@@ -13899,7 +15389,10 @@
       "tier": "premium"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wallin-one",
@@ -13932,7 +15425,10 @@
         "date": "2025-06"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wallsign",
@@ -13966,7 +15462,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wand",
@@ -13990,7 +15489,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "watchout",
@@ -14012,7 +15514,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wauly",
@@ -14053,7 +15558,10 @@
         "date": "2017"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "weivit",
@@ -14074,7 +15582,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wejha",
@@ -14105,7 +15616,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wesion",
@@ -14123,7 +15637,10 @@
       "has_freemium": false
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wesual",
@@ -14146,7 +15663,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wicanvas",
@@ -14171,7 +15691,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wilyer",
@@ -14213,7 +15736,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "windowsight",
@@ -14240,7 +15766,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wioplex",
@@ -14269,7 +15798,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "worldvds",
@@ -14299,7 +15831,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "wovenmanager",
@@ -14324,7 +15859,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "x-sign",
@@ -14350,7 +15888,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xibo",
@@ -14398,7 +15939,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xignage",
@@ -14425,7 +15969,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xiphias",
@@ -14451,7 +15998,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xogo",
@@ -14490,7 +16040,10 @@
       "tier": "midRange"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xopvision",
@@ -14510,7 +16063,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xtravu",
@@ -14534,7 +16090,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": false
+    "has_logo": false,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xtremesignage",
@@ -14561,7 +16120,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "xuniplay",
@@ -14586,7 +16148,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "yap-create",
@@ -14606,7 +16171,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "ycd-ramp",
@@ -14640,7 +16208,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "yodeck",
@@ -14688,7 +16259,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "zebrix",
@@ -14719,7 +16293,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "zeetaminds",
@@ -14756,7 +16333,10 @@
         "date": "2025-04"
       }
     },
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "zeroframe",
@@ -14783,7 +16363,10 @@
       "tier": "affordable"
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "zignage-zcast",
@@ -14806,7 +16389,10 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   },
   {
     "id": "zynchro",
@@ -14829,6 +16415,9 @@
       "plans": []
     },
     "stats": {},
-    "has_logo": true
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
   }
 ]

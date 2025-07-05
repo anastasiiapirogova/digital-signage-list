@@ -37,5 +37,8 @@
       "date": "2017"
     }
   },
-  "has_logo": true
+  "has_logo": true,
+  "categories": [
+    "CMS"
+  ]
 }

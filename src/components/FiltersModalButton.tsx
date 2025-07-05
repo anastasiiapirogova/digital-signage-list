@@ -2,6 +2,7 @@ import { TbFilter } from "react-icons/tb";
 import {
     PlatformFilter,
     OpenSourceFilter,
+    OpenSignupFilter,
     HeadquartersFilter,
 } from ".";
 import { PricingFilter } from "./PricingFilter";
@@ -18,13 +19,14 @@ const ModalBody = () => {
             </Dialog.Description>
             <div className="flex flex-col gap-4 grow overflow-y-auto">
                 <PlatformFilter />
+                <OpenSignupFilter />
                 <PricingFilter />
                 <OpenSourceFilter />
                 <HeadquartersFilter />
             </div>
             <div className="mt-[25px] flex justify-end">
                 <Dialog.Close asChild>
-                    <button className="inline-flex h-[35px] items-center justify-center rounded bg-black text-white px-[15px] leading-none text-green11 outline-none outline-offset-1 hover:bg-green5 focus-visible:outline-2 focus-visible:outline-green6 select-none cursor-pointer">
+                    <button className="inline-flex h-[35px] items-center justify-center rounded-full bg-neutral-100 px-[15px] leading-none text-green11 outline-none outline-offset-1 hover:bg-green5 focus-visible:outline-2 focus-visible:outline-green6 select-none cursor-pointer">
                         Close
                     </button>
                 </Dialog.Close>
