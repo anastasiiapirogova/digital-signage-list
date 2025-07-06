@@ -16,14 +16,7 @@
   "pricing": {
     "free_trial": false,
     "pricing_available": true,
-    "plans": [
-      {
-        "name": "Connect",
-        "monthly": 8,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
+    "plans": []
   },
   "stats": {
     "screens": {
@@ -34,6 +27,6 @@
   },
   "has_logo": true,
   "categories": [
-    "CMS"
+    "Content provider"
   ]
 }
