@@ -10,12 +10,13 @@
   "self_signup": true,
   "discontinued": false,
   "supported_platforms": [
-    "tvOS",
     "Android",
-    "iOS",
+    "Fire OS",
+    "Linux",
     "Windows",
+    "iOS",
     "macOS",
-    "Linux"
+    "tvOS"
   ],
   "pricing": {
     "free_trial": false,
@@ -24,7 +25,7 @@
     "plans": []
   },
   "stats": {},
-  "has_logo": true,
+  "has_logo": false,
   "categories": [
     "CMS"
   ]
