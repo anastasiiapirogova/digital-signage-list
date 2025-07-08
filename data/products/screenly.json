@@ -10,9 +10,10 @@
   "notes": [],
   "supported_platforms": [
     "Android",
-    "Tizen",
     "ChromeOS",
+    "Fire OS",
     "Screenly Player",
+    "Tizen",
     "Web Browser"
   ],
   "pricing": {
@@ -35,7 +36,7 @@
         "yearly": 300
       }
     ],
-    "tier": "midRange"
+    "tier": "affordable"
   },
   "stats": {
     "screens": {
