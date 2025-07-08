@@ -28,3 +28,15 @@ This approach ensures that our digital signage directory remains trustworthy, ac
 2. Create a new issue with the title: `[Update] <Product Name>`
 3. Describe what information needs to be updated
 4. Provide the new/corrected information
+
+## 🔧 Making Pull Requests
+
+If you would like to make a pull request to add a new product or update existing data:
+
+1. Fork the repository
+2. Make your changes to the product data files
+3. **Important**: Run `npx signagelist build` to rebuild the product list for the frontend
+4. Commit your changes including the rebuilt files
+5. Submit your pull request
+
+This ensures that the frontend will display your changes correctly when the pull request is merged.

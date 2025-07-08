@@ -1,0 +1,31 @@
+{
+  "id": "1-test",
+  "name": "1-test",
+  "description": "",
+  "website": "https://example.com/",
+  "headquarters": "Testland",
+  "year_founded": 2025,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "tvOS",
+    "Android",
+    "iOS",
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "pricing": {
+    "free_trial": false,
+    "pricing_available": false,
+    "has_freemium": false,
+    "plans": []
+  },
+  "stats": {},
+  "has_logo": true,
+  "categories": [
+    "CMS"
+  ]
+}
