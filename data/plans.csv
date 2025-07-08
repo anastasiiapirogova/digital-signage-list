@@ -203,7 +203,9 @@ screen2b,screen2b,https://screen2b.ru/,Russia,Web Browser,false,false,true,true,
 screencloud,ScreenCloud,https://screencloud.com/,USA,Amazon Signage; Android; ChromeOS; Fire OS; Tizen; Web Browser; Windows; macOS; webOS,true,true,true,false,midRange,Core,24,240
 screenfeed,Screenfeed,https://www.screenfeed.com/,USA,Web Browser,false,true,true,false,,,,
 screenfluence,Screenfluence,https://www.screenfluence.com/,Canada,,true,true,true,false,premium,1 - 9 Players,30,324
-screenly,Screenly,https://www.screenly.io/,USA,Screenly Player; Web Browser,true,true,true,false,affordable,Starter,13,132
+screenly,Screenly,https://www.screenly.io/,USA,Android; ChromeOS; Fire OS; Screenly Player; Tizen; Web Browser,true,true,true,false,affordable,Starter,13,132
+screenly,Screenly,https://www.screenly.io/,USA,Android; ChromeOS; Fire OS; Screenly Player; Tizen; Web Browser,true,true,true,false,affordable,Business,19,204
+screenly,Screenly,https://www.screenly.io/,USA,Android; ChromeOS; Fire OS; Screenly Player; Tizen; Web Browser,true,true,true,false,affordable,Enterprise,,300
 screenmanager,ScreenManager,https://screenmanager.tech/,Czechia,Android; ChromeOS; Fire OS; Linux; Tizen; Web Browser; Windows; webOS,true,true,true,false,affordable,Business,8,72
 sdbcomplex,СДБ Комплекс,http://www.sdbcomplex.ru/,Russia,Windows,false,false,true,false,,,,
 sign-presenter,Sign Presenter,https://www.signpresenter.com/,USA,Android; Fire OS,true,true,true,false,affordable,Per screen,10,
