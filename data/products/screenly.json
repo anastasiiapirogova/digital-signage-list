@@ -1,7 +1,7 @@
 {
   "id": "screenly",
   "name": "Screenly",
-  "description": "",
+  "description": "Secure digital signage software",
   "website": "https://www.screenly.io/",
   "headquarters": "USA",
   "open_source": false,
@@ -9,6 +9,9 @@
   "year_founded": 2013,
   "notes": [],
   "supported_platforms": [
+    "Android",
+    "Tizen",
+    "ChromeOS",
     "Screenly Player",
     "Web Browser"
   ],
@@ -21,9 +24,18 @@
         "name": "Starter",
         "monthly": 13,
         "yearly": 132
+      },
+      {
+        "name": "Business",
+        "monthly": 19,
+        "yearly": 204
+      },
+      {
+        "name": "Enterprise",
+        "yearly": 300
       }
     ],
-    "tier": "affordable"
+    "tier": "midRange"
   },
   "stats": {
     "screens": {
