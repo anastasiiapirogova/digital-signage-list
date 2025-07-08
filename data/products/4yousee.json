@@ -1,0 +1,42 @@
+{
+  "id": "4yousee",
+  "name": "4yousee",
+  "description": "",
+  "website": "https://www.4yousee.com.br/en/4yousee-manager/",
+  "categories": [
+    "CMS"
+  ],
+  "headquarters": "Brazil",
+  "year_founded": 2010,
+  "notes": [],
+  "open_source": false,
+  "self_signup": true,
+  "discontinued": false,
+  "supported_platforms": [
+    "Android",
+    "Fire OS",
+    "Linux",
+    "Windows"
+  ],
+  "pricing": {
+    "free_trial": true,
+    "pricing_available": true,
+    "has_freemium": false,
+    "plans": [
+      {
+        "name": "Advanced",
+        "monthly": 8.99,
+        "yearly": 85.9
+      }
+    ],
+    "tier": "affordable"
+  },
+  "stats": {
+    "screens": {
+      "total": 40000,
+      "source": "https://www.4yousee.com.br/",
+      "date": "2025-07"
+    }
+  },
+  "has_logo": true
+}
