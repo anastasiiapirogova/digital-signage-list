@@ -46,13 +46,13 @@ export const ListItem = ({ product }: { product: Product }) => {
     const getPricingTier = (): number => {
         const tier = product.pricing.tier;
         if (!tier) return 0;
-        
+
         const tierLevels = {
             affordable: 1,
             midRange: 2,
             premium: 3,
         } as const;
-        
+
         return tierLevels[tier as keyof typeof tierLevels] || 0;
     };
 
@@ -87,7 +87,7 @@ export const ListItem = ({ product }: { product: Product }) => {
         >
             <div className="flex gap-5 md:gap-7 items-center">
                 <Logo product={product} />
-                <div className="flex flex-col w-full gap-1 md:gap-3">
+                <div className="flex flex-col w-full">
                     <div className="flex items-center justify-between w-full">
                         <div className="grow flex items-center font-medium gap-2 md:text-xl">
                             <div>
@@ -111,7 +111,10 @@ export const ListItem = ({ product }: { product: Product }) => {
                             )}
                         </div>
                     </div>
-                    <div className="flex flex-wrap gap-2 mt-1 mb-1">
+                    <div className="text-sm text-gray-500 mt-1">
+                        {product.description}
+                    </div>
+                    <div className="flex flex-wrap gap-2 mt-3 mb-1">
                         {Array.isArray(product.categories) && product.categories.length > 0 &&
                             product.categories.map((cat) => (
                                 <span
