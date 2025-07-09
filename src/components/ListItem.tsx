@@ -57,6 +57,9 @@ export const ListItem = ({ product }: { product: Product }) => {
     };
 
     const getPricingDisplay = () => {
+        if (product.open_source && !product.pricing.pricing_available) {
+            return "Free/Open Source";
+        }
         if (!product.pricing.pricing_available) {
             return "Pricing on request";
         }
