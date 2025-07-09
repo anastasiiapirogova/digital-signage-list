@@ -12,8 +12,9 @@ export const PricingFilter = () => {
     }, [filters]);
 
     const allCount = products.length;
-    const openSourceCount = products.filter(product => product.pricing.pricing_available === true).length;
-    const proprietaryCount = products.filter(product => product.pricing.pricing_available === false).length;
+    const publicPricingCount = products.filter(product => product.pricing.pricing_available === true).length;
+    const pricingOnRequestCount = products.filter(product => product.pricing.pricing_available === false && !product.open_source).length;
+    const freeOpenSourceCount = products.filter(product => product.open_source && !product.pricing.pricing_available).length;
 
     useEffect(() => {
         const searchParams = new URLSearchParams(window.location.search);
@@ -72,7 +73,7 @@ export const PricingFilter = () => {
                         onChange={() => handlePricingTypeChange("true")}
                         className="form-radio h-4 w-4 text-blue-600"
                     />
-                    <span className="text-gray-700">Public {openSourceCount}</span>
+                    <span className="text-gray-700">Public {publicPricingCount}</span>
                 </label>
                 <label className="flex items-center space-x-2 cursor-pointer hover:bg-neutral-50 p-2">
                     <input
@@ -83,7 +84,7 @@ export const PricingFilter = () => {
                         onChange={() => handlePricingTypeChange("false")}
                         className="form-radio h-4 w-4 text-blue-600"
                     />
-                    <span className="text-gray-700">On request {proprietaryCount}</span>
+                    <span className="text-gray-700">On request {pricingOnRequestCount}</span>
                 </label>
             </div>
         </div>

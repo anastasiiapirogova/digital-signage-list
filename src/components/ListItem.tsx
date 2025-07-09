@@ -46,17 +46,20 @@ export const ListItem = ({ product }: { product: Product }) => {
     const getPricingTier = (): number => {
         const tier = product.pricing.tier;
         if (!tier) return 0;
-        
+
         const tierLevels = {
             affordable: 1,
             midRange: 2,
             premium: 3,
         } as const;
-        
+
         return tierLevels[tier as keyof typeof tierLevels] || 0;
     };
 
     const getPricingDisplay = () => {
+        if (product.open_source && !product.pricing.pricing_available) {
+            return "Free/Open Source";
+        }
         if (!product.pricing.pricing_available) {
             return "Pricing on request";
         }
