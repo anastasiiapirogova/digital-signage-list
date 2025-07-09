@@ -1,5 +1,6 @@
 Product ID,Product Name,Website,Headquarters,Supported Platforms,Free Trial,Self Signup,Pricing Available,Has Freemium,Pricing Tier,Plan Name,Monthly Price,Yearly Price
 1play,1Play,https://1play.tv/,Romania,Raspberry Pi,true,true,true,false,affordable,Starter Price,5.47,
+4yousee,4yousee,https://www.4yousee.com.br/en/4yousee-manager/,Brazil,Android; Fire OS; Linux; Windows,true,true,true,false,affordable,Advanced,8.99,85.9
 acumen-cms,Acumen CMS,https://acumencms.com/,India,,true,false,true,false,affordable,Platinum,8,
 acumen-cms,Acumen CMS,https://acumencms.com/,India,,true,false,true,false,affordable,Custom Advanced,11,
 adfloow,AdFloow,https://adfloow.com/,Sweden,Android; BrightSign; Fire OS; Raspberry Pi; Windows; webOS,false,false,true,false,affordable,All features included,9.21,
