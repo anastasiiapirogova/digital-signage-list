@@ -2861,7 +2861,9 @@
     "open_source": false,
     "self_signup": false,
     "year_founded": 2017,
-    "notes": [],
+    "notes": [
+      "Displai Systems Inc. has acquired the assets of Raydiant"
+    ],
     "supported_platforms": [
       "ChromeOS",
       "Windows",
