@@ -1,13 +1,15 @@
 {
-  "id": "raydiant",
-  "name": "Raydiant",
+  "id": "displai",
+  "name": "Displai",
   "description": "",
-  "website": "https://www.raydiant.com/",
+  "website": "https://www.displai.ai/",
   "headquarters": "USA",
   "open_source": false,
   "self_signup": false,
   "year_founded": 2017,
-  "notes": [],
+  "notes": [
+    "Displai Systems Inc. has acquired the assets of Raydiant"
+  ],
   "supported_platforms": [
     "ChromeOS",
     "Windows",

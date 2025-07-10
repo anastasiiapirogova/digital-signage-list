@@ -2853,6 +2853,32 @@
     ]
   },
   {
+    "id": "displai",
+    "name": "Displai",
+    "description": "",
+    "website": "https://www.displai.ai/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": false,
+    "year_founded": 2017,
+    "notes": [],
+    "supported_platforms": [
+      "ChromeOS",
+      "Windows",
+      "macOS"
+    ],
+    "pricing": {
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    },
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ]
+  },
+  {
     "id": "display-now",
     "name": "Display NOW",
     "description": "",
@@ -10397,32 +10423,6 @@
     },
     "stats": {},
     "has_logo": false,
-    "categories": [
-      "CMS"
-    ]
-  },
-  {
-    "id": "raydiant",
-    "name": "Raydiant",
-    "description": "",
-    "website": "https://www.raydiant.com/",
-    "headquarters": "USA",
-    "open_source": false,
-    "self_signup": false,
-    "year_founded": 2017,
-    "notes": [],
-    "supported_platforms": [
-      "ChromeOS",
-      "Windows",
-      "macOS"
-    ],
-    "pricing": {
-      "free_trial": false,
-      "pricing_available": false,
-      "has_freemium": false
-    },
-    "stats": {},
-    "has_logo": true,
     "categories": [
       "CMS"
     ]
