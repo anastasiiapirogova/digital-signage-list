@@ -1,13 +1,2 @@
-export { GlobalStats } from "./GlobalStats"
-export { HeadquartersFilter } from "./HeadquartersFilter"
-export { OpenSourceFilter } from "./OpenSourceFilter"
-export { OpenSignupFilter } from "./OpenSignupFilter"
-export { PlatformFilter } from "./PlatformFilter"
-export { FilteredProductsCount } from "./FilteredProductsCount"
-export { List } from "./List"
-export { ListItem } from "./ListItem"
-export { ResetFiltersButton } from "./ResetFiltersButton"
-export { FiltersModalButton } from "./FiltersModalButton"
-export { BottomMenu } from "./BottomMenu"
-export { ScrollToTopButton } from "./ScrollToTopButton"
-export { FilteredList } from "./FilteredList"
+export { List } from './List'
+export { ListItem } from './ListItem'
