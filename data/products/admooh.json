@@ -8,27 +8,6 @@
   "self_signup": true,
   "year_founded": 2015,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Raspberry Pi",
-    "Tizen",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Light",
-        "monthly": 5.1,
-        "yearly": 51.95
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 20000,
@@ -39,5 +18,33 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Light",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 5.1,
+          "yearly": 51.95
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

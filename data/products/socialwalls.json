@@ -12,15 +12,15 @@
   "open_source": false,
   "self_signup": true,
   "discontinued": false,
-  "supported_platforms": [
-    "Web Browser"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": []
-  },
   "stats": {},
-  "has_logo": true
+  "has_logo": true,
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ]
 }

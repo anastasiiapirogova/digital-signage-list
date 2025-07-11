@@ -10,27 +10,6 @@
   "notes": [
     "The screen count is based on the number of customers. The actual screen count may vary."
   ],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Web Browser",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Lite",
-        "monthly": 13.8,
-        "yearly": 138
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 5000,
@@ -41,5 +20,33 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Lite",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 13.8,
+          "yearly": 138
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

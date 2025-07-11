@@ -7,14 +7,6 @@
   "open_source": false,
   "self_signup": true,
   "year_founded": 2008,
-  "supported_platforms": [
-    "NovaStar"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "has_freemium": false
-  },
   "stats": {
     "screens": {
       "total": 1000000,
@@ -25,5 +17,20 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "NovaStar"
+    ]
+  },
+  "discontinued": false
 }

@@ -8,19 +8,26 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Linux",
-    "Raspberry Pi",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": false,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Linux",
+      "Raspberry Pi",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

@@ -8,33 +8,6 @@
   "self_signup": true,
   "year_founded": 2013,
   "notes": [],
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "BrightSign",
-    "ChromeOS",
-    "Fire OS",
-    "Linux",
-    "Raspberry Pi",
-    "Tizen",
-    "Web Browser",
-    "Windows",
-    "macOS",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Subscription",
-        "monthly": 18,
-        "yearly": 144
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 17000,
@@ -45,5 +18,39 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Subscription",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 18,
+          "yearly": 144
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "macOS",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

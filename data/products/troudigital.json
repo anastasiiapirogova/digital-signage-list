@@ -8,26 +8,34 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Essential",
-        "monthly": 21.3,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Essential",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 21.3,
+          "yearly": null
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

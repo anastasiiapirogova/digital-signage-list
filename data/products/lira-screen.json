@@ -8,26 +8,33 @@
   "self_signup": false,
   "year_founded": 2020,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Standard",
-        "monthly": 12,
-        "yearly": 120
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Standard",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 12,
+          "yearly": 120
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ]
+  },
+  "discontinued": false
 }

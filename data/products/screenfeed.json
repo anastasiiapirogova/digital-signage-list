@@ -10,14 +10,6 @@
   "notes": [
     "Not fully digital signage software, but a content provider. Can be used in conjunction with other software."
   ],
-  "supported_platforms": [
-    "Web Browser"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "plans": []
-  },
   "stats": {
     "screens": {
       "total": 150000,
@@ -28,5 +20,15 @@
   "has_logo": true,
   "categories": [
     "Content provider"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "discontinued": false
 }

@@ -8,25 +8,32 @@
   "self_signup": false,
   "year_founded": 2020,
   "notes": [],
-  "supported_platforms": [
-    "Halo Player"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Standard 12 month contract",
-        "monthly": null,
-        "yearly": 302.99
-      }
-    ],
-    "tier": "premium"
-  },
   "stats": {},
   "has_logo": false,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Standard 12 month contract",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 302.99
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Halo Player"
+    ]
+  },
+  "discontinued": false
 }

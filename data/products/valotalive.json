@@ -10,24 +10,6 @@
   "notes": [
     "Screen count is based on revenue."
   ],
-  "supported_platforms": [
-    "ChromeOS",
-    "Tizen",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Starter",
-        "monthly": 10.31,
-        "yearly": 92
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 100000,
@@ -38,5 +20,30 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Starter",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 10.31,
+          "yearly": 92
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "ChromeOS",
+      "Tizen",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

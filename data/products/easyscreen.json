@@ -7,23 +7,6 @@
   "open_source": false,
   "self_signup": false,
   "year_founded": 1999,
-  "supported_platforms": [
-    "Tizen",
-    "Web Browser",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "1 year",
-        "monthly": null,
-        "yearly": 413
-      }
-    ],
-    "tier": "premium"
-  },
   "stats": {
     "screens": {
       "total": 10000,
@@ -34,5 +17,30 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "1 year",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 413
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Tizen",
+      "Web Browser",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

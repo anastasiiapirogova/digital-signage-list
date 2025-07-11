@@ -8,35 +8,44 @@
   "self_signup": false,
   "year_founded": 2012,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "BrightSign",
-    "Fire OS",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Professional",
-        "monthly": 25,
-        "yearly": null
-      },
-      {
-        "name": "Premium",
-        "monthly": 30,
-        "yearly": null
-      }
-    ],
-    "tier": "premium"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Professional",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 25,
+          "yearly": null
+        },
+        {
+          "name": "Premium",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 30,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

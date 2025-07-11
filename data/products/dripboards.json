@@ -10,27 +10,34 @@
   "notes": [
     "You must have an active PosterMyWall subscription to use the Drip Boards Free Starter Subscription"
   ],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Monthly or Yearly",
-        "monthly": 9.99,
-        "yearly": 99.99
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Monthly or Yearly",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 9.99,
+          "yearly": 99.99
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS"
+    ]
+  },
+  "discontinued": false
 }

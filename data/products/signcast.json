@@ -10,28 +10,35 @@
   "notes": [
     "Seems like NoviSign white-label"
   ],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Studio",
-        "monthly": null,
-        "yearly": 216
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Studio",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 216
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

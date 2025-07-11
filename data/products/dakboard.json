@@ -8,38 +8,49 @@
   "self_signup": true,
   "year_founded": 2015,
   "notes": [],
-  "supported_platforms": [
-    "Fire OS",
-    "Raspberry Pi",
-    "Web Browser",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Free (1 screen)",
-        "monthly": 0,
-        "yearly": 0
-      },
-      {
-        "name": "Essential (2 screens)",
-        "monthly": 6,
-        "yearly": 60
-      },
-      {
-        "name": "Plus (3 screens)",
-        "monthly": 10,
-        "yearly": 96
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Free (1 screen)",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Essential (2 screens)",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 6,
+          "yearly": 60
+        },
+        {
+          "name": "Plus (3 screens)",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 10,
+          "yearly": 96
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Fire OS",
+      "Raspberry Pi",
+      "Web Browser",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

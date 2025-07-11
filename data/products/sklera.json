@@ -8,38 +8,6 @@
   "self_signup": false,
   "year_founded": 2011,
   "notes": [],
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Linux",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Sklera Basic",
-        "monthly": null,
-        "yearly": 120
-      },
-      {
-        "name": "Sklera Standard",
-        "monthly": null,
-        "yearly": 230
-      },
-      {
-        "name": "Sklera Professional",
-        "monthly": null,
-        "yearly": 360
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 1000,
@@ -50,5 +18,49 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Sklera Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 120
+        },
+        {
+          "name": "Sklera Standard",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 230
+        },
+        {
+          "name": "Sklera Professional",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 360
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

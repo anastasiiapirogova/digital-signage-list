@@ -7,19 +7,6 @@
   "open_source": false,
   "self_signup": false,
   "year_founded": 1996,
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "BrightSign",
-    "Fire OS",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false
-  },
   "stats": {
     "screens": {
       "total": 500000,
@@ -30,5 +17,26 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

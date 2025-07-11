@@ -10,31 +10,6 @@
   "notes": [
     "The screen count is based on the number of provided connected locations. The actual screen count may vary."
   ],
-  "supported_platforms": [
-    "Android",
-    "BrightSign",
-    "ChromeOS",
-    "Fire OS",
-    "Linux",
-    "Tizen",
-    "Windows",
-    "iOS",
-    "macOS",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Professional",
-        "monthly": 15,
-        "yearly": 162
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 100000,
@@ -45,5 +20,37 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Professional",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 15,
+          "yearly": 162
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

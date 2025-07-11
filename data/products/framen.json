@@ -9,28 +9,6 @@
   "open_source": false,
   "self_signup": true,
   "discontinued": false,
-  "supported_platforms": [
-    "Android",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Free",
-        "monthly": 0,
-        "yearly": 0
-      },
-      {
-        "name": "Premium",
-        "monthly": null,
-        "yearly": 136.8
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 18000,
@@ -41,5 +19,35 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Free",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Premium",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 136.8
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ]
+  }
 }

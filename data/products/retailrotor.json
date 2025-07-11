@@ -8,22 +8,6 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Android",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Small business",
-        "monthly": 8.2,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 50000,
@@ -34,5 +18,29 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Small business",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 8.2,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ]
+  },
+  "discontinued": false
 }

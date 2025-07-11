@@ -8,37 +8,6 @@
   "self_signup": false,
   "year_founded": 2012,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Web Browser",
-    "Windows",
-    "iOS",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Essentials",
-        "monthly": 23.5,
-        "yearly": null
-      },
-      {
-        "name": "Advantage",
-        "monthly": 32,
-        "yearly": null
-      },
-      {
-        "name": "Enterprise",
-        "monthly": 43,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 10000,
@@ -49,5 +18,48 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Essentials",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 23.5,
+          "yearly": null
+        },
+        {
+          "name": "Advantage",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 32,
+          "yearly": null
+        },
+        {
+          "name": "Enterprise",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 43,
+          "yearly": null
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS"
+    ]
+  },
+  "discontinued": false
 }

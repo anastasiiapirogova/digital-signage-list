@@ -10,17 +10,24 @@
   "notes": [
     "Video demo of the software is available."
   ],
-  "supported_platforms": [
-    "Web Browser"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "has_freemium": false
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Web Browser"
+    ]
+  },
+  "discontinued": false
 }

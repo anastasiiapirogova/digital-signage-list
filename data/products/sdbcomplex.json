@@ -9,15 +9,6 @@
   "open_source": false,
   "self_signup": false,
   "discontinued": false,
-  "supported_platforms": [
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": []
-  },
   "stats": {
     "screens": {
       "total": 7135,
@@ -28,5 +19,19 @@
   "has_logo": false,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Windows"
+    ]
+  }
 }

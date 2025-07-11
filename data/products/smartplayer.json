@@ -8,21 +8,6 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Android",
-    "BrightSign",
-    "Fire OS",
-    "Linux",
-    "Raspberry Pi",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "plans": []
-  },
   "stats": {
     "screens": {
       "total": 50000,
@@ -33,5 +18,27 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

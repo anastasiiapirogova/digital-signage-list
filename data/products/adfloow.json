@@ -9,30 +9,36 @@
   "open_source": false,
   "self_signup": false,
   "discontinued": false,
-  "supported_platforms": [
-    "Android",
-    "BrightSign",
-    "Fire OS",
-    "Raspberry Pi",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "All features included",
-        "monthly": 9.21,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "All features included",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 9.21,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Raspberry Pi",
+      "Windows",
+      "webOS"
+    ]
+  }
 }

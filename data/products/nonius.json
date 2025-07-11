@@ -10,19 +10,25 @@
   "notes": [
     "Digital signage solution for hotels."
   ],
-  "supported_platforms": [
-    "Web Browser",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": false,
-    "has_freemium": false,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Web Browser",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

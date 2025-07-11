@@ -8,15 +8,6 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Web Browser",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "plans": []
-  },
   "stats": {
     "screens": {
       "total": 25000,
@@ -27,5 +18,21 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Web Browser",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

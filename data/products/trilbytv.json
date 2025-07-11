@@ -10,36 +10,45 @@
   "notes": [
     "Digital signage for schools mainly, but also offers options per screen for Charity, Voluntary organisation, or Business."
   ],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Windows",
-    "iOS",
-    "macOS",
-    "tvOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Per screen",
-        "monthly": null,
-        "yearly": 267
-      },
-      {
-        "name": "Unlimited screen",
-        "monthly": null,
-        "yearly": 2406
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Per screen",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 267
+        },
+        {
+          "name": "Unlimited screen",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 2406
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS",
+      "tvOS"
+    ]
+  },
+  "discontinued": false
 }

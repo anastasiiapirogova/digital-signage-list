@@ -11,27 +11,6 @@
   "self_signup": true,
   "year_founded": 2016,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Windows",
-    "macOS",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "1-5 Screens",
-        "monthly": 15,
-        "yearly": 162
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 25000,
@@ -42,5 +21,33 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "1-5 Screens",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 15,
+          "yearly": 162
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows",
+      "macOS",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

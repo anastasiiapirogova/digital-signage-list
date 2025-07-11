@@ -10,22 +10,28 @@
   "notes": [
     "webOS and Tizen are planned to be added"
   ],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Roku OS",
-    "iOS",
-    "tvOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": false,
-    "has_freemium": false,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Roku OS",
+      "iOS",
+      "tvOS"
+    ]
+  },
+  "discontinued": false
 }

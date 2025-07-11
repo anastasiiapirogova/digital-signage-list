@@ -8,27 +8,6 @@
   "self_signup": true,
   "year_founded": 2011,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Business",
-        "monthly": 20,
-        "yearly": 216
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 50000,
@@ -39,5 +18,33 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Business",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 20,
+          "yearly": 216
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

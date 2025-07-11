@@ -9,28 +9,36 @@
   "discontinued": false,
   "year_founded": 2015,
   "notes": [],
-  "supported_platforms": [],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Free (3 screens)",
-        "monthly": 0,
-        "yearly": 0
-      },
-      {
-        "name": "Plus",
-        "monthly": 3,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Free (3 screens)",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Plus",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 3,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": []
+  }
 }

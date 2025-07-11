@@ -10,36 +10,47 @@
   "notes": [
     "Digital Menu Boards"
   ],
-  "supported_platforms": [
-    "Android",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Starter",
-        "monthly": 12,
-        "yearly": 96
-      },
-      {
-        "name": "Professional",
-        "monthly": 24,
-        "yearly": 192
-      },
-      {
-        "name": "Business Plus",
-        "monthly": null,
-        "yearly": 384
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": false,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Starter",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 12,
+          "yearly": 96
+        },
+        {
+          "name": "Professional",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 24,
+          "yearly": 192
+        },
+        {
+          "name": "Business Plus",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 384
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ]
+  },
+  "discontinued": false
 }

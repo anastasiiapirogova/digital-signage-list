@@ -11,16 +11,21 @@
   "notes": [
     "Digital Signage for WordPress."
   ],
-  "supported_platforms": [],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "has_freemium": true,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": []
+  }
 }

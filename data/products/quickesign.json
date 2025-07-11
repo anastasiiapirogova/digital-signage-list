@@ -8,43 +8,56 @@
   "self_signup": true,
   "year_founded": 2017,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Raspberry Pi",
-    "Roku OS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Light",
-        "monthly": 6,
-        "yearly": 60
-      },
-      {
-        "name": "Standard",
-        "monthly": 10,
-        "yearly": 99
-      },
-      {
-        "name": "Pro",
-        "monthly": 15,
-        "yearly": 149
-      },
-      {
-        "name": "Enterprise",
-        "monthly": 20,
-        "yearly": 199
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Light",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 6,
+          "yearly": 60
+        },
+        {
+          "name": "Standard",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 10,
+          "yearly": 99
+        },
+        {
+          "name": "Pro",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 15,
+          "yearly": 149
+        },
+        {
+          "name": "Enterprise",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 20,
+          "yearly": 199
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Raspberry Pi",
+      "Roku OS"
+    ]
+  },
+  "discontinued": false
 }

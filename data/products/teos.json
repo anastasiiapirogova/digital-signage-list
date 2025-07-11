@@ -8,30 +8,37 @@
   "self_signup": false,
   "year_founded": 2017,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Web Browser",
-    "Windows",
-    "iOS",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Advanced",
-        "monthly": 95,
-        "yearly": 1195
-      }
-    ],
-    "tier": "premium"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Advanced / Control & Scheduling",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 4.87,
+          "yearly": null
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS"
+    ]
+  },
+  "discontinued": false
 }

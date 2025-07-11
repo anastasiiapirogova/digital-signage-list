@@ -8,20 +8,27 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

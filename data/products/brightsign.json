@@ -7,21 +7,6 @@
   "open_source": false,
   "self_signup": true,
   "year_founded": 2002,
-  "supported_platforms": [
-    "BrightSign"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "bsn.Control",
-        "monthly": null,
-        "yearly": 139
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 2500000,
@@ -32,5 +17,28 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "bsn.Control",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 139
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "BrightSign"
+    ]
+  },
+  "discontinued": false
 }

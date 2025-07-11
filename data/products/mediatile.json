@@ -8,36 +8,38 @@
   "self_signup": false,
   "year_founded": 2004,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "BrightSign",
-    "Fire OS",
-    "Linux",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Standard",
-        "monthly": null,
-        "yearly": 239
-      }
-    ],
-    "tier": "midRange"
-  },
-  "stats": {
-    "screens": {
-      "total": null,
-      "source": "",
-      "date": ""
-    }
-  },
+  "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Standard",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 239
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

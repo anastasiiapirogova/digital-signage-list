@@ -8,17 +8,6 @@
   "notes": [],
   "open_source": false,
   "self_signup": false,
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Tizen",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "plans": []
-  },
   "stats": {
     "screens": {
       "total": 20000,
@@ -29,5 +18,23 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

@@ -10,19 +10,26 @@
   "notes": [
     "Displai Systems Inc. has acquired the assets of Raydiant"
   ],
-  "supported_platforms": [
-    "ChromeOS",
-    "Windows",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "has_freemium": false
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "ChromeOS",
+      "Windows",
+      "macOS"
+    ]
+  },
+  "discontinued": false
 }

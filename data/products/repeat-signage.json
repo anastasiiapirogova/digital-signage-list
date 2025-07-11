@@ -8,24 +8,32 @@
   "notes": [],
   "open_source": false,
   "self_signup": true,
-  "supported_platforms": [
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Repeat Signage V5 Standard Edition",
-        "monthly": null,
-        "yearly": 172.5
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Repeat Signage V5 Standard Edition",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 172.5
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

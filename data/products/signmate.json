@@ -8,33 +8,42 @@
   "self_signup": true,
   "year_founded": 2017,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Web Browser",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Standard",
-        "monthly": null,
-        "yearly": 109
-      },
-      {
-        "name": "Premium",
-        "monthly": null,
-        "yearly": 182
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Standard",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 109
+        },
+        {
+          "name": "Premium",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 182
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Web Browser",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

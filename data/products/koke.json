@@ -8,26 +8,6 @@
   "self_signup": false,
   "year_founded": 2011,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Device License",
-        "monthly": 16.63,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 3523,
@@ -38,5 +18,32 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Device License",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 16.63,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

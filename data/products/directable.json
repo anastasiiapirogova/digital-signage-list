@@ -9,27 +9,33 @@
   "open_source": false,
   "self_signup": true,
   "discontinued": false,
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "2+ Screens",
-        "monthly": 7.5,
-        "yearly": 67.5
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "2+ Screens",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 7.5,
+          "yearly": 67.5
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "Fire OS"
+    ]
+  }
 }

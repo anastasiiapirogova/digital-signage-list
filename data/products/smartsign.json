@@ -10,24 +10,30 @@
   "notes": [
     "The first release notes are available from 2020"
   ],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Tizen",
-    "Windows",
-    "iiyama",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": false,
-    "has_freemium": false,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "iiyama",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

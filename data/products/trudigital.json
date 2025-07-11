@@ -10,28 +10,6 @@
   "notes": [
     "Total screens is based on the number of active users"
   ],
-  "supported_platforms": [
-    "Web Browser",
-    "Windows",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Basic",
-        "monthly": 29,
-        "yearly": null
-      },
-      {
-        "name": "Pro",
-        "monthly": 49,
-        "yearly": null
-      }
-    ],
-    "tier": "premium"
-  },
   "stats": {
     "screens": {
       "total": 10000,
@@ -42,5 +20,37 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 29,
+          "yearly": null
+        },
+        {
+          "name": "Pro",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 49,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Web Browser",
+      "Windows",
+      "macOS"
+    ]
+  },
+  "discontinued": false
 }

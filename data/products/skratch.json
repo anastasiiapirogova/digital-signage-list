@@ -8,20 +8,6 @@
   "self_signup": false,
   "year_founded": 2014,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "has_freemium": false,
-    "plans": []
-  },
   "stats": {
     "screens": {
       "total": 11641,
@@ -32,5 +18,25 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

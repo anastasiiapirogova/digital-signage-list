@@ -8,20 +8,26 @@
   "notes": [],
   "open_source": false,
   "self_signup": true,
-  "supported_platforms": [
-    "Android",
-    "BrightSign",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": false,
-    "has_freemium": true,
-    "plans": []
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": true,
+      "pricing_available": false,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "BrightSign",
+      "Fire OS"
+    ]
+  },
+  "discontinued": false
 }

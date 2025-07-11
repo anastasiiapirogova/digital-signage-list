@@ -8,25 +8,32 @@
   "self_signup": true,
   "year_founded": 2016,
   "notes": [],
-  "supported_platforms": [
-    "Web Browser"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Built-in, Complete Signage Software",
-        "monthly": 19.99,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Built-in, Complete Signage Software",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 19.99,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Web Browser"
+    ]
+  },
+  "discontinued": false
 }

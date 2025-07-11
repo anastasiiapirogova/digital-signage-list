@@ -10,33 +10,42 @@
   "notes": [
     "a digital signage kiosk solution"
   ],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Windows",
-    "iOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Android Cloud",
-        "monthly": 4.99,
-        "yearly": null
-      },
-      {
-        "name": "iOS or Windows Single License",
-        "monthly": null,
-        "yearly": 29.99
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Android Cloud",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 4.99,
+          "yearly": null
+        },
+        {
+          "name": "iOS or Windows Single License",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": null,
+          "yearly": 29.99
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows",
+      "iOS"
+    ]
+  },
+  "discontinued": false
 }

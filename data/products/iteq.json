@@ -10,33 +10,6 @@
   "notes": [
     "The total number of screens is based on the number daily broadcast spots"
   ],
-  "supported_platforms": [
-    "Android",
-    "Fire OS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Pharmacies",
-        "monthly": 5,
-        "yearly": null
-      },
-      {
-        "name": "Laboratories",
-        "monthly": 9,
-        "yearly": null
-      },
-      {
-        "name": "Private clinics",
-        "monthly": 13,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 81600,
@@ -47,5 +20,43 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Pharmacies",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 5,
+          "yearly": null
+        },
+        {
+          "name": "Laboratories",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 9,
+          "yearly": null
+        },
+        {
+          "name": "Private clinics",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 13,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS"
+    ]
+  },
+  "discontinued": false
 }

@@ -8,19 +8,6 @@
   "self_signup": false,
   "year_founded": 2005,
   "notes": [],
-  "supported_platforms": [],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Pro Plam",
-        "monthly": 19.99,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 40000,
@@ -31,5 +18,26 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Pro Plam",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 19.99,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": []
+  },
+  "discontinued": false
 }

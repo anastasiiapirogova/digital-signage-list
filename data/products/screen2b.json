@@ -8,35 +8,46 @@
   "self_signup": false,
   "year_founded": 2009,
   "notes": [],
-  "supported_platforms": [
-    "Web Browser"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Free (1 Screen)",
-        "monthly": 0,
-        "yearly": 0
-      },
-      {
-        "name": "Stationary",
-        "monthly": 4.5,
-        "yearly": null
-      },
-      {
-        "name": "Transport",
-        "monthly": 6.4,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Free (1 Screen)",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 0,
+          "yearly": 0
+        },
+        {
+          "name": "Stationary",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 4.5,
+          "yearly": null
+        },
+        {
+          "name": "Transport",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 6.4,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Web Browser"
+    ]
+  },
+  "discontinued": false
 }

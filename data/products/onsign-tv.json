@@ -8,36 +8,43 @@
   "self_signup": true,
   "year_founded": 2012,
   "notes": [],
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "BrightSign",
-    "ChromeOS",
-    "Fire OS",
-    "Linux",
-    "Tizen",
-    "Web Browser",
-    "Windows",
-    "iOS",
-    "macOS",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Professional",
-        "monthly": 19.99,
-        "yearly": 215.88
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Professional",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 19.99,
+          "yearly": 215.88
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "BrightSign",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

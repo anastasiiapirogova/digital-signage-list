@@ -7,12 +7,6 @@
   "open_source": false,
   "self_signup": false,
   "year_founded": 2010,
-  "supported_platforms": [],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false,
-    "has_freemium": false
-  },
   "stats": {
     "screens": {
       "total": 2000,
@@ -23,5 +17,18 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": []
+  },
+  "discontinued": false
 }

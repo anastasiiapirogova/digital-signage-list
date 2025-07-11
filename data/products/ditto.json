@@ -8,41 +8,52 @@
   "self_signup": true,
   "year_founded": 2008,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Windows",
-    "iOS",
-    "macOS",
-    "tvOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Basic",
-        "monthly": 17,
-        "yearly": 99
-      },
-      {
-        "name": "Premium",
-        "monthly": 25,
-        "yearly": 150
-      },
-      {
-        "name": "Elite",
-        "monthly": 29,
-        "yearly": 175
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 17,
+          "yearly": 99
+        },
+        {
+          "name": "Premium",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 25,
+          "yearly": 150
+        },
+        {
+          "name": "Elite",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 29,
+          "yearly": 175
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows",
+      "iOS",
+      "macOS",
+      "tvOS"
+    ]
+  },
+  "discontinued": false
 }

@@ -7,30 +7,6 @@
   "open_source": false,
   "self_signup": true,
   "year_founded": 1992,
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Linux",
-    "Tizen",
-    "Web Browser",
-    "Windows",
-    "tvOS",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Basic",
-        "monthly": 12,
-        "yearly": 132
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 60892,
@@ -41,5 +17,37 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 12,
+          "yearly": 132
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Tizen",
+      "Web Browser",
+      "Windows",
+      "tvOS",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

@@ -12,25 +12,6 @@
   "open_source": false,
   "self_signup": true,
   "discontinued": false,
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Advanced",
-        "monthly": 8.99,
-        "yearly": 85.9
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 40000,
@@ -38,5 +19,30 @@
       "date": "2025-07"
     }
   },
-  "has_logo": true
+  "has_logo": true,
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Advanced",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 8.99,
+          "yearly": 85.9
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Windows"
+    ]
+  }
 }

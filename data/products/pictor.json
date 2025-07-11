@@ -10,42 +10,55 @@
   "notes": [
     "Two purchase methods: subscription and one-time license payment that includes 1 year remote management"
   ],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Basic",
-        "monthly": 10,
-        "yearly": null
-      },
-      {
-        "name": "Advanced",
-        "monthly": 13,
-        "yearly": null
-      },
-      {
-        "name": "Premium",
-        "monthly": 21,
-        "yearly": null
-      },
-      {
-        "name": "Enterprise",
-        "monthly": 32,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 10,
+          "yearly": null
+        },
+        {
+          "name": "Advanced",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 13,
+          "yearly": null
+        },
+        {
+          "name": "Premium",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 21,
+          "yearly": null
+        },
+        {
+          "name": "Enterprise",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 32,
+          "yearly": null
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

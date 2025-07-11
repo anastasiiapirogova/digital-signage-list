@@ -10,28 +10,6 @@
   "notes": [
     "We mention a minimum of 35000 connected screens based on customer count, but the actual number could be significantly higher."
   ],
-  "supported_platforms": [
-    "Amazon Signage",
-    "Android",
-    "Fire OS",
-    "Linux",
-    "Raspberry Pi",
-    "Windows",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Home Basic",
-        "monthly": 6.49,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {
     "screens": {
       "total": 35000,
@@ -42,5 +20,34 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Home Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 6.49,
+          "yearly": null
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Amazon Signage",
+      "Android",
+      "Fire OS",
+      "Linux",
+      "Raspberry Pi",
+      "Windows",
+      "macOS"
+    ]
+  },
+  "discontinued": false
 }

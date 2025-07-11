@@ -8,31 +8,34 @@
   "self_signup": false,
   "year_founded": 2013,
   "notes": [],
-  "supported_platforms": [
-    "ChromeOS",
-    "Windows",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Teams",
-        "monthly": 74,
-        "yearly": 708
-      },
-      {
-        "name": "Enterprise",
-        "monthly": null,
-        "yearly": 1068
-      }
-    ],
-    "tier": "premium"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
-    "CMS"
-  ]
+    "Content provider"
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Teams",
+          "payment_model": "subscription",
+          "billing_basis": "per_user",
+          "monthly": 74,
+          "yearly": 708
+        },
+        {
+          "name": "Enterprise",
+          "payment_model": "subscription",
+          "billing_basis": "per_user",
+          "monthly": null,
+          "yearly": 1068
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "discontinued": false
 }

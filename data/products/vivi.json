@@ -10,20 +10,6 @@
   "notes": [
     "Total sceens number based on the number of classrooms provided"
   ],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Linux",
-    "Web Browser",
-    "Windows",
-    "iOS",
-    "macOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": false
-  },
   "stats": {
     "screens": {
       "total": 120000,
@@ -34,5 +20,27 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [],
+      "free_trial": false,
+      "pricing_available": false,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Linux",
+      "Web Browser",
+      "Windows",
+      "iOS",
+      "macOS"
+    ]
+  },
+  "discontinued": false
 }

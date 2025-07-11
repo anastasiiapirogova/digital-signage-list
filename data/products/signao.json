@@ -8,43 +8,57 @@
   "self_signup": false,
   "year_founded": 2014,
   "notes": [],
-  "supported_platforms": [
-    "Android",
-    "Fire OS",
-    "Tizen",
-    "Windows",
-    "webOS"
-  ],
-  "pricing": {
-    "free_trial": false,
-    "pricing_available": true,
-    "plans": [
-      {
-        "name": "Virtuo",
-        "monthly": 5,
-        "yearly": null
-      },
-      {
-        "name": "Initio",
-        "monthly": 10,
-        "yearly": null
-      },
-      {
-        "name": "Pro",
-        "monthly": 21,
-        "yearly": null
-      },
-      {
-        "name": "Pro+",
-        "monthly": 33,
-        "yearly": null
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Virtuo",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 5,
+          "yearly": null
+        },
+        {
+          "name": "Initio",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 10,
+          "yearly": null
+        },
+        {
+          "name": "Pro",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 21,
+          "yearly": null
+        },
+        {
+          "name": "Pro+",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 33,
+          "yearly": null
+        }
+      ],
+      "free_trial": false,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "Fire OS",
+      "Tizen",
+      "Windows",
+      "webOS"
+    ]
+  },
+  "discontinued": false
 }

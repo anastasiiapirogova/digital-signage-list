@@ -8,24 +8,6 @@
   "self_signup": true,
   "year_founded": 2012,
   "notes": [],
-  "supported_platforms": [
-    "Linux",
-    "Web Browser",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": true,
-    "plans": [
-      {
-        "name": "Basic",
-        "monthly": 14,
-        "yearly": null
-      }
-    ],
-    "tier": "midRange"
-  },
   "stats": {
     "screens": {
       "total": 25000,
@@ -36,5 +18,30 @@
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 14,
+          "yearly": null
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": true
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Linux",
+      "Web Browser",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }

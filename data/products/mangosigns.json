@@ -10,38 +10,49 @@
   "notes": [
     "20% discounts for non-profit organizations, educational institutions or places of worship."
   ],
-  "supported_platforms": [
-    "Android",
-    "ChromeOS",
-    "Fire OS",
-    "Windows"
-  ],
-  "pricing": {
-    "free_trial": true,
-    "pricing_available": true,
-    "has_freemium": false,
-    "plans": [
-      {
-        "name": "Basic",
-        "monthly": 9.95,
-        "yearly": 107.4
-      },
-      {
-        "name": "Premium",
-        "monthly": 14.95,
-        "yearly": 161.4
-      },
-      {
-        "name": "Enterprise",
-        "monthly": 24.95,
-        "yearly": 269.4
-      }
-    ],
-    "tier": "affordable"
-  },
   "stats": {},
   "has_logo": true,
   "categories": [
     "CMS"
-  ]
+  ],
+  "models": [
+    {
+      "delivery": "cloud",
+      "pricing": [
+        {
+          "name": "Basic",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 9.95,
+          "yearly": 107.4
+        },
+        {
+          "name": "Premium",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 14.95,
+          "yearly": 161.4
+        },
+        {
+          "name": "Enterprise",
+          "payment_model": "subscription",
+          "billing_basis": "per_device",
+          "monthly": 24.95,
+          "yearly": 269.4
+        }
+      ],
+      "free_trial": true,
+      "pricing_available": true,
+      "has_freemium": false
+    }
+  ],
+  "cms_properties": {
+    "supported_platforms": [
+      "Android",
+      "ChromeOS",
+      "Fire OS",
+      "Windows"
+    ]
+  },
+  "discontinued": false
 }
