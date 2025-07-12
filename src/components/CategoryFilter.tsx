@@ -15,7 +15,7 @@ export const CategoryFilter = () => {
 			acc[category] = filterProducts(products, { ...filters, category }).length
 			return acc
 		}, {} as Record<ProductCategory, number>)
-	}, [filters.searchTerm, filters.showOpenSource, filters.showProprietary])
+	}, [filters.searchTerm, filters.showOpenSource, filters.showProprietary, filters.selectedPlatforms])
 
 	const handleCategoryClick = (category: ProductCategory) => {
 		setCategoryFilter(category)

@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useStore } from '@nanostores/react'
-import { productFilters, setCategoryFilter, setSearchTerm, setShowOpenSource, setShowProprietary } from '../stores/productFilters'
+import { productFilters, setCategoryFilter, setSearchTerm, setShowOpenSource, setShowProprietary, setSelectedPlatforms } from '../stores/productFilters'
 import { z } from 'zod'
 import type { ProductCategory } from '../utils/productsSchema'
 
@@ -9,6 +9,7 @@ const FilterSearchParamsSchema = z.object({
 	search: z.string().optional(),
 	openSource: z.enum(['true', 'false']).optional(),
 	proprietary: z.enum(['true', 'false']).optional(),
+	platforms: z.string().optional(),
 })
 
 type FilterSearchParams = z.infer<typeof FilterSearchParamsSchema>
@@ -24,6 +25,7 @@ export const useFilterSync = () => {
 		if (urlParams.has('search')) searchParams.search = urlParams.get('search') || ''
 		if (urlParams.has('openSource')) searchParams.openSource = urlParams.get('openSource') as 'true' | 'false'
 		if (urlParams.has('proprietary')) searchParams.proprietary = urlParams.get('proprietary') as 'true' | 'false'
+		if (urlParams.has('platforms')) searchParams.platforms = urlParams.get('platforms') || ''
 
 		const result = FilterSearchParamsSchema.safeParse(searchParams)
 		if (result.success) {
@@ -41,6 +43,10 @@ export const useFilterSync = () => {
 			if (validParams.proprietary !== undefined) {
 				setShowProprietary(validParams.proprietary === 'true')
 			}
+			if (validParams.platforms) {
+				const platforms = validParams.platforms.split(',').filter(p => p.trim())
+				setSelectedPlatforms(platforms)
+			}
 		}
 	}, [])
 
@@ -55,8 +61,14 @@ export const useFilterSync = () => {
 		}
 		urlParams.set('openSource', filters.showOpenSource.toString())
 		urlParams.set('proprietary', filters.showProprietary.toString())
+		
+		if (filters.selectedPlatforms.length > 0) {
+			urlParams.set('platforms', filters.selectedPlatforms.join(','))
+		} else {
+			urlParams.delete('platforms')
+		}
 
 		const newUrl = `${window.location.pathname}?${urlParams.toString()}`
 		window.history.replaceState({}, '', newUrl)
-	}, [filters.category, filters.searchTerm, filters.showOpenSource, filters.showProprietary])
+	}, [filters.category, filters.searchTerm, filters.showOpenSource, filters.showProprietary, filters.selectedPlatforms])
 } 

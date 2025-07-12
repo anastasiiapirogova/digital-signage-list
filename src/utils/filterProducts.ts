@@ -22,6 +22,13 @@ export function filterProducts(products: Product[], filters: ProductFilters) {
 			(filters.showOpenSource && isOpenSource) ||
 			(filters.showProprietary && !isOpenSource)
 
-		return categoryMatch && searchMatch && openSourceMatch
+		const platformMatch = filters.selectedPlatforms.length === 0 || 
+			(filters.selectedPlatforms.length > 0 && 
+				product.cms_properties?.supported_platforms &&
+				filters.selectedPlatforms.every(platform => 
+					product.cms_properties!.supported_platforms.includes(platform)
+				))
+
+		return categoryMatch && searchMatch && openSourceMatch && platformMatch
 	})
 } 

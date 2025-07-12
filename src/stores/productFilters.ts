@@ -6,6 +6,7 @@ export type ProductFilters = {
 	searchTerm: string
 	showOpenSource: boolean
 	showProprietary: boolean
+	selectedPlatforms: string[]
 }
 
 export const productFilters = atom<ProductFilters>({
@@ -13,6 +14,7 @@ export const productFilters = atom<ProductFilters>({
 	searchTerm: '',
 	showOpenSource: true,
 	showProprietary: true,
+	selectedPlatforms: [],
 })
 
 export const setCategoryFilter = (category: ProductCategory | null) => {
@@ -43,11 +45,32 @@ export const setShowProprietary = (show: boolean) => {
 	})
 }
 
+export const setSelectedPlatforms = (platforms: string[]) => {
+	productFilters.set({
+		...productFilters.get(),
+		selectedPlatforms: platforms,
+	})
+}
+
+export const togglePlatform = (platform: string) => {
+	const current = productFilters.get()
+	const isSelected = current.selectedPlatforms.includes(platform)
+	const newPlatforms = isSelected
+		? current.selectedPlatforms.filter(p => p !== platform)
+		: [...current.selectedPlatforms, platform]
+	
+	productFilters.set({
+		...current,
+		selectedPlatforms: newPlatforms,
+	})
+}
+
 export const clearFilters = () => {
 	productFilters.set({
 		category: 'CMS',
 		searchTerm: '',
 		showOpenSource: true,
 		showProprietary: true,
+		selectedPlatforms: [],
 	})
 } 

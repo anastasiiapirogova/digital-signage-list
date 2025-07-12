@@ -4,6 +4,7 @@ import { CMSList } from "../components/CMSList";
 import { CategoryFilter } from "../components/CategoryFilter";
 import { Search } from "../components/Search";
 import { OpenSourceFilter } from "../components/OpenSourceFilter";
+import { PlatformFilter } from "../components/PlatformFilter";
 import { FilterSync } from "../components/FilterSync";
 import Header from "../components/Header.astro";
 
@@ -18,9 +19,10 @@ const seo = {
         <Header />
         <FilterSync client:only />
         <div class="my-5 flex flex-col gap-5">
+            <CategoryFilter client:only />
             <Search client:only />
             <OpenSourceFilter client:only />
-            <CategoryFilter client:only />
+            <PlatformFilter client:only />
         </div>
         <CMSList client:only />
     </div>
