@@ -13,7 +13,8 @@
   "stats": {},
   "has_logo": true,
   "categories": [
-    "CMS"
+    "CMS",
+    "Computer vision"
   ],
   "models": [
     {
