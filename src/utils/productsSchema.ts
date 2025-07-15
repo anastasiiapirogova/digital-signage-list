@@ -1,6 +1,6 @@
 import { z } from 'zod'
 
-const ProductCategorySchema = z.enum(['CMS', 'Content provider'])
+const ProductCategorySchema = z.enum(['CMS', 'Content provider', 'Computer vision'])
 
 const PricingSchema = z.object({
 	name: z.string(),
