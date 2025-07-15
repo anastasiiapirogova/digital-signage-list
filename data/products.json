@@ -3414,7 +3414,8 @@
     },
     "has_logo": true,
     "categories": [
-      "CMS"
+      "CMS",
+      "Computer vision"
     ],
     "models": [
       {
@@ -3462,7 +3463,8 @@
     "stats": {},
     "has_logo": true,
     "categories": [
-      "CMS"
+      "CMS",
+      "Computer vision"
     ],
     "models": [
       {
@@ -8070,7 +8072,8 @@
     "stats": {},
     "has_logo": true,
     "categories": [
-      "CMS"
+      "CMS",
+      "Computer vision"
     ],
     "models": [
       {
@@ -14956,6 +14959,37 @@
     "cms_properties": {
       "supported_platforms": [
         "Windows"
+      ]
+    }
+  },
+  {
+    "id": "signet",
+    "name": "Signet",
+    "description": "",
+    "website": "https://sign-net.app/",
+    "headquarters": "USA",
+    "open_source": true,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2025,
+    "notes": [],
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Web Browser"
       ]
     }
   },
