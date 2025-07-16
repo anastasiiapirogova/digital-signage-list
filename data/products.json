@@ -1466,6 +1466,74 @@
     }
   },
   {
+    "id": "bohemica-signage",
+    "name": "Bohemica Signage",
+    "description": "",
+    "website": "https://bohemicasignage.com/",
+    "headquarters": "Czechia",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2020,
+    "notes": [],
+    "stats": {
+      "screens": {
+        "total": 2000,
+        "source": "https://github.com/514sid/digital-signage-list/issues/42",
+        "date": "2025-07"
+      }
+    },
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "1 Screen",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 0,
+            "yearly": 0
+          },
+          {
+            "name": "2-9 Screens",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 10.3,
+            "yearly": null
+          },
+          {
+            "name": "10-19 Screens",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 9.14,
+            "yearly": null
+          },
+          {
+            "name": "20-49 Screens",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 7.99,
+            "yearly": null
+          }
+        ],
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": true
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Linux",
+        "Windows",
+        "Raspberry Pi"
+      ]
+    }
+  },
+  {
     "id": "brandtv",
     "name": "Brand TV",
     "description": "",
