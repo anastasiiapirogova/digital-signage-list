@@ -1898,6 +1898,43 @@
     }
   },
   {
+    "id": "butikstv",
+    "name": "ButiksTV",
+    "description": "",
+    "website": "https://centrumkanalen.com/mjukvara",
+    "headquarters": "Sweden",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2012,
+    "notes": [],
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "Starting price",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 10.4,
+            "yearly": null
+          }
+        ],
+        "free_trial": false,
+        "pricing_available": true,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": []
+    }
+  },
+  {
     "id": "canvaspro",
     "name": "CanvasPro",
     "description": "",
@@ -4399,6 +4436,41 @@
       "supported_platforms": [
         "Android",
         "Fire OS"
+      ]
+    }
+  },
+  {
+    "id": "dsplay",
+    "name": "DSplay",
+    "description": "",
+    "website": "https://www.cyberstream.gr/solutions/digital-signage#digital-signage-dsplay",
+    "headquarters": "Greece",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2010,
+    "notes": [],
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "webOS",
+        "Raspberry Pi",
+        "Windows",
+        "Android",
+        "Linux"
       ]
     }
   },
