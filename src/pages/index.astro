@@ -8,6 +8,7 @@ import { PlatformFilter } from "../components/PlatformFilter";
 import { FilterSync } from "../components/FilterSync";
 import Header from "../components/Header.astro";
 import { ResetFilters } from "../components/ResetFilters";
+import { SignupIsOpenFilter } from "../components/SignupIsOpenFilter";
 
 const seo = {
     title: "Digital signage software list",
@@ -24,6 +25,7 @@ const seo = {
             <Search client:only />
             <OpenSourceFilter client:only />
             <PlatformFilter client:only />
+            <SignupIsOpenFilter client:only />
         </div>
         <div class="flex flex-row gap-2 my-2">
             <ResetFilters client:only />

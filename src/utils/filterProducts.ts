@@ -29,6 +29,8 @@ export function filterProducts(products: Product[], filters: ProductFilters) {
 					product.cms_properties!.supported_platforms.includes(platform)
 				))
 
-		return categoryMatch && searchMatch && openSourceMatch && platformMatch
+		const signupIsOpenOnlyMatch = filters.signupIsOpenOnly ? product.self_signup === true : true
+
+		return categoryMatch && searchMatch && openSourceMatch && platformMatch && signupIsOpenOnlyMatch
 	})
 } 
