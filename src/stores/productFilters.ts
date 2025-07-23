@@ -7,6 +7,7 @@ export type ProductFilters = {
 	showOpenSource: boolean
 	showProprietary: boolean
 	selectedPlatforms: string[]
+	signupIsOpenOnly: boolean
 }
 
 export const productFilters = atom<ProductFilters>({
@@ -15,6 +16,7 @@ export const productFilters = atom<ProductFilters>({
 	showOpenSource: true,
 	showProprietary: true,
 	selectedPlatforms: [],
+	signupIsOpenOnly: false,
 })
 
 export const setCategoryFilter = (category: ProductCategory | null) => {
@@ -65,6 +67,13 @@ export const togglePlatform = (platform: string) => {
 	})
 }
 
+export const setSignupIsOpenOnly = (signupIsOpenOnly: boolean) => {
+	productFilters.set({
+		...productFilters.get(),
+		signupIsOpenOnly,
+	})
+}
+
 export const clearFilters = () => {
 	productFilters.set({
 		category: 'CMS',
@@ -72,5 +81,6 @@ export const clearFilters = () => {
 		showOpenSource: true,
 		showProprietary: true,
 		selectedPlatforms: [],
+		signupIsOpenOnly: false,
 	})
 } 
