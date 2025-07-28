@@ -9493,6 +9493,35 @@
     }
   },
   {
+    "id": "mcoms",
+    "name": "MCOMS",
+    "description": "",
+    "website": "https://mcoms.com/signage/",
+    "headquarters": "United Kingdom",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2017,
+    "notes": [],
+    "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": []
+    }
+  },
+  {
     "id": "media4display",
     "name": "Media4Display",
     "description": "",
@@ -12307,6 +12336,41 @@
     "year_founded": 2013,
     "notes": [],
     "stats": {},
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": []
+    }
+  },
+  {
+    "id": "progic",
+    "name": "Progic",
+    "description": "",
+    "website": "https://progic.com.br/en/digital-signage/",
+    "headquarters": "Brazil",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2008,
+    "notes": [],
+    "stats": {
+      "screens": {
+        "total": 7000,
+        "source": "https://progic.com.br/en/",
+        "date": "2025-07"
+      }
+    },
     "has_logo": true,
     "categories": [
       "CMS"
