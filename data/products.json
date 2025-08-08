@@ -670,6 +670,24 @@
     }
   },
   {
+    "id": "admobilize",
+    "name": "AdMobilize",
+    "description": "",
+    "website": "https://admobilize.com/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "admooh",
     "name": "Admooh",
     "description": "",
@@ -810,6 +828,24 @@
     }
   },
   {
+    "id": "advertima",
+    "name": "Advertima",
+    "description": "",
+    "website": "https://advertima.com/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "aem-screens",
     "name": "Experience Manager Screens",
     "description": "",
@@ -882,6 +918,24 @@
         "Web Browser"
       ]
     }
+  },
+  {
+    "id": "aitrios",
+    "name": "AITRIOS",
+    "description": "",
+    "website": "https://www.aitrios.sony-semicon.com/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
   },
   {
     "id": "alpha-digital",
@@ -1085,6 +1139,24 @@
         "Windows"
       ]
     }
+  },
+  {
+    "id": "aquaji",
+    "name": "Aquaji",
+    "description": "",
+    "website": "https://aquaji.com/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
   },
   {
     "id": "arreya",
@@ -2650,6 +2722,24 @@
     }
   },
   {
+    "id": "coatro",
+    "name": "COATRO",
+    "description": "",
+    "website": "https://www.meldcx.com/products/coatro",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "comeen",
     "name": "Comeen",
     "description": "",
@@ -3014,6 +3104,24 @@
     }
   },
   {
+    "id": "cyberlink-faceme",
+    "name": "FaceMe",
+    "description": "",
+    "website": "https://www.cyberlink.com/faceme",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "d-i-s-play",
     "name": "D.I.S.Play",
     "description": "",
@@ -3097,6 +3205,24 @@
         "Windows"
       ]
     }
+  },
+  {
+    "id": "datavisiooh",
+    "name": "Datavisiooh",
+    "description": "",
+    "website": "https://www.datavisiooh.com/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
   },
   {
     "id": "dcmcloud",
@@ -5733,6 +5859,24 @@
     }
   },
   {
+    "id": "flame",
+    "name": "Flame",
+    "description": "",
+    "website": "https://flameanalytics.com/en/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "flexitive",
     "name": "Flexitive",
     "description": "",
@@ -5772,6 +5916,24 @@
         "has_freemium": false
       }
     ]
+  },
+  {
+    "id": "footfallcam",
+    "name": "FootfallCam",
+    "description": "",
+    "website": "https://www.footfallcam.com/en/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
   },
   {
     "id": "foyer",
@@ -6313,6 +6475,24 @@
         "webOS"
       ]
     }
+  },
+  {
+    "id": "gorilla-video-analytics",
+    "name": "Gorilla Video Analytics",
+    "description": "",
+    "website": "https://www.gorilla-technology.com/technologies/video-analytics/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
   },
   {
     "id": "gotiger",
@@ -12773,6 +12953,24 @@
     }
   },
   {
+    "id": "quividi",
+    "name": "Quividi",
+    "description": "",
+    "website": "https://quividi.com",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "radix",
     "name": "Radix",
     "description": "",
@@ -17041,6 +17239,24 @@
     }
   },
   {
+    "id": "tcit",
+    "name": "TCIT",
+    "description": "",
+    "website": "https://tcit-tw.com/en/",
+    "headquarters": "Taiwan",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
+  },
+  {
     "id": "tdm-signage",
     "name": "TDM Signage",
     "description": "",
@@ -17096,6 +17312,24 @@
         "webOS"
       ]
     }
+  },
+  {
+    "id": "teleeye",
+    "name": "TeleEye",
+    "description": "",
+    "website": "https://www.teleeye.com/hk/index.php/en/",
+    "headquarters": null,
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": null,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "Computer vision"
+    ],
+    "models": [],
+    "cms_properties": null
   },
   {
     "id": "telefonica-tech",

@@ -8,7 +8,7 @@ import { filterProducts } from '../utils/filterProducts'
 export const CategoryFilter = () => {
 	const filters = useStore(productFilters)
 	
-	const allCategories: ProductCategory[] = ['CMS', 'Content provider']
+	const allCategories: ProductCategory[] = ['CMS', 'Content provider', 'Computer vision']
 
 	const categoryCounts = useMemo(() => {
 		return allCategories.reduce((acc, category) => {

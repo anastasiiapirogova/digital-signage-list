@@ -7,23 +7,23 @@ interface CommandStage {
 
 const commands: CommandStage[] = [
 	{
-		command: 'npx tsx automation/updatePlatforms.ts',
+		command: 'npx tsx scripts/updatePlatforms.ts',
 		description: 'Updating platform information'
 	},
 	{
-		command: 'npx tsx automation/generateLogos.ts',
+		command: 'npx tsx scripts/generateLogos.ts',
 		description: 'Generating WebP logos'
 	},
 	{
-		command: 'npx tsx automation/mergeProducts.ts',
+		command: 'npx tsx scripts/mergeProducts.ts',
 		description: 'Merging product data'
 	},
 	{
-		command: 'npx tsx automation/generateReadmeProductList.ts',
+		command: 'npx tsx scripts/generateReadmeProductList.ts',
 		description: 'Generating README product list'
 	},
 	{
-		command: 'npx tsx automation/generateChartsData.ts',
+		command: 'npx tsx scripts/generateChartsData.ts',
 		description: 'Generating charts data'
 	}
 ]

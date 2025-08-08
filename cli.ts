@@ -2,8 +2,9 @@
 import { spawn } from 'child_process'
 
 const commands: Record<string, string> = {
-	'build': 'automation/run.ts',
-	'add': 'automation/newProduct.ts',
+	'build': 'scripts/build.ts',
+	'add': 'scripts/newProduct.ts',
+	'check': 'scripts/check.ts',
 }
 
 function printHelp(): void {
