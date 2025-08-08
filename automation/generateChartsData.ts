@@ -33,8 +33,6 @@ const productsFoundedByYearOutputFilePath = join(__dirname, '../data/charts/prod
 
 writeFileSync(productsFoundedByYearOutputFilePath, JSON.stringify(productsFoundedByYear, null, 2), 'utf-8')
 
-console.log('Products founded by year has been generated')
-
 function getProductsByHeadquarters(products: Product[]): Record<string, number> {
 	const counts = products.reduce((acc, product) => {
 		const headquarters = product.headquarters
@@ -68,8 +66,6 @@ const productsByHeadquartersOutputFilePath = join(__dirname, '../data/charts/pro
 
 writeFileSync(productsByHeadquartersOutputFilePath, JSON.stringify(productsByHeadquarters, null, 2), 'utf-8')
 
-console.log('Products by headquarters has been generated')
-
 function getProductsBySupportedPlatforms(products: Product[]): Record<string, number> {
 	const platformCounts = products.reduce((acc, product) => {
 		const platforms = product.cms_properties?.supported_platforms || []
@@ -94,5 +90,3 @@ const productsBySupportedPlatforms = getProductsBySupportedPlatforms(products)
 const productsBySupportedPlatformsOutputFilePath = join(__dirname, '../data/charts/productsBySupportedPlatforms.json')
 
 writeFileSync(productsBySupportedPlatformsOutputFilePath, JSON.stringify(productsBySupportedPlatforms, null, 2), 'utf-8')
-
-console.log('Products by supported platforms has been generated') 

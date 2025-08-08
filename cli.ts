@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 import { spawn } from 'child_process'
 
-const commands = {
-	'build': 'automation/run.js',
-	'add': 'automation/newProduct.js',
+const commands: Record<string, string> = {
+	'build': 'automation/run.ts',
+	'add': 'automation/newProduct.ts',
 }
 
-function printHelp() {
+function printHelp(): void {
 	console.log('Usage: npx signagelist <command>\n\nAvailable commands:')
 	for (const cmd of Object.keys(commands)) {
 		console.log(`  ${cmd}`)
@@ -26,5 +26,5 @@ if (!commands[cmd]) {
 	process.exit(1)
 }
 
-const child = spawn('node', [commands[cmd], ...args], { stdio: 'inherit' })
-child.on('exit', code => process.exit(code)) 
+const child = spawn('npx', ['tsx', commands[cmd], ...args], { stdio: 'inherit' })
+child.on('exit', (code: number | null) => process.exit(code ?? 0)) 
