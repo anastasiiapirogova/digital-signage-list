@@ -14,11 +14,12 @@
   "discontinued": false,
   "cms_properties": {
     "supported_platforms": [
-      "webOS",
+      "Android",
+      "Fire OS",
+      "Linux",
       "Raspberry Pi",
       "Windows",
-      "Android",
-      "Linux"
+      "webOS"
     ]
   },
   "models": [

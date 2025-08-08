@@ -15,8 +15,8 @@
   "cms_properties": {
     "supported_platforms": [
       "Linux",
-      "Windows",
-      "Raspberry Pi"
+      "Raspberry Pi",
+      "Windows"
     ]
   },
   "models": [
