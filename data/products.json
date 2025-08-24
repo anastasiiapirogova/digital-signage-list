@@ -11624,6 +11624,38 @@
     }
   },
   {
+    "id": "onq-cms",
+    "name": "onQ CMS",
+    "description": "",
+    "website": "https://www.onqdigitalgroup.com.au/services/digital-signage-software",
+    "headquarters": "Australia",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2012,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "Windows"
+      ]
+    }
+  },
+  {
     "id": "onsign-tv",
     "name": "OnSign TV",
     "description": "",
@@ -11807,6 +11839,41 @@
         "tvOS",
         "webOS"
       ]
+    }
+  },
+  {
+    "id": "oscart",
+    "name": "Oscart",
+    "description": "",
+    "website": "https://www.oscart.eu/cloud-software/",
+    "headquarters": "Belgium",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2015,
+    "notes": [],
+    "stats": {
+      "screens": {
+        "total": 12253,
+        "source": "https://www.oscart.eu/en/referenties/",
+        "date": "2025-08"
+      }
+    },
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": []
     }
   },
   {
