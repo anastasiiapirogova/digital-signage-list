@@ -26,7 +26,7 @@ readdir(productsDir, (err, files) => {
 
 			const result = ProductSchema.safeParse(json)
 			if (!result.success) {
-				console.error(`Validation error in file ${file}:`, result.error.errors)
+				console.error(`Validation error in file ${file}:`, result.error.issues)
 				process.exit(1)
 			}
 			allProducts.push(result.data)
