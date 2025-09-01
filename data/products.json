@@ -2045,6 +2045,56 @@
     }
   },
   {
+    "id": "buzzblender",
+    "name": "BuzzBlender",
+    "description": "",
+    "website": "https://buzzblender.com/",
+    "headquarters": "UAE",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2024,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "Basic",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 8,
+            "yearly": null
+          },
+          {
+            "name": "Premium",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 10,
+            "yearly": null
+          }
+        ],
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": true
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "Tizen",
+        "Web Browser",
+        "Windows",
+        "webOS"
+      ]
+    }
+  },
+  {
     "id": "canvaspro",
     "name": "CanvasPro",
     "description": "",
@@ -3537,6 +3587,38 @@
     }
   },
   {
+    "id": "digitalsigns.ai",
+    "name": "DigitalSigns.ai",
+    "description": "",
+    "website": "https://digitalsigns.ai/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2024,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": true
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "Web Browser"
+      ]
+    }
+  },
+  {
     "id": "directable",
     "name": "Directable",
     "description": "",
@@ -4714,6 +4796,54 @@
     ],
     "cms_properties": {
       "supported_platforms": []
+    }
+  },
+  {
+    "id": "dydomite",
+    "name": "Dydomite",
+    "description": "",
+    "website": "https://www.dydomite.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2025,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "Free: 3 displays",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 0,
+            "yearly": 0
+          },
+          {
+            "name": "Pro",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 19,
+            "yearly": 180
+          }
+        ],
+        "free_trial": false,
+        "pricing_available": true,
+        "has_freemium": true
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Brightsign",
+        "Linux",
+        "Windows",
+        "macOS"
+      ]
     }
   },
   {
