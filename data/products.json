@@ -12434,6 +12434,26 @@
     }
   },
   {
+    "id": "platplay",
+    "name": "PlatPlay",
+    "description": "",
+    "website": "https://platplay.com/",
+    "headquarters": "Turkey",
+    "open_source": false,
+    "self_signup": false,
+    "discontinued": false,
+    "year_founded": 2014,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [],
+    "cms_properties": {
+      "supported_platforms": []
+    }
+  },
+  {
     "id": "playengo",
     "name": "Playengo",
     "description": "",
