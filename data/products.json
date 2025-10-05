@@ -459,6 +459,45 @@
     }
   },
   {
+    "id": "adcast",
+    "name": "AdCast",
+    "description": "",
+    "website": "https://adcast.app/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2024,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "1 Device",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 12.99,
+            "yearly": 129.99
+          }
+        ],
+        "free_trial": false,
+        "pricing_available": true,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS"
+      ]
+    }
+  },
+  {
     "id": "addreality",
     "name": "Addreality",
     "description": "",
